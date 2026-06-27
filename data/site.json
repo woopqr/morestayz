@@ -1,0 +1,13 @@
+{
+  "domain": "morestayz.com",
+  "_domain_note": "도메인 확정 시 이 한 줄만 교체(morestayz.com / morestayz.com). canonical·sitemap·OG가 전부 이 값을 참조함.",
+  "name": "morestayz",
+  "tagline": "계절·월·기념일에 앞서, 데이터로 고르는 여행 숙소",
+  "description": "다가오는 계절·연휴에 맞춰 아고다 실제 리뷰 데이터를 분석해 연인·가족·혼행 여행자별로 어울리는 가성비 숙소를 미리 큐레이션합니다.",
+  "lang": "ko",
+  "locale": "ko_KR",
+  "adsense": "ca-pub-9152627772468202",
+  "adsTxt": "google.com, pub-9152627772468202, DIRECT, f08c47fec0942fa0",
+  "publisher": "morestayz",
+  "contactEmail": "woopqr@gmail.com"
+}

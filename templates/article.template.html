@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{title}} | {{site.name}}</title>
+<meta name="description" content="{{metaDescription}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{metaDescription}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:image" content="{{ogImage}}">
+<meta property="og:site_name" content="{{site.name}}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<script>(function(){try{var t=localStorage.getItem('mz-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/assets/css/article.css">
+<script type="application/ld+json">{{{jsonld}}}</script>
+</head>
+<body>
+<button id="themeToggle" class="theme-toggle" aria-label="다크/라이트 전환" onclick="__mzToggle()">
+  <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+</button>
+
+<article class="post">
+  <a class="backbar" href="/">← {{site.name}} 홈</a>
+
+  <!-- 매거진 히어로 -->
+  <div class="hero">
+    <img src="{{heroImg}}" alt="{{heroAlt}}">
+    <div class="cap">
+      <div class="kicker"><span class="tag">{{emoji}} {{audience}}</span>{{#season}}<span class="ssn">{{season}}</span>{{/season}}<span class="mon">{{travelMonthLabel}} 여행 준비</span></div>
+      <h1>{{title}}</h1>
+      <p class="lede">{{intro}}</p>
+    </div>
+  </div>
+
+  <div class="callout verdict"><b>한 줄 결론</b> · {{{verdict}}}</div>
+
+  {{#seasonNote}}<p class="ssnnote">🗓️ {{travelMonthLabel}} · {{season}} 팁: {{seasonNote}}</p>{{/seasonNote}}
+
+  <!-- 데이터: 여행자 유형 분포 -->
+  {{#hasAggregate}}
+  <section class="databox">
+    <h2>📊 이 숙소들은 어떤 여행자에게 인기일까</h2>
+    <p class="dsub">{{city}} {{audience}}로 고른 숙소들의 실제 리뷰를 여행자 유형별로 집계했습니다. (성별이 아닌, 아고다가 제공하는 동행 유형 기준)</p>
+    {{{aggregateChartHtml}}}
+  </section>
+  {{/hasAggregate}}
+
+  <!-- 호텔 에디토리얼 카드 -->
+  <h2 class="sechd">🏨 {{audience}}에 어울리는 숙소 {{travelMonthLabel}} 추천</h2>
+  {{#hotels}}
+  <section class="hotel">
+    <div class="ph">
+      <img src="{{img}}" alt="{{name}}">
+      <span class="chip">{{priceText}}</span>
+      <div class="cap">
+        <span class="rk {{rankClass}}">{{rankBadge}}</span>
+        <span class="nm">{{name}}</span>
+        <span class="sc">★ {{score}} · {{reviewCountFmt}}</span>
+      </div>
+    </div>
+    <div class="bd">
+      <p class="blurb">{{blurb}}</p>
+      <div class="meta">{{#metaTags}}<span>{{.}}</span>{{/metaTags}}</div>
+      {{#hasTypes}}{{{typeBarsHtml}}}{{/hasTypes}}
+      {{#hasReviews}}
+      <div class="reviews">
+        {{#reviews}}<div class="rv"><div class="rvsc">{{score}}</div><div class="rvc"><p class="q">“{{text}}”</p><div class="rvf">{{country}}{{#date}} · {{date}}{{/date}}{{#translated}} <span class="rv-tr">번역</span>{{/translated}}</div></div></div>{{/reviews}}
+        <a class="rv-more" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">이 숙소 실제 리뷰 더보기 →</a>
+      </div>
+      {{/hasReviews}}
+      <div class="cta"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 {{travelMonthLabel}} 날짜로 최저가 보기 →</a></div>
+    </div>
+  </section>
+  {{/hotels}}
+
+  <div class="callout basis">
+    <p class="bt">🔎 어떻게 골랐나</p>
+    <p>{{audience}} 투숙객 리뷰 비중과 평점이 높은 숙소를 우선 선별하고, 가격 대비 만족도(가성비)로 보정했습니다. 평점은 아고다 실제 투숙객 리뷰 기준이며 리뷰 수가 적은 숙소는 베이지안 보정을 적용합니다. 여행자 유형 분포는 리뷰의 동행 유형 태그를 집계한 것으로, 성별 정보는 사용하지 않습니다. 가격·여유는 수집 시점({{travelMonthLabel}} 기준 조회) 값이며 실시간 가격은 예약창에서 확인하세요.</p>
+  </div>
+
+  <div class="outro">
+    <h2>🌙 {{city}}, {{travelMonthLabel}} 여행이라면</h2>
+    <p>위 숙소들은 {{audience}} 관점에서 데이터로 검증한 곳입니다. 날짜가 정해졌다면 아고다에서 {{city}} 전체 숙소를 한 번에 비교해보세요.</p>
+    <a class="bigcta" href="{{cityUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 {{city}} 전체 숙소 최저가 검색</a>
+  </div>
+
+  <p class="disc">이 글에는 아고다 제휴 링크가 포함되어 있습니다. 링크를 통해 예약 시 운영자가 수수료를 받을 수 있으며, 이용자에게 추가 비용은 없습니다. 숙소 선택·평가는 실제 데이터에 근거해 독립적으로 작성했습니다.</p>
+
+  <nav class="pagenav">
+    <a href="/">← 다른 여행 큐레이션 보기</a>
+    <span><a href="/pages/about.html">소개</a> · <a href="/pages/privacy.html">개인정보처리방침</a> · <a href="/pages/contact.html">문의</a></span>
+  </nav>
+</article>
+
+<script>function __mzToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('mz-theme',next);}catch(e){}}</script>
+</body>
+</html>

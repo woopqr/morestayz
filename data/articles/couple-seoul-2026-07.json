@@ -1,0 +1,527 @@
+{
+  "slug": "couple-seoul-2026-07",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "서울",
+  "citySlug": "seoul",
+  "cityId": 14690,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14690",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 7월",
+  "title": "[연인여행] 서울 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "서울 연인여행, 2026년 7월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 70%로 연인여행 기준 1순위는 <b>네스토 홍대</b>입니다 (평점 9.3·리뷰 447건·1박 약 5만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 70
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/85156358/0/0440d2cd7bc3f6e835dbf2612c150380.jpg?ce=3",
+  "heroAlt": "서울 연인여행",
+  "updated": "2026-06-29",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "네스토 홍대 (Nesto Hongdae)",
+      "agodaUrl": "https://www.agoda.com/hotel-nesto-hongdae/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/85156358/0/0440d2cd7bc3f6e835dbf2612c150380.jpg?ce=3",
+      "score": 9.3,
+      "reviewCount": 447,
+      "reviewCountFmt": "447건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 3,
+      "refLabel": "신촌역",
+      "star": 2,
+      "blurb": "평점 9.3 · 리뷰 447건. 신촌역 도보 3분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 447건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "홍대에서의 숙박을 확실히 100% 추천합니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "위치는 신촌역 4번출구에서 도보 4분거리입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 너무 깨끗하고 넓으며 시끄럽지 않습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "신촌 지하철 근처의 훌륭한 숙소",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "다음에 다시 이곳을 추천하고 묵을 예정입니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "토요코인 서울 영등포 (Toyoko Inn Seoul Yeongdeungpo)",
+      "agodaUrl": "https://www.agoda.com/toyoko-inn-seoul-yeongdeungpo/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10571351/-1/2e505a3d311c4a61ddb1d5d5b7693392.png?ce=0",
+      "score": 8.6,
+      "reviewCount": 11126,
+      "reviewCountFmt": "11,126건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 2,
+      "refLabel": "신길역",
+      "star": 2,
+      "blurb": "평점 8.6 · 리뷰 11,126건. 신길역 도보 2분, ₩₩ · 약 9만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 11,126건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 서비스와 깨끗한 객실, 훌륭한 시설.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "위치, 시설, 조식 다 좋아요!",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "그들의 아침 식사는 매우 훌륭하고 다양한 음식 선택이 가능합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 최고의 위치와 함께 탁월한 가치를 제공합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "다음에 이 도시를 방문할 때 다시 예약하겠습니다.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "강남 더 호텔 1997 (Gangnam The Hotel 1997)",
+      "agodaUrl": "https://www.agoda.com/hotel-seattle-gangnam_2/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/75162788/0/12926b5a1723f271cc884a1fea69a02b.jpg?ce=2",
+      "score": 8.4,
+      "reviewCount": 278,
+      "reviewCountFmt": "278건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 4,
+      "refLabel": "강남역",
+      "star": null,
+      "blurb": "평점 8.4 · 리뷰 278건. 강남역 도보 4분, ₩₩ · 약 10만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 278건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 강남에 있어서 매우 편리합니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "버스정류장과 지하철역이 가까워 이동이 편리합니다.",
+          "score": "8",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 접근하기 쉽고 도움이 됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "위치가 정말 좋고, 매우 현대적이고 깨끗합니다.",
+          "score": "8.8",
+          "country": "Ireland",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "나에게 서울 최고의 호텔",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "UH 플랫 더 서초 (UH FLAT THE SEOCHO)",
+      "agodaUrl": "https://www.agoda.com/uh-flat-the-seocho/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42012024/0/3152d7d89e3f0d0001e5d0be50bd7567.png?ce=3",
+      "score": 8.7,
+      "reviewCount": 5828,
+      "reviewCountFmt": "5,828건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 5,
+      "refLabel": "남부터미널역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 5,828건. 남부터미널역 도보 5분, ₩₩ · 약 16만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 5,828건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "스위트룸으로 업그레이드 되어 안마의자를 즐겼습니다 😋!",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "시설도 최고급이라 너무 편안하게 지냈습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 정말 즐거운 시간을 보냈으며 매우 잘 보살핌을 받는 느낌을 받았습니다.",
+          "score": "9.6",
+          "country": "ישראל",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절했고, 방도 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "객실에 세탁기와 스타일러가 있는 점도 마음에 듭니다.",
+          "score": "10",
+          "country": "미국",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "로컬스티치 크리에이터타운 서교 (Local Stitch Creator Town Seogyo)",
+      "agodaUrl": "https://www.agoda.com/localstitch-seogyo-town/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/89011150/0/add72b0063c487fec7d3da83e5f6114e.jpg?ce=3",
+      "score": 8.1,
+      "reviewCount": 2791,
+      "reviewCountFmt": "2,791건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 7,
+      "refLabel": "망원역",
+      "star": 3,
+      "blurb": "평점 8.1 · 리뷰 2,791건. 망원역 도보 7분, ₩₩ · 약 11만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 2,791건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "연중무휴 24시간 셀프 세탁 서비스, 체육관 및 공용 주방.",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "직원들은 정중하고 친절하며 영어를 잘 구사합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "서울 로컬스티치에서의 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "이 호텔의 가장 좋은 점은 위치입니다.",
+          "score": "9.2",
+          "country": "Bangladesh",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "나는 그것을 충분히 추천할 수 없으며 매우 좋은 가치였습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "한옥 호텔 담 서울 (Hanok Hotel Daam)",
+      "agodaUrl": "https://www.agoda.com/jongno-aubeson-h10577062/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51931909/-1/ed8ed8265924c6c2a361cb875763ac68.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 2162,
+      "reviewCountFmt": "2,162건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 5,
+      "refLabel": "안국역",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 2,162건. 안국역 도보 5분, ₩ · 약 7만원. 연인 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,162건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "시설이 너무 훌륭하고 직원들도 친절하고 도움이 많이 됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 깨끗했고, 훌륭한 편의 시설을 제공했습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리가 서울에 있을 때 머무는 유일한 호텔이 될 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에 머무는 것은 정말 마법 같은 경험이었습니다.",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "한국에 돌아가면 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Portugal",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-29T22:06:48.883Z",
+    "source": "agoda citySearch",
+    "daysAhead": 16,
+    "targetMonth": "2026-07",
+    "count": 6
+  }
+}

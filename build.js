@@ -127,6 +127,7 @@ function buildContext(data) {
 function buildOne(slug) {
   const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/articles', slug + '.json'), 'utf8'));
   const html = render(TPL, [buildContext(data)]);
+  fs.mkdirSync(path.join(ROOT, 'articles'), { recursive: true });
   fs.writeFileSync(path.join(ROOT, 'articles', slug + '.html'), html);
   console.log('✓ articles/' + slug + '.html (' + data.hotels.length + '곳)');
 }

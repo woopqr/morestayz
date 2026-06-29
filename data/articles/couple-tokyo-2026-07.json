@@ -1,0 +1,521 @@
+{
+  "slug": "couple-tokyo-2026-07",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 7월",
+  "title": "[연인여행] 도쿄 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "도쿄 연인여행, 2026년 7월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 77%로 연인여행 기준 1순위는 <b>신주쿠 워싱턴 호텔 - 본관</b>입니다 (평점 8·리뷰 48,468건·1박 약 14만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/456/45606/45606_14071817330020347541.jpg?ca=2&ce=1",
+  "heroAlt": "도쿄 연인여행",
+  "updated": "2026-06-29",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "신주쿠 워싱턴 호텔 - 본관 (Shinjuku Washington Hotel - Main Building)",
+      "agodaUrl": "https://www.agoda.com/shinjuku-washington-hotel-main-building/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/456/45606/45606_14071817330020347541.jpg?ca=2&ce=1",
+      "score": 8,
+      "reviewCount": 48468,
+      "reviewCountFmt": "48,468건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 2,
+      "refLabel": "Toei Subway",
+      "star": 4,
+      "blurb": "평점 8 · 리뷰 48,468건. Toei Subway 도보 2분, ₩₩ · 약 14만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 48,468건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 호텔의 가장 좋은 점은 위치였습니다.",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "신주쿠에서의 활동에 매우 편리합니다.",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 우리의 숙박을 기억에 남을 수 있도록 최선을 다했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "1층에는 셀프 서비스 세탁실이 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절했고 숙박 기간 내내 도움이 되었습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 빌라 폰테누 그랜드 하네다 에어포트 (Hotel Villa Fontaine Grand Haneda Airport)",
+      "agodaUrl": "https://www.agoda.com/hotel-villa-fontaine-grand-haneda-airport/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10953850/0/5315ce851b58989a3b84ef9aaa23cf80.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 67592,
+      "reviewCountFmt": "67,592건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 3,
+      "refLabel": "하네다공항 제3터미널역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 67,592건. 하네다공항 제3터미널역 도보 3분, ₩₩ · 약 18만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 67,592건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 모든 편의시설을 갖추고 있어 좋고 편안했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "시설은 깨끗하고 조용하며 아름답게 디자인되었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안하며 출발 터미널까지 도보로 2분 거리입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "하룻밤을 머물기에 완벽한 장소입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 오전 1시에도 체크인을 훌륭하게 도와주었습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "아키하바라 워싱톤 호텔 (Akihabara Washington Hotel)",
+      "agodaUrl": "https://www.agoda.com/akihabara-washington-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/514/51488/51488_16031712220040834685.jpg?ca=6&ce=1",
+      "score": 8.8,
+      "reviewCount": 11035,
+      "reviewCountFmt": "11,035건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 2,
+      "refLabel": "아키하바라역",
+      "star": 3.5,
+      "blurb": "평점 8.8 · 리뷰 11,035건. 아키하바라역 도보 2분, ₩₩ · 약 16만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 11,035건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 예외적이고 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "역 출구에서도 보일 정도로 가깝습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 도쿄를 방문할 때마다 항상 이 호텔을 선택합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "호텔의 위치는 우리에게 매우 편리합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "나는 불만이 없으며 꼭 다시 여기에 머물 것입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "렘 롯폰기 (remm Roppongi)",
+      "agodaUrl": "https://www.agoda.com/remm-roppongi/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/134/1342248/1342248_17080919290055267031.jpg?ca=6&ce=1",
+      "score": 8.7,
+      "reviewCount": 22233,
+      "reviewCountFmt": "22,233건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 1,
+      "refLabel": "롯폰기역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 22,233건. 롯폰기역 도보 1분, ₩₩ · 약 15만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 22,233건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실 내 마사지 의자를 포함한 훌륭한 객실 숙박 시설.",
+          "score": "8",
+          "country": "Japan",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "REM은 우리의 편안한 숙박을 위해 세세한 부분까지 생각하고,",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "시설은 전반적으로 깨끗하고 제 방도 깨끗합니다.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "방은 우리의 요구에 완벽했고 마사지 의자가 있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "기차역과 가깝고 근처에 관광명소가 많습니다.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "APA 호텔 게이세이 우에노-에키마에 (APA Hotel Keisei Ueno-Ekimae)",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-keisei-ueno-ekimae/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/114/1145700/1145700_16071316360044648320.jpg?ca=6&ce=1",
+      "score": 8.4,
+      "reviewCount": 21756,
+      "reviewCountFmt": "21,756건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 5,
+      "refLabel": "우에노히로코지역",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 21,756건. 우에노히로코지역 도보 5분, ₩₩ · 약 12만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 21,756건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "공원과 모든 레스토랑도 가깝습니다.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "위치가 매우 편리하고 이동 시간이 많이 절약됩니다.",
+          "score": "8.8",
+          "country": "新加坡",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우에노역 근처 호텔의 위치는 정말 환상적이었습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "일본에 머무는 동안 APA 호텔은 우리가 가장 좋아하는 호텔입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 매우 조용한 밤을 보내기 위해 공원 쪽 방을 선택했습니다.",
+          "score": "8.8",
+          "country": "Sverige",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "소테츠 프레사인 하마마츠초 다이몬 (Sotetsu Fresa Inn Hamamatsucho Daimon)",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-hamamatsucho-daimon/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/285/285712/285712_14032709570018873388.jpg?ca=2&ce=1",
+      "score": 8.2,
+      "reviewCount": 11206,
+      "reviewCountFmt": "11,206건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 4,
+      "refLabel": "다이몬역",
+      "star": 3.5,
+      "blurb": "평점 8.2 · 리뷰 11,206건. 다이몬역 도보 4분, ₩₩ · 약 13만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 11,206건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "시설도 너무 깨끗하고 직원들도 너무 친절했어요.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "아침 조식은 호텔 요금에 포함되어 있었는데 좋았습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "주요 관광지까지 걸어서 갈 수 있는 거리에 있었고,",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "다양한 위치로 걸어갈 수 있어 위치가 매우 좋습니다.",
+          "score": "10",
+          "country": "Guam",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "Sotetsu Fresa Inn Hamamatsucho Daimon에서 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-29T06:20:29.698Z",
+    "source": "agoda citySearch",
+    "daysAhead": 17,
+    "targetMonth": "2026-07",
+    "count": 6
+  }
+}

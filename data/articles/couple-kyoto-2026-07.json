@@ -1,0 +1,460 @@
+{
+  "slug": "couple-kyoto-2026-07",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "교토",
+  "citySlug": "kyoto",
+  "cityId": 1784,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=1784",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 7월",
+  "title": "[연인여행] 교토 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "교토 연인여행, 2026년 7월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 100%로 연인여행 기준 1순위는 <b>REF Kyoto Hachijoguchi BY VESSEL HOTELS</b>입니다 (평점 8.8·리뷰 2,079건·1박 약 10만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/16210564/0/8237b6301c8f966f1ad5779a30587072.jpg?ca=20&ce=0",
+  "heroAlt": "교토 연인여행",
+  "updated": "2026-06-29",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "REF Kyoto Hachijoguchi BY VESSEL HOTELS",
+      "agodaUrl": "https://www.agoda.com/ref-kyoto-hachijoguchi-by-vessel-hotels/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/16210564/0/8237b6301c8f966f1ad5779a30587072.jpg?ca=20&ce=0",
+      "score": 8.8,
+      "reviewCount": 2079,
+      "reviewCountFmt": "2,079건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 2,
+      "refLabel": "교토역 하치조구치 버스 정류장",
+      "star": 4,
+      "blurb": "평점 8.8 · 리뷰 2,079건. 교토역 하치조구치 버스 정류장 도보 2분, ₩₩ · 약 10만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 2,079건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 영어를 조금 할 줄 알며 친절하고 도움이 됩니다.",
+          "score": "10",
+          "country": "USA",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "교토역 근처의 좋은 위치에 있는 훌륭한 호텔!",
+          "score": "10",
+          "country": "България",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "2박을 묵었는데 직원들이 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 호텔에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "REF를 다른 사람들에게 적극 추천하고 다시 방문할 의향이 있습니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 엘시엔트 교토 하치조구치 (Hotel Elcient Kyoto Hachijoguchi)",
+      "agodaUrl": "https://www.agoda.com/hotel-elcient-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2996868/-1/b9c9c1d2159a64f3824ea7bfccf65fa9.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 13605,
+      "reviewCountFmt": "13,605건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 4,
+      "refLabel": "교토역 하치조구치 버스 정류장",
+      "star": 4,
+      "blurb": "평점 8.8 · 리뷰 13,605건. 교토역 하치조구치 버스 정류장 도보 4분, ₩₩ · 약 10만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 13,605건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "로비에는 다양한 세면도구가 마련되어 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "근처에 역, 쇼핑몰, 식당이 있어 매우 편리합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "호텔은 특히 교토역과 가까워 찾기 쉽습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 우리는 즐거운 숙박을 했고 가격 대비 좋은 가치를 느꼈습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "방도 크고 시설도 너무 좋았어요!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "APA 호텔 교토-에키-호리카와도리 (APA Hotel Kyoto-Eki-Horikawadori)",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-kyoto-eki-horikawadori/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/240282/-1/7315bdef42ce90778f0e14cb03d57008.jpg?ce=0",
+      "score": 8.1,
+      "reviewCount": 9347,
+      "reviewCountFmt": "9,347건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 6,
+      "refLabel": "Kyoto City Subway",
+      "star": 3.5,
+      "blurb": "평점 8.1 · 리뷰 9,347건. Kyoto City Subway 도보 6분, ₩₩ · 약 9만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 9,347건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "수건, 침구 베개 및 침대 자체는 깨끗한 흰색입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "욕실에 필요한 물품, 커피와 차가 준비되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "내가 예약하고 머물렀던 최고의 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 교토의 모든 것의 중심에 있을 뿐만 아니라,",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "하지만 직원은 이 식당의 심장이자 영혼입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "와카 교토 가와라마치 호텔 (Waka Kyoto Kawaramachi Hotel)",
+      "agodaUrl": "https://www.agoda.com/floral-hotel-kyoto-kawaramachi/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/40108894/0/da972a68b61a4b4dd8b8174d0211729c.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 2412,
+      "reviewCountFmt": "2,412건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "가와라마치역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 2,412건. 가와라마치역 도보 4분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 2,412건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "쇼핑센터, 관광지와 쉽게 연결",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절했고 영어도 유창하게 구사했습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "도시의 아름다움을 탐색할 수 있는 최고의 위치",
+          "score": "8",
+          "country": "台灣",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치에 있는 심플하고 사랑스러운 저렴한 호텔입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 음식 거리까지 걸어서 쉽게 갈 수 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "사쿠라 테라스 더 갤러리 -성인 전용- (Sakura Terrace The Gallery -Adult Only-)",
+      "agodaUrl": "https://www.agoda.com/sakura-terrace-the-gallery/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/867655/-1/bbf19fe5fd83ba913e814dd2f40d9240.jpg?ca=22&ce=0",
+      "score": 8.9,
+      "reviewCount": 24622,
+      "reviewCountFmt": "24,622건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 2,
+      "refLabel": "교토역 하치조구치 버스 정류장",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 24,622건. 교토역 하치조구치 버스 정류장 도보 2분, ₩₩ · 약 14만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 24,622건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 충분히 깨끗하고 직원들은 매우 친절하고 관대합니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "교토역과 가까워서 위치가 딱 좋아요",
+          "score": "10",
+          "country": "Israel",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "라운지에서 매일 밤 무료 칵테일을 마시는 것은 정말 멋진 경험입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "아름답게 디자인된 호텔에서 정말 즐거운 숙박을 즐기실 수 있습니다.",
+          "score": "9.2",
+          "country": "Germany",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "좋은 아침 식사와 무료 음료가 제공되는 깨끗한 장소.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Mitsui Garden Hotel Kyoto Kawaramachi Jokyoji",
+      "agodaUrl": "https://www.agoda.com/mitsui-garden-hotel-kyoto-kawaramachi-jokyoji/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/15960079/0/318b099d8eddda568c4fad82e30b1856.jpg?ce=2",
+      "score": 9.1,
+      "reviewCount": 3489,
+      "reviewCountFmt": "3,489건",
+      "priceText": "₩₩₩ · 약 29만원",
+      "walkMin": 2,
+      "refLabel": "가와라마치역",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 3,489건. 가와라마치역 도보 2분, ₩₩₩ · 약 29만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 3,489건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 친절했고 숙박 기간 내내 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "아마도 내가 시작한 호텔 중 가장 훌륭한 호텔일 것이다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "간사이에 있을 때마다 이곳이 우리의 주요 호텔이 될 것입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "이것은 우리가 일본에서 머물렀던 최고의 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "교토에 오면 꼭 이 호텔에 머물고 싶습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-29T06:20:47.255Z",
+    "source": "agoda citySearch",
+    "daysAhead": 17,
+    "targetMonth": "2026-07",
+    "count": 6
+  }
+}

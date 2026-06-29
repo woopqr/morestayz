@@ -34,14 +34,14 @@ a{color:var(--accent-d);text-decoration:none}
 .hero .lede{margin-top:10px;color:#efe9da;font-size:.95rem;line-height:1.62;max-width:60ch;
   display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 
-/* 콜아웃 */
-.callout{border-radius:14px;padding:16px 18px;margin:22px 0;font-size:.97rem}
-.callout.verdict{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);box-shadow:var(--shadow)}
-.callout.verdict b{color:var(--accent-d)}
-.callout.verdict :is(b){background:linear-gradient(transparent 62%,rgba(111,143,103,.28) 0)}
-.callout.basis{background:var(--chip);color:var(--muted);font-size:.9rem;line-height:1.66}
-.callout.basis .bt{font-family:var(--serif);font-weight:800;color:var(--text);font-size:1.02rem;margin-bottom:6px}
-.ssnnote{background:var(--chip);border-radius:10px;padding:11px 14px;color:var(--muted);font-size:.9rem;margin:14px 0}
+/* 콜아웃 — 모던/트렌디(둥근 소프트 틴트 박스) */
+.callout{border-radius:18px;padding:18px 20px;margin:26px 0;font-size:1rem;line-height:1.65}
+.callout.verdict{background:linear-gradient(135deg,rgba(111,143,103,.14),rgba(192,113,78,.08));border:1px solid rgba(111,143,103,.20);box-shadow:none;color:var(--text)}
+.callout.verdict .vlabel{display:inline-block;background:var(--accent);color:#fff;font-family:var(--sans);font-size:.7rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:4px 11px;border-radius:999px;margin-right:10px;vertical-align:2px}
+.callout.verdict b{display:inline-block;background:var(--accent);color:#fff;font-family:var(--sans);font-size:.7rem;font-weight:800;letter-spacing:.06em;padding:4px 11px;border-radius:999px;margin-right:8px;vertical-align:2px}
+.callout.basis{background:var(--chip);border:1px solid var(--line);border-radius:18px;color:var(--muted);font-size:.92rem;line-height:1.68}
+.callout.basis .bt{font-family:var(--serif);font-weight:800;color:var(--text);font-size:1.04rem;margin-bottom:6px}
+.ssnnote{display:flex;gap:8px;align-items:flex-start;background:rgba(111,143,103,.10);border-radius:14px;padding:12px 15px;color:var(--text);font-size:.92rem;margin:16px 0;line-height:1.6}
 
 h2{font-family:var(--serif);font-weight:800;font-size:1.3rem;letter-spacing:-.01em;margin:34px 0 6px}
 .sechd{margin-top:40px}

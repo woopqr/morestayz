@@ -1,0 +1,514 @@
+{
+  "slug": "couple-bangkok-2026-07",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 7월",
+  "title": "[연인여행] 방콕 - 기념일을 완성하는 분위기 호텔",
+  "metaDescription": "방콕 연인여행, 2026년 7월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 83%로 연인여행 기준 1순위는 <b>시빅 호라이즌 호텔 앤 레지던스</b>입니다 (평점 8.7·리뷰 3,105건·1박 약 13만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 25,
+        "pct": 83
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4423020/-1/702e30c8910f6cd31554e41fa71ab40b.jpg?ca=7&ce=1",
+  "heroAlt": "방콕 연인여행",
+  "updated": "2026-06-30",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "시빅 호라이즌 호텔 앤 레지던스 (Civic Horizon Hotel & Residences)",
+      "agodaUrl": "https://www.agoda.com/civic-horizon-hotel-residences/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4423020/-1/702e30c8910f6cd31554e41fa71ab40b.jpg?ca=7&ce=1",
+      "score": 8.7,
+      "reviewCount": 3105,
+      "reviewCountFmt": "3,105건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 1,
+      "refLabel": "에까마이 버스 터미널",
+      "star": 3.5,
+      "blurb": "평점 8.7 · 리뷰 3,105건. 에까마이 버스 터미널 도보 1분, ₩₩ · 약 13만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 3,105건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "내 방을 바꾸는 데 도움을 준 Khun Toi에게 특별히 감사드립니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗함(파자마를 깔끔하게 접은 것도 매일 청소함!!)",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗하고 편리한 위치에 있습니다.",
+          "score": "8.4",
+          "country": "Austria",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 호텔이었고 직원들도 훌륭했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "방문을 위해 도시 주변을 기차로 쉽게 이동할 수 있습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2022.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "수완나품 빌 에어포트 호텔 (Suvarnabhumi Ville Airport Hotel)",
+      "agodaUrl": "https://www.agoda.com/suvarnabhumi-ville-airport-hotel_2/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1269836/-1/96d8db89fb519d21501bb1385108da3e.jpg?ca=28&ce=0",
+      "score": 8.4,
+      "reviewCount": 21677,
+      "reviewCountFmt": "21,677건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 24,
+      "refLabel": "랏끄라방역",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 21,677건. 랏끄라방역 도보 24분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 21,677건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "깨끗하고 훌륭한 직원, 합리적인 가격의 멋진 레스토랑.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "다음 휴가가 끝날 때마다 이 호텔을 이용할 것입니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "수영장은 전 세계 호텔의 수영장만큼 훌륭합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "레스토랑, 카페, 수영장, 헬스장, 마사지.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "마지막으로 우리가 묵었던 방은 크고 침대도 푹신했어요.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "람부뜨리 빌리지 호텔 (Rambuttri Village Hotel)",
+      "agodaUrl": "https://www.agoda.com/rambuttri-village-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/148/148694/148694_17040314110052098018.jpg?ca=6&ce=1",
+      "score": 8,
+      "reviewCount": 35283,
+      "reviewCountFmt": "35,283건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 22,
+      "refLabel": "Wang Burapha",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 35,283건. Wang Burapha 도보 22분, ₩ · 약 3만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 35,283건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이곳에 머무는 것은 두 번째였으며 환상적이었습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "건물 꼭대기에는 수영장이 있어서 매우 깨끗하게 관리되고 있어요!",
+          "score": "8.4",
+          "country": "Korea Południowa",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "비행 후 매우 정중하고 감사하게 생각합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "미친 카오산 로드와 매우 가깝지만 매우 평화로운 골목입니다.",
+          "score": "7.6",
+          "country": "India",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "선택할 수 있는 아침 식사를 추천합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "ibis Styles Bangkok Silom",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-bangkok-silom/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/878429679.jpg?k=9d93100bf7a344ff265f3ba49a2b71a7012e2d05ac063721d5cd69e570eccab1&o=",
+      "score": 9,
+      "reviewCount": 11316,
+      "reviewCountFmt": "11,316건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 4,
+      "refLabel": "살라댕역",
+      "star": 3.5,
+      "blurb": "평점 9 · 리뷰 11,316건. 살라댕역 도보 4분, ₩₩ · 약 11만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 11,316건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 호텔, 현대적인 객실, 멋진 침대와 놀라운 위치!",
+          "score": "10",
+          "country": "Perú",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안하고 단단했고 리넨은 삐걱거리는 소리처럼 깨끗했습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔과 매우 멋지고 세심하고 정중한 직원",
+          "score": "10",
+          "country": "Reino Unido",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "로비에 있는 팝업바에서도 맛있는 식사를 즐겼습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "실롬 지역에 머물고 싶다면 항상 거기에 머물 것입니다",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2022.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "노보텔 방콕 임팩트 (Novotel Bangkok Impact Hotel)",
+      "agodaUrl": "https://www.agoda.com/novotel-bangkok-impact-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/21669050/459345683/7196e4d54df30b1577c179e02b46d116.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 12535,
+      "reviewCountFmt": "12,535건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 24,
+      "refLabel": "시랏역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 12,535건. 시랏역 도보 24분, ₩₩ · 약 10만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 12,535건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔에는 바 앤 그릴과 레스토랑이 있습니다.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 훌륭하며 매우 현대적인 방입니다.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "나는 반드시 Novotel Bangkok Impact로 돌아올 것입니다! 감사합니다",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "임팩트 있는 콘서트에 참석하는 동안 훌륭한 위치",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방 자체는 매우 훌륭했습니다. 넓고, 흠잡을 데 없이 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "센터포인트 호텔 칫롬 방콕 (Centre Point Hotel Chidlom Bangkok)",
+      "agodaUrl": "https://www.agoda.com/centre-point-hotel-chidlom/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48488/-1/a6f6b9f78aa745972ff3eb7316261ce4.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 16266,
+      "reviewCountFmt": "16,266건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 5,
+      "refLabel": "라차담리역",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 16,266건. 라차담리역 도보 5분, ₩₩ · 약 12만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 16,266건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 적당한 크기이며 편안하고 깨끗한 침대를 갖추고 있습니다.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 매우 도움이 됩니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 정말 기억에 남는 숙박이었으며 행복하게 다시 돌아올 것입니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "디럭스센세이션에서 이그제큐티브룸으로 업그레이드 받았어요.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 모든 것이 완벽하고 높은 수준이라는 것을 알았습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-30T22:12:22.225Z",
+    "source": "agoda citySearch",
+    "daysAhead": 15,
+    "targetMonth": "2026-07",
+    "count": 6
+  }
+}

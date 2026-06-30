@@ -1,0 +1,521 @@
+{
+  "slug": "couple-danang-2026-07",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "다낭",
+  "citySlug": "danang",
+  "cityId": 16440,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16440",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 7월",
+  "title": "[연인여행] 다낭 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "다낭 연인여행, 2026년 7월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 80%로 연인여행 기준 1순위는 <b>발 솔레일 호텔</b>입니다 (평점 8.9·리뷰 7,734건·1박 약 6만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/5808624/-1/fda762c4b933870e7e107ea930d7df09.jpg?ca=7&ce=1",
+  "heroAlt": "다낭 연인여행",
+  "updated": "2026-06-30",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "발 솔레일 호텔 (Val Soleil Hotel)",
+      "agodaUrl": "https://www.agoda.com/val-soleil-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5808624/-1/fda762c4b933870e7e107ea930d7df09.jpg?ca=7&ce=1",
+      "score": 8.9,
+      "reviewCount": 7734,
+      "reviewCountFmt": "7,734건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 21,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 7,734건. 다낭역 도보 21분, ₩ · 약 6만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 7,734건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 훌륭한 가치와 친절한 서비스를 제공하는 좋은 호텔입니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "뛰어난 전망을 감상할 수 있는 객실 꼭대기에서 수영하는 것은 필수입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "최고의 위치, 맛있는 아침 식사, 깨끗하고 넓은 객실.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 친절하며 방은 깨끗하고 넓습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "위치도 너무 맘에 들고 직원도 친절하고 조식도 맛있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "M 호텔 다낭 (M HOTEL DANANG )",
+      "agodaUrl": "https://www.agoda.com/m-hotel-danang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/50526410/-1/1fa9decda31f68a243d522349fcecd3d.jpg?ce=0",
+      "score": 9.3,
+      "reviewCount": 6702,
+      "reviewCountFmt": "6,702건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 58,
+      "refLabel": "다낭역",
+      "star": 5,
+      "blurb": "평점 9.3 · 리뷰 6,702건. 다낭역 도보 58분, ₩₩ · 약 18만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 6,702건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "M 호텔은 모든 면에서 훌륭합니다. 다시 방문하겠습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "편안함과 품질을 원하는 모든 사람에게 완벽한 선택입니다.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 세련되며 매일 청소됩니다.",
+          "score": "10",
+          "country": "Wielka Brytania",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 총 5박을 묵었는데, 정말 놀라운 경험이었습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "M 호텔은 놀라웠고 다낭 여행의 하이라이트였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "멜리아 빈펄 다낭 리버프런트 (Melia Vinpearl Danang Riverfront)",
+      "agodaUrl": "https://www.agoda.com/vinpearl-condotel-riverfront-da-nang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4947690/-1/f5dd1db7b2125faf6a1210227979f529.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 11178,
+      "reviewCountFmt": "11,178건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 27,
+      "refLabel": "다낭역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 11,178건. 다낭역 도보 27분, ₩₩ · 약 12만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 11,178건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "아침 뷔페는 매우 크고 모든 취향을 포괄했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "가장 놀라운 전망과 직원이 매우 도움이 되었습니다.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "Melia에서의 경험이 얼마나 좋은지 정말 놀랐습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "이 숙소의 편의 시설은 최고 수준입니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원이 있어 다낭에 머물기 좋은 숙소입니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "코트야드 바이 메리어트 다낭 한 리버 (Courtyard by Marriott Danang Han River)",
+      "agodaUrl": "https://www.agoda.com/courtyard-danang-han-river/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/73809693/0/291e6f7d6aa271ad770aa92a39c7a1fb.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 1287,
+      "reviewCountFmt": "1,287건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 20,
+      "refLabel": "다낭역",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 1,287건. 다낭역 도보 20분, ₩₩ · 약 15만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 1,287건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방이 생각보다 훨씬 넓고 넓었어요.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "위치는 매우 중앙에 있으며 서비스는 최고 수준입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "이 호텔을 정말 차별화시키는 것은 놀라운 직원입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 강 전망의 킹 코너에 묵었는데 정말 마음에 들었습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "호텔과 객실은 매우 좋고 깨끗하며 고급스러운 느낌이었습니다",
+          "score": "8",
+          "country": "Vietnam",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "브릴리언트 호텔 다낭 (Brilliant Hotel Danang)",
+      "agodaUrl": "https://www.agoda.com/brilliant-hotel-danang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/302683/-1/c63878483578a16c04c1cdb1d7fef35a.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 13184,
+      "reviewCountFmt": "13,184건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 22,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 13,184건. 다낭역 도보 22분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 13,184건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "주요 관광지로 이동하기 정말 좋은 위치에 있습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "강변을 따라 걸으면 Dragon Bridge에 접근할 수 있습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "강이 내려다보이는 호텔이라 이동이 편리합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "또한 Brilliant Hotel을 체크아웃한 후 우리가 괜찮은지 확인하세요.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 다낭의 브릴리언트 호텔에서 환상적인 숙박을 했습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "아보라 부티크 호텔 (AVORA Boutique Hotel)",
+      "agodaUrl": "https://www.agoda.com/avora-boutique-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/625/6250275/6250275_18120521380070125493.jpg?ca=7&ce=1",
+      "score": 8.7,
+      "reviewCount": 5645,
+      "reviewCountFmt": "5,645건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 8,
+      "refLabel": "다낭역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 5,645건. 다낭역 도보 8분, ₩ · 약 4만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,645건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들도 친절하고 방도 깨끗하고 넓었어요.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 새것이었고 침대는 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "해변과 시내 중심부까지 원샷 거리입니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "사이공 5성급 호텔의 내 방만큼 좋았습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "다시 다낭에 간다면 꼭 이곳에 다시 묵을 예정입니다.",
+          "score": "9.6",
+          "country": "Polska",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-06-30T22:12:54.076Z",
+    "source": "agoda citySearch",
+    "daysAhead": 15,
+    "targetMonth": "2026-07",
+    "count": 6
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "slug": "couple-osaka-namba-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "오사카",
+  "citySlug": "osaka-namba",
+  "cityId": 9590,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9590",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 오사카 - 기념일을 완성하는 분위기 호텔",
+  "metaDescription": "오사카 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 67%로 연인여행 기준 1순위는 <b>APA 호텔 앤 리조트 오사카 난바 에키마에 타워</b>입니다 (평점 8.6·리뷰 26,022건·1박 약 9만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 20,
+        "pct": 67
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/55268476/0/115aef61d1f0d0700bcfddae7806eb7d.jpg?ce=2",
+  "heroAlt": "오사카 연인여행",
+  "updated": "2026-07-01",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "APA 호텔 앤 리조트 오사카 난바 에키마에 타워 (APA HOTEL＆RESORT OSAKA NAMBA EKIMAE TOWER )",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-resort-osaka-namba-ekimae-tower/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55268476/0/115aef61d1f0d0700bcfddae7806eb7d.jpg?ce=2",
+      "score": 8.6,
+      "reviewCount": 26022,
+      "reviewCountFmt": "26,022건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 1,
+      "refLabel": "JR 난바역",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 26,022건. JR 난바역 도보 1분, ₩₩ · 약 9만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 26,022건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "게다가 대중목욕탕도 의심할 여지없이 매우 만족스럽습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "JR 난바역에서 몇 걸음 거리에 있는 전반적으로 놀라운 숙소입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "호텔은 난바 중심부에 편리하게 위치해 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "지하철과 리무진 버스 정류장과 매우 ​​가깝습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "시설은 훌륭하고 대중 온천은 훌륭합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "칸데오 호텔 오사카 난바 (CANDEO HOTELS Osaka Namba)",
+      "agodaUrl": "https://www.agoda.com/candeo-hotels-osaka-namba/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/189/1899389/1899389_17082907440055787922.jpg?ca=6&ce=1",
+      "score": 8.6,
+      "reviewCount": 28587,
+      "reviewCountFmt": "28,587건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 5,
+      "refLabel": "긴테쓰닛폰바시역",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 28,587건. 긴테쓰닛폰바시역 도보 5분, ₩₩ · 약 16만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 28,587건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 호텔 직원이 있는 깨끗하고 고급스럽고 넓은 객실입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "온천은 언제나 깨끗하고 아름답습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 코너룸에 묵었기 때문에 도시의 전망이 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "직원들이 너무 유쾌하고 친절해요",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "일본의 다른 객실에 비해 훌륭했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "APA 호텔 앤 리조트 미도스지 혼마치 에키마에 타워 (APA Hotel and Resort Midosuji Hommachi Ekimae Tower)",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-resort-midosuji-hommachi-eki-tower/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7616470/0/1030c79770a19478ae0a8af5fd338a7f.jpg?ce=2",
+      "score": 8.5,
+      "reviewCount": 30435,
+      "reviewCountFmt": "30,435건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 1,
+      "refLabel": "혼마치역",
+      "star": 3,
+      "blurb": "평점 8.5 · 리뷰 30,435건. 혼마치역 도보 1분, ₩ · 약 8만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 30,435건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "오사카에 다시 온다면 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "이 htl은 매우 깨끗합니다. 자료 지원은 12개월 동안 최고였습니다.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "호텔은 오사카에서의 짧은 3일 여행 동안 놀라운 숙박이었습니다.",
+          "score": "9.2",
+          "country": "Guam",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "예약 및 추가 요청이 완벽하게 이행되었습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "APA 호텔은 깨끗하고 깔끔한 환경과 시설을 제공합니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2023.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "APA 호텔 오사카 타마바시 에키마에 (APA Hotel Osaka Temmabashi Ekimae)",
+      "agodaUrl": "https://www.agoda.com/h21916578/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/21950051/0/fbbfcd73ae673a90fbfacf7a51195033.jpg?ce=3",
+      "score": 8.6,
+      "reviewCount": 8553,
+      "reviewCountFmt": "8,553건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 3,
+      "refLabel": "Temmabashi",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 8,553건. Temmabashi 도보 3분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 8,553건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이번 여행을 위해 3개의 호텔을 주문했는데, 이 호텔이 최고입니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 작지만 매우 편리하고 편안합니다.",
+          "score": "8.4",
+          "country": "India",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "제 아내와 저는 이 호텔에서 일주일을 보냈는데 정말 이상적이었습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "하우스키핑과 프론트 데스크 직원들은 친절하고 도움이 되었습니다.",
+          "score": "8",
+          "country": "India",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 향기롭고 편안합니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "리가 플레이스 히고바시 (RIHGA Place Higobashi)",
+      "agodaUrl": "https://www.agoda.com/rihga-nakanoshima-inn_27/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6404/-1/c356e7b5c076612474a68856e33b0742.jpg?ca=11&ce=1",
+      "score": 8.3,
+      "reviewCount": 11276,
+      "reviewCountFmt": "11,276건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 1,
+      "refLabel": "히고바시역",
+      "star": 4,
+      "blurb": "평점 8.3 · 리뷰 11,276건. 히고바시역 도보 1분, ₩ · 약 8만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 11,276건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "오사카에 다시 온다면 이곳을 다시 방문하고 싶습니다",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "가격과 호텔이 크게 바뀌어서 너무 좋고 편안해요.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "다음에 기회가 된다면 이 호텔을 선택하겠습니다.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "방은 조금 작지만 전체적으로 깨끗하고 편안합니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "호텔의 시설이나 어메니티도 훌륭했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "신사이바시 아티 인 (Shinsaibashi Arty Inn)",
+      "agodaUrl": "https://www.agoda.com/h30799875/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31656492/0/690615ac742ff04f653b6134da1659bc.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 7397,
+      "reviewCountFmt": "7,397건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 4,
+      "refLabel": "요쓰바시역",
+      "star": 3,
+      "blurb": "평점 9.1 · 리뷰 7,397건. 요쓰바시역 도보 4분, ₩₩ · 약 9만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 7,397건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "세탁실, 자동판매기, 정수기도 마련되어 있습니다.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "편의 시설이 너무 많아서 매우 안전하다고 느꼈고 여성으로 여겨졌습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "긴 하루를 보낸 후 휴식을 취할 수 있는 온천이 정말 훌륭합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "신사이바시 아티 인(Shinsaibashi Arty Inn)의 경영진과 소유자에게 감사드립니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 오사카 여행에 확실히 가치가 있습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-01T22:14:39.870Z",
+    "source": "agoda citySearch",
+    "daysAhead": 45,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "slug": "couple-singapore-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "싱가포르",
+  "citySlug": "singapore",
+  "cityId": 4064,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4064",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 싱가포르 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "싱가포르 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 67%로 연인여행 기준 1순위는 <b>소셜 온 마요</b>입니다 (평점 8.8·리뷰 762건·1박 약 14만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 20,
+        "pct": 67
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/80245389/0/daadfd351eff7c09c10bdc8c1b8c6f9a.jpg?ce=2",
+  "heroAlt": "싱가포르 연인여행",
+  "updated": "2026-07-03",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "소셜 온 마요 (SOCIAL on Mayo)",
+      "agodaUrl": "https://www.agoda.com/social-on-mayo/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/80245389/0/daadfd351eff7c09c10bdc8c1b8c6f9a.jpg?ce=2",
+      "score": 8.8,
+      "reviewCount": 762,
+      "reviewCountFmt": "762건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 2,
+      "refLabel": "Rochor MRT Station",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 762건. Rochor MRT Station 도보 2분, ₩₩ · 약 14만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 762건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실에는 스마트 TV도 마련되어 있어 정말 좋았습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "호텔 객실은 물론 접수처까지 잘 꾸며져 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 아늑한 호텔, 편안한 침구, 현대적인 화장실.",
+          "score": "8.4",
+          "country": "Sri Lanka",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "SG로 돌아올 때 꼭 이 호텔을 다시 예약할 것입니다",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 훌륭한 숙박이었습니다. 여기에 머무르는 것이 그리워요.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 미 로코르 (Hotel Mi Rochor)",
+      "agodaUrl": "https://www.agoda.com/hotel-mi-rochor/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42250441/-1/0ed8661773316af08894c8751dc7df41.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 16450,
+      "reviewCountFmt": "16,450건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 2,
+      "refLabel": "Rochor MRT Station",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 16,450건. Rochor MRT Station 도보 2분, ₩₩ · 약 16만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 16,450건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Bugis+ 및 Bugis Junction과 같은 쇼핑몰이 매우 가깝습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 도움이 되었으며 믿을 수 없을 정도로 사려 깊었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "프론트 오피스에서 William & Sue와 함께하는 훌륭한 서비스.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "나는 그들이 스스로 방을 청소하는 것을 좋아합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절했고 숙박 기간 내내 도움이 되었습니다.",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "큐브 소셜 부티크 캡슐 호텔 앳 보트 키 (Cube Social Boutique Capsule Hotel @ Boat Quay)",
+      "agodaUrl": "https://www.agoda.com/cube-social-boat-quay/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/47219106/-1/9da5c8c313c98dc363e398c35bc8c51d.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 2921,
+      "reviewCountFmt": "2,921건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 4,
+      "refLabel": "MRT 클락키역",
+      "star": 2,
+      "blurb": "평점 9.1 · 리뷰 2,921건. MRT 클락키역 도보 4분, ₩ · 약 6만원. 연인 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 2,921건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 꼭 다시 여기에 머물고 이 호텔을 추천할 것입니다!",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "그냥 가격대비 괜찮고 위치도 좋고 모든 시설이 좋아요",
+          "score": "9.2",
+          "country": "Bangladesh",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "다음에 또 싱가폴 여행가면 또 예약할게요!",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "그리고 건조기를 이용한 세탁, 세탁 DIY 서비스도 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "5성급 호텔의 고급스러움과 편의시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "파크 애비뉴 로체스터 호텔 (Park Avenue Rochester Hotel)",
+      "agodaUrl": "https://www.agoda.com/park-avenue-rochester-hotel/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/289410/0/26adb7f304a2fffdd99f03aec75ad3ba.png?ce=3",
+      "score": 8.4,
+      "reviewCount": 10827,
+      "reviewCountFmt": "10,827건",
+      "priceText": "₩₩ · 약 17만원",
+      "walkMin": 3,
+      "refLabel": "MRT 부오나 비스타역",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 10,827건. MRT 부오나 비스타역 도보 3분, ₩₩ · 약 17만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 10,827건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 매우 깨끗했고 편의시설도 매우 좋았습니다.",
+          "score": "7.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 넓고 흠 하나 없고 믿을 수 없을 정도로 편안했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "숙소는 환상적입니다. 깨끗하고 아늑하며 믿을 수 없을 정도로 평화롭습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 현대적이며 편안한 객실.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "그들은 즐거운 숙박을 보장하기 위해 진심으로 최선을 다합니다.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "이비스 싱가포르 온 벤쿨렌 - 리노베이션 완료 (Ibis Singapore on Bencoolen - Newly Renovated)",
+      "agodaUrl": "https://www.agoda.com/ibis-singapore-on-bencoolen-hotel/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/764580401.jpg?k=4b08c593d78d1cc9e80c429685a6325de37d8c8d86875aa7be56634fb51c0a0c&o=",
+      "score": 8.3,
+      "reviewCount": 19081,
+      "reviewCountFmt": "19,081건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 3,
+      "refLabel": "Rochor MRT Station",
+      "star": 4,
+      "blurb": "평점 8.3 · 리뷰 19,081건. Rochor MRT Station 도보 3분, ₩₩ · 약 18만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 19,081건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 편안하고 깨끗하며 가격 대비 가치가 있습니다.",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "Ibis Bencoolen에 5번째 방문했는데 전반적으로 훌륭했습니다.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "이비스에 두 번째로 묵었습니다. 항상 즐거운 숙박이었습니다.",
+          "score": "9.2",
+          "country": "Việt Nam",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽했습니다. 모든 것에 접근이 매우 용이했습니다.",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "가격은 객실 품질에 비해 매우 합리적이었습니다.",
+          "score": "8.8",
+          "country": "Brunei Darussalam",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "호텔 보스 (SG Clean 인증) (Hotel Boss)",
+      "agodaUrl": "https://www.agoda.com/hotel-boss/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4894014/0/0cc3603b6dbc057b55297fb0c6ce70aa.jpeg?ce=3",
+      "score": 8,
+      "reviewCount": 58029,
+      "reviewCountFmt": "58,029건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 5,
+      "refLabel": "MRT 라벤더역",
+      "star": 4,
+      "blurb": "평점 8 · 리뷰 58,029건. MRT 라벤더역 도보 5분, ₩₩ · 약 16만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 58,029건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "다음 방문에도 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "그들의 따뜻한 서비스는 전반적인 경험에 실제로 도움이 됩니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 좋습니다. 최대한 빨리 호텔 보스로 돌아오겠습니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "그들의 따뜻한 서비스는 전반적인 경험에 정말로 도움이 됩니다..",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "위치는 매우 훌륭합니다. MRT 역, 모스타파 센터.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-03T22:01:48.148Z",
+    "source": "agoda citySearch",
+    "daysAhead": 43,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

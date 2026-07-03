@@ -1,0 +1,527 @@
+{
+  "slug": "couple-danang-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "다낭",
+  "citySlug": "danang",
+  "cityId": 16440,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16440",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 다낭 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "다낭 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 77%로 연인여행 기준 1순위는 <b>M 호텔 다낭</b>입니다 (평점 9.3·리뷰 6,716건·1박 가격 변동). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/50526410/-1/1fa9decda31f68a243d522349fcecd3d.jpg?ce=0",
+  "heroAlt": "다낭 연인여행",
+  "updated": "2026-07-03",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "M 호텔 다낭 (M HOTEL DANANG )",
+      "agodaUrl": "https://www.agoda.com/m-hotel-danang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/50526410/-1/1fa9decda31f68a243d522349fcecd3d.jpg?ce=0",
+      "score": 9.3,
+      "reviewCount": 6716,
+      "reviewCountFmt": "6,716건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 58,
+      "refLabel": "다낭역",
+      "star": 5,
+      "blurb": "평점 9.3 · 리뷰 6,716건. 다낭역 도보 58분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 6,716건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "M 호텔은 모든 면에서 훌륭합니다. 다시 올게요",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "편안함과 품질을 원하는 모든 사람에게 완벽한 선택입니다.",
+          "score": "10",
+          "country": "ישראל",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 세련되며 매일 청소됩니다.",
+          "score": "10",
+          "country": "Wielka Brytania",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 총 5박을 묵었는데, 정말 놀라운 경험이었습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "M 호텔은 놀라웠고 다낭 여행의 하이라이트였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "차밍 뷰티 호텔 (Charming beauty hotel)",
+      "agodaUrl": "https://www.agoda.com/charming-beauty-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/45083566/0/3faa607416689ca144b371db2fedea83.jpeg?ce=0",
+      "score": 9,
+      "reviewCount": 1204,
+      "reviewCountFmt": "1,204건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 60,
+      "refLabel": "다낭역",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 1,204건. 다낭역 도보 60분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,204건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원, 위치, 객실의 편안함 및 시설에 대해 10/10.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "호텔의 위치는 우리에게 완벽했습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 매우 좋습니다. 작년과 올해도 여기에 묵었습니다.",
+          "score": "9.6",
+          "country": "Latvia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "하우스키핑 서비스는 방 청소를 훌륭하게 해냈습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "저렴한 가격으로 거의 모든 것을 요구할 수 있습니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "발 솔레일 호텔 (Val Soleil Hotel)",
+      "agodaUrl": "https://www.agoda.com/val-soleil-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5808624/-1/fda762c4b933870e7e107ea930d7df09.jpg?ca=7&ce=1",
+      "score": 8.9,
+      "reviewCount": 7750,
+      "reviewCountFmt": "7,750건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 21,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 7,750건. 다낭역 도보 21분, ₩ · 약 7만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 7,750건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "다낭의 Val Soleil Hotel에서 6일간 즐거운 시간을 보냈습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 훌륭한 가치와 친절한 서비스를 제공하는 좋은 호텔입니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "뛰어난 전망을 감상할 수 있는 객실 꼭대기에서 수영하는 것은 필수입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "최고의 위치, 맛있는 아침 식사, 깨끗하고 넓은 객실.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 친절하며 방은 깨끗하고 넓습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "라이즈마운트 프리미어 리조트 다낭 (Risemount Premier Resort Danang)",
+      "agodaUrl": "https://www.agoda.com/risemount-resort-danang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1603126/0/d215f9d1e9e434b98dde31f54fb0bfdc.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 6441,
+      "reviewCountFmt": "6,441건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 49,
+      "refLabel": "다낭역",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 6,441건. 다낭역 도보 49분, ₩₩ · 약 11만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 6,441건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 편안하고 잘 보살핌을 받으며 다시 돌아오고 싶은 마음을 갖고 떠났습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "Risemount에서의 아침 식사는 매일 하이라이트였습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "리셉션에 있는 Leona에게 친절하게 대해주셔서 큰 감사를 드립니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "다음에 또 여기 갈 기회가 생긴다면 이 호텔을 이용하겠습니다.",
+          "score": "10",
+          "country": "日本",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "시설, 조식, 수영장, 모든 것이 훌륭했습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "꽝 민 리버사이드 호텔 다낭 (Quang Minh Riverside Hotel Danang)",
+      "agodaUrl": "https://www.agoda.com/quang-minh-hotel-da-nang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/45448245/-1/44a5ab0bcc051893262edc3717feddd5.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 1242,
+      "reviewCountFmt": "1,242건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 29,
+      "refLabel": "다낭역",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 1,242건. 다낭역 도보 29분, ₩ · 약 3만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,242건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "정말 아름다운 방이고 청소도 완벽합니다!",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 강과 Dragon Bridge의 전망을 자랑합니다.",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 모든 것을 갖추고 있습니다. 예약 시 객실이 4층 이상인지 확인하세요.",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "너무 깨끗하고 직원들이 정말 친절하고 친절합니다.",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되어 온라인 체크인을 도와줍니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "뉴 오리엔트 호텔 다낭 (New Orient Hotel Da Nang)",
+      "agodaUrl": "https://www.agoda.com/new-orient-hotel-da-nang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2911802/0/38dd56d158e0d6ddccab1b001d2c9522.jpg?ce=2",
+      "score": 9.2,
+      "reviewCount": 7634,
+      "reviewCountFmt": "7,634건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 22,
+      "refLabel": "다낭역",
+      "star": 4.5,
+      "blurb": "평점 9.2 · 리뷰 7,634건. 다낭역 도보 22분, ₩ · 약 8만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 7,634건",
+        "⭐ 4.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 호텔은 너무 좋고 특히 제니가 너무 친절해요.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "우리는 또한 Elys의 Anh와 Lua로부터 훌륭한 서비스를 받았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "우리의 숙박을 잊을 수 없게 만들어준 Lucy에게 특별한 감사 인사를 전합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 아침 식사는 다양한 선택이 가능했습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "하지만 이 호텔을 정말 차별화하는 것은 바로 사람들입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-03T22:01:15.228Z",
+    "source": "agoda citySearch",
+    "daysAhead": 43,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

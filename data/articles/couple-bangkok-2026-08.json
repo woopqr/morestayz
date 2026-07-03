@@ -1,0 +1,528 @@
+{
+  "slug": "couple-bangkok-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 방콕 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "방콕 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 77%로 연인여행 기준 1순위는 <b>돈므앙 호텔 근처</b>입니다 (평점 9·리뷰 1,836건·1박 약 4만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/68793035/0/bb90c3cc02c1c6963d3019c636797cb8.jpg?ce=2",
+  "heroAlt": "방콕 연인여행",
+  "updated": "2026-07-03",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "돈므앙 호텔 근처 (Near Don Mueang Hotel)",
+      "agodaUrl": "https://www.agoda.com/near-don-mueang-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/68793035/0/bb90c3cc02c1c6963d3019c636797cb8.jpg?ce=2",
+      "score": 9,
+      "reviewCount": 1836,
+      "reviewCountFmt": "1,836건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 9,
+      "refLabel": "돈므앙 기차역",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 1,836건. 돈므앙 기차역 도보 9분, ₩ · 약 4만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,836건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "질문하지 말고 예약하세요. 실망하지 않을 것입니다.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "3주 동안 머물렀던 숙소 중 최고예요",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "공항에서 빠르게 이동하고, 매우 깨끗한 방, 편안한 침대!!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "모든 현대식 시설로 깨끗하고 우리 방은 완벽했습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "하룻밤 또는 며칠 동안 머물기에 훌륭한 호텔입니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더 쿼터 람캄행 바이 UHG (The Quarter Ramkhamhaeng by UHG)",
+      "agodaUrl": "https://www.agoda.com/the-quarter-ramkhamhaeng-by-uhg/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63809805/0/048c2b5db85c5f19ec3646e86c276b4f.jpg?ce=2",
+      "score": 8.9,
+      "reviewCount": 5368,
+      "reviewCountFmt": "5,368건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 21,
+      "refLabel": "람캄행역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 5,368건. 람캄행역 도보 21분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 5,368건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "특히 숙소가 너무 깨끗하고 직원들이 정말 많아요 💛",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "지금까지 방콕에서 묵었던 호텔 중 가장 좋았습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "나는 거의 2주 동안 여기에 머물렀고 떠나는 것이 슬펐습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "시설도 많고 모든게 깨끗해요.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 가격 대비 훌륭한 가치를 지닌 즐거운 숙박이었습니다.",
+          "score": "7.6",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "수완나품 빌 에어포트 호텔 (Suvarnabhumi Ville Airport Hotel)",
+      "agodaUrl": "https://www.agoda.com/suvarnabhumi-ville-airport-hotel_2/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1269836/-1/96d8db89fb519d21501bb1385108da3e.jpg?ca=28&ce=0",
+      "score": 8.4,
+      "reviewCount": 21701,
+      "reviewCountFmt": "21,701건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 24,
+      "refLabel": "랏끄라방역",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 21,701건. 랏끄라방역 도보 24분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 21,701건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "깨끗하고 훌륭한 직원, 합리적인 가격의 멋진 레스토랑.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "다음 휴가가 끝날 때마다 이 호텔을 이용할 것입니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "수영장은 전 세계 호텔의 수영장만큼 훌륭합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "레스토랑, 카페, 수영장, 헬스장, 마사지.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "마지막으로 우리가 묵었던 방은 크고 침대도 푹신했어요.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "디발럭스 리조트 앤 스파 방콕 수완나품 에어포트 (Divalux Resort and Spa Bangkok Suvarnabhumi Airport)",
+      "agodaUrl": "https://www.agoda.com/divalux-resort-spa-bangkok-by-compass-hospitality/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7451105/-1/d6e026f6a282aa0641844bf1d3bd7683.jpg?ca=26&ce=0",
+      "score": 8.2,
+      "reviewCount": 21350,
+      "reviewCountFmt": "21,350건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 50,
+      "refLabel": "Hua Takhe",
+      "star": 5,
+      "blurb": "평점 8.2 · 리뷰 21,350건. Hua Takhe 도보 50분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 21,350건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "특히 한동안 여행한 후에는 모든 것이 완벽합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "좋은 리조트 호텔",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "음식도 굉장했습니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 즐거운 시간을 보냈습니다. 우리가 더 오래 머물 수 있었으면 좋았을 텐데.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "우리의 숙박을 매우 특별하게 만들어 준 팀에게 큰 감사를 드립니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "람부뜨리 빌리지 호텔 (Rambuttri Village Hotel)",
+      "agodaUrl": "https://www.agoda.com/rambuttri-village-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/148/148694/148694_17040314110052098018.jpg?ca=6&ce=1",
+      "score": 8,
+      "reviewCount": 35311,
+      "reviewCountFmt": "35,311건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 22,
+      "refLabel": "Wang Burapha",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 35,311건. Wang Burapha 도보 22분, ₩ · 약 3만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 35,311건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이곳에 머무는 것은 두 번째였으며 환상적이었습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "건물 꼭대기에는 수영장이 있어서 매우 깨끗하게 관리되고 있어요!",
+          "score": "8.4",
+          "country": "Korea Południowa",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "비행 후 매우 정중하고 감사하게 생각합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "미친 카오산 로드와 매우 가깝지만 매우 평화로운 골목입니다.",
+          "score": "7.6",
+          "country": "India",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "선택할 수 있는 아침 식사를 추천합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "럽 디 방콕 차이나타운 (Lub d Bangkok Chinatown)",
+      "agodaUrl": "https://www.agoda.com/lub-d-bangkok-chinatown/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59863968/0/81fa844de8cfdd5718febe6141e6a839.jpg?ce=3",
+      "score": 9.2,
+      "reviewCount": 3626,
+      "reviewCountFmt": "3,626건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 1,
+      "refLabel": "삼욧역",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 3,626건. 삼욧역 도보 1분, ₩ · 약 2만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 3,626건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 매우 좋은 호텔, 저렴한 가격, 새것처럼 느껴집니다.",
+          "score": "10",
+          "country": "Zypern",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 현대적이고 편안하며 관리가 매우 잘되어 있습니다.",
+          "score": "10",
+          "country": "Polska",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리가 머물기에 좋았고, 우리가 돌아갈 기지가 되었습니다.",
+          "score": "8.4",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했으며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "MRT 바로 맞은편에 위치하여 훌륭한 호텔입니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.11",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-03T22:00:37.470Z",
+    "source": "agoda citySearch",
+    "daysAhead": 43,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "slug": "couple-hanoi-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "하노이",
+  "citySlug": "hanoi",
+  "cityId": 2758,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=2758",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 하노이 - 기념일을 완성하는 분위기 호텔",
+  "metaDescription": "하노이 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 93%로 연인여행 기준 1순위는 <b>하노이안 센트럴 호텔 앤 스파</b>입니다 (평점 9.5·리뷰 8,019건·1박 약 7만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 27,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 25,
+        "pct": 93
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/8740480/0/c22161cfab3eb11c9a5dd81a16489c3e.jpg?ce=3",
+  "heroAlt": "하노이 연인여행",
+  "updated": "2026-07-05",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "하노이안 센트럴 호텔 앤 스파 (Hanoian Central Hotel & Spa)",
+      "agodaUrl": "https://www.agoda.com/hanoian-central-hotel-spa/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8740480/0/c22161cfab3eb11c9a5dd81a16489c3e.jpg?ce=3",
+      "score": 9.5,
+      "reviewCount": 8019,
+      "reviewCountFmt": "8,019건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 19,
+      "refLabel": "하노이역",
+      "star": 4,
+      "blurb": "평점 9.5 · 리뷰 8,019건. 하노이역 도보 19분, ₩ · 약 7만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 8,019건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 호텔을 진정으로 차별화하는 것은 뛰어난 서비스입니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 내가 즐거운 시간을 보낼 수 있도록 최선을 다했습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 개성과 환대를 갖춘 놀라운 직원.",
+          "score": "10",
+          "country": "Romania",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 아름다웠고 침대는 매우 편안했습니다",
+          "score": "10",
+          "country": "Spain",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "놀랍고 개인적인 서비스로 인해 우리의 숙박은 집처럼 느껴졌습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "드리모라 센터 호텔 (Dreamora Centre Hotel)",
+      "agodaUrl": "https://www.agoda.com/dreamora-centre-hotel/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87292061/0/7a33b4386d6d3b25dd26bdfdd09ccddd.jpg?ce=3",
+      "score": 9.4,
+      "reviewCount": 116,
+      "reviewCountFmt": "116건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 26,
+      "refLabel": "하노이역",
+      "star": 3,
+      "blurb": "평점 9.4 · 리뷰 116건. 하노이역 도보 26분, ₩ · 약 2만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 116건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "사랑스러운 직원, 아늑한 방.",
+          "score": "10",
+          "country": "Austria",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "아주 좋고, 친절한 직원",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "하노이 얼루어 호텔 (Hanoi Allure Hotel)",
+      "agodaUrl": "https://www.agoda.com/hanoi-allure-hotel/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3582705/0/7c8b5cc4ffdf6fdde61b5832c2d4e0bf.jpeg?ce=0",
+      "score": 9.3,
+      "reviewCount": 4559,
+      "reviewCountFmt": "4,559건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": 22,
+      "refLabel": "하노이역",
+      "star": 4,
+      "blurb": "평점 9.3 · 리뷰 4,559건. 하노이역 도보 22분, ₩₩ · 약 8만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 4,559건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절했고 우리의 요구를 잘 들어주었습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했고 직원들도 매우 친절했습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "그들 모두는 동일한 품질의 서비스를 제공합니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "모든 직원이 최선을 다했기 때문에 더 많은 것을 요구할 수 없습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "위치는 올드 쿼터 옆에 완벽하지만 조용합니다.",
+          "score": "10",
+          "country": "España",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "컬렉션 O 웨스트 레이크 아파트먼트 (Townhouse Oak West Lake Apartment)",
+      "agodaUrl": "https://www.agoda.com/collection-o-west-lake-apartment-h83292956/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/83292956/0/ce92feb7df4cd10326d5c7d9ca3e9754.jpg?ce=3",
+      "score": 9.8,
+      "reviewCount": 80,
+      "reviewCountFmt": "80건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 79,
+      "refLabel": "하노이역",
+      "star": 3,
+      "blurb": "평점 9.8 · 리뷰 80건. 하노이역 도보 79분, ₩ · 약 7만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 80건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "깨끗한 객실, 조용한 밤, 훌륭한 서비스.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "하노이에 오면 꼭 다시 여기에 묵을 거예요!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 우리가 머무는 동안 매우 환영받는 느낌을 받았습니다.",
+          "score": "10",
+          "country": "Finland",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 새것이며 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "호텔은 우리의 축하 행사를 기억에 남도록 도와주었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "하노이 레리티지 다이아몬드 호텔 앤 스파 (Hanoi L'Heritage Diamond Hotel and Spa)",
+      "agodaUrl": "https://www.agoda.com/hanoi-l-heritage-diamond-hotel-spa/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5796940/-1/5105e3857b1123f5c523a33c8f6b6ab8.jpg?ca=7&ce=1",
+      "score": 9,
+      "reviewCount": 2976,
+      "reviewCountFmt": "2,976건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 13,
+      "refLabel": "하노이역",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 2,976건. 하노이역 도보 13분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 2,976건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "거대하고 아늑하며 깨끗한 객실이 들어서자마자 여러분을 환영합니다.",
+          "score": "10",
+          "country": "Spain",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 예외적이며 아침 식사 선택도 마찬가지입니다.",
+          "score": "10",
+          "country": "Finland",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 고급스럽고 현대적인 스타일로 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "나는 이 호텔을 내 친구와 가족에게 꼭 추천할 것입니다.",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "넓고 세련되게 장식되어 있으며 흠잡을 데 없이 깨끗합니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "돔스 레지던스 앤 호텔 하노이 (Dom's Residence & Hotel Hanoi)",
+      "agodaUrl": "https://www.agoda.com/dom-s-residence-hanoi-h47003878/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49392362/-1/06bcf39c2cbd69d46bdc10c00deefe2d.jpg?ce=0",
+      "score": 8.3,
+      "reviewCount": 423,
+      "reviewCountFmt": "423건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 42,
+      "refLabel": "하노이역",
+      "star": 4,
+      "blurb": "평점 8.3 · 리뷰 423건. 하노이역 도보 42분, ₩ · 약 4만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 423건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "매우 큰 방과 비용, 정말 가치가 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "최근 시설이 새것처럼 보이도록 개조된 것 같습니다.",
+          "score": "10",
+          "country": "Myanmar",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭합니다. 근처에 먹고 쇼핑할 수 있는 곳이 많습니다.",
+          "score": "10",
+          "country": "Myanmar",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "가격은 그들이 제공하는 서비스에 비해 매우 좋습니다.",
+          "score": "10",
+          "country": "Myanmar",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "매우 넓고 새것이며 심지어 욕실도 꽤 컸습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-05T21:57:00.852Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

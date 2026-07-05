@@ -1,0 +1,528 @@
+{
+  "slug": "couple-kaohsiung-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "가오슝",
+  "citySlug": "kaohsiung",
+  "cityId": 756,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=756",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 가오슝 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "가오슝 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 77%로 연인여행 기준 1순위는 <b>리버 트리스 호텔</b>입니다 (평점 9.2·리뷰 2,440건·1박 약 18만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/52287125/0/15f02bb08c4cfc65410c4b24a20c1461.jpg?ce=3",
+  "heroAlt": "가오슝 연인여행",
+  "updated": "2026-07-05",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "리버 트리스 호텔 (River Trees Hotel)",
+      "agodaUrl": "https://www.agoda.com/river-trees-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/52287125/0/15f02bb08c4cfc65410c4b24a20c1461.jpg?ce=3",
+      "score": 9.2,
+      "reviewCount": 2440,
+      "reviewCountFmt": "2,440건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 3,
+      "refLabel": "Kaohsiung metro - Love Pier Station",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 2,440건. Kaohsiung metro - Love Pier Station 도보 3분, ₩₩ · 약 18만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 2,440건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 매우 깨끗하고 호텔 직원은 매우 도움이됩니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 매우 편안하고 즐거운 경험이었습니다.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "선(禪)의 분위기를 자아내는 일본식 객실입니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "다양한 훌륭한 음식 옵션과 경전철(러브 피어)과 가깝습니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "그렇지 않으면 훌륭한 숙박이 될 것이며 강력히 추천합니다!!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "카인드니스 호텔-잔동 지우루 브랜치 (Kindness Hotel-Jhandong Jiuru Branch)",
+      "agodaUrl": "https://www.agoda.com/kindness-hotel-houyi-jiuru/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/433031/0/f03bfff1884d00ce4fe76f39b3667ae4.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 11952,
+      "reviewCountFmt": "11,952건",
+      "priceText": "₩₩ · 약 20만원",
+      "walkMin": 3,
+      "refLabel": "가오슝역",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 11,952건. 가오슝역 도보 3분, ₩₩ · 약 20만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 11,952건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "무료 세탁 서비스, 아침 식사, 아이스크림/차.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "모든 직원은 우리를 수용하고 웃는 얼굴로 우리를 도와줍니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리가 여기에 두 번째로 왔는데 정말 마음에 듭니다 !!",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "위치도 가격도 방 자체도 너무 좋습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "내가 대만에 머물렀던 최고의 호텔입니다(4번째 방문).",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "샤또 드 치네 호텔 가오슝 (Chateau de Chine Hotel Kaohsiung)",
+      "agodaUrl": "https://www.agoda.com/chateau-de-chine-hotel-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/67801/-1/c894f54c715ac66adfb09c2dbea04820.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 10961,
+      "reviewCountFmt": "10,961건",
+      "priceText": "₩₩ · 약 20만원",
+      "walkMin": 3,
+      "refLabel": "MRT 옌청푸역",
+      "star": 4,
+      "blurb": "평점 8.8 · 리뷰 10,961건. MRT 옌청푸역 도보 3분, ₩₩ · 약 20만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 10,961건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "서비스는 훌륭했고 직원들에게 칭찬을 받았습니다.",
+          "score": "10",
+          "country": "Nederland",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 좋았고 선택의 폭이 넓으며 커피도 좋았습니다.",
+          "score": "10",
+          "country": "Nederland",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 깨끗하고 조용한 호텔. 적극 권장",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗하고 편안하며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "샤워기가 너무 멋져서 집에도 하나 갖고 싶네요!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "카인드니스 호텔 - 카오슝 메인 스테이션 (Kindness Hotel - Kaohsiung Main Station)",
+      "agodaUrl": "https://www.agoda.com/kindness-hotel-kaohsiung-main-station_7/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/670643/0/a8cb7665712be311fda1a624d44eb474.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 14820,
+      "reviewCountFmt": "14,820건",
+      "priceText": "₩₩₩ · 약 22만원",
+      "walkMin": 1,
+      "refLabel": "Zhongnan Bus Station",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 14,820건. Zhongnan Bus Station 도보 1분, ₩₩₩ · 약 22만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 14,820건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "사려 깊은 편의 시설과 욕실을 갖춘 밝고 통풍이 잘 되는 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 우리의 경험은 모든 기대치를 뛰어 넘었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 아름답게 디자인되었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "무료 티타임과 아이스크림 스낵이 포함된 훌륭한 아침 식사",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "호텔의 시설은 훌륭했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "호텔 두아 (Hotel Dua)",
+      "agodaUrl": "https://www.agoda.com/hotel-dua/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/295/295765/295765_16062417120044073992.jpg?ca=6&ce=1",
+      "score": 9.1,
+      "reviewCount": 14413,
+      "reviewCountFmt": "14,413건",
+      "priceText": "₩₩₩ · 약 22만원",
+      "walkMin": 4,
+      "refLabel": "MRT 메이리다오역",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 14,413건. MRT 메이리다오역 도보 4분, ₩₩₩ · 약 22만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 14,413건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "MRT 출구 바로 옆에 있는 호텔로 도보로 1분 거리에 있습니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "하지만 이 호텔이 얼마나 좋은지 보고 기분 좋게 놀랐습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "제가 대만에서 묵었던 호텔 중 최고의 호텔입니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 완벽했습니다: 공간, 청결도, 직원",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 깨끗한 방, 맛있는 아침 식사, 친절한 직원",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "써니사이드 호텔 (Sunnyside Hotel)",
+      "agodaUrl": "https://www.agoda.com/sunnyside-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/292851/-1/97c0b32453c293dedfcc27492bcbe8d3.png?ce=0",
+      "score": 8.5,
+      "reviewCount": 4969,
+      "reviewCountFmt": "4,969건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "MRT 메이리다오역",
+      "star": 2,
+      "blurb": "평점 8.5 · 리뷰 4,969건. MRT 메이리다오역 도보 2분, ₩ · 약 8만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 4,969건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "다시 가오슝을 방문한다면 꼭 이곳에 묵을 예정입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "Liouhe 야시장은 호텔 바로 아래층에 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "트윈룸은 우리 가방을 위한 충분한 공간이 있어 편안했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "가오슝에 다시 간다면 이 호텔을 다시 예약하겠습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 합리적인 가격, 행복한 숙박!",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2023.04",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-05T21:55:54.530Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "slug": "couple-chiangmai-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "치앙마이",
+  "citySlug": "chiangmai",
+  "cityId": 7401,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=7401",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 치앙마이 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "치앙마이 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 90%로 연인여행 기준 1순위는 <b>람푸 하우스 치앙마이</b>입니다 (평점 8.9·리뷰 4,814건·1박 약 6만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 27,
+        "pct": 90
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/16351177/0/ab995de5b2db71a28002e198fa1ab598.jpg?ce=3",
+  "heroAlt": "치앙마이 연인여행",
+  "updated": "2026-07-05",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "람푸 하우스 치앙마이 (Lamphu House Chiang Mai)",
+      "agodaUrl": "https://www.agoda.com/lamphu-house-chiang-mai_2/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/16351177/0/ab995de5b2db71a28002e198fa1ab598.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 4814,
+      "reviewCountFmt": "4,814건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 37,
+      "refLabel": "치앙마이역",
+      "star": 2.5,
+      "blurb": "평점 8.9 · 리뷰 4,814건. 치앙마이역 도보 37분, ₩ · 약 6만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 4,814건",
+        "⭐ 2.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "욕실은 크고 샤워 시설과 온수가 제공됩니다.",
+          "score": "10",
+          "country": "Brazil",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 다양한 음식으로 맛있었습니다. . .",
+          "score": "10",
+          "country": "Brazil",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 현대적이며 편안한 침대를 갖추고 있습니다.",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되었고 명확한 영어를 구사했습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "사원, 레스토랑, 상점 근처에 위치해 있습니다.",
+          "score": "10",
+          "country": "Spain",
+          "date": "2022.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "POR 타페 게이트 (POR Thapae Gate )",
+      "agodaUrl": "https://www.agoda.com/por-thapae-gate/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9115450/-1/4e6321f1d84d60bab1e139c772702665.jpg?ca=29&ce=0",
+      "score": 9.4,
+      "reviewCount": 5121,
+      "reviewCountFmt": "5,121건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 34,
+      "refLabel": "치앙마이역",
+      "star": 3,
+      "blurb": "평점 9.4 · 리뷰 5,121건. 치앙마이역 도보 34분, ₩₩ · 약 11만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 5,121건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 흠잡을 곳이 없었고, 시설도 잘 관리되어 있었습니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "직원은 항상 훌륭하고 객실은 매우 깨끗하고 편안합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "그들의 따뜻함과 환대는 우리의 체류를 잊지 못할 추억으로 만들었습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 편안했고 우리에게 필요한 것이 정확히 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "그리고 장식과 전체적인 분위기는 매우 미적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "그린 타이거 하우스 (Green Tiger House)",
+      "agodaUrl": "https://www.agoda.com/green-tiger-house_2/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/573/573144/573144_15071709220032486997.jpg?ca=4&ce=1",
+      "score": 9.2,
+      "reviewCount": 5351,
+      "reviewCountFmt": "5,351건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 44,
+      "refLabel": "도이수텝행 버스 정류장",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 5,351건. 도이수텝행 버스 정류장 도보 44분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 5,351건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "분위기, 청결함, 직원... 모두 모범적이었습니다.",
+          "score": "10",
+          "country": "Indonesië",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "호텔 자체는 아름답고 비건 음식은 맛있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 전망이 아름다웠으며, 아침 식사도 훌륭했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "아침식사도 맛있고 저녁식사도 훌륭합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "완전 채식 레스토랑은 훌륭했고 그만한 가치가 있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "말리 호텔 (MALEE HOTEL)",
+      "agodaUrl": "https://www.agoda.com/malee-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/23388650/-1/4047d96fb851974a083d4cd679114424.jpg?ca=23&ce=0",
+      "score": 9.1,
+      "reviewCount": 3034,
+      "reviewCountFmt": "3,034건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 37,
+      "refLabel": "치앙마이역",
+      "star": 2.5,
+      "blurb": "평점 9.1 · 리뷰 3,034건. 치앙마이역 도보 37분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 3,034건",
+        "⭐ 2.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "올드시티에 묵는다면 위치는 완벽합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "무료 커피와 차는 꼭대기에 위치합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "나이트라이프, 음식, 마사지, 쇼핑 등 무엇이든!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗하고 편안하며 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치가 좋고, 명소와 레스토랑에 쉽게 접근할 수 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "두앙타완 호텔 (Duangtawan Hotel)",
+      "agodaUrl": "https://www.agoda.com/duangtawan-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48944/-1/91dce270bf6dfb856883c9be248eafa7.jpg?ca=23&ce=0",
+      "score": 7.9,
+      "reviewCount": 22213,
+      "reviewCountFmt": "22,213건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 23,
+      "refLabel": "치앙마이역",
+      "star": 4,
+      "blurb": "평점 7.9 · 리뷰 22,213건. 치앙마이역 도보 23분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 22,213건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "내 방을 잘못 생각할 수 없으며 도시 / 수영장의 멋진 전망이 있습니다.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "시내에 위치하여 야시장과 가까워 매우 편리합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 훌륭하고 꽤 넓습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "나는 선택의 폭이 넓고 음식이 많은 아침 식사를 좋아했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 사랑스러운 오래된 모습이지만 아름다운 리셉션입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "두짓 프린세스 치앙마이 (Dusit Princess Chiang Mai)",
+      "agodaUrl": "https://www.agoda.com/dusit-princess-chiang-mai-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10754/0/d9272e405b49aabf88365aea01858b20.png?ce=0",
+      "score": 8.9,
+      "reviewCount": 2422,
+      "reviewCountFmt": "2,422건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 22,
+      "refLabel": "치앙마이역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 2,422건. 치앙마이역 도보 22분, ₩₩ · 약 13만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 2,422건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 크고 깨끗했고, 직원들은 친절했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "근처 시장까지 걸어서 갈 수 있고 다양한 음식을 선택할 수 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 이보다 더 친절하고 세심할 수 없습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "당신이 원하는 모든 것의 중심에 있는 멋진 위치입니다.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "Dusit Princess은 치앙마이에 머물기에 좋은 장소입니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-05T21:56:29.299Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

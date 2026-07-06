@@ -1,0 +1,514 @@
+{
+  "slug": "couple-sapporo-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "삿포로",
+  "citySlug": "sapporo",
+  "cityId": 3435,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=3435",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 삿포로 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "삿포로 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 80%로 연인여행 기준 1순위는 <b>그랜드 호스텔 LDK 삿포로</b>입니다 (평점 8.2·리뷰 5,825건·1박 약 5만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/866031/0/f282fe9e39be7160a9fef47a2bf71d72.jpg?ce=2",
+  "heroAlt": "삿포로 연인여행",
+  "updated": "2026-07-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "그랜드 호스텔 LDK 삿포로 (GRAND HOSTEL LDK SAPPORO)",
+      "agodaUrl": "https://www.agoda.com/the-stay-sapporo-hostel/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/866031/0/f282fe9e39be7160a9fef47a2bf71d72.jpg?ce=2",
+      "score": 8.2,
+      "reviewCount": 5825,
+      "reviewCountFmt": "5,825건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 4,
+      "refLabel": "시세이칸초등학교역",
+      "star": 2,
+      "blurb": "평점 8.2 · 리뷰 5,825건. 시세이칸초등학교역 도보 4분, ₩ · 약 5만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 5,825건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 리셉션과 라운지 공간으로 매우 좋았습니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "2개의 주방이 있으며 일부 개인실도 제공합니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 개인실에 머물렀는데 꽤 좋았습니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절했고 좋은 추천을 해주었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "예산과 편안한 장소가 필요하다면 이것이 바로 당신이 찾고 있는 것입니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "오쿠조잔케이온센 카쇼교엔 (Okujozankeionsen Kashogyoen)",
+      "agodaUrl": "https://www.agoda.com/okujozankeionsen-kashogyoen/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5712610/0/b7d45a657ad1d5749e4ddea605793a52.jpg?ce=3",
+      "score": 9.3,
+      "reviewCount": 872,
+      "reviewCountFmt": "872건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 4,
+      "blurb": "평점 9.3 · 리뷰 872건. 주요 역 도보 null분, ₩₩ · 가격 변동. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 872건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "친구들에게 추천할 것이며 다시 방문하고 싶습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "이곳에 머물기에 딱 좋은 곳을 선택해서 기쁘네요.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "그리고 전망이 좋은 전용 온천이 있습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "경치가 아름답고 방이 아름답고 직원들은 친절하고 정중합니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "저녁 식사는 맛이 매우 좋고 5성급 레스토랑 같은 느낌이 듭니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "나카무라야 료칸 (Nakamuraya Ryokan)",
+      "agodaUrl": "https://www.agoda.com/nakamuraya-ryokan/hotel/all/sapporo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/421776734.jpg?k=9d9e18bb660ded572d73d5f2c19c847974672287ad9ad37a9fe00021e16b2ead&o=",
+      "score": 8.9,
+      "reviewCount": 803,
+      "reviewCountFmt": "803건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 8,
+      "refLabel": "니시 8초메역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 803건. 니시 8초메역 도보 8분, ₩₩ · 약 14만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 803건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "저는 삿포로에 여행갈 때 항상 이 호텔에 묵습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "작지만 아늑하고 편안한 전통 료칸 객실입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "조용한 지역 - 잘 잤다는 점이 나에게 가장 중요합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "방은 필요한 모든 시설을 갖추고 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 이틀 밤을 머물렀고 장소는 훌륭했습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "쿠리야스이잔 (Kuriyasuizan)",
+      "agodaUrl": "https://www.agoda.com/kuriyasuizan/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/228/2280010/2280010_17061207110053600642.jpg?ca=6&ce=1",
+      "score": 9.1,
+      "reviewCount": 1042,
+      "reviewCountFmt": "1,042건",
+      "priceText": "₩₩₩ · 약 42만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 3,
+      "blurb": "평점 9.1 · 리뷰 1,042건. 주요 역 도보 null분, ₩₩₩ · 약 42만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 42만원",
+        "📝 리뷰 1,042건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "노천탕이 딸린 객실이 정말 마음에 들었습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "식사는 훌륭했고 직원들은 매우 친절하고 정중했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "건물 내부 및 외부의 편안한 스파",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "그래서 우리는 공중목욕탕을 우리끼리만 사용했습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "이 세련된 호텔에서의 숙박은 정말 즐거웠습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "소테츠 프레사 인 삿포로-스스키노 (Sotetsu Fresa Inn Sapporo-Susukino)",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-sapporo-susukino/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/33795846/-1/73855dbed280e42f329f4cc1b75110a5.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 10301,
+      "reviewCountFmt": "10,301건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 1,
+      "refLabel": "호스이스스키노역",
+      "star": 3,
+      "blurb": "평점 9.1 · 리뷰 10,301건. 호스이스스키노역 도보 1분, ₩₩ · 약 13만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 10,301건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "근처에 여러 레스토랑(및 라멘 골목)이 있습니다.",
+          "score": "8",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "새 호텔이라 모든 것이 신선하고 현대적인 느낌을 줍니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 삿포로 중심에 있고 직원들은 매우 친절합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "편리한 위치와 친절한 직원 덕분에 추천합니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "최고의 위치와 최고의 서비스를 자랑하는 부동산입니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "JR 타워 호텔 닛코 삿포로 (JR Tower Hotel Nikko Sapporo)",
+      "agodaUrl": "https://www.agoda.com/jr-tower-hotel-nikko-sapporo/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/56560454.jpg?k=28c84eeb2eb012939de7e8a0b264c87132a82c4c48d823b6996b05daedbcaa0c&o=",
+      "score": 9.1,
+      "reviewCount": 8300,
+      "reviewCountFmt": "8,300건",
+      "priceText": "₩₩₩ · 약 40만원",
+      "walkMin": 2,
+      "refLabel": "삿포로역",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 8,300건. 삿포로역 도보 2분, ₩₩₩ · 약 40만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 40만원",
+        "📝 리뷰 8,300건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "룸컨디션도 좋고 시내뷰도 좋습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "호텔 직원은 매우 친절하고 응답도 빠릅니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 정중하고 도움이 되었으며 세심했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에 묵는 것은 즐거운 경험이었습니다",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "전문적으로 조직된 친절한 서비스와 우아한 아침 식사",
+          "score": "10",
+          "country": "美國",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T22:10:43.308Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

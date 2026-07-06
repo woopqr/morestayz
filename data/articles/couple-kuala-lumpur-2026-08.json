@@ -1,0 +1,520 @@
+{
+  "slug": "couple-kuala-lumpur-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "쿠알라룸푸르",
+  "citySlug": "kuala-lumpur",
+  "cityId": 14524,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14524",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 쿠알라룸푸르 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "쿠알라룸푸르 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 80%로 연인여행 기준 1순위는 <b>브릴리언트 호텔 앤 스파</b>입니다 (평점 9.2·리뷰 1,312건·1박 약 7만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/60140518/0/9af112dedafdd057a250fe0c4f08bc7f.jpg?ce=0",
+  "heroAlt": "쿠알라룸푸르 연인여행",
+  "updated": "2026-07-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "브릴리언트 호텔 앤 스파 (Brilliant Hotel & Spa)",
+      "agodaUrl": "https://www.agoda.com/brilliant-hotel-spa/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/60140518/0/9af112dedafdd057a250fe0c4f08bc7f.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 1312,
+      "reviewCountFmt": "1,312건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 1,
+      "refLabel": "Bukit Bintang MRT Station",
+      "star": 4,
+      "blurb": "평점 9.2 · 리뷰 1,312건. Bukit Bintang MRT Station 도보 1분, ₩ · 약 7만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,312건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "쿠알라룸푸르에 가면 항상 이 호텔을 선택하겠습니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "브릴리언트 호텔은 제가 가본 호텔 중 가장 깨끗했습니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "친구와 함께 왔는데, 이 호텔을 선택했기 때문에 최고의 결정이었습니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 이 호텔은 모든 면에서 우리의 기대를 뛰어넘었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "유명하고 눈에 띄는 모든 것 사이의 호텔 위치.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "슬리핑 라이온 스위트 (Sleeping Lion Suites)",
+      "agodaUrl": "https://www.agoda.com/sleeping-lion-suites/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/417629323.jpg?k=c6d87b69736c69e400dc183a847f86b51e5c810cbe07449ba7afe273631bda85&o=",
+      "score": 9,
+      "reviewCount": 43570,
+      "reviewCountFmt": "43,570건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 4,
+      "refLabel": "Bukit Bintang MRT Station",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 43,570건. Bukit Bintang MRT Station 도보 4분, ₩₩ · 약 9만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 43,570건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "탐험에 관해 말하자면, 호텔의 위치는 타의 추종을 불허합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "Everythings는 파빌리온 근처 최고의 호텔입니다.",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "새로 지은 호텔이라 있을 건 다 있었어요.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "인피니티 풀은 주변의 숨막히는 전망을 제공했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "내 체류를 매우 특별하게 만들어 준 팀 전체에 감사드립니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "더 초우 킷 - 언 오몬드 호텔 (The Chow Kit - an Ormond Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-chow-kit-an-ormond-hotel-h9365340/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9365340/0/61a4d57f103d6ccbe2a14301205fde4b.jpg?ce=2",
+      "score": 8.7,
+      "reviewCount": 4817,
+      "reviewCountFmt": "4,817건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 3,
+      "refLabel": "메단 투안쿠역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 4,817건. 메단 투안쿠역 도보 3분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 4,817건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "청결에 대한 호텔의 헌신은 모든 곳에서 분명하게 드러납니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "그들의 친절함은 정말 기억에 남고 따뜻한 숙박을 만들어주었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "The Chow Kit의 직원은 특별한 인정을 받을 자격이 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "The Chow Kit Kitchen & Bar에서의 식사는 하이라이트였습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 아늑하고 트렌디합니다. 편안한 침대만 있으면 됩니다!",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2023.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "모모스 쿠알라룸푸르 (MoMo's Kuala Lumpur)",
+      "agodaUrl": "https://www.agoda.com/momo-s-kuala-lumpur/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9368635/-1/8619742101610187f9a2ea6479392bd1.jpg?ca=9&ce=1",
+      "score": 8.7,
+      "reviewCount": 4745,
+      "reviewCountFmt": "4,745건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 3,
+      "refLabel": "메단 투안쿠역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 4,745건. 메단 투안쿠역 도보 3분, ₩ · 약 5만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 4,745건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "3주 넘게 이곳에 머물렀는데 매우 편안했습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "객실부터 시설, 음식까지 정말 훌륭합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가격대를 고려하면 MoMo의 KL이 좋은 가치를 제공합니다.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 호텔, 도움이 되는 직원, MRT 및 LRT와 가깝습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 방의 완벽한 크기, 미니멀리스트라고 말하고 싶습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "이지 호텔 @ KL-센트럴 (EASSY HOTEL @ KL-Sentral)",
+      "agodaUrl": "https://www.agoda.com/easy-hotel-kl-sentral/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/923078/-1/fa08b2018b1a0427a9634b3ffe0dd690.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 17631,
+      "reviewCountFmt": "17,631건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 1,
+      "refLabel": "KL Sentral LRT Station",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 17,631건. KL Sentral LRT Station 도보 1분, ₩ · 약 6만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 17,631건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 정말 친절했고 객실은 깨끗하고 아늑했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "편안하고 번거로움 없는 숙박을 위한 확실한 선택입니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 훌륭합니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "매우 추천합니다",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 우리는 행복하고 만족스럽습니다..100% 추천하는 호텔",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "시티 센트럴 호텔 @ KL 센트럴 (City Central Hotel @ KL Sentral)",
+      "agodaUrl": "https://www.agoda.com/city-central-hotel-kl-sentral/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2486100/-1/988ba2c24fc65156ca06f17176961ce9.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 13259,
+      "reviewCountFmt": "13,259건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 1,
+      "refLabel": "KL Sentral LRT Station",
+      "star": 3,
+      "blurb": "평점 8.5 · 리뷰 13,259건. KL Sentral LRT Station 도보 1분, ₩ · 약 4만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 13,259건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치 - 훌륭한 쇼핑몰인 Nu Sentral, KL Sentral과 거의 가깝습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "위치는 쇼핑몰/레스토랑/MRT 역과 매우 가깝습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 2성급 호텔의 5성급 수준입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "얼리체크인을 해주신 프런트에 감사드립니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "앞으로도 City Central Hotel에 다시 머물 것입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T22:09:32.910Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

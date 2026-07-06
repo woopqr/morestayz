@@ -1,0 +1,494 @@
+{
+  "slug": "couple-bali-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "발리",
+  "citySlug": "bali",
+  "cityId": 17193,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17193",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 발리 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "발리 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 90%로 연인여행 기준 1순위는 <b>테갈 사리 어코모데이션</b>입니다 (평점 9·리뷰 2,828건·1박 약 11만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 27,
+        "pct": 90
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/722/7227653/7227653_19050711290074323578.jpg?ca=8&ce=1",
+  "heroAlt": "발리 연인여행",
+  "updated": "2026-07-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "테갈 사리 어코모데이션 (Tegal Sari Accomodation)",
+      "agodaUrl": "https://www.agoda.com/tegal-sari-accomodation/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/722/7227653/7227653_19050711290074323578.jpg?ca=8&ce=1",
+      "score": 9,
+      "reviewCount": 2828,
+      "reviewCountFmt": "2,828건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 5,
+      "refLabel": "우붓 원숭이숲",
+      "star": 2,
+      "blurb": "평점 9 · 리뷰 2,828건. 우붓 원숭이숲 도보 5분, ₩₩ · 약 11만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 2,828건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Tegal Sari Accommodation Villas는 환상적인 시설을 제공합니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 우붓 중심부에서 가장 인기 있는 위치에 있습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "방이 넓고 시내까지 셔틀버스가 있어서 아주 좋습니다",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 빌라 방 중 하나에 있었고 놀라운 숙박을 보냈습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "발리 섬 최고의 숙박 경험.",
+          "score": "10",
+          "country": "中国",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "테아나 빌라 앤 스파 짱구 (Theanna Villa and Spa Canggu)",
+      "agodaUrl": "https://www.agoda.com/theanna-eco-villa-and-spa/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1203712/0/55cfa0cb5418886a69836d9da51ecec5.jpeg?ce=0",
+      "score": 9.3,
+      "reviewCount": 3132,
+      "reviewCountFmt": "3,132건",
+      "priceText": "₩₩₩ · 약 20만원",
+      "walkMin": 92,
+      "refLabel": "Ubung Bus Terminal",
+      "star": 5,
+      "blurb": "평점 9.3 · 리뷰 3,132건. Ubung Bus Terminal 도보 92분, ₩₩₩ · 약 20만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 3,132건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "놀라운 장소이며 다음에 더 오랫동안 돌아올 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "이 리조트는 내가 머물렀던 최고의 장소였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "가장 편안한 리조트로 결코 후회하지 않으실 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "놀라운 스파 욕조를 갖춘 매우 편안한 침대.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "내가 가본 최고의 숙소 중 하나입니다.",
+          "score": "9.6",
+          "country": "Finland",
+          "date": "2023.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "프라임 플라자 호텔 사누르 - 발리 (Prime Plaza Hotel Sanur - Bali)",
+      "agodaUrl": "https://www.agoda.com/prime-plaza-hotel-sanur-bali_2/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1251/0/54454da40a6be534128da08fa2ad767e.jpg?ce=2",
+      "score": 8.6,
+      "reviewCount": 6515,
+      "reviewCountFmt": "6,515건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 56,
+      "refLabel": "크레넹 버스터미널",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 6,515건. 크레넹 버스터미널 도보 56분, ₩ · 약 8만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 6,515건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "항구와 매우 가깝고 도보로 7분 거리에 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "방은 매일 청소되었고 모든 액세서리는 리필되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "편안한 수영장과 환상적인 직원을 위해 항상 돌아오세요",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "직원, 객실, 음식, 부지, 수영장이 만족스럽습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "수영장 공간과 정원은 물 기능으로 아름답습니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "애스톤 쿠타 호텔 앤 레지던스 (Aston Kuta Hotel and Residence)",
+      "agodaUrl": "https://www.agoda.com/aston-kuta-hotel-and-residence/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/148997/-1/66f8fb7c5defde284022de28d4e57b90.jpg?ca=6&ce=1",
+      "score": 8.5,
+      "reviewCount": 3631,
+      "reviewCountFmt": "3,631건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 120,
+      "refLabel": "테갈 사리 버스터미널",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 3,631건. 테갈 사리 버스터미널 도보 120분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 3,631건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 완벽한 시설로 잘 관리되어 있다는 느낌을 받았습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 가치, 좋은 위치 및 직원은 항상 도움이 되었습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 특히 Julia의 환대에 깊은 인상을 받았습니다.",
+          "score": "9.2",
+          "country": "日本",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들 위치 위치 다 너무너무 좋아요.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "레스토랑, 미니 마켓, 모터바이크 대여, 스파, 해변, 쇼핑몰",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2023.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "암나야 리조트 쿠타 (Amnaya Resort Kuta)",
+      "agodaUrl": "https://www.agoda.com/amnaya-resort-kuta/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/920599/-1/eb3c7d70057ec9dc6e77b9cc7ec7c397.jpg?ca=6&ce=1",
+      "score": 9.3,
+      "reviewCount": 21275,
+      "reviewCountFmt": "21,275건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 108,
+      "refLabel": "테갈 사리 버스터미널",
+      "star": 4,
+      "blurb": "평점 9.3 · 리뷰 21,275건. 테갈 사리 버스터미널 도보 108분, ₩₩ · 약 13만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 21,275건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원 모두는 똑같이 밝고 도움이 되는 태도를 가지고 있습니다.",
+          "score": "9.6",
+          "country": "Norge",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "나는 그것을 강력히 추천하고 다시 방문하기를 기대합니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "Amnaya Resort Kuta의 환대는 정말 최고 수준입니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "다양한 일광욕용 라운저가 구비된 대형 수영장이 있습니다.",
+          "score": "10",
+          "country": "Украина",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 Amnaya에서 일주일을 보냈고 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "더 카욘 정글 리조트 (The Kayon Jungle Resort)",
+      "agodaUrl": "https://www.agoda.com/the-kayon-jungle-resort/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5324904/-1/4fa402370854faaf9f5fe6f7f8893ac2.jpg?ca=7&ce=1",
+      "score": 9.1,
+      "reviewCount": 4813,
+      "reviewCountFmt": "4,813건",
+      "priceText": "₩₩₩ · 약 76만원",
+      "walkMin": 118,
+      "refLabel": "로카 스라나 버스터미널",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 4,813건. 로카 스라나 버스터미널 도보 118분, ₩₩₩ · 약 76만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 76만원",
+        "📝 리뷰 4,813건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 우리가 행복했는지 확인하기 위해 계속해서 노력했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "스파와 일출 요가 수업이 우리가 가장 좋아했습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 항상 아름다운 미소로 매우 도움이 됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "직원들은 관광객을 다시 만나서 매우 기뻤습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "이 리조트의 고객 서비스는 탁월합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-06T22:10:08.589Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

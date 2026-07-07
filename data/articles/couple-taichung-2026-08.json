@@ -1,0 +1,493 @@
+{
+  "slug": "couple-taichung-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "타이중",
+  "citySlug": "taichung",
+  "cityId": 12080,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=12080",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 타이중 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "타이중 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 65%로 연인여행 기준 1순위는 <b>丰森호텔</b>입니다 (평점 9·리뷰 148건·1박 약 16만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 26,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 17,
+        "pct": 65
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 19
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 12
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/81213815/0/007d0cf71111dd37c418dbb031f516fd.png?ce=3",
+  "heroAlt": "타이중 연인여행",
+  "updated": "2026-07-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "丰森호텔 (丰森酒店 Fosen Hotel)",
+      "agodaUrl": "https://www.agoda.com/fosen-hotel/hotel/taichung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/81213815/0/007d0cf71111dd37c418dbb031f516fd.png?ce=3",
+      "score": 9,
+      "reviewCount": 148,
+      "reviewCountFmt": "148건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 12,
+      "refLabel": "Tonglian Bus Station",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 148건. Tonglian Bus Station 도보 12분, ₩₩ · 약 16만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 148건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "편안한 숙박",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "하이리버 호텔 (HiRiver Hotel)",
+      "agodaUrl": "https://www.agoda.com/hiriver-hotel/hotel/taichung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/231/23136212/23136212_21032521000095696902.jpg?ca=18&ce=1",
+      "score": 8.7,
+      "reviewCount": 1482,
+      "reviewCountFmt": "1,482건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 5,
+      "refLabel": "타이중역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 1,482건. 타이중역 도보 5분, ₩₩ · 약 12만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 1,482건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 깨끗했고 직원들은 매우 친절했습니다.",
+          "score": "10",
+          "country": "Suomi",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 연기 냄새나 눈에 띄는 먼지도 없었습니다.",
+          "score": "8",
+          "country": "日本",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "숙박 및 휴식 모두 매우 만족스럽습니다",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "로비는 깨끗하고 리셉션은 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "가격대비 아무런 문제가 없었고 매우 깨끗한 숙소였습니다.",
+          "score": "9.2",
+          "country": "Taiwan",
+          "date": "2024.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "아다지오 호스텔 (Adagio Hostel)",
+      "agodaUrl": "https://www.agoda.com/adagio-hostel/hotel/taichung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8110292/-1/49b4e472d127828503304dadfd036dd9.jpg?ca=11&ce=1",
+      "score": 8.9,
+      "reviewCount": 10241,
+      "reviewCountFmt": "10,241건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 8,
+      "refLabel": "간청 버스터미널",
+      "star": 2,
+      "blurb": "평점 8.9 · 리뷰 10,241건. 간청 버스터미널 도보 8분, ₩₩ · 약 10만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 10,241건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "버스 정류장과 시장, 편의점이 가깝습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "이 가격에 나만의 방을 얻는 것은 훌륭한 거래입니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "저는 이 호스텔을 정말 좋아해요 하하, 모든 게 다 좋아요.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "좋은 크기의 객실과 가격 대비 경쟁력이 매우 뛰어납니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 정말 친절했고 어떤 요청에도 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "호텔 내셔널 (Hotel National)",
+      "agodaUrl": "https://www.agoda.com/hotel-national/hotel/taichung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/246346/0/9e286d0494438bb401db5a8bb433d468.png?ce=3",
+      "score": 8.6,
+      "reviewCount": 12696,
+      "reviewCountFmt": "12,696건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 10,
+      "refLabel": "Tonglian Bus Station",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 12,696건. Tonglian Bus Station 도보 10분, ₩₩ · 약 13만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 12,696건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 넓고 깨끗했으며 침구도 편안했습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "호텔 숙박 및 서비스는 가격 대비 높은 가치를 제공했습니다.",
+          "score": "8.8",
+          "country": "中國香港",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "그리고 호텔은 태양조차도 질투할 정도로 중심에 있었습니다!",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭하고 직원들은 친절하고 협조적입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에 대해 충분히 좋은 말을 할 수 없습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "1969 블루스카이 체크인 (BlueSky Hotel)",
+      "agodaUrl": "https://www.agoda.com/1969-blue-sky-hotel_3/hotel/taichung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1179332/0/b65c74bd7ad107a0b53107bc596eb0c0.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 5809,
+      "reviewCountFmt": "5,809건",
+      "priceText": "₩₩ · 약 17만원",
+      "walkMin": 7,
+      "refLabel": "간청 버스터미널",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 5,809건. 간청 버스터미널 도보 7분, ₩₩ · 약 17만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 5,809건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "대만에 머무는 동안 최고의 호텔 중 하나였습니다!",
+          "score": "10",
+          "country": "Italia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 모든 면에서 기대 이상이었습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "아름다운 가구와 놀라운 전망을 갖춘 멋진 객실입니다.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "호텔은 도움이 되고 친절한 직원과 함께 훌륭한 서비스를 제공했습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 퀸사이즈 침대 2개가 있습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "라 비다 호텔 (La Vida Hotel)",
+      "agodaUrl": "https://www.agoda.com/la-vida-hotel/hotel/taichung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/773/773214/773214_16062709030044118681.jpg?ca=6&ce=1",
+      "score": 9,
+      "reviewCount": 16251,
+      "reviewCountFmt": "16,251건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 10,
+      "refLabel": "Kongjunyihao Bus Station",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 16,251건. Kongjunyihao Bus Station 도보 10분, ₩₩ · 약 16만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 16,251건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔은 야시장과 식당과 매우 가깝습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리가 얻은 음식과 품질의 다양성은 놀라웠습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "처음으로 호텔에 묵었고 매우 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 편안한 객실, 매우 괜찮은 아침 식사.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 훌륭하고 다양한 옵션과 좌석이 제공됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T22:08:04.004Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

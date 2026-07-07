@@ -1,0 +1,507 @@
+{
+  "slug": "couple-jeju-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "제주",
+  "citySlug": "jeju",
+  "cityId": 16901,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16901",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 제주 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "제주 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 80%로 연인여행 기준 1순위는 <b>오션스위츠 제주호텔</b>입니다 (평점 8.5·리뷰 13,389건·1박 약 10만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/178/178557/178557_16102016060047974534.jpg?ca=6&ce=1",
+  "heroAlt": "제주 연인여행",
+  "updated": "2026-07-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "오션스위츠 제주호텔 (Ocean Suites Jeju Hotel)",
+      "agodaUrl": "https://www.agoda.com/ocean-suites-jeju-hotel/hotel/jeju-island-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/178/178557/178557_16102016060047974534.jpg?ca=6&ce=1",
+      "score": 8.5,
+      "reviewCount": 13389,
+      "reviewCountFmt": "13,389건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 28,
+      "refLabel": "제주시 버스터미널",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 13,389건. 제주시 버스터미널 도보 28분, ₩₩ · 약 10만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 13,389건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "진정한 보석은 도움이 되고 쾌활한 직원이었습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "그들은 우리가 머무는 동안 일관되게 방을 관리했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "전망은 편안했고 우리의 숙박을 더욱 특별하게 만들었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 우리의 숙박은 매우 편안하고 편안했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 바다 전망 방을 가지고 있었는데, 정말 즐거웠습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 화인 제주 (Hotel Fine Jeju )",
+      "agodaUrl": "https://www.agoda.com/h31611941/hotel/jeju-island-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31611941/-1/5ab0dd74c7cf67f996eb18185700c34a.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 6389,
+      "reviewCountFmt": "6,389건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 10,
+      "refLabel": "정방 폭포",
+      "star": 4,
+      "blurb": "평점 8.8 · 리뷰 6,389건. 정방 폭포 도보 10분, ₩ · 약 7만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 6,389건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 휘파람처럼 깨끗했고 매우 현대적이었습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "아늑한 룸컨디션, 친절한 직원, 최고의 조식!",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "스위트 룸은 넓고 바다 전망이 아름답습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 깨끗하고 호텔 직원은 인내심이 많고 친절합니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "파인스위트에 묵었는데 너무 넓고 편안했습니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "코업 시티 호텔 성산 (Co-op City Hotel Seongsan)",
+      "agodaUrl": "https://www.agoda.com/co-op-city-hotel-seongsan/hotel/jeju-island-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1636492/-1/e216016217ad608ee0783ada88be3f53.jpg?ca=27&ce=0",
+      "score": 8.5,
+      "reviewCount": 11501,
+      "reviewCountFmt": "11,501건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 9,
+      "refLabel": "성산일출봉",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 11,501건. 성산일출봉 도보 9분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 11,501건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원도 친절하고 숙소도 깨끗하고 좋습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "앞으로 다시 돌아올 것입니다. Co-op에게 감사드립니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 호텔에서 매우 편안하고 즐거운 시간을 보냈습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "처음으로 제주를 방문했는데 이 호텔이 저를 놀라게 했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "위치는 지역을 탐험하기에 완벽했습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "제주 노블레스 관광호텔 (Hotel Noblesse Jeju)",
+      "agodaUrl": "https://www.agoda.com/jeju-noblesse-hotel/hotel/jeju-island-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3461134/-1/556bf3d16aa9d67fc352d3984f454e12.jpg?ca=7&ce=1",
+      "score": 8.3,
+      "reviewCount": 4917,
+      "reviewCountFmt": "4,917건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 14,
+      "refLabel": "제주시 버스터미널",
+      "star": 4,
+      "blurb": "평점 8.3 · 리뷰 4,917건. 제주시 버스터미널 도보 14분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 4,917건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 차갑고 깔끔하며, 소파와 식사 공간이 있습니다.",
+          "score": "10",
+          "country": "韩国",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "모든 직원은 매우 친절하며 항상 고객을 도울 준비가 되어 있습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "이곳에 머물게 되어 매우 기쁩니다. 직원들은 매우 친절하고 협조적입니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "공항 근처에는 공항까지 무료 셔틀 서비스가 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "공항까지 무료 셔틀이 매우 감사합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "에벤에셀 제주 함덕호텔 (Ebenezer Hotel)",
+      "agodaUrl": "https://www.agoda.com/ebenezer-hotel/hotel/jeju-island-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/636/6367692/6367692_18121713490070423873.jpg?ca=7&ce=1",
+      "score": 8.5,
+      "reviewCount": 14948,
+      "reviewCountFmt": "14,948건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 123,
+      "refLabel": "만장굴",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 14,948건. 만장굴 도보 123분, ₩₩ · 약 12만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 14,948건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "해변 옆에 있으며 맛있는 레스토랑과 가깝습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "오션뷰 객실에서는 바다가 보이는 멋진 전망을 즐기실 수 있습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "아늑한 침대와 멋진 바다 전망.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "나는 앞으로 다시 여기에 머물 것입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안해서 적극 추천합니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "맹그로브 제주시티 (Mangrove Jeju City)",
+      "agodaUrl": "https://www.agoda.com/mangrove-jeju-city/hotel/jeju-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/60927713/-1/6cdeac6a74f341d4801a783ac5472cfa.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 1596,
+      "reviewCountFmt": "1,596건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 26,
+      "refLabel": "제주시 버스터미널",
+      "star": null,
+      "blurb": "평점 9 · 리뷰 1,596건. 제주시 버스터미널 도보 26분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,596건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 다른 것이 필요하지 않은 완벽한 3박을 보냈습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 단순하며 훌륭한 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "제주에 다시 오면 이 호텔을 다시 선택하겠습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "멋진 바다 전망을 자랑하는 호텔 옥상이 아름답습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원들 모두 친절하고 친절해요!",
+          "score": "10",
+          "country": "日本",
+          "date": "2025.07",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T22:07:26.212Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

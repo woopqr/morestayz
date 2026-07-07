@@ -1,0 +1,487 @@
+{
+  "slug": "couple-phuket-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "푸켓",
+  "citySlug": "phuket",
+  "cityId": 16056,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16056",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 푸켓 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "푸켓 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 93%로 연인여행 기준 1순위는 <b>나이양 파크 리조트</b>입니다 (평점 8.7·리뷰 1,493건·1박 약 5만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 28,
+        "pct": 93
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/14874647/0/96449315f3d02e482f61024de77481dc.jpg?ce=3",
+  "heroAlt": "푸켓 연인여행",
+  "updated": "2026-07-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "나이양 파크 리조트 (Naiyang Park Resort)",
+      "agodaUrl": "https://www.agoda.com/naiyang-park-resort/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/14874647/0/96449315f3d02e482f61024de77481dc.jpg?ce=3",
+      "score": 8.7,
+      "reviewCount": 1493,
+      "reviewCountFmt": "1,493건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 1,
+      "refLabel": "나이 양 비치",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 1,493건. 나이 양 비치 도보 1분, ₩ · 약 5만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,493건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "우리는 숙박을 좋아했고 호텔 직원은 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매우 친절한 직원 덕분에 즐거운 숙박이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭했고 원할 때마다 공항 교통편을 제공했습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "다음에 푸켓에 오면 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "해변과 음식을 판매하는 작은 야시장에 가기 좋은 위치입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더 식스틴트 나이양 비치 호텔 - 프리 스케줄 에어포트 셔틀 (The Sixteenth Naiyang Beach Hotel  - Free Schedule Airport Shuttle)",
+      "agodaUrl": "https://www.agoda.com/the-sixteenth-naiyang-beach-hotel/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1157049/0/86a5f9cc724c9c791faa2104629132b8.jpg?ce=2",
+      "score": 8.6,
+      "reviewCount": 3720,
+      "reviewCountFmt": "3,720건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 13,
+      "refLabel": "나이 양 비치",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 3,720건. 나이 양 비치 도보 13분, ₩ · 약 4만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 3,720건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그리고 좋고 단단한 침대가 있는 조용한 방에서 푹 잤습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "공항 전망을 감상할 수 있는 환상적인 옥상 수영장, 훌륭해요! ✈️",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 충분히 넓었고, 아침 식사는 훌륭했습니다.",
+          "score": "8",
+          "country": "Nederland",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "즐거운 시간을 보냈고 직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "9.6",
+          "country": "Cayman Islands",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "호텔 옥상에는 공항이 내려다보이는 수영장이 있습니다.",
+          "score": "9.6",
+          "country": "South Africa",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "펄 호텔 푸켓 (Pearl Hotel Phuket)",
+      "agodaUrl": "https://www.agoda.com/pearl-hotel/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10919/0/0eba459a1de05901e8fa63bc338c694f.jpg?ce=3",
+      "score": 8.4,
+      "reviewCount": 2355,
+      "reviewCountFmt": "2,355건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 6,
+      "refLabel": "푸켓타운 제1 로컬 버스 터미널",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 2,355건. 푸켓타운 제1 로컬 버스 터미널 도보 6분, ₩ · 약 4만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 2,355건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원 서비스는 10/10이었고 매우 유익한 숙박이었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "앞으로도 이 호텔을 다시 방문하고 싶습니다",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "호텔은 모든 편의 시설을 갖추고 깨끗하며 사람들은 매우 협조적입니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 조용하고 깨끗하며 아침 식사가 훌륭합니다.",
+          "score": "9.6",
+          "country": "Irlanda",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "수영장도 좋고 직원도 친절하고 돈 가치가 충분히 있어요",
+          "score": "7.2",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "그랜드 머큐어 푸켓 파통 (Grand Mercure Phuket Patong)",
+      "agodaUrl": "https://www.agoda.com/grand-mercure-phuket-patong/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/568961/-1/b694a8e9ba11167b309eec548aa9698f.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 5106,
+      "reviewCountFmt": "5,106건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 99,
+      "refLabel": "미니버스정류장",
+      "star": 5,
+      "blurb": "평점 8.6 · 리뷰 5,106건. 미니버스정류장 도보 99분, ₩₩ · 약 12만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 5,106건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "바통 해변을 둘러보고 싶을 때 최고의 위치.",
+          "score": "7.6",
+          "country": "대한민국",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 리조트, 메이와 라일라가 우리를 잘 보살펴주었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 추가 비용이 드는 수영장 이용 객실을 예약했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.04",
+          "translated": true
+        },
+        {
+          "text": "시장의 밤 저녁 식사는 매우 좋은 경험이었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 수영장이 내려다 보이는 넓었습니다.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "푸켓 에어포트 호텔 (Phuket Airport Hotel)",
+      "agodaUrl": "https://www.agoda.com/phuket-airport-hotel/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/89340/0/48beda9ffb8843b7bd95665069d260f0.png?ce=3",
+      "score": 9.2,
+      "reviewCount": 3034,
+      "reviewCountFmt": "3,034건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 14,
+      "refLabel": "나이 양 비치",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 3,034건. 나이 양 비치 도보 14분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,034건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 깨끗하고 단기 체류에도 충분히 편안합니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "직원은 사랑스럽고 도움이되며 객실은 흠 잡을 데가 없습니다!",
+          "score": "10",
+          "country": "Belgium",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔, 친절한 직원, 공항 근처의 완벽한 장소.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "공항으로 향하기 전에 머물기에 좋은 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 직원들은 모두 매우 친절하고 협조적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "카사 블랑카 부티크 호텔 푸켓 (Casa Blanca Boutique Hotel Phuket)",
+      "agodaUrl": "https://www.agoda.com/casa-blanca-boutique-hotel-phuket/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/285997/0/89da6dbe6388f5d0a40d934ae6017684.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 3042,
+      "reviewCountFmt": "3,042건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 7,
+      "refLabel": "푸켓타운 제1 로컬 버스 터미널",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 3,042건. 푸켓타운 제1 로컬 버스 터미널 도보 7분, ₩ · 약 8만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 3,042건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "뛰어난 직원, 특히 추가 노력을 기울인 Prim.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "부티크는 모든 것 안에 완벽하게 위치해 있었습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗했고 건축물은 아름다웠습니다!",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭하고 객실은 매력적이고 깨끗합니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "위치는 시내 중심에 있어 아주 좋습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-07T22:08:46.450Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

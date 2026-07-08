@@ -1,0 +1,155 @@
+{
+  "slug": "couple-penang-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "그라페나우",
+  "citySlug": "penang",
+  "cityId": 10462,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=10462",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 그라페나우 - 기념일을 완성하는 분위기 호텔",
+  "metaDescription": "그라페나우 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "연인여행 기준 1순위는 <b>Pension Bachlhof</b>입니다 (평점 8.7·리뷰 207건·1박 약 8만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": null,
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/266829763.jpg?k=0323b1e40363032a07af2d78fe599e5ad208f3a48f878205eeaafba592c0cec0&o=",
+  "heroAlt": "그라페나우 연인여행",
+  "updated": "2026-07-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Pension Bachlhof",
+      "agodaUrl": "https://www.agoda.com/pension-bachlhof/hotel/all/fursteneck-de.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/266829763.jpg?k=0323b1e40363032a07af2d78fe599e5ad208f3a48f878205eeaafba592c0cec0&o=",
+      "score": 8.7,
+      "reviewCount": 207,
+      "reviewCountFmt": "207건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 207건. 주요 역 도보 null분, ₩ · 약 8만원.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 207건",
+        "⭐ 3성급"
+      ],
+      "travelerTypes": null,
+      "reviews": []
+    },
+    {
+      "rank": 2,
+      "name": "Landhotel Zum Jagerstockl",
+      "agodaUrl": "https://www.agoda.com/landhotel-zum-jagerstockl/hotel/all/grafenau-de.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/433632081.jpg?k=121e2657049fd8453e7227552e3bc384dff8be8915fbecd10b1feacf27d9da98&o=",
+      "score": 8.6,
+      "reviewCount": 296,
+      "reviewCountFmt": "296건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 8.6 · 리뷰 296건. 주요 역 도보 null분, ₩ · 약 7만원.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 296건"
+      ],
+      "travelerTypes": null,
+      "reviews": []
+    },
+    {
+      "rank": 3,
+      "name": "Landgasthof Lusenblick",
+      "agodaUrl": "https://www.agoda.com/landgasthof-lusenblick/hotel/all/grafenau-de.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/303049415.jpg?k=42b3d4cc5bdd45eea312ee405d7e058f29df026744185e2a4d32b64675bb1753&o=",
+      "score": 9.2,
+      "reviewCount": 109,
+      "reviewCountFmt": "109건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 9.2 · 리뷰 109건. 주요 역 도보 null분, ₩₩ · 약 13만원.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 109건"
+      ],
+      "travelerTypes": null,
+      "reviews": []
+    },
+    {
+      "rank": 4,
+      "name": "Haus Rita",
+      "agodaUrl": "https://www.agoda.com/haus-rita/hotel/all/thurmansbang-de.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/807652808.jpg?k=2b708093f6aaabc57459272470776d9776b51b6ce10fba0549bb8a08766c1452&o=",
+      "score": 8.8,
+      "reviewCount": 91,
+      "reviewCountFmt": "91건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 4,
+      "blurb": "평점 8.8 · 리뷰 91건. 주요 역 도보 null분, ₩₩ · 약 11만원.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 91건",
+        "⭐ 4성급"
+      ],
+      "travelerTypes": null,
+      "reviews": []
+    },
+    {
+      "rank": 5,
+      "name": "Zehrermühle Campinghütte (Zehrermuhle Campinghutte)",
+      "agodaUrl": "https://www.agoda.com/zehrermuhle-campinghutte/hotel/all/innernzell-de.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/803802428.jpg?k=3b4c52dcef5856da90f0958b26aeaf79f916d57875c06e110ffd160d6d25339d&o=",
+      "score": 8.7,
+      "reviewCount": 104,
+      "reviewCountFmt": "104건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 2.5,
+      "blurb": "평점 8.7 · 리뷰 104건. 주요 역 도보 null분, ₩₩ · 약 9만원.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 104건",
+        "⭐ 2.5성급"
+      ],
+      "travelerTypes": null,
+      "reviews": []
+    },
+    {
+      "rank": 6,
+      "name": "Landhotel-Gasthof-Schreiner",
+      "agodaUrl": "https://www.agoda.com/landhotel-gasthof-schreiner/hotel/all/hohenau-de.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/320481/0/d46f7cba6a8e68f2421774742e7ca655.jpeg",
+      "score": 8.5,
+      "reviewCount": 397,
+      "reviewCountFmt": "397건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 3,
+      "blurb": "평점 8.5 · 리뷰 397건. 주요 역 도보 null분, ₩₩ · 약 13만원.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 397건",
+        "⭐ 3성급"
+      ],
+      "travelerTypes": null,
+      "reviews": []
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T22:01:33.266Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

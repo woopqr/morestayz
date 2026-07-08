@@ -1,0 +1,499 @@
+{
+  "slug": "couple-nha-trang-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "나트랑",
+  "citySlug": "nha-trang",
+  "cityId": 2679,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=2679",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 나트랑 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "나트랑 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 87%로 연인여행 기준 1순위는 <b>다이아몬드 베이 호텔</b>입니다 (평점 8.7·리뷰 5,489건·1박 약 7만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 26,
+        "pct": 87
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/1162080/0/461090ca7632b761e54d6f656c6fcbb0.jpg?ce=2",
+  "heroAlt": "나트랑 연인여행",
+  "updated": "2026-07-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "다이아몬드 베이 호텔 (Diamond Bay Hotel)",
+      "agodaUrl": "https://www.agoda.com/diamond-bay-hotel/hotel/nha-trang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1162080/0/461090ca7632b761e54d6f656c6fcbb0.jpg?ce=2",
+      "score": 8.7,
+      "reviewCount": 5489,
+      "reviewCountFmt": "5,489건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 16,
+      "refLabel": "나트랑역",
+      "star": 5,
+      "blurb": "평점 8.7 · 리뷰 5,489건. 나트랑역 도보 16분, ₩ · 약 7만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 5,489건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "제가 갈 수 없다고 했더니 호텔 측에서 전액 환불해 줬어요.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 환대와 매우 도움이 되는 직원을 갖춘 놀라운 호텔입니다.",
+          "score": "10",
+          "country": "Magyarország",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 시설도 좋고 조식도 포함되어 있어요.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "놀라운 호텔, 훌륭한 직원, 매우 만족했습니다. 감사합니다",
+          "score": "10",
+          "country": "Česká republika",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "해변 산책로 한가운데에 위치한 사랑스럽고 현대적인 호텔입니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2023.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Panorama Nha Trang StarBeach",
+      "agodaUrl": "https://www.agoda.com/star-beach-panorama/hotel/nha-trang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/13486290/-1/333322ba894ab6acd324fafbced7ad3e.jpg?ce=0",
+      "score": 8.3,
+      "reviewCount": 4997,
+      "reviewCountFmt": "4,997건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 21,
+      "refLabel": "나트랑역",
+      "star": 5,
+      "blurb": "평점 8.3 · 리뷰 4,997건. 나트랑역 도보 21분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 4,997건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 위치, 넓은 객실, 현대적, 해변 바로 앞에 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "그래서 여기서 2박을 더 연장했어요.",
+          "score": "10",
+          "country": "France",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "편리한 위치, 해변 근처, 다양한 음식 선택.",
+          "score": "9.6",
+          "country": "越南",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "모든 유명한 스파, 레스토랑, 상점까지 도보로 가까운 거리에 있습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "나트랑의 관광지는 그리 멀지 않습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "퓨전 리조트 깜라인 - 올 스파 인클루시브 (Fusion Resort Cam Ranh - All Spa Inclusive)",
+      "agodaUrl": "https://www.agoda.com/fusion-resort-cam-ranh-all-spa-inclusive_2/hotel/nha-trang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/908244/0/fddad44c1df5dc73e0a0e36501b7381a.jpg?ce=2",
+      "score": 8.9,
+      "reviewCount": 8294,
+      "reviewCountFmt": "8,294건",
+      "priceText": "₩₩₩ · 약 67만원",
+      "walkMin": 42,
+      "refLabel": "Bai Dai Beach",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 8,294건. Bai Dai Beach 도보 42분, ₩₩₩ · 약 67만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 67만원",
+        "📝 리뷰 8,294건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "장소, 직원, 전망 모든 것이 훌륭했습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "룸컨디션은 매우 좋았으며 매우 상쾌한 느낌을 받았습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "음식은 맛있었고 내 기대를 모두 충족했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "전용 수영장이 있는 빌라는 내부가 너무 넓어서 놀랍습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 넓고 현대적이며 흠 하나 없이 깨끗했습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "시사이드 부티크 호텔 나트랑 비치 (Seaside Boutique Hotel Nha Trang Beach)",
+      "agodaUrl": "https://www.agoda.com/seaside-boutique-hotel-nha-trang-beach/hotel/nha-trang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/67349925/0/9a0693f14841573b2625fe2502f9d48b.jpg?ce=2",
+      "score": 9.1,
+      "reviewCount": 2550,
+      "reviewCountFmt": "2,550건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 17,
+      "refLabel": "나트랑역",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 2,550건. 나트랑역 도보 17분, ₩₩ · 약 9만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 2,550건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "놀라운 환대, 훌륭한 위치, 벌레 없이 깨끗함",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "나트랑에서 묵었던 호텔 중 가장 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "그녀는 우리의 숙박을 편안하고 기억에 남게 만들었습니다!!",
+          "score": "9.2",
+          "country": "日本",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "방은 훌륭했고 직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 모든 사람에게 귀하의 호텔을 확실히 추천할 것입니다!",
+          "score": "9.2",
+          "country": "日本",
+          "date": "2025.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "리브라 호텔 나트랑 (Libra Hotel Nha Trang)",
+      "agodaUrl": "https://www.agoda.com/libra-nha-trang-hotel/hotel/nha-trang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5059416/-1/e2a1282e593d4eb2bb0dd181ad023516.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 4314,
+      "reviewCountFmt": "4,314건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 17,
+      "refLabel": "나트랑역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 4,314건. 나트랑역 도보 17분, ₩₩ · 가격 변동. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 4,314건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔은 도시 전망이 보이는 무료 객실 업그레이드를 제공했습니다!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "객실 품질도 좋고 서비스도 최고입니다. 적극 추천합니다!!",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되고 친절합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 신선하며 좋은 아침 식사, 매우 세심한 직원.",
+          "score": "10",
+          "country": "Russia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "해변에서 몇 블록 떨어진 곳에 위치한 아름다운 호텔입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "사타 호텔 (Sata Hotel)",
+      "agodaUrl": "https://www.agoda.com/sata-hotel_2/hotel/nha-trang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6253467/-1/c0040fe7ca38e32373be43db59504d0a.jpg?ca=9&ce=1",
+      "score": 8.9,
+      "reviewCount": 7739,
+      "reviewCountFmt": "7,739건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 18,
+      "refLabel": "나트랑역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 7,739건. 나트랑역 도보 18분, ₩₩ · 가격 변동. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 7,739건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "최고의 음식과 술집의 위치는 5개의 통계를 제공합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "Wi-Fi는 매우 빠르며 온라인으로 작업할 때 매우 좋습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "Sata 호텔은 특히 가격 대비 놀라운 호텔입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "야시장, 레스토랑, 마사지 장소와 가깝습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "위치가 매우 좋고 관광객들에게 편리합니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.09",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T22:01:05.598Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

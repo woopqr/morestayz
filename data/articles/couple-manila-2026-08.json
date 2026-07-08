@@ -1,0 +1,513 @@
+{
+  "slug": "couple-manila-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "마닐라",
+  "citySlug": "manila",
+  "cityId": 1622,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=1622",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 마닐라 - 기념일을 완성하는 분위기 호텔",
+  "metaDescription": "마닐라 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 77%로 연인여행 기준 1순위는 <b>구이조 스위트 마카티</b>입니다 (평점 8.7·리뷰 10,574건·1박 약 3만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/287/287139/287139_14032820240018900728.jpg?ca=2&ce=1",
+  "heroAlt": "마닐라 연인여행",
+  "updated": "2026-07-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "구이조 스위트 마카티 (Guijo Suites Makati)",
+      "agodaUrl": "https://www.agoda.com/guijo-suites-makati/hotel/manila-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/287/287139/287139_14032820240018900728.jpg?ca=2&ce=1",
+      "score": 8.7,
+      "reviewCount": 10574,
+      "reviewCountFmt": "10,574건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 11,
+      "refLabel": "Dela Rosa Street",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 10,574건. Dela Rosa Street 도보 11분, ₩ · 약 3만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 10,574건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그리고 물론 호텔 매니저가 큰 변화를 가져왔습니다.",
+          "score": "10",
+          "country": "France",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "그러나 전반적으로 이곳은 머물고, 쉬고, 일하기 좋은 곳입니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "적극 추천하며 꼭 다시 방문할 것입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 아름답게 장식되었고 흠 하나 없이 깨끗했습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 욕실은 깨끗했습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔101 - 포트 (Hotel101 - Fort)",
+      "agodaUrl": "https://www.agoda.com/hotel101-fort/hotel/manila-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41042753/0/8c599294351e1b462a75cc468a00f7cb.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 14502,
+      "reviewCountFmt": "14,502건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 3,
+      "refLabel": "워디 버스 정류장",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 14,502건. 워디 버스 정류장 도보 3분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 14,502건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 직원은 매우 열심히 일하며 매우 친절하고 도움이 됩니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 깨끗하고 객실에는 새 가전 제품이 있습니다.",
+          "score": "9.6",
+          "country": "Филиппины",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "전자레인지와 냉장고가 있는 이 호텔이 마음에 듭니다. 아주 새 호텔입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 매우 깨끗하고 잘 관리되어 있으며 편안했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 편안하며 다양한 편의 시설을 갖추고 있습니다.",
+          "score": "9.2",
+          "country": "Guam",
+          "date": "2025.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "젠 프리미엄 델라 샹브르 호텔 (ZEN Premium Dela Chambre Hotel Manila)",
+      "agodaUrl": "https://www.agoda.com/zen-premium-dela-chambre-hotel-manila-h14381477/hotel/manila-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/14381477/-1/5dfd9822f0ecac3cd2f8aabceac37833.jpg?ca=11&ce=1",
+      "score": 8.4,
+      "reviewCount": 81,
+      "reviewCountFmt": "81건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 10,
+      "refLabel": "Tutuban",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 81건. Tutuban 도보 10분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 81건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "마닐라에 올 때마다 이 호텔에 머무르는 것을 좋아합니다!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "마닐라 쇼핑센터(Divisoria) 중심부에 위치합니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "그리고 예산 친화적인 가격은 품질을 훔치는 것입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "우리 YOUNG 영업팀은 편히 잠들었습니다",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "쇼핑 지구의 중심부에 위치한 가장 저렴한 숙박 시설",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "그랜드 웨스트사이드 마닐라 베이 (Grand Westside Manila Bay)",
+      "agodaUrl": "https://www.agoda.com/grand-westside-hotel/hotel/paranaque-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55958058/-1/f72ecc4bc64d7676c3595449d3aacb55.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 5127,
+      "reviewCountFmt": "5,127건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 15,
+      "refLabel": "Airport",
+      "star": null,
+      "blurb": "평점 9 · 리뷰 5,127건. Airport 도보 15분, ₩₩ · 약 15만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 5,127건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "가격 대비 편의 시설이 인상적입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "모두가 매우 세심하고 자신이 하는 일에 자부심을 갖고 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "그들의 서비스는 5성급 호텔 그 이상입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "그랜드 웨스트 사이드 호텔(Grand West Side Hotel)은 그 이름에 걸맞은 호텔입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 또한 호텔의 식사 옵션에 깊은 인상을 받았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "마닐라 프린스 호텔 (Manila Prince Hotel)",
+      "agodaUrl": "https://www.agoda.com/manila-prince-hotel/hotel/manila-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/15948148/0/d798ab7fa549ee6eee40a9029907ba67.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 11682,
+      "reviewCountFmt": "11,682건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 3,
+      "refLabel": "지하철역",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 11,682건. 지하철역 도보 3분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 11,682건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들에게 조식 뷔페도 최고입니다!!!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "모든 것에 쉽게 접근할 수 있는 완벽한 위치입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "이 3성급 호텔은 저를 놀라게 한 5성급 서비스를 제공했습니다!",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "경비원은 모두 미소 짓고 친절하며 접수원은 효율적입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "호텔에 발을 디딘 순간 우리는 따뜻한 환영을 느꼈습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "퀘스트 플러스 필인베스트 시티 마닐라 (Quest Plus Filinvest City Manila)",
+      "agodaUrl": "https://www.agoda.com/quest-plus-filinvest-city-manila/hotel/manila-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/394310/-1/d912cc876d52ca3d62ad07b2572f3b86.jpg?ca=12&ce=1",
+      "score": 8.8,
+      "reviewCount": 14822,
+      "reviewCountFmt": "14,822건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 7,
+      "refLabel": "알라방역",
+      "star": 5,
+      "blurb": "평점 8.8 · 리뷰 14,822건. 알라방역 도보 7분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 14,822건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "몇 분 안에 이러한 장소까지 쉽게 걸어갈 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "호텔은 또한 다양한 식사 옵션을 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "Crimson은 알라방에 있을 때 가장 완벽한 호텔입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "크림슨 호텔에서의 우리의 체류는 마법과도 같았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "모두가 매우 친절하고 도움이 되었으며 진심으로 환영해주었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-08T22:01:32.444Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

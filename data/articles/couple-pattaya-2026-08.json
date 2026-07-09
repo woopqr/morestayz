@@ -1,0 +1,534 @@
+{
+  "slug": "couple-pattaya-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "파타야",
+  "citySlug": "pattaya",
+  "cityId": 8584,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=8584",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 파타야 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "파타야 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 70%로 연인여행 기준 1순위는 <b>헬스 랜드 리조트 앤 스파</b>입니다 (평점 8.9·리뷰 5,521건·1박 약 9만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 70
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/5826790/0/87fd38b954647cc969fda0d4ae686d73.png?ce=0",
+  "heroAlt": "파타야 연인여행",
+  "updated": "2026-07-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "헬스 랜드 리조트 앤 스파 (Health Land Resort & Spa)",
+      "agodaUrl": "https://www.agoda.com/health-land-resort-spa/hotel/pattaya-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5826790/0/87fd38b954647cc969fda0d4ae686d73.png?ce=0",
+      "score": 8.9,
+      "reviewCount": 5521,
+      "reviewCountFmt": "5,521건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 9,
+      "refLabel": "Pattaya South",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 5,521건. Pattaya South 도보 9분, ₩₩ · 약 9만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 5,521건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "제가 태국에서 머물렀던 최고의 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "호텔에는 최고 품질의 서비스와 함께 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "너무 깨끗하고 시설도 좋고 서비스도 너무 좋았습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "헬스랜드 리조트 & 스파 파타야에서 정말 즐거운 시간을 보냈습니다!",
+          "score": "10",
+          "country": "馬來西亞",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "수영장, 객실, 스파, 카페, 직원 모두가 정말 훌륭했습니다.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "아카라 호텔 파타야 (Akara Hotel Pattaya)",
+      "agodaUrl": "https://www.agoda.com/akara-hotel-pattaya/hotel/pattaya-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49650148/-1/be7fc9725112920cdecfc5b72e2f7ef6.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 8324,
+      "reviewCountFmt": "8,324건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 20,
+      "refLabel": "파타야 버스터미널",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 8,324건. 파타야 버스터미널 도보 20분, ₩₩ · 약 13만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 8,324건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "멋진 전망을 갖춘 더 큰 방으로 무료 업그레이드를 받았습니다.",
+          "score": "9.6",
+          "country": "Switzerland",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "나는 항상 여기에 머물기로 선택했고, 이곳은 결코 인상적이지 않습니다.",
+          "score": "10",
+          "country": "Myanmar",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "파타야에 머물기에 가장 좋은 장소, 고급스럽고 좋은 위치.",
+          "score": "10",
+          "country": "Myanmar",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "그리고 그녀의 식당은 완벽했나요?",
+          "score": "9.2",
+          "country": "Danmark",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "놀라운 옥상 수영장과 다양한 아침 식사가 제공됩니다.",
+          "score": "9.2",
+          "country": "Nederland",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "케이프 다라 리조트 (Cape Dara Resort)",
+      "agodaUrl": "https://www.agoda.com/cape-dara-resort/hotel/pattaya-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/295589/0/d13c58cfaa4d30c4bdeef4f268921936.jpg?ce=3",
+      "score": 8.8,
+      "reviewCount": 22629,
+      "reviewCountFmt": "22,629건",
+      "priceText": "₩₩ · 약 20만원",
+      "walkMin": 28,
+      "refLabel": "파타야 버스터미널",
+      "star": 5,
+      "blurb": "평점 8.8 · 리뷰 22,629건. 파타야 버스터미널 도보 28분, ₩₩ · 약 20만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 22,629건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 넓고 환상적인 바다 전망을 자랑합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "Cape Dara는 모든 면에서 우리의 기대를 뛰어넘었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "앞으로도 파타야 갈 때마다 여기 묵을 예정이에요",
+          "score": "10",
+          "country": "India",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "한 가지 좋은 점은 메인 수영장을 자정까지 이용할 수 있다는 점입니다.",
+          "score": "7.6",
+          "country": "Japan",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 깨끗하며 해변의 놀라운 전망을 제공합니다.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "홀리데이 인 익스프레스 파타야 센트럴 바이 IHG (Holiday Inn Express Pattaya Central By IHG)",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-express-pattaya-central/hotel/pattaya-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7184696/-1/46c125a61003e4abb837304102a57de7.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 5758,
+      "reviewCountFmt": "5,758건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 36,
+      "refLabel": "Pattaya South",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 5,758건. Pattaya South 도보 36분, ₩ · 약 6만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,758건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 Holiday Inn Express Pattaya를 적극 추천합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "객실과 욕실도 정말 좋고 깨끗합니다.",
+          "score": "9.6",
+          "country": "South Africa",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "호텔은 깨끗하고 현대적이며 객실은 잘 꾸며져 있습니다.",
+          "score": "9.2",
+          "country": "New Zealand",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 모든 면에서 우리의 기대를 뛰어넘었습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "제 생각에는 이곳이 최고의 숙박 장소 중 하나입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "발리하이 베이 레지던스 (Balihai Bay Residence)",
+      "agodaUrl": "https://www.agoda.com/balihai-bay-residence/hotel/pattaya-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/863/863180/863180_15033018430026595753.jpg?ca=3&ce=1",
+      "score": 8.4,
+      "reviewCount": 8825,
+      "reviewCountFmt": "8,825건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 51,
+      "refLabel": "Pattaya South",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 8,825건. Pattaya South 도보 51분, ₩ · 약 6만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 8,825건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실 자체는 공간과 편안함의 안식처였습니다.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "Balihai Bay Residence에 머무르는 것은 환상적인 경험이었습니다!",
+          "score": "10",
+          "country": "Bangladesh",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "틀린 말은 할 수 없습니다. 숙박에 매우 만족했습니다.",
+          "score": "10",
+          "country": "Hungary",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 완벽했고 훨씬 더 많은 것을 갖춘 바다 전망 객실이었습니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 놀랍도록 넓으며 광고된 대로의 전망을 제공합니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "파타야 모더스 비치프론트 리조트 (Pattaya Modus Beachfront Resort)",
+      "agodaUrl": "https://www.agoda.com/pattaya-modus-beachfront-resort/hotel/pattaya-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1198090/-1/7a72e8db5afa7548bf64f94c4880a998.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 3622,
+      "reviewCountFmt": "3,622건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 38,
+      "refLabel": "파타야 버스터미널",
+      "star": 5,
+      "blurb": "평점 8.5 · 리뷰 3,622건. 파타야 버스터미널 도보 38분, ₩ · 약 6만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,622건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "가격 대비 해변에 바로 접근할 수 있습니다. 예, 부탁드립니다!",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 건강에 좋은 선택이 너무 많아 훌륭했습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "호텔 객실은 편안하고 시설이 잘 갖춰진 공간이었습니다.",
+          "score": "7.2",
+          "country": "Thailand",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되었고 아침 식사는 맛있었습니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "시설은 매우 좋았습니다. 수영장, 헬스장, 전용 해변이 좋았습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T22:17:44.807Z",
+    "source": "agoda citySearch",
+    "daysAhead": 37,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

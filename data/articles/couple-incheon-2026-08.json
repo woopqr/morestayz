@@ -1,0 +1,474 @@
+{
+  "slug": "couple-incheon-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "인천",
+  "citySlug": "incheon",
+  "cityId": 17234,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17234",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 인천 - 기념일을 완성하는 분위기 호텔",
+  "metaDescription": "인천 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 81%로 연인여행 기준 1순위는 <b>인천</b>입니다 (평점 8·리뷰 137건·1박 가격 변동). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 26,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 81
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 12
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/property/66311817/0/5b01c45d3cecfaa0fe111c5d7d3579c4.jpeg?ce=0",
+  "heroAlt": "인천 연인여행",
+  "updated": "2026-07-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "인천(서구) 포시즌 (Incheon (Seo-gu) Four Seasons)",
+      "agodaUrl": "https://www.agoda.com/incheon-seo-gu-four-seasons/hotel/incheon-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/66311817/0/5b01c45d3cecfaa0fe111c5d7d3579c4.jpeg?ce=0",
+      "score": 8,
+      "reviewCount": 137,
+      "reviewCountFmt": "137건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 5,
+      "refLabel": "서구청역",
+      "star": null,
+      "blurb": "평점 8 · 리뷰 137건. 서구청역 도보 5분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 137건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실 공간이 좋고 매일 객실을 청소해 줍니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "베스트웨스턴 프리미어 인천 에어포트 (Best Western Premier Incheon Airport)",
+      "agodaUrl": "https://www.agoda.com/best-western-premier-incheon-airport_10/hotel/incheon-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49124/-1/27315eed5b180c4a048ef7fcbe79add1.jpg?ca=7&ce=1",
+      "score": 8.1,
+      "reviewCount": 18585,
+      "reviewCountFmt": "18,585건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 2,
+      "refLabel": "파라다이스시티역",
+      "star": null,
+      "blurb": "평점 8.1 · 리뷰 18,585건. 파라다이스시티역 도보 2분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 18,585건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "친절한 직원들은 항상 따뜻한 미소로 우리를 맞이해주었습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "방은 편안하게 쉴 수 있는 공간이었어요.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 호텔에서 정말 멋지고 편안한 숙박을 했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "온돌을 즐길 수 있는 깨끗한 바닥과 매트리스가 갖춰져 있었습니다.",
+          "score": "7.6",
+          "country": "South Korea",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스를 제공하는 훌륭한 위치입니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "파라다이스 시티 (Paradise City                                                                               )",
+      "agodaUrl": "https://www.agoda.com/paradise-hotel-resort-paradise-city/hotel/incheon-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2070028/-1/8ae00304b1654429970aacf0b2a31af3.jpg?ca=18&ce=1",
+      "score": 9.1,
+      "reviewCount": 12267,
+      "reviewCountFmt": "12,267건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "파라다이스시티역",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 12,267건. 파라다이스시티역 도보 4분, ₩₩ · 가격 변동. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 12,267건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방 자체는 편안함과 스타일의 안식처였습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 매우 즐거운 시간을 보냈고 전체적으로 편안함을 느꼈습니다.",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 넓었고 우리는 매우 편안한 잠을 잤습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "체류 또는 비행 후 회복을 위해 적극 권장됩니다.",
+          "score": "9.6",
+          "country": "China",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "무료 미니바와 대부분의 시설을 갖춘 멋지고 넓은 객실입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "웨스턴 그레이스 호텔 (Western Grace Hotel)",
+      "agodaUrl": "https://www.agoda.com/western-grace-hotel/hotel/incheon-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2816930/0/b4c5fb57d4b7c97e26553bf38f8611cc.jpg?ce=2",
+      "score": 8,
+      "reviewCount": 2653,
+      "reviewCountFmt": "2,653건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 44,
+      "refLabel": "인천역",
+      "star": 4,
+      "blurb": "평점 8 · 리뷰 2,653건. 인천역 도보 44분, ₩₩ · 약 18만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 2,653건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.1
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전망이 뛰어난 뛰어난 위치의 가격 대비 최고의 가치",
+          "score": "8.4",
+          "country": "South Korea",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 설명과 같았고 훨씬 더 좋았습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "접수원도 매우 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 깨끗했고 직원들이 도움이 되었습니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "호텔은 바다 전망이 훌륭하고 매우 조용합니다.",
+          "score": "7.6",
+          "country": "United States",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "아늑 시그니처 호텔 인천 구월 (Anook Signature Incheon Guwol)",
+      "agodaUrl": "https://www.agoda.com/h39579953/hotel/incheon-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/39579953/0/1efc92e340bf73db92e174065ca2b586.jpg?ce=2",
+      "score": 8.7,
+      "reviewCount": 2797,
+      "reviewCountFmt": "2,797건",
+      "priceText": "₩₩₩ · 약 24만원",
+      "walkMin": 4,
+      "refLabel": "문화예술회관역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 2,797건. 문화예술회관역 도보 4분, ₩₩₩ · 약 24만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 2,797건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 호텔은 기대했던 것보다 모든 면에서 더 좋습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 넓으며, 인천에 오면 머물기에 좋은 숙소입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 침대는 매우 편안하고 깨끗했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했으며 시설도 잘 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "당신은 사생활 보호와 존중이 오래 지속됩니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "호텔 소울하다 인천점 (Hotel Soulhada (Incheon))",
+      "agodaUrl": "https://www.agoda.com/incheon-jakjeondong-soulhada/hotel/incheon-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31678449/-1/322456eebe0b1439c0d975eb17196d22.png?ce=0",
+      "score": 8.9,
+      "reviewCount": 1638,
+      "reviewCountFmt": "1,638건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 13,
+      "refLabel": "임학역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 1,638건. 임학역 도보 13분, ₩₩ · 약 9만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,638건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 완벽했고 매우 편안했으며 아침 식사도 훌륭했습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "시설이 잘 관리되어 있었고 깨끗했어요",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "즐거운 경험을 선사해주신 호텔 소울하다님께 감사드립니다!",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 조용하며 훌륭한 고객 서비스였습니다.",
+          "score": "10",
+          "country": "미국",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "나는 여기에서 체류를 연장했으며 확실히 추천합니다.",
+          "score": "10",
+          "country": "미국",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-09T22:17:10.597Z",
+    "source": "agoda citySearch",
+    "daysAhead": 37,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

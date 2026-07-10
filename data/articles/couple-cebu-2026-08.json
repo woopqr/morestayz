@@ -1,0 +1,485 @@
+{
+  "slug": "couple-cebu-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "세부",
+  "citySlug": "cebu",
+  "cityId": 4001,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4001",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 세부 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "세부 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 93%로 연인여행 기준 1순위는 <b>세부 파크레인 인터내셔널 호텔</b>입니다 (평점 8.6·리뷰 11,774건·1박 약 6만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 28,
+        "pct": 93
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/843/84319/84319_15080614380033781330.jpg?ca=5&ce=1",
+  "heroAlt": "세부 연인여행",
+  "updated": "2026-07-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "세부 파크레인 인터내셔널 호텔 (Cebu Parklane International Hotel)",
+      "agodaUrl": "https://www.agoda.com/cebu-parklane-international-hotel/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/843/84319/84319_15080614380033781330.jpg?ca=5&ce=1",
+      "score": 8.6,
+      "reviewCount": 11774,
+      "reviewCountFmt": "11,774건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 30,
+      "refLabel": "세부 북부 버스터미널",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 11,774건. 세부 북부 버스터미널 도보 30분, ₩ · 약 6만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 11,774건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "여기 경영진은 양질의 호텔을 운영하는 방법을 진정으로 알고 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "그들의 직원은 언제나처럼 매우 도움이 됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 항상 훌륭하고 선택의 폭이 넓습니다.",
+          "score": "9.6",
+          "country": "Qatar",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "호텔 자체뿐만 아니라 직원들도 그리워요.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "정말 눈에 띄는 것은 탁월한 고객 서비스였습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "C스위트 앳 8 뉴타운 막탄 세부 (CSuites at 8 Newtown Mactan Cebu)",
+      "agodaUrl": "https://www.agoda.com/csuites-at-8-newtown-mactan-cebu/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1265222/-1/b455c336c56d410e5ba34d5aae958917.jpg?ca=7&ce=1",
+      "score": 8.2,
+      "reviewCount": 3346,
+      "reviewCountFmt": "3,346건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 50,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 2,
+      "blurb": "평점 8.2 · 리뷰 3,346건. GT Express Terminal Bus Stop H Mall 도보 50분, ₩ · 약 6만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,346건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치도 완벽하고 경치도 좋고 방도 깨끗해요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 꼭 돌아와서 이 멋진 스위트룸에 묵을 것입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 머물기에 편안했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "8 Newtown Blvd에서의 최근 숙박은 정말 훌륭했습니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "약혼자와 함께 6박을 묵었는데 최고였습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "세다 센트럴 블록 세부 시티 (Seda Central Bloc Cebu City)",
+      "agodaUrl": "https://www.agoda.com/seda-central-bloc-cebu/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/12462797/-1/b1a19fe24f5aa68e2267b91b9a974d21.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 10711,
+      "reviewCountFmt": "10,711건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 30,
+      "refLabel": "세부 북부 버스터미널",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 10,711건. 세부 북부 버스터미널 도보 30분, ₩₩ · 약 11만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 10,711건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 모두 수용적이고 세심합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "묵을 곳을 찾으신다면 세다를 추천합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 그것은 우리에게 정말 좋은 경험이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방은 우아하고 넓으며 흠 잡을 데 없이 깔끔했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "호텔은 훌륭하고 직원들은 잘 훈련되어 있습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "플랜테이션 베이 리조트 앤 스파 (Plantation Bay Resort and Spa)",
+      "agodaUrl": "https://www.agoda.com/plantation-bay-resort-spa_4/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/426065172.jpg?k=c82d62a7f7101a9d5e2d1d946870b55c1c2c95a8ba2f3938a8e9ce8a5537bc6c&o=",
+      "score": 8.7,
+      "reviewCount": 5598,
+      "reviewCountFmt": "5,598건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 54,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": null,
+      "blurb": "평점 8.7 · 리뷰 5,598건. GT Express Terminal Bus Stop H Mall 도보 54분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 5,598건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "우리는 스파 활동을 좋아했고 시설은 아름답습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "레이아웃이 너무 아름답고 서비스는 별 5개입니다!!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "리조트는 매우 깨끗하고 훌륭하며 매우 평화롭게 유지됩니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "매우 조용하고 깨끗하며 직원들이 매우 친절합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "최고의 호텔!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "원 센트럴 호텔 (One Central Hotel)",
+      "agodaUrl": "https://www.agoda.com/one-central-hotel/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4913538/-1/b70e4cbeab255b38b3ed38d46c130e8a.jpg?ca=7&ce=1",
+      "score": 8.7,
+      "reviewCount": 9840,
+      "reviewCountFmt": "9,840건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 4,
+      "refLabel": "세부 남부 버스터미널",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 9,840건. 세부 남부 버스터미널 도보 4분, ₩ · 약 4만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 9,840건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "시설은 최고 수준이었고 아름다운 수영장도 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "늘 그렇듯이 이 호텔은 나에게 깊은 인상을 남기지 못했습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "위치는 귀하의 위치에 액세스할 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "편의 시설: 호텔은 다양한 환상적인 편의 시설을 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "다음에 이 지역에 방문할 때 꼭 다시 방문할 예정입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "애플턴 부티크 호텔 세부 (Appleton Boutique Hotel Cebu)",
+      "agodaUrl": "https://www.agoda.com/appleton-boutique-hotel-cebu/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4859796/-1/41ab0f36f4134e61b029d89ce6524ce9.jpg?ca=0&ce=1",
+      "score": 8,
+      "reviewCount": 6762,
+      "reviewCountFmt": "6,762건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 22,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 3.5,
+      "blurb": "평점 8 · 리뷰 6,762건. GT Express Terminal Bus Stop H Mall 도보 22분, ₩ · 약 4만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 6,762건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 Appleton Boutique Hotel은 내 기대를 뛰어 넘었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 짧은 시간 동안 여기에 머물렀지만 직원들의 서비스는 훌륭했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 환상적인 숙박이었습니다. 적극 추천하고 싶습니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안했으며 시설이 잘 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "엄마와 저는 Appleton Boutique 호텔 세부에서의 숙박을 정말 좋아했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-10T21:56:19.976Z",
+    "source": "agoda citySearch",
+    "daysAhead": 36,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "slug": "couple-dalat-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "달랏",
+  "citySlug": "dalat",
+  "cityId": 15932,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=15932",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 달랏 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "달랏 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 86%로 연인여행 기준 1순위는 <b>AM 메모리 센트럴 호텔</b>입니다 (평점 9.2·리뷰 42건·1박 약 2만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 28,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 24,
+        "pct": 86
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/68891212/0/23df8fa04a73a1693b10e736a8ba0ef7.jpg?ce=2",
+  "heroAlt": "달랏 연인여행",
+  "updated": "2026-07-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "AM 메모리 센트럴 호텔 (AM Memory Central Hotel )",
+      "agodaUrl": "https://www.agoda.com/am-memory-central-hotel/hotel/dalat-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/68891212/0/23df8fa04a73a1693b10e736a8ba0ef7.jpg?ce=2",
+      "score": 9.2,
+      "reviewCount": 42,
+      "reviewCountFmt": "42건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 18,
+      "refLabel": "Da Lat Cable Car",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 42건. Da Lat Cable Car 도보 18분, ₩ · 약 2만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 42건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "매우 친절한 직원이 있는 새로 지어진 곳입니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "일찍 체크인할 수 있게 해줬어요",
+          "score": "9.6",
+          "country": "India",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "좋은 장소",
+          "score": "9.6",
+          "country": "India",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "페어리 타운 (Fairy Town)",
+      "agodaUrl": "https://www.agoda.com/fairy-town/hotel/dalat-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/30953139/0/37ebcf0db4306db2663f4684260d9602.jpg?ca=27&ce=0",
+      "score": 8.4,
+      "reviewCount": 241,
+      "reviewCountFmt": "241건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 22,
+      "refLabel": "Da Lat Cable Car",
+      "star": 4.5,
+      "blurb": "평점 8.4 · 리뷰 241건. Da Lat Cable Car 도보 22분, ₩ · 약 2만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 241건",
+        "⭐ 4.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그녀는 우리에게 무료로 객실 업그레이드를 해줬는데 정말 좋았습니다.",
+          "score": "10",
+          "country": "Nederland",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "여자친구와 함께한 2일간의 숙박이 매우 즐거웠습니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 편안하고 넓고 깨끗했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "욕조가 있는 가장 큰 방을 선택했는데 편안하고,",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "Fairy Toong 🧚🏼‍♀️은 정말 훌륭한 숙소였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "골디엔트 부티크 호텔 (Goldient Boutique Hotel)",
+      "agodaUrl": "https://www.agoda.com/goldient-boutique-hotel/hotel/dalat-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41455514/-1/a07e395326390a584b027ecd1ef8ddb5.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 3396,
+      "reviewCountFmt": "3,396건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 3,
+      "refLabel": "달랏 버스 터미널",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 3,396건. 달랏 버스 터미널 도보 3분, ₩ · 약 8만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 3,396건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "우리 방은 깨끗하고 넓으며 아름답게 장식되었습니다.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "방은 편안하고 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 우리는 Goldient Boutique Dalat에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "저에게 이 가격은 제가 방문한 최고의 호텔입니다",
+          "score": "9.6",
+          "country": "Greece",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "우리는 직원들의 고품질 서비스에 깊은 인상을 받았습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "체리 달랏 3 - 럭셔리 호텔 (Cherry Đa Lat 3 - Luxury Hotel)",
+      "agodaUrl": "https://www.agoda.com/cherry-da-lat-3-luxury-hotel/hotel/dalat-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/64470711/0/68583a330569851971b0b7783d7ca8b8.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 144,
+      "reviewCountFmt": "144건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 12,
+      "refLabel": "Da Lat Cable Car",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 144건. Da Lat Cable Car 도보 12분, ₩ · 약 4만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 144건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "깨끗하고 새롭고 편안한 객실과 매우 편리한 위치.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "예상했던 것보다 훨씬 나아요. 꼭 돌아올 거예요",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "방은 흠 하나 없고 놀라운 냄새가 났습니다.",
+          "score": "10",
+          "country": "Hoa Kỳ",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 객실과 매우 편리한 위치.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 현대적이고 매우 깨끗하며 냄새가 훌륭합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "시실리아 루즈 달랏 (Cicilia Rouge Dalat)",
+      "agodaUrl": "https://www.agoda.com/cicilia-rouge-dalat/hotel/dalat-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/84540017/0/399dcada34ff078fb05a33280f3a6d6f.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 96,
+      "reviewCountFmt": "96건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 6,
+      "refLabel": "달랏 버스 터미널",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 96건. 달랏 버스 터미널 도보 6분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 96건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "특히 침대가 너무 좋았습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "확실히 나는 이 호텔을 모든 사람에게 추천하고 싶습니다.",
+          "score": "10",
+          "country": "베트남",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "아름다운 디자인, 멋진 언덕 전망, 훌륭한 서비스.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "확실히 다시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 여기서 4박 동안 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "사이공 달랏 호텔 (Saigon Dalat Hotel)",
+      "agodaUrl": "https://www.agoda.com/saigon-dalat-hotel/hotel/dalat-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/179077/0/649a788dc8bcce8b86d1393b0f823455.jpg?ce=2",
+      "score": 8.4,
+      "reviewCount": 3766,
+      "reviewCountFmt": "3,766건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 21,
+      "refLabel": "Da Lat Cable Car",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 3,766건. Da Lat Cable Car 도보 21분, ₩ · 약 7만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,766건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치, 편안한 객실, 멋진 전망, 친절하고 도움이 되는 직원.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔, 직원 및 달랏의 좋은 위치",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 넓고 침대는 매우 편안했습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 훌륭하고 직원들은 훌륭합니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 Saigon - Dalat 호텔에 머물면서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-10T21:55:47.348Z",
+    "source": "agoda citySearch",
+    "daysAhead": 36,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "slug": "couple-daegu-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "대구",
+  "citySlug": "daegu",
+  "cityId": 17232,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17232",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 대구 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "대구 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 79%로 연인여행 기준 1순위는 <b>브라운도트호텔 대구경북대점</b>입니다 (평점 8.5·리뷰 579건·1박 약 11만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 28,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 22,
+        "pct": 79
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 11
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/44852167/713564730/608f7f31dbdb91218bd982b3b33f97fa.jpg?ce=0",
+  "heroAlt": "대구 연인여행",
+  "updated": "2026-07-11",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "브라운도트호텔 대구경북대점 (Daegu Kyungpook University Brown Dot)",
+      "agodaUrl": "https://www.agoda.com/daegu-kyungpook-national-university-eco-h10581107/hotel/daegu-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44852167/713564730/608f7f31dbdb91218bd982b3b33f97fa.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 579,
+      "reviewCountFmt": "579건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 20,
+      "refLabel": "대구역",
+      "star": null,
+      "blurb": "평점 8.5 · 리뷰 579건. 대구역 도보 20분, ₩₩ · 약 11만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 579건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 직원이 있는 매우 좋은 곳.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 숙박!",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "경북대학교 학생들을 방문하기에 좋습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "하운드 호텔 동촌유원지점 (Daegu Dongchon Amusement Park Hound)",
+      "agodaUrl": "https://www.agoda.com/daegu-dongchon-hound-daegu-dongchon-amusement-park/hotel/daegu-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44683683/709569900/c8b80fe7814324b1cc2b90f4c93b1e9d.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 897,
+      "reviewCountFmt": "897건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 2,
+      "refLabel": "동촌역",
+      "star": null,
+      "blurb": "평점 9.1 · 리뷰 897건. 동촌역 도보 2분, ₩₩ · 약 14만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 897건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "깨끗하고 특히 밤에 경치가 좋았어요.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "As always, the Hound Hotel never disappoints!!!",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "새로 지어서 깨끗하고 조용하며 공기청정기가 갖춰진 객실입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "숙박할만한 가치가 있으며 앞으로도 다시 머물 것입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "하운드 호텔은 이번에도 실망하지 않았습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "크리스탈 호텔 (Crystal Hotel)",
+      "agodaUrl": "https://www.agoda.com/h77637834/hotel/daegu-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/77637834/0/e294fd6614d3617819d341dac8bcdc8d.jpg?ce=2",
+      "score": 9.2,
+      "reviewCount": 1088,
+      "reviewCountFmt": "1,088건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 1,
+      "refLabel": "반힐",
+      "star": 2,
+      "blurb": "평점 9.2 · 리뷰 1,088건. 반힐 도보 1분, ₩₩ · 약 14만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 1,088건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "거대한 TV를 갖춘 멋지고 넓은 객실, 정말 멋진 일몰 전망.",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 매우 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "체육관은 상업용 체육관이어서 모든 장비가 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 위치도 좋고 조식도 맛있고 방도 넓어요.",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 새로 개조되었으며 흠이 없습니다.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "노블스테이 호텔 (Noblestay Hotel)",
+      "agodaUrl": "https://www.agoda.com/noblestay/hotel/daegu-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9828151/-1/b3555529bf97b094a618037c82623d6d.jpg?ca=9&ce=1",
+      "score": 8.7,
+      "reviewCount": 4246,
+      "reviewCountFmt": "4,246건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 3,
+      "refLabel": "대구역",
+      "star": 2,
+      "blurb": "평점 8.7 · 리뷰 4,246건. 대구역 도보 3분, ₩₩ · 약 15만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 4,246건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "좋은 아침 식사가 제공되고, 조용한 객실과 노외 주차가 가능합니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "대구에 다시 오면 꼭 다시 여기에 머물고 싶습니다",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 편안했고 다시 거기에 머물고 싶습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "방도 깨끗하고 샤워실도 너무 좋아요.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "욕조도 커서 아이가 있는 가족이 이용하기 좋아요!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "호텔 탑 대구 (Hotel Top Daegu)",
+      "agodaUrl": "https://www.agoda.com/hotel-top-daegu/hotel/daegu-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/928/928895/928895_15081009460033948671.jpg?ca=5&ce=1",
+      "score": 8.4,
+      "reviewCount": 1050,
+      "reviewCountFmt": "1,050건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 4,
+      "refLabel": "성서산단역",
+      "star": 2,
+      "blurb": "평점 8.4 · 리뷰 1,050건. 성서산단역 도보 4분, ₩ · 약 6만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 1,050건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 매우 친절하고 도움이 됩니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "방은 소파와 작업 테이블을 갖춘 거대합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "대구에 오면 꼭 다시 여기로 돌아올 거예요",
+          "score": "10",
+          "country": "Danmark",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 기꺼이 도움을 주었습니다. 정말 감사합니다.",
+          "score": "7.2",
+          "country": "越南",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "Definitely recommend and will be back.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "대구 대구공항 보잉 호텔 (Daegu Airport Boing Hotel)",
+      "agodaUrl": "https://www.agoda.com/daegu-daegu-airport-boing-hotel/hotel/daegu-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55855679/-1/c9aff3eff4cf7b46ee932d7f90bfad1e.jpg?ce=0",
+      "score": 8.2,
+      "reviewCount": 423,
+      "reviewCountFmt": "423건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 12,
+      "refLabel": "아양교역",
+      "star": null,
+      "blurb": "평점 8.2 · 리뷰 423건. 아양교역 도보 12분, ₩ · 약 6만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 423건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "2인이 사용하기에는 전혀 불만이 없습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "장소는 조용하고 깨끗합니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "공항까지 5~7분 거리, 이른 비행에 적합합니다.",
+          "score": "8.4",
+          "country": "中國香港",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "공항 근처에 아담한 객실을 갖춘 멋지고 깔끔한 호텔입니다.",
+          "score": "7.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "좋은 숙박, 공항과 가까움",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-11T21:43:09.397Z",
+    "source": "agoda citySearch",
+    "daysAhead": 35,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

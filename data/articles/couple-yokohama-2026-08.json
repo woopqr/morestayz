@@ -1,0 +1,499 @@
+{
+  "slug": "couple-yokohama-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "요코하마",
+  "citySlug": "yokohama",
+  "cityId": 4590,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4590",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 요코하마 - 기념일을 완성하는 분위기 호텔",
+  "metaDescription": "요코하마 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 83%로 연인여행 기준 1순위는 <b>호텔 로이 - 성인 전용</b>입니다 (평점 7.5·리뷰 820건·1박 가격 변동). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 25,
+        "pct": 83
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/60485535/0/b484330d54f60f16ff9b37678c5cbc1d.jpg?ce=0",
+  "heroAlt": "요코하마 연인여행",
+  "updated": "2026-07-11",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 로이 - 성인 전용 (HOTEL ROY - Adult Only)",
+      "agodaUrl": "https://www.agoda.com/hotel-roy-adult-only/hotel/yokohama-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/60485535/0/b484330d54f60f16ff9b37678c5cbc1d.jpg?ce=0",
+      "score": 7.5,
+      "reviewCount": 820,
+      "reviewCountFmt": "820건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "이세자키초자마치역",
+      "star": 3,
+      "blurb": "평점 7.5 · 리뷰 820건. 이세자키초자마치역 도보 4분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 820건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "매우 깨끗하고 잘 정리되어 있음",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 서비스로 가격 대비 가치",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "좋은 서비스에 감사드립니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "Good hotel for couple",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "좋은 곳",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "OMO5 요코하마 바샤미치 바이 호시노 리조트 (OMO5 Yokohama Bashamichi by Hoshino Resorts)",
+      "agodaUrl": "https://www.agoda.com/omo5-yokohama-bashamichi-by-hoshino-resorts/hotel/yokohama-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/80064386/0/ee3fcdfcda2b3c8cb7e5b0955c59469b.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 87,
+      "reviewCountFmt": "87건",
+      "priceText": "₩₩₩ · 약 30만원",
+      "walkMin": 2,
+      "refLabel": "바샤미치역",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 87건. 바샤미치역 도보 2분, ₩₩₩ · 약 30만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 87건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Good location, love the space and amenities available.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "다음에 다시 올게요!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "Enjoyed our stay.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "편안한 숙박",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "Love this hotel",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "호텔 마이스테이 요코하마 칸나이 (HOTEL MYSTAYS Yokohama Kannai)",
+      "agodaUrl": "https://www.agoda.com/hotel-mystays-yokohama-kannai/hotel/yokohama-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/125/1258213/1258213_16101718090047824898.jpg?ca=6&ce=1",
+      "score": 8.4,
+      "reviewCount": 6109,
+      "reviewCountFmt": "6,109건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 3,
+      "refLabel": "Kannai",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 6,109건. Kannai 도보 3분, ₩₩ · 약 15만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 6,109건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 매우 편안하고 넓습니다(일본 기준).",
+          "score": "9.2",
+          "country": "España",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고, 깨끗하고, 방도 넓고, 가격도 저렴해요!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "나와 내 아내는 Mystays Yokohama Kannai에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "HOTEL MYSTAYS YOKOHAMA KNNAI의 모든 직원을 칭찬합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 훌륭한 직원, 훌륭한 아침 식사.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "호텔 그랜드 가든 - 성인 전용 (Hotel Grand Garden (Adult Only))",
+      "agodaUrl": "https://www.agoda.com/hotel-grand-garden-adult-only/hotel/yokohama-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28335623/-1/34332be03dc8e8207fac3a4bd1035ec3.jpg?ca=25&ce=0",
+      "score": 7.8,
+      "reviewCount": 600,
+      "reviewCountFmt": "600건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 3,
+      "refLabel": "Ishikawachō Station",
+      "star": 3,
+      "blurb": "평점 7.8 · 리뷰 600건. Ishikawachō Station 도보 3분, ₩₩ · 가격 변동. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 600건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 깨끗했고 필요한 모든 것이 갖춰져 있었고 더 넓고 넓었습니다.",
+          "score": "9.2",
+          "country": "Switzerland",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "솔직히 가격이나 위치면에서는 이길 수 없습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "위치와 제공되는 편의시설은 정말 훌륭합니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗했고 공간도 많았습니다.",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 도움이 되었습니다.",
+          "score": "9.2",
+          "country": "Switzerland",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "리치먼드 호텔 요코하마 에키마에 (Richmond Hotel Yokohama Ekimae)",
+      "agodaUrl": "https://www.agoda.com/richmond-hotel-yokohama-ekimae/hotel/yokohama-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2980626/0/e8936a2911a15b8d83ceec98a94dc54a.jpg?ce=3",
+      "score": 8.8,
+      "reviewCount": 6414,
+      "reviewCountFmt": "6,414건",
+      "priceText": "₩₩₩ · 약 31만원",
+      "walkMin": 4,
+      "refLabel": "요코하마역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 6,414건. 요코하마역 도보 4분, ₩₩₩ · 약 31만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 6,414건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "다시 요코하마를 방문한다면 이 호텔에 묵고 싶습니다",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "이번 여행 전체에서 가장 가성비 좋은 호텔이었습니다.",
+          "score": "7.6",
+          "country": "新加坡",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "이 호텔을 일찍 예약했는데 가격이 아주 좋았습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "내년에 요코하마에 갈 때에도 같은 호텔에 다시 묵을 예정입니다",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "세면도구도 잘 갖춰져 있고 매우 조용합니다.",
+          "score": "7.6",
+          "country": "新加坡",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "소테츠 프레사 인 요코하마 토츠카 (Sotetsu Fresa Inn Yokohama Totsuka)",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-yokohama-totsuka/hotel/yokohama-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/270810/0/d83b1637c058b968c6e83df9dc7e49a4.jpg?ce=2",
+      "score": 8.3,
+      "reviewCount": 3827,
+      "reviewCountFmt": "3,827건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 2,
+      "refLabel": "도쓰카역",
+      "star": 3.5,
+      "blurb": "평점 8.3 · 리뷰 3,827건. 도쓰카역 도보 2분, ₩₩ · 약 12만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 3,827건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "메이지가쿠인 대학에 머물기에 가장 편리한 곳입니다.",
+          "score": "8.8",
+          "country": "South Korea",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "위치가 역이랑 가까워서 편리했어요",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 직원이 친절하며 아침 식사가 매우 좋습니다(일본식)",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "기차, 버스, 지하철 바로 옆에 있는 훌륭한 위치.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "가격대비 역과 쇼핑몰이 매우 가깝습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-11T21:42:33.209Z",
+    "source": "agoda citySearch",
+    "daysAhead": 35,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

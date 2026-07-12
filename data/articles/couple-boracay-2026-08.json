@@ -1,0 +1,514 @@
+{
+  "slug": "couple-boracay-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "보라카이",
+  "citySlug": "boracay",
+  "cityId": 15903,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=15903",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 보라카이 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "보라카이 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 83%로 연인여행 기준 1순위는 <b>레반틴 보라카이 리조트</b>입니다 (평점 8.7·리뷰 1,753건·1박 약 6만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 25,
+        "pct": 83
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/266869/-1/90aed6cf83b0571d96ca631a83ae74d6.jpg?ca=14&ce=1",
+  "heroAlt": "보라카이 연인여행",
+  "updated": "2026-07-12",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "레반틴 보라카이 리조트 (Levantin Boracay Resort)",
+      "agodaUrl": "https://www.agoda.com/levantin-boracay-resort/hotel/boracay-island-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/266869/-1/90aed6cf83b0571d96ca631a83ae74d6.jpg?ca=14&ce=1",
+      "score": 8.7,
+      "reviewCount": 1753,
+      "reviewCountFmt": "1,753건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 1,
+      "refLabel": "불라보그 비치",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 1,753건. 불라보그 비치 도보 1분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 1,753건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "야시장과 백사장에 가기 좋은 위치입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "나는 직원들이 큰 미소로 우리를 환영하는 방식을 좋아합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 분위기",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "나는 놀라운 직원을 사랑합니다. 그들은 도움이 되고 친절합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "그리고 내가 훌륭한 칵테일을 얼마나 즐겼는지 언급하십시오.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "357 보라카이 리조트 (357 Boracay Resort)",
+      "agodaUrl": "https://www.agoda.com/357-boracay-resort/hotel/boracay-island-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/65127/-1/cc2c5dbae4989364a46177bb6174d5f2.jpg?ca=9&ce=1",
+      "score": 8.7,
+      "reviewCount": 954,
+      "reviewCountFmt": "954건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "화이트 비치",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 954건. 화이트 비치 도보 2분, ₩ · 약 7만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 954건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치도 완벽하고 접근성이 매우 높지만 여전히 조용합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "아마도 보라카이에서 경험한 최고의 호텔 경험일 것입니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "보라카이를 방문하시는 모든 분들께 이 호텔을 적극 추천합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 직원들은 친절하고 정중했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 우리 방을 좋아했습니다. 매우 깨끗하고 아늑하며 매우 편안했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "캐니언 호텔 앤 리조트 보라카이 (Canyon Hotels & Resorts Boracay)",
+      "agodaUrl": "https://www.agoda.com/canyon-hotels-resorts-boracay/hotel/boracay-island-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36382196/-1/d9b8ab4c717392c9b0a425ba67651e70.jpg?ce=0",
+      "score": 8.7,
+      "reviewCount": 6503,
+      "reviewCountFmt": "6,503건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 4,
+      "refLabel": "윌리스 락",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 6,503건. 윌리스 락 도보 4분, ₩ · 약 4만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 6,503건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 그것을 강력히 추천하고 돌아올 것을 기대합니다!",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "5월 무료 셔틀과 직원은 매우 친절하고 친절합니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 그것이 괜찮은 호텔이지만 매우 예산 친화적이라는 점을 좋아합니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "나는 방과 직원이 매우 친절하다는 것을 실망시키지 않았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "보라카이에 다시 오면 꼭 다시 예약할 거예요 yyy",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "럭키티토 다이버스 보라카이 아일랜드 리조트 (LuckyTito Divers Boracay Island Resorts )",
+      "agodaUrl": "https://www.agoda.com/luckytito-divers-boracay-island-resorts/hotel/boracay-island-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/68719206/0/a7b45b09aa23de9e6a0646c536383b9f.jpeg?ce=2",
+      "score": 9.3,
+      "reviewCount": 33,
+      "reviewCountFmt": "33건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 1,
+      "refLabel": "불라보그 비치",
+      "star": 3,
+      "blurb": "평점 9.3 · 리뷰 33건. 불라보그 비치 도보 1분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 33건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 환상적이었습니다. 매우 환영하고 매우 친절합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "행운의 티티는 우리의 기대 이상이었습니다.",
+          "score": "10",
+          "country": "菲律宾",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "휴식을 취하고 싶다면 머물기에 아주 좋은 곳",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "언젠가 여기로 다시 와서 친구들에게 추천하고 싶습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "정확히 우리가 찾고 있던 것입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "아샤 프리미어 스위트 (Asya Premier Suites)",
+      "agodaUrl": "https://www.agoda.com/asya-premier-suites/hotel/boracay-island-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/185/185928/185928_14030313330018524154.jpg?ca=2&ce=1",
+      "score": 8.9,
+      "reviewCount": 1373,
+      "reviewCountFmt": "1,373건",
+      "priceText": "₩₩₩ · 약 31만원",
+      "walkMin": 1,
+      "refLabel": "화이트 비치",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 1,373건. 화이트 비치 도보 1분, ₩₩₩ · 약 31만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 31만원",
+        "📝 리뷰 1,373건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "친절함과 행복한 미소에 감동받았습니다 :)",
+          "score": "8.8",
+          "country": "대한민국",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "방은 훌륭하고 거대하고 깨끗했으며 우리 자신의 수영장이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "그것은 우리 자신의 전용 해변을 갖는 것과 같습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "내 체류에 매우 만족하므로 우리는 반드시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "가장 훌륭한 직원이 있는 정말 놀라운 리조트입니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "헤난 라군 리조트 (Henann Lagoon Resort)",
+      "agodaUrl": "https://www.agoda.com/henann-lagoon-resort/hotel/boracay-island-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/176889/-1/06253edfc6ec798267bf6f9e74009ca2.jpg?ce=0",
+      "score": 8.7,
+      "reviewCount": 16723,
+      "reviewCountFmt": "16,723건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 3,
+      "refLabel": "화이트 비치",
+      "star": 5,
+      "blurb": "평점 8.7 · 리뷰 16,723건. 화이트 비치 도보 3분, ₩₩ · 약 9만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 16,723건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 모두 훌륭하고 친절하며 그 이상입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "사장님의 따뜻한 환대 덕분에 식사는 늘 즐거웠습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "프리미어룸은 아름다웠고, 우리의 숙박을 크게 향상시켰습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "편의 시설, 음식 및 엔터테인먼트도 훌륭했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리가 접촉한 모든 직원은 우리를 VIP처럼 느끼게 했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-12T21:42:24.456Z",
+    "source": "agoda citySearch",
+    "daysAhead": 34,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

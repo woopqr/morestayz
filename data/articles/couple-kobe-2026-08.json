@@ -1,0 +1,533 @@
+{
+  "slug": "couple-kobe-2026-08",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "몬테고 베이",
+  "citySlug": "kobe",
+  "cityId": 3561,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=3561",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[연인여행] 몬테고 베이 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "몬테고 베이 연인여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 60%로 연인여행 기준 1순위는 <b>Verney House Resort</b>입니다 (평점 7.1·리뷰 188건·1박 약 10만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 18,
+        "pct": 60
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/476696/0/08f1341e06cdd92e9c183f8444f8142c.jpeg",
+  "heroAlt": "몬테고 베이 연인여행",
+  "updated": "2026-07-12",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Verney House Resort",
+      "agodaUrl": "https://www.agoda.com/verney-house-resort/hotel/all/montego-bay-jm.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/476696/0/08f1341e06cdd92e9c183f8444f8142c.jpeg",
+      "score": 7.1,
+      "reviewCount": 188,
+      "reviewCountFmt": "188건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 8,
+      "refLabel": "닥터's 케이브 비치 클럽",
+      "star": 3,
+      "blurb": "평점 7.1 · 리뷰 188건. 닥터's 케이브 비치 클럽 도보 8분, ₩₩ · 약 10만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 188건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 훌륭하고, 친절하고, 도움이 되었으며, 귀하의 요구 사항을 잘 들어주었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "VHR은 바로... 가격 대비 가치입니다.",
+          "score": "8.4",
+          "country": "Jamaica",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "수영장 테라스에서 보는 뷰뷰도 있었어요! 😍",
+          "score": "10",
+          "country": "Nederland",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원들과 함께 매우 좋은 환영을 받았습니다.",
+          "score": "10",
+          "country": "Nederland",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "Nederland",
+          "date": "2024.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "S Hotel Montego Bay - Luxury Boutique All-Inclusive Hotel",
+      "agodaUrl": "https://www.agoda.com/s-hotel-jamaica/hotel/montego-bay-jm.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10913838/-1/1c606045f9cd2485389660ae991a7a3f.jpg?ca=21&ce=0",
+      "score": 8.9,
+      "reviewCount": 1135,
+      "reviewCountFmt": "1,135건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 43,
+      "refLabel": "대드 엔드 비치",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 1,135건. 대드 엔드 비치 도보 43분, ₩₩ · 가격 변동. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 1,135건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔 상태도 좋았고 음식도 훌륭했습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "몬테고베이를 방문하시는 모든 분들께 적극 추천합니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "전망은 훌륭했고 해변은 결코 붐비지 않았습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "그리고 무엇보다도 말론 감독이 최고였습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "음식은 훌륭했고 모두가 집에 있는 것처럼 느끼게 했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Riu Reggae - Adults Only - All Inclusive",
+      "agodaUrl": "https://www.agoda.com/riu-reggae-all-inclusive-adults-only/hotel/montego-bay-jm.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2676139/-1/7b37ceb7b2b4b609fb29e8d2cd117c02.jpg?ca=7&ce=1",
+      "score": 8.7,
+      "reviewCount": 121,
+      "reviewCountFmt": "121건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 61,
+      "refLabel": "대드 엔드 비치",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 121건. 대드 엔드 비치 도보 61분, ₩₩ · 가격 변동. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 121건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그리고 이 세상에서 벗어난 엔터테인먼트도 잊지 마세요.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "여기 직원들은 정말 훌륭하고 친절하고 세심합니다!",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 엔터테인먼트를 갖춘 훌륭한 리조트 주변",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "리조트는 엔터테인먼트 기대에 부응했습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "음식은 좋았고 모든 사람이 먹을 수 있도록 요리되었습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Toby's Resort",
+      "agodaUrl": "https://www.agoda.com/toby-s-resort/hotel/montego-bay-jm.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/26957170/0/0acb4d1ca199b5b909bf88c5c09f3e28.jpeg",
+      "score": 8.4,
+      "reviewCount": 236,
+      "reviewCountFmt": "236건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 2,
+      "refLabel": "닥터's 케이브 비치 클럽",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 236건. 닥터's 케이브 비치 클럽 도보 2분, ₩₩ · 약 18만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 236건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Toby's는 광고대로이며 꼭 다시 머물고 싶습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "그녀는 호텔 레스토랑에서 아침과 저녁을 즐겼습니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭하고 레스토랑의 음식도 마찬가지입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "우리는 몬테고베이에 묵을 때 이미 Toby's Resort를 선택했어요!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭했고 객실은 매우 깨끗했습니다.",
+          "score": "8.4",
+          "country": "Jamaica",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "라운드 힐 호텔 앤 빌라 (Round Hill Hotel & Villas)",
+      "agodaUrl": "https://www.agoda.com/round-hill-hotel-villas_3/hotel/montego-bay-jm.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/723359703.jpg?k=ec91faca93909cfa0c41a813ba8b5c042735326899202d1633ef180b5e6b8ea8&o=",
+      "score": 9.3,
+      "reviewCount": 83,
+      "reviewCountFmt": "83건",
+      "priceText": "₩₩₩ · 약 117만원",
+      "walkMin": 105,
+      "refLabel": "One Man Beach",
+      "star": 5,
+      "blurb": "평점 9.3 · 리뷰 83건. One Man Beach 도보 105분, ₩₩₩ · 약 117만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 117만원",
+        "📝 리뷰 83건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "경내는 매우 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "직원은 훌륭하고 세부 사항을 지향합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "여자 휴양지로 좋은 위치",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "뛰어난 부지 및 직원",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 꿈이었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Airport Beach Hotel",
+      "agodaUrl": "https://www.agoda.com/airport-beach-hotel/hotel/all/montego-bay-jm.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/319328203.jpg?k=f4784c035c94c4d05cc285dd4e33cabeaa2dbc51702970202b25969ed315855f&o=",
+      "score": 8.5,
+      "reviewCount": 962,
+      "reviewCountFmt": "962건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 1,
+      "refLabel": "대드 엔드 비치",
+      "star": 3,
+      "blurb": "평점 8.5 · 리뷰 962건. 대드 엔드 비치 도보 1분, ₩₩ · 약 19만원. 연인 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 962건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 7.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "체크인도 간단하고 위치도 좋습니다.",
+          "score": "8",
+          "country": "Jamaica",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "호텔은 안전하고 깨끗했습니다.",
+          "score": "7.6",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했습니다.",
+          "score": "7.6",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 하룻밤 숙박",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 공항과 ​​매우 가깝습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-12T21:43:00.004Z",
+    "source": "agoda citySearch",
+    "daysAhead": 34,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

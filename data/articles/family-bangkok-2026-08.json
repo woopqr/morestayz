@@ -1,0 +1,556 @@
+{
+  "slug": "family-bangkok-2026-08",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[가족여행] 방콕 - 짐 많은 가족여행에 똑똑한 선택",
+  "metaDescription": "방콕 가족여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 43%로 가족여행 기준 1순위는 <b>더 쿼터 랏프라오 바이 UHG</b>입니다 (평점 9·리뷰 20,739건·1박 약 8만원). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 9,
+        "pct": 30
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4497893/-1/4b2152e55150d96b371f9cc9a765f083.jpg?ce=0",
+  "heroAlt": "방콕 가족여행",
+  "updated": "2026-07-14",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 쿼터 랏프라오 바이 UHG (The Quarter Ladprao by UHG)",
+      "agodaUrl": "https://www.agoda.com/the-quarter-ladprao-by-uhg/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4497893/-1/4b2152e55150d96b371f9cc9a765f083.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 20739,
+      "reviewCountFmt": "20,739건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 4,
+      "refLabel": "파혼요틴역",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 20,739건. 파혼요틴역 도보 4분, ₩ · 약 8만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 20,739건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 호텔은 여느 5성급 호텔과 마찬가지로 모든 편의 시설을 갖추고 있습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "유니언 몰(Union Mall)과 센트럴 랏프라오(Central Lad Phrao)가 도보 거리에 있습니다.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 가격에 훌륭한 아침 식사와 놀라운 편의 시설이 제공됩니다.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "쇼핑을 위해 시암 지역까지 갈 필요도 없습니다.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 편의 시설이 잘 갖추어져 있습니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "골든 포이어 수완나품 에어포트 호텔 (Golden Foyer Suvarnabhumi Airport Hotel)",
+      "agodaUrl": "https://www.agoda.com/golden-foyer-suvarnabhumi-airport-hotel_3/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4605244/0/46e1a7fd74961efffc3a25f08c844f4a.jpeg?ce=0",
+      "score": 8.3,
+      "reviewCount": 13171,
+      "reviewCountFmt": "13,171건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 19,
+      "refLabel": "Hua Takhe",
+      "star": 4,
+      "blurb": "평점 8.3 · 리뷰 13,171건. Hua Takhe 도보 19분, ₩ · 약 4만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 13,171건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "공항과 가깝고 바로 앞에 시장이 있어서 좋습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "저는 이곳에 3~4번 머물렀고 앞으로도 여기에 묵을 예정입니다.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "간단하고 필요한 모든 편의시설과 물건이 갖춰져 있었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "유아용 침대를 요청했는데 추가 비용은 없었습니다.",
+          "score": "9.6",
+          "country": "Eesti",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "실제로 방은 우리가 예상했던 것보다 훨씬 더 컸습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "몰 스위트 호텔 (Mall Suites Hotel)",
+      "agodaUrl": "https://www.agoda.com/mall-suites-express/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/267292/-1/d23c16e34a1c72e192b6f50c8231483d.jpg?ce=0",
+      "score": 8,
+      "reviewCount": 2240,
+      "reviewCountFmt": "2,240건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 6,
+      "refLabel": "방카피역",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 2,240건. 방카피역 도보 6분, ₩ · 약 4만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 2,240건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "저는 방콕에 오면 항상 이 호텔에 묵으려고 노력합니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "쇼핑몰, 시장, 대중교통과 가까운 완벽한 위치.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 넓은 객실, 항상 즐거운 숙박이 됩니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "다양한 쇼핑몰 + 스카이트레인역과 가깝습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "나는 이곳을 좋아합니다(특히 우리가 가지고 있던 방 유형).",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "그랜드 BS 에어포트 호텔 수완나품 (Grand BS Airport Hotel Suvarnabhumi)",
+      "agodaUrl": "https://www.agoda.com/grand-bs-airport-hotel-suvarnabhumi/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32841636/0/d9035c432ea0e6bcaf7e42fc541baace.jpg?ce=0",
+      "score": 8.1,
+      "reviewCount": 14265,
+      "reviewCountFmt": "14,265건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 16,
+      "refLabel": "랏끄라방역",
+      "star": 3,
+      "blurb": "평점 8.1 · 리뷰 14,265건. 랏끄라방역 도보 16분, ₩ · 약 5만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 14,265건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "아침 일찍 출발할 때 이 호텔을 추천합니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편리하며 서비스도 좋습니다. 꼭 다시 오세요.",
+          "score": "10",
+          "country": "สหราชอาณาจักร",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "안전하고 안전하며 깨끗하고 정돈되어 있으며 훌륭한 시설을 갖추고 있습니다.",
+          "score": "8",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "야외 수영장은 크고 넓으며 인접한 자쿠지가 있습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "객실, 수영장 등의 시설은 가족이 이용하기에 완벽했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "티니디 트렌디 방콕 카오산 (Tinidee Trendy Bangkok Khaosan)",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-bangkok-khaosan-viengtai_4/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/46936093/-1/8f90e003ffe5c2b834ccdccc276fae55.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 10456,
+      "reviewCountFmt": "10,456건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 19,
+      "refLabel": "Wang Burapha",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 10,456건. Wang Burapha 도보 19분, ₩ · 약 8만원. 가족 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 10,456건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "정말 좋아요. 방콕에 언제 또 올 예정인가요?",
+          "score": "10",
+          "country": "Belgium",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "우리는 아이들 3명과 함께 여행했는데 이 호텔은 우리에게 완벽했습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 수영장, 매우 친절한 직원, 이곳에 묵을 가치가 충분히 있습니다.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "활기찬 카오산로드에 있음에도 불구하고 매우 조용했습니다.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "아이들은 그것을 좋아했고 우리가 돌아오는 길에 거기에 머물고 싶어했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "아소카 호텔 (Asoka Hotel)",
+      "agodaUrl": "https://www.agoda.com/asoka-hotel-h71301730/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/71301730/0/ece18a48d3ab0224fb07673691fee2aa.jpg?ce=2",
+      "score": 8.9,
+      "reviewCount": 1472,
+      "reviewCountFmt": "1,472건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "마까산역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 1,472건. 마까산역 도보 2분, ₩ · 약 8만원. 가족 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 1,472건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 매우 전문적이었고 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 눈에 띄는 단점 없이 가격 대비 훌륭한 성능을 자랑합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 정중 한 직원과 함께 좋은 깨끗한 객실.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "방콕에 오는 모든 사람에게 이 호텔을 추천하고 싶습니다 💯",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "그것은 우리가 방문하고 싶은 모든 것에 접근할 수 있게 해주었습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T21:53:28.222Z",
+    "source": "agoda citySearch",
+    "daysAhead": 32,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

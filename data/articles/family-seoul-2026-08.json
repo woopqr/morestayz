@@ -1,0 +1,546 @@
+{
+  "slug": "family-seoul-2026-08",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "서울",
+  "citySlug": "seoul",
+  "cityId": 14690,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14690",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[가족여행] 서울 - 온 가족이 편했던 넓은 숙소",
+  "metaDescription": "서울 가족여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 33%로 가족여행 기준 1순위는 <b>솔라고 명동 호텔 앤 레지던스</b>입니다 (평점 8.5·리뷰 4,270건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 9,
+        "pct": 30
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 9,
+        "pct": 30
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/44922485/-1/c4f8794cba7f08a7b71ebb3bd0afd45c.jpg?ce=0",
+  "heroAlt": "서울 가족여행",
+  "updated": "2026-07-14",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "솔라고 명동 호텔 앤 레지던스 (Sollago Myeongdong Hotel & Residence)",
+      "agodaUrl": "https://www.agoda.com/h44922485/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44922485/-1/c4f8794cba7f08a7b71ebb3bd0afd45c.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 4270,
+      "reviewCountFmt": "4,270건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 2,
+      "refLabel": "충무로역",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 4,270건. 충무로역 도보 2분, ₩₩ · 가격 변동. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 4,270건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "서울에서 6박을 머물 수 있는 훌륭한 장소입니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 모든 요청에 ​​대해 친절하고 도움을 줄 것입니다.",
+          "score": "7.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 충무로역과 가깝습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실과 편안한 침대를 갖춘 훌륭한 호텔입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "호텔 주변에도 레스토랑이 많이 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 더 보타닉 세운 명동 (HOTEL THE BOTANIK SEWOON MYEONGDONG)",
+      "agodaUrl": "https://www.agoda.com/hotel-the-botanik-sewoon-myeongdong/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63312639/-1/b3c233794ec129732390924c7587c0f8.jpg?ce=0",
+      "score": 8.7,
+      "reviewCount": 12109,
+      "reviewCountFmt": "12,109건",
+      "priceText": "₩₩₩ · 약 27만원",
+      "walkMin": 3,
+      "refLabel": "을지로4가역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 12,109건. 을지로4가역 도보 3분, ₩₩₩ · 약 27만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 12,109건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "편안하게 서울을 즐기고 싶다면 이곳에 머물러야 합니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 방에서 빨래를 할 수 있었고,",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "호텔 시설 디자이너에게 찬사를 보냅니다. 정말 수고하셨습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "모든 방에는 세탁기와 에어드레서가 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "모던함과 포근함을 동시에 느낄 수 있는 객실,",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "브라운 스위트 호텔 신촌 센트럴 (Brown Suites Hotel sinchon central)",
+      "agodaUrl": "https://www.agoda.com/brown-suites-hotel-sinchon-central/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37484633/0/7c600877ccf7164c8def9e30eae3a1f1.jpeg?ce=0",
+      "score": 7.5,
+      "reviewCount": 3560,
+      "reviewCountFmt": "3,560건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 1,
+      "refLabel": "신촌역",
+      "star": 3,
+      "blurb": "평점 7.5 · 리뷰 3,560건. 신촌역 도보 1분, ₩₩ · 약 13만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 3,560건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 위치, 직원들은 매우 정중하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "호텔의 위치와 직원의 서비스가 매우 만족스러웠습니다.",
+          "score": "8",
+          "country": "Thailand",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "매일 수건 교체 및 쓰레기 청소가 제공됩니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "방은 넓어서 우리 5명이 지내기에 충분한 공간이었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "직원들도 친절하고 방도 항상 깨끗해요.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "한옥 호텔 담 서울 (Hanok Hotel Daam)",
+      "agodaUrl": "https://www.agoda.com/jongno-aubeson-h10577062/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51931909/-1/ed8ed8265924c6c2a361cb875763ac68.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 2220,
+      "reviewCountFmt": "2,220건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": 5,
+      "refLabel": "안국역",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 2,220건. 안국역 도보 5분, ₩₩ · 약 8만원. 가족 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 2,220건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "시설이 너무 좋고 직원들이 너무 친절하고 도움이 많이 됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 깨끗했고, 훌륭한 편의 시설을 제공했습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우리가 서울에 있을 때 머무는 유일한 호텔이 될 것입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "이 호텔에 머무는 것은 정말 마법 같은 경험이었습니다.",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "한국에 돌아가면 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Portugal",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "고유인 앤 캐빈즈 (GOYOO INN & CABINS)",
+      "agodaUrl": "https://www.agoda.com/goyoo-inn-homes/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/75205622/0/4ca3f8d8b32a8a59d8f3c4ff491df355.jpg?ce=3",
+      "score": 9.2,
+      "reviewCount": 2171,
+      "reviewCountFmt": "2,171건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 6,
+      "refLabel": "선릉역",
+      "star": 2,
+      "blurb": "평점 9.2 · 리뷰 2,171건. 선릉역 도보 6분, ₩ · 약 7만원. 가족 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,171건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "서울에서 혼자 여행할 때 꼭 다시 여기에 묵을 거예요!",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이곳은 말 그대로 제가 서울에서 머물렀던 가장 깨끗한 숙소입니다",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "이 장소를 정말 추천하고 꼭 다시 올 것입니다!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "만약 서울에 다시 온다면 저는 이곳에 다시 머물고 싶습니다!",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "이곳은 엄청나게 깨끗합니다. 마치 다음 단계의 흠집 하나 없는 것처럼요.",
+          "score": "10",
+          "country": "중국",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "나인트리 프리미어 로카우스 호텔 서울 용산 (Nine Tree Premier ROKAUS Hotel Seoul Yongsan)",
+      "agodaUrl": "https://www.agoda.com/h36845586/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36845586/-1/5d05b4e695b0f3c783c601f88579d898.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 12393,
+      "reviewCountFmt": "12,393건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 3,
+      "refLabel": "용산역",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 12,393건. 용산역 도보 3분, ₩₩ · 가격 변동. 가족 리뷰 비중 20%.",
+      "metaTags": [
+        "📝 리뷰 12,393건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "좋은 위치와 깨끗한 방의 완벽한 조합 !!!",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "내부도 깔끔하고 편의시설도 훌륭했습니다.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "방이 넓고 깨끗해서 이 호텔을 적극 추천합니다!",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 깔끔하고 깨끗해서 이곳을 추천합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "방은 현대적이었고 매일 하우스키핑 서비스가 제공되었습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-14T21:52:28.245Z",
+    "source": "agoda citySearch",
+    "daysAhead": 32,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

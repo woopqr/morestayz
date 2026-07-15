@@ -19,12 +19,12 @@ function targetMonths() {
   return ahead.map(a => { const d = new Date(); d.setMonth(d.getMonth() + a); return { y: d.getFullYear(), m: d.getMonth() + 1 }; });
 }
 
-// 생성 우선순위: 가까운 달 → 테마 순 → 도시 순
+// 생성 우선순위: 가까운 달 → 도시 → 테마(도시별로 테마를 번갈아 → 카테고리 다양성 확보)
 function combos() {
   const out = [];
   for (const tm of targetMonths())
-    for (const t of THEMES.themes)
-      for (const c of CITIES)
+    for (const c of CITIES)
+      for (const t of THEMES.themes)
         out.push({ theme: t.id, city: c, ym: `${tm.y}-${pad(tm.m)}`, slug: `${t.id}-${c.slug}-${tm.y}-${pad(tm.m)}` });
   return out;
 }

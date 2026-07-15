@@ -1,0 +1,493 @@
+{
+  "slug": "solo-osaka-namba-2026-08",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "오사카",
+  "citySlug": "osaka-namba",
+  "cityId": 9590,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9590",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[혼자여행] 오사카 - 나를 위한 온전한 하루를 주는 곳",
+  "metaDescription": "오사카 혼자여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 90%로 혼자여행 기준 1순위는 <b>Y's 캐빈 오사카 난바</b>입니다 (평점 8.8·리뷰 7,649건·1박 약 5만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 27,
+        "pct": 90
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/201/2011879/2011879_17083017220055857559.jpg?ca=6&ce=1",
+  "heroAlt": "오사카 혼자여행",
+  "updated": "2026-07-15",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Y's 캐빈 오사카 난바 (Y's Cabin Osaka Namba)",
+      "agodaUrl": "https://www.agoda.com/y-s-cabin-osaka-namba_3/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/201/2011879/2011879_17083017220055857559.jpg?ca=6&ce=1",
+      "score": 8.8,
+      "reviewCount": 7649,
+      "reviewCountFmt": "7,649건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 2,
+      "refLabel": "난바역",
+      "star": 2,
+      "blurb": "평점 8.8 · 리뷰 7,649건. 난바역 도보 2분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 7,649건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Y의 캐빈은 도톤보리에서 매우 가깝고 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 정중하며 필요한 도움을 줍니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "안전하고 깨끗하며 (제가 머물렀을 때) 나에게는 너무 저렴합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "모든 시설이 완비되어 있고 깨끗하며 위생적입니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "도톤보리와 신사이바시와 매우 가깝습니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2024.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "퍼스트 캐빈 니시 우메다 (FIRST CABIN NISHI UMEDA)",
+      "agodaUrl": "https://www.agoda.com/h32828682/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32828682/-1/f96d0be620fee9d8d7459a854bb04126.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 2049,
+      "reviewCountFmt": "2,049건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 4,
+      "refLabel": "후쿠시마역",
+      "star": 2,
+      "blurb": "평점 8.6 · 리뷰 2,049건. 후쿠시마역 도보 4분, ₩ · 약 7만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,049건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "편안한 잠옷과 슬리퍼가 제공되는 아늑한 포드가 마음에 들었습니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "손님을 위한 무료 음식도 있습니다(재료 소진 시).",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "하지만 직원 서비스, 시설은 훌륭했어요!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "매우 안전하다고 느꼈고 위치가 매우 좋았습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "우메다와 오사카 시내 중심가에 가까운 훌륭한 위치.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2024.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "아크로 캡슐 호텔 난바 도톤보리 (Acro Capsule Hotel Namba Dotonbori)",
+      "agodaUrl": "https://www.agoda.com/capsule-hotel-astil-dotonbori_4/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44385704/-1/f6111db6bd442ed808308cc5c11b20a0.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 9967,
+      "reviewCountFmt": "9,967건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 2,
+      "refLabel": "난바역",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 9,967건. 난바역 도보 2분, ₩₩ · 가격 변동. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 9,967건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 지역에서 가장 가까운 호텔 중 하나입니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭합니다. 말 그대로 난바 중심부에 있습니다.",
+          "score": "7.6",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 유명한 다리와 강까지 도보로 2분 거리에 가장 좋습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "쇼핑이나 나이트라이프를 즐기기에 매우 편리한 호텔이었습니다.",
+          "score": "10",
+          "country": "네팔",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "위치와 시설이 정말 기대 이상이었습니다!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "퍼스트 캐빈 미도스지 난바 (First Cabin Midosuji-Namba)",
+      "agodaUrl": "https://www.agoda.com/first-cabin-midosuji-namba/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/284535/0/8c9f9828f877ad111d24b3ae7b6cb3c9.jpg?ce=3",
+      "score": 8.8,
+      "reviewCount": 5321,
+      "reviewCountFmt": "5,321건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 1,
+      "refLabel": "난바역",
+      "star": 1.5,
+      "blurb": "평점 8.8 · 리뷰 5,321건. 난바역 도보 1분, ₩ · 약 6만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,321건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 퍼스트 캐빈에서의 숙박은 기대 이상이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "직원들도 친절하고 머무는 내내 도움이 되었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "숙소는 흠 하나 없고 시트와 린넨은 깨끗했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "오사카를 여행하는 모든 사람에게 이곳을 꼭 추천합니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "크기도 적당하고 조용하고 편안하고 매우 안전하다고 느꼈습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "아크 호텔 오사카 신사이바시 (Ark Hotel Osaka Shinsaibashi)",
+      "agodaUrl": "https://www.agoda.com/ark-hotel-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51920/0/257be43d90bd6724ca427ae42028739c.jpeg?ce=0",
+      "score": 8.4,
+      "reviewCount": 21468,
+      "reviewCountFmt": "21,468건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 1,
+      "refLabel": "나가호리바시역",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 21,468건. 나가호리바시역 도보 1분, ₩ · 약 7만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 21,468건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "아크 호텔은 제가 오사카에서 머물렀던 최고의 호텔 중 하나입니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "방은 조용하고 깨끗했고, 짐을 보관할 공간도 충분했습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "나는 이 호텔에 2박을 묵었습니다. 위치는 훌륭했습니다.",
+          "score": "7.2",
+          "country": "台灣",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되었고, 위치는 훌륭했습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "가격대비 청결도나 시설면에서는 불만이 없습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "도미 인 프리미엄 난바 내추럴 핫 스프링 (Dormy Inn Premium Namba Natural Hot Spring)",
+      "agodaUrl": "https://www.agoda.com/dormy-inn-premium-namba-natural-hot-spring/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/488305/-1/a9c1d7cb7d73584e10d8dc647fc0594e.jpg?ca=9&ce=1",
+      "score": 8.5,
+      "reviewCount": 17747,
+      "reviewCountFmt": "17,747건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 5,
+      "refLabel": "나가호리바시역",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 17,747건. 나가호리바시역 도보 5분, ₩₩ · 약 11만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 17,747건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적인 기숙사 여관은 좋은 호텔에 대한 모든 기대를 뛰어 넘었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 4박 숙박에 만족했습니다.",
+          "score": "8.4",
+          "country": "中國香港",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "침대도 매우 편안했고 그곳에서 아주 잘 쉬었습니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 객실과 무료 온천 및 사우나가 훌륭합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "온천용 요거트나 아이스바도 무료로 제공됩니다.",
+          "score": "10",
+          "country": "สหรัฐอเมริกา",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-15T21:53:33.793Z",
+    "source": "agoda citySearch",
+    "daysAhead": 31,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

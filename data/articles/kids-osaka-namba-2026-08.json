@@ -1,0 +1,520 @@
+{
+  "slug": "kids-osaka-namba-2026-08",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "오사카",
+  "citySlug": "osaka-namba",
+  "cityId": 9590,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9590",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[아이와함께] 오사카 - 아이와 편하게 쉬는 여름 바캉스",
+  "metaDescription": "오사카 아이와함께 호캉스, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 67%로 아이와함께 호캉스 기준 1순위는 <b>난바 오리엔탈 호텔</b>입니다 (평점 8.7·리뷰 22,631건·1박 약 24만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 20,
+        "pct": 67
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/69290/0/bbb218a703683b4f4b449b3857ee63d9.jpg?ce=0",
+  "heroAlt": "오사카 아이와함께 호캉스",
+  "updated": "2026-07-15",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "난바 오리엔탈 호텔 (Namba Oriental Hotel)",
+      "agodaUrl": "https://www.agoda.com/namba-oriental-hotel/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/69290/0/bbb218a703683b4f4b449b3857ee63d9.jpg?ce=0",
+      "score": 8.7,
+      "reviewCount": 22631,
+      "reviewCountFmt": "22,631건",
+      "priceText": "₩₩₩ · 약 24만원",
+      "walkMin": 3,
+      "refLabel": "긴테쓰닛폰바시역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 22,631건. 긴테쓰닛폰바시역 도보 3분, ₩₩₩ · 약 24만원. 아이와함께 호캉스 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 22,631건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치와 고객 서비스가 훌륭했습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 서비스를 제공해준 Ms Kanemura에게 감사의 말씀을 전하고 싶습니다.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "Welcome lounge and Guest laundry was suburb also.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay...good location..hotel was fantastic...",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "전반적으로 정말 편안하고 즐거운 경험이었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더 라이즈 오사카 유니버설 베이사이드 (The Rise Osaka Universal Bayside)",
+      "agodaUrl": "https://www.agoda.com/the-rise-osaka-universal-bayside/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/80483820/0/5db95ec0929347b216edab3c0c056ce0.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 1893,
+      "reviewCountFmt": "1,893건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "아지카와구치역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 1,893건. 아지카와구치역 도보 4분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 1,893건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I was there for a concert and the location was incredible.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "편안한 숙박, 맛있는 아침 식사, 저녁 식사 및 편안한 스파",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "A very clean, spacious, and uniquely high-tech experience.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Will come back again in the future because of the room.",
+          "score": "8.5",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "It is a keeper for future travels.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "바쿠로 - 도야넨 호텔스 (BAKURO - DOYANEN HOTELS)",
+      "agodaUrl": "https://www.agoda.com/doyanen-hotels-bakuro/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63190103/0/c88a6832d07f33c0f097d5244e296228.jpg?ce=3",
+      "score": 8.1,
+      "reviewCount": 2709,
+      "reviewCountFmt": "2,709건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 5,
+      "refLabel": "신이마미야역",
+      "star": 3,
+      "blurb": "평점 8.1 · 리뷰 2,709건. 신이마미야역 도보 5분, ₩ · 약 3만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 2,709건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "우리는 이곳에서 1박을 예약하고 5박을 묵게 되었습니다!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "Overall, great stay with great value of price.",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "모든 시설과 편의 시설이 훌륭했습니다.",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "시설은 새것이라 모든게 너무 깨끗했어요!",
+          "score": "7.6",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "The place is cool and nice will stay here again next time",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "그랜드 호스텔 엘디케이 오사카 신사이바시 (GRAND HOSTEL LDK OSAKA SHINSAIBASHI)",
+      "agodaUrl": "https://www.agoda.com/the-stay-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6405135/0/9aaedf3e6e75e1e9bf9ff69e6aa54e4f.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 11519,
+      "reviewCountFmt": "11,519건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "나가호리바시역",
+      "star": 2,
+      "blurb": "평점 9 · 리뷰 11,519건. 나가호리바시역 도보 2분, ₩ · 약 4만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 11,519건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Probably the best hostel I've ever stayed in so far.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "사랑스럽고 넓은 공용 공간과 주방, 좋은 수하물 보관소",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "The common toilets are clean and the cubicles are spacious.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "공용 욕실은 크고 조용하며 흠집 하나 없이 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 신사이바시에서 도톤부리까지 가까워서 좋습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "칸데오 호텔 오사카 더 타워 (CANDEO HOTELS Osaka The Tower)",
+      "agodaUrl": "https://www.agoda.com/candeo-hotels-osaka-the-tower/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48925496/-1/1b3a8cc649ff3c150c3d95bdd2052dbe.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 16600,
+      "reviewCountFmt": "16,600건",
+      "priceText": "₩₩₩ · 약 25만원",
+      "walkMin": 5,
+      "refLabel": "요도야바시역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 16,600건. 요도야바시역 도보 5분, ₩₩₩ · 약 25만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 16,600건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "별로 기대하지 않았는데 이 호텔이 너무 마음에 들었어요.",
+          "score": "9.6",
+          "country": "베트남",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방은 환상적이었고 직원들은 매우 친절했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "모든 가족에게 이 환상적인 호텔에 머물 것을 권하고 싶습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "그들은 영어를 이해하며 매우 친절하고 수용적입니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "근처에 훌륭한 레스토랑이 많아 편리한 위치입니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "호텔 뉴 한큐 오사카 아넥스 (Hotel new Hankyu Osaka Annex)",
+      "agodaUrl": "https://www.agoda.com/hotel-new-hankyu-osaka-annex/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/69291/-1/1b7b42fcc5f07db0f27a1fa4dd85ad5a.jpg?ce=0",
+      "score": 8.1,
+      "reviewCount": 9799,
+      "reviewCountFmt": "9,799건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 2,
+      "refLabel": "우메다역",
+      "star": 3.5,
+      "blurb": "평점 8.1 · 리뷰 9,799건. 우메다역 도보 2분, ₩₩ · 약 14만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 9,799건",
+        "⭐ 3.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "지하철, 쇼핑몰, 버스 정류장까지 도보 거리.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "호텔의 위치가 가장 유리합니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "간사이공항에서 직결되는 뛰어난 입지.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "우메다 기차역과 지하철역에서 매우 편리한 위치입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "오사카에 머물기 좋은 곳",
+          "score": "7.2",
+          "country": "Philippines",
+          "date": "2023.08",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-15T21:53:02.176Z",
+    "source": "agoda citySearch",
+    "daysAhead": 31,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

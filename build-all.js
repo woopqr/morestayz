@@ -35,7 +35,7 @@ function articleMetas() {
 
 function cardHtml(m) {
   return `      <a class="card" href="/articles/${m.slug}">
-        <div class="cthumb"><img src="${m.heroImg}" alt="" loading="lazy"><span class="ctag">${m.emoji} ${m.audience}</span></div>
+        <div class="cthumb"><img src="${m.heroImg}" alt="${String(m.title || '').replace(/"/g, '&quot;')}" loading="lazy"><span class="ctag">${m.emoji} ${m.audience}</span></div>
         <div class="cbody"><span class="cmeta">${[m.season, m.travelMonthLabel].filter(Boolean).join(' · ')}</span><h2>${m.title}</h2></div>
       </a>`;
 }

@@ -175,3 +175,14 @@ h2{font-family:var(--serif);font-weight:800;font-size:1.3rem;letter-spacing:-.01
 .cchip{font-family:var(--sans);font-size:.86rem;font-weight:700;color:var(--text);padding:8px 15px;border-radius:999px;border:1px solid var(--line);background:var(--surface);transition:background .15s,border-color .15s,color .15s;white-space:nowrap}
 .cchip:hover{border-color:var(--accent);color:var(--accent-d)}
 .cchip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+
+/* 쿠키 동의 배너 */
+#mz-consent-bar{position:fixed;left:0;right:0;bottom:0;z-index:9999;background:var(--surface);border-top:1px solid var(--line);box-shadow:0 -6px 24px rgba(60,52,30,.14)}
+.mz-cc-inner{max-width:1120px;margin:0 auto;padding:13px 20px;display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.mz-cc-inner p{font-size:.85rem;color:var(--muted);line-height:1.5;margin:0;flex:1;min-width:240px}
+.mz-cc-inner a{color:var(--accent-d);text-decoration:underline}
+.mz-cc-btns{display:flex;gap:8px;flex-shrink:0}
+.mz-cc-btns button{font-family:var(--sans);font-size:.85rem;font-weight:700;padding:9px 18px;border-radius:999px;cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--text)}
+#mz-cc-ess:hover{border-color:var(--accent);color:var(--accent-d)}
+#mz-cc-ok{background:var(--accent);border-color:var(--accent);color:#fff}
+#mz-cc-ok:hover{background:var(--accent-d)}

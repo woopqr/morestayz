@@ -32,6 +32,5 @@
   { "cityId": 4590,   "slug": "yokohama",    "name": "요코하마" },
   { "cityId": 17232,  "slug": "daegu",       "name": "대구" },
   { "cityId": 18347,  "slug": "tainan",      "name": "타이난" },
-  { "cityId": 15903,  "slug": "boracay",     "name": "보라카이" },
-  { "cityId": 3561,   "slug": "kobe",        "name": "고베" }
+  { "cityId": 15903,  "slug": "boracay",     "name": "보라카이" }
 ]

@@ -1,0 +1,543 @@
+{
+  "slug": "kids-kyoto-2026-08",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "교토",
+  "citySlug": "kyoto",
+  "cityId": 1784,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=1784",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[아이와함께] 교토 - 아이가 신나는 여름 물놀이 호캉스",
+  "metaDescription": "교토 아이와함께 호캉스, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 47%로 아이와함께 호캉스 기준 1순위는 <b>다이와 로이넷 호텔 교토 에키마에 프리미어</b>입니다 (평점 9.1·리뷰 15,382건·1박 약 13만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 14,
+        "pct": 47
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 6,
+        "pct": 20
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/119/1194076/1194076_17011714460050359140.jpg?ca=6&ce=1",
+  "heroAlt": "교토 아이와함께 호캉스",
+  "updated": "2026-07-17",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "다이와 로이넷 호텔 교토 에키마에 프리미어 (Daiwa Roynet Hotel Kyoto ekimae PREMIER)",
+      "agodaUrl": "https://www.agoda.com/daiwa-roynet-hotel-kyoto-ekimae/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/119/1194076/1194076_17011714460050359140.jpg?ca=6&ce=1",
+      "score": 9.1,
+      "reviewCount": 15382,
+      "reviewCountFmt": "15,382건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 4,
+      "refLabel": "교토역",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 15,382건. 교토역 도보 4분, ₩₩ · 약 13만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 15,382건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔 자체는 깨끗하고 직원은 훌륭합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "매우 편안하고 깨끗하며 직원들은 매우 도움이 됩니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "역과 상점, 레스토랑까지 매우 좋은 위치",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 교토에 비해 넓고 시설이 잘 갖춰져 있고 편안합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 넓고 3명이 지내기에 편안했습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 M's 플러스 시조 오미야 (Hotel M's Plus Shijo Omiya)",
+      "agodaUrl": "https://www.agoda.com/hotel-m-s-plus-shijo-omiya/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/161/1618153/1618153_17031011270051468418.jpg?ca=6&ce=1",
+      "score": 8.7,
+      "reviewCount": 17367,
+      "reviewCountFmt": "17,367건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 1,
+      "refLabel": "Keifuku Electric Railroad",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 17,367건. Keifuku Electric Railroad 도보 1분, ₩ · 약 8만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 17,367건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "제목에서 알 수 있듯이 최고의 호텔 경험 중 하나였습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "이번에도 아마 제가 머물렀던 최고의 호텔 중 하나일 거예요!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 넓으며 커플이 사용하기에 충분합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "다시 교토에 가게 된다면 이 호텔에 묵을 예정입니다.",
+          "score": "9.6",
+          "country": "Qatar",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "무엇보다도 한큐 지하철과 란덴 지하철 노선 옆에 위치해 있습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "마쓰바야 료칸 (Matsubaya Ryokan)",
+      "agodaUrl": "https://www.agoda.com/matsubaya-ryokan_3/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31675724/521576555/ed4d23a31ce0df91c9bfaffb6091f99b.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 648,
+      "reviewCountFmt": "648건",
+      "priceText": "₩₩₩ · 약 21만원",
+      "walkMin": 5,
+      "refLabel": "고조역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 648건. 고조역 도보 5분, ₩₩₩ · 약 21만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 21만원",
+        "📝 리뷰 648건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "예약이 필요한 전용 욕실은 그만한 가치가 있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 수용적이고 친절하며 친절합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "방은 사랑스럽고 침대는 편안했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "이불은 정말 편안했고 우리는 정말 잘 잤습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 이 일본식 호텔에서 놀라운 경험을 했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "소테츠 프레사 인 교토-시조카라스마 (Sotetsu Fresa Inn Kyoto-Shijokarasuma)",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-kyoto-shijokarasuma/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1618367/-1/fe2479572e5baed89f29e8465377f2b1.jpg?ca=7&ce=1",
+      "score": 9.1,
+      "reviewCount": 12378,
+      "reviewCountFmt": "12,378건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 1,
+      "refLabel": "시조역",
+      "star": 3.5,
+      "blurb": "평점 9.1 · 리뷰 12,378건. 시조역 도보 1분, ₩₩ · 약 10만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 12,378건",
+        "⭐ 3.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 내 친구에게 이 호텔에 묵도록 꼭 추천할 것입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "다음에 교토에 다시 오면 이 호텔을 다시 선택할 것입니다",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "니시키 시장, 기차역, 버스까지 도보로 쉽게 이동할 수 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리가 머무는 동안 편안하게 지낼 수 있는 편의 시설이 많이 있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "지하철에서 도보 거리, 7-11 앙 패밀리마트 근처.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "칸세이 교토 하치조 (KANSEI Kyoto Hachijo)",
+      "agodaUrl": "https://www.agoda.com/kansei/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/62160556/0/03c1477dfb3cbc4305846229838b532e.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 1017,
+      "reviewCountFmt": "1,017건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 7,
+      "refLabel": "도후쿠지역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 1,017건. 도후쿠지역 도보 7분, ₩₩ · 약 9만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,017건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치가 훌륭하고 직원들이 매우 친절합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "방은 훌륭했습니다! 매우 깨끗하고 업데이트되었으며 편안합니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "우리는 최고의 시간을 보냈고 잠도 잘 잤습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리가 다시 오면 꼭 다시 여기로 예약할 거예요.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "I am so grateful to have found KANSEI Kyoto Hachijo.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "호텔 M's Est 시조 가라스마 (Hotel M's Est Shijo Karasuma)",
+      "agodaUrl": "https://www.agoda.com/hotel-m-s-est-shijo-karasuma/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1974835/-1/4d4242874efd2decf7df89b121ee26ee.jpg?ca=16&ce=1",
+      "score": 8.6,
+      "reviewCount": 9449,
+      "reviewCountFmt": "9,449건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 1,
+      "refLabel": "가라스마역",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 9,449건. 가라스마역 도보 1분, ₩₩ · 약 10만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 9,449건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "니시키 시장까지 도보 4분, 기온까지 도보 15분이었습니다!",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "호텔에서 가장 가까운 출구에도 에스컬레이터가 있었습니다!",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "탐험을 좋아하는 커플에게는 최고의 위치입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "버스나 지하철 등 모든 주요 명소에 접근 가능",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "관광명소, 쇼핑몰, 레스토랑 등 도보 거리",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T21:44:31.097Z",
+    "source": "agoda citySearch",
+    "daysAhead": 29,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

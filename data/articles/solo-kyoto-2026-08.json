@@ -1,0 +1,460 @@
+{
+  "slug": "solo-kyoto-2026-08",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "교토",
+  "citySlug": "kyoto",
+  "cityId": 1784,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=1784",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[혼자여행] 교토 - 혼행자가 조용히 쉬어가는 숙소",
+  "metaDescription": "교토 혼자여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>피스 호스텔 교토</b>입니다 (평점 9.2·리뷰 11,825건·1박 약 3만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/489829/0/046ba8a23ab67dddd46d4b92a04b8614.jpg?ce=3",
+  "heroAlt": "교토 혼자여행",
+  "updated": "2026-07-17",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "피스 호스텔 교토 (Piece Hostel Kyoto)",
+      "agodaUrl": "https://www.agoda.com/piece-hostel-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/489829/0/046ba8a23ab67dddd46d4b92a04b8614.jpg?ce=3",
+      "score": 9.2,
+      "reviewCount": 11825,
+      "reviewCountFmt": "11,825건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 5,
+      "refLabel": "교토역 하치조구치 버스 정류장",
+      "star": 2,
+      "blurb": "평점 9.2 · 리뷰 11,825건. 교토역 하치조구치 버스 정류장 도보 5분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 11,825건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "지금까지 혼자 여행하면서 최고의 숙박 중 하나입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "저는 이 호스텔을 정말 좋아했고, 위치도 이보다 더 좋을 수 없습니다!",
+          "score": "10",
+          "country": "Suomi",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "그리고 직원들은 친절하고 수용적이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "당신을 위해 충분하지 못한 사랑스럽고 친절한 직원들",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 모든 시설을 이용할 수 있습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더 밀레니얼스 교토 (The Millennials Kyoto)",
+      "agodaUrl": "https://www.agoda.com/the-millennials-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2401153/-1/9d5fcfe6c1504cc3323b2d811892f694.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 6847,
+      "reviewCountFmt": "6,847건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 5,
+      "refLabel": "교토시야쿠쇼마에역",
+      "star": 2.5,
+      "blurb": "평점 9.2 · 리뷰 6,847건. 교토시야쿠쇼마에역 도보 5분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 6,847건",
+        "⭐ 2.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "로비 자체는 지금까지 본 것 중 최고였습니다.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "다음에 교토에 갈 때 가장 먼저 예약할 곳이기도 합니다.",
+          "score": "10",
+          "country": "일본",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "욕실은 냄새 없이 깨끗합니다. 침대는 깔끔하고 깔끔해요.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방, 시설, 위치, 깨끗함.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "쇼핑가에 위치해 있어 매우 편리합니다.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "글랜짓 교토 카와라마치 (GLANSIT KYOTO KAWARAMACHI)",
+      "agodaUrl": "https://www.agoda.com/glansit-kyoto-kawaramachi/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5000760/0/f98f2095c7426e460021fcbd0456d53b.jpg?ce=2",
+      "score": 9.1,
+      "reviewCount": 4435,
+      "reviewCountFmt": "4,435건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 1,
+      "refLabel": "가와라마치역",
+      "star": 2.5,
+      "blurb": "평점 9.1 · 리뷰 4,435건. 가와라마치역 도보 1분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 4,435건",
+        "⭐ 2.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "지금까지 일본에서 묵어본 캡슐호텔 중 최고였습니다",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 체계적이며 중앙 위치에 있습니다.",
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "캡슐은 프라이버시를 제공하고 내부가 넓은 느낌을 줍니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "5성급 캡슐 호텔 같은 것이 존재한다면 바로 여기입니다.",
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "슈페리어 캡슐룸에 머무르는 것은 판도를 바꾸는 일이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "마야 호텔 교토 우먼 전용 (MAJA HOTEL KYOTO Women-Only)",
+      "agodaUrl": "https://www.agoda.com/maja-hotel-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/891637044.jpg?k=1b177ecc6f5762c069e86257229f3a0215590252a10b2bb80f8fceb1f78509c5&o=",
+      "score": 9.1,
+      "reviewCount": 656,
+      "reviewCountFmt": "656건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 6,
+      "refLabel": "가라스마오이케역",
+      "star": 2,
+      "blurb": "평점 9.1 · 리뷰 656건. 가라스마오이케역 도보 6분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 656건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "장소의 미학을 좋아하고 직원은 환상적입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "버스/기차는 조금만 걸어가면 쉽게 접근할 수 있습니다.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2022.07",
+          "translated": true
+        },
+        {
+          "text": "많은 장소와 조용한 동네까지 도보 거리에 있습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "매우 친절한 직원과 훌륭한 시설.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "서비스는 포괄적이고 엘리베이터가 있어 매우 편리합니다.",
+          "score": "9.6",
+          "country": "中国",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Shijo Guesthouse HIVE",
+      "agodaUrl": "https://www.agoda.com/shijo-guesthouse-hive/hotel/all/kyoto-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/887073701.jpg?k=03f1d411ed83ecfdbcada198af24d2c630c27a0149c5b7d681a43f5f802a0c4c&o=",
+      "score": 8.7,
+      "reviewCount": 881,
+      "reviewCountFmt": "881건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 1,
+      "refLabel": "시조역",
+      "star": null,
+      "blurb": "평점 8.7 · 리뷰 881건. 시조역 도보 1분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 881건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 호스텔, 매우 깨끗하고 도움이 되는 직원",
+          "score": "10",
+          "country": "Israel",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 항상 바닥에 있어 의사소통이 쉽습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절했고, 명확한 지시를 해주었습니다.",
+          "score": "9.6",
+          "country": "Finland",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "개인 여행자를 위한 훌륭한 캡슐 호텔입니다.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "교토에 머무르는 놀라운 장소",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "호텔 라이브맥스 교토 데라마치도리 (Hotel LiVEMAX Kyoto Teramachidori)",
+      "agodaUrl": "https://www.agoda.com/h10540759/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/103/10303980/10303980_20012210020087374183.jpg?ca=10&ce=1",
+      "score": 7.8,
+      "reviewCount": 3621,
+      "reviewCountFmt": "3,621건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 5,
+      "refLabel": "기요미즈고조역",
+      "star": 2,
+      "blurb": "평점 7.8 · 리뷰 3,621건. 기요미즈고조역 도보 5분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,621건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "주요 보너스는 그들이 가지고 있는 세탁 시설입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 가치! 확실히 숙박을 시도해야합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 제가 머무르는 것을 정말 좋아하는 훌륭한 호텔입니다.",
+          "score": "8",
+          "country": "Japan",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 침대, 싱글룸에 베개 2개.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓어서 숙면을 취할 수 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-17T21:45:09.021Z",
+    "source": "agoda citySearch",
+    "daysAhead": 29,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

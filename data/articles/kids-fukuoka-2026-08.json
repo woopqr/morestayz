@@ -1,0 +1,534 @@
+{
+  "slug": "kids-fukuoka-2026-08",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "후쿠오카",
+  "citySlug": "fukuoka",
+  "cityId": 16527,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16527",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[아이와함께] 후쿠오카 - 키즈 친화 시설 좋은 가성비 숙소",
+  "metaDescription": "후쿠오카 아이와함께 호캉스, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 40%로 아이와함께 호캉스 기준 1순위는 <b>호텔 라이브맥스 후쿠오카 텐진 웨스트</b>입니다 (평점 7.6·리뷰 2,794건·1박 약 15만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 12,
+        "pct": 40
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/18174541/0/e101124ff58f938efeeb34a7a0c47b0d.jpeg?ce=0",
+  "heroAlt": "후쿠오카 아이와함께 호캉스",
+  "updated": "2026-07-18",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 라이브맥스 후쿠오카 텐진 웨스트 (HOTEL LiVEMAX Fukuoka Tenjin WEST)",
+      "agodaUrl": "https://www.agoda.com/hotel-livemax-fukuoka-tenjin-west/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/18174541/0/e101124ff58f938efeeb34a7a0c47b0d.jpeg?ce=0",
+      "score": 7.6,
+      "reviewCount": 2794,
+      "reviewCountFmt": "2,794건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 1,
+      "refLabel": "아카사카역",
+      "star": 3,
+      "blurb": "평점 7.6 · 리뷰 2,794건. 아카사카역 도보 1분, ₩₩ · 약 15만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 2,794건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "또한 한 블록 떨어진 곳에 스타벅스 외에 식료품점이 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "매우 친절하고 도움이 되는 직원들은 영어를 유창하고 명확하게 구사합니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "객실 내 전기주전자와 전자레인지 이용 가능",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 방에서 먹을 수 있는 도시락이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "화장실과 욕조는 깨끗하고 새것입니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "위베이스 하카타 호스텔 (WeBase HAKATA Hostel)",
+      "agodaUrl": "https://www.agoda.com/webase-hakata/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2429693/-1/8a1b775eae440be11b2edfadd75fbcf9.jpg?ca=15&ce=1",
+      "score": 9.1,
+      "reviewCount": 5620,
+      "reviewCountFmt": "5,620건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "나카스카와바타역",
+      "star": 2,
+      "blurb": "평점 9.1 · 리뷰 5,620건. 나카스카와바타역 도보 2분, ₩ · 약 7만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 5,620건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "체크아웃 시간 이후 밤 10시까지 짐을 맡길 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "캐널시티와 가와바타 쇼핑센터도 근처에 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "WiFi는 빠릅니다! 그러니 나 같은 유목민도 전혀 걱정할 필요가 없습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "무료 스낵 서비스가 생각보다 좋았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리가 받은 방에는 2층 침대가 두 개 있어서 편안했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "APA Hotel & Resort Hakata Ekihigashi",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-and-resort-hakata-ekihigashi/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/20445641/-1/1d523dc92e498c1c9175be443cdd5e7f.jpg?ca=17&ce=1",
+      "score": 8.3,
+      "reviewCount": 8669,
+      "reviewCountFmt": "8,669건",
+      "priceText": "₩₩ · 약 17만원",
+      "walkMin": 5,
+      "refLabel": "하카타역",
+      "star": 3,
+      "blurb": "평점 8.3 · 리뷰 8,669건. 하카타역 도보 5분, ₩₩ · 약 17만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 8,669건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "온천탕과 객실은 매우 깨끗하고 새로운 느낌이었습니다",
+          "score": "10",
+          "country": "フィリピン",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "하카타역, 로손&패밀리마트 근처에 위치해 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "이건 정말 대단해요. 오후로와 수영장도 있어요!",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 특히 호텔에 내장된 온천을 즐겼습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "작지만 매우 기능적인 객실을 저렴한 가격에 제공합니다.",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "스마일 호텔 하카타 에키마에 (Smile Hotel Hakata Ekimae)",
+      "agodaUrl": "https://www.agoda.com/smile-hotel-hakata-ekimae/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1770661/-1/139648c8a596a1438eecadf3b3a5651d.jpg?ca=10&ce=1",
+      "score": 8.5,
+      "reviewCount": 3975,
+      "reviewCountFmt": "3,975건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 2,
+      "refLabel": "JR Kyushu",
+      "star": 2.5,
+      "blurb": "평점 8.5 · 리뷰 3,975건. JR Kyushu 도보 2분, ₩₩ · 약 18만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 3,975건",
+        "⭐ 2.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔은 하카타역 근처에 있으며 도보로 약 5~8분 거리입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 작지만 매우 깨끗하고 편안합니다.",
+          "score": "8",
+          "country": "台灣",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "우리의 요청은 은혜와 기쁨으로 받아들여졌습니다.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "더블 침대와 욕조가 있는 괜찮은 욕실이 있습니다.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "아마도 내가 머물렀던 최고의 저예산 호텔일 것입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "APA 호텔 하카타 기온 에키마에 (APA Hotel Hakata Gion Ekimae)",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-hakata-gion-ekimae-h28237483/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28237483/-1/b00a9e1f7e2fc8a4fa8f5944fe24194f.jpg?ca=25&ce=0",
+      "score": 8,
+      "reviewCount": 3976,
+      "reviewCountFmt": "3,976건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 1,
+      "refLabel": "기온역",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 3,976건. 기온역 도보 1분, ₩₩ · 약 14만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 3,976건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔은 지하철 2번 출구 사이에 위치해 있습니다.",
+          "score": "8.4",
+          "country": "英國",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "침대 높이가 높아서 그 아래에 짐을 넣을 수 있습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "호텔은 깨끗하고 보안이 잘되어 있습니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "체크인부터 매우 잘 설정되고 효율적입니다.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "1인이 짐을 가지고 이동하기 좋은 방이에요!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "타비고야 라이프＆트립 하카타 이스트 (TABIGOYA LIFE＆TRIP HAKATA EAST)",
+      "agodaUrl": "https://www.agoda.com/n-33-hakata-sta-east/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/15970224/0/c1a969a246d6ee0cbbadc2a9398b72d1.jpeg?ce=0",
+      "score": 7.6,
+      "reviewCount": 1853,
+      "reviewCountFmt": "1,853건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "Nishitetsu Bus",
+      "star": 4,
+      "blurb": "평점 7.6 · 리뷰 1,853건. Nishitetsu Bus 도보 4분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 1,853건",
+        "⭐ 4성급",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치가 매우 좋고 하카타역까지 접근성이 좋습니다.",
+          "score": "7.6",
+          "country": "Malaysia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 세탁기도 있었습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "셀프 서비스라도 체크인/아웃이 쉽습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "하지만 전반적으로 우리의 숙박은 완벽했습니다❤️❤️❤️",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 훌륭했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-18T21:43:17.173Z",
+    "source": "agoda citySearch",
+    "daysAhead": 28,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

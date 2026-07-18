@@ -1,0 +1,481 @@
+{
+  "slug": "friends-fukuoka-2026-08",
+  "theme": "friends",
+  "audience": "친구여행",
+  "emoji": "🧑‍🤝‍🧑",
+  "city": "후쿠오카",
+  "citySlug": "fukuoka",
+  "cityId": 16527,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16527",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[친구여행] 후쿠오카 - 추억 남기기 좋은 인생 숙소",
+  "metaDescription": "후쿠오카 친구여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 친구 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "친구들과의 여행은 위치와 동선이 만족도를 가릅니다. 번화가·역세권에 가깝고 평이 좋은 가성비 숙소를 골랐습니다.",
+  "viewpoint": "여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "verdict": "친구여행 기준 1순위는 <b>몬탄 하카타</b>입니다 (평점 9.1·리뷰 17,770건·1박 약 4만원). 여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 28,
+        "pct": 93
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/2613173/-1/b7dd590bffb3b7604f54fd1d31059258.jpg?ca=22&ce=0",
+  "heroAlt": "후쿠오카 친구여행",
+  "updated": "2026-07-18",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "몬탄 하카타 (montan HAKATA)",
+      "agodaUrl": "https://www.agoda.com/montan-hakata-hostel/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2613173/-1/b7dd590bffb3b7604f54fd1d31059258.jpg?ca=22&ce=0",
+      "score": 9.1,
+      "reviewCount": 17770,
+      "reviewCountFmt": "17,770건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 4,
+      "refLabel": "히가시히에역",
+      "star": 2,
+      "blurb": "평점 9.1 · 리뷰 17,770건. 히가시히에역 도보 4분, ₩ · 약 4만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 17,770건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나홀로 여행자를 위한 합리적인 가격도 준비되어 있습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 조용하며 매우 멋진 휴게실입니다!",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "후쿠오카에 다시 간다면 이곳을 선택할 것 같아요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "직원들도 친절하고 시설도 잘 갖춰져 있습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "라운지에는 도서관과 보드/카드 게임도 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "위베이스 하카타 호스텔 (WeBase HAKATA Hostel)",
+      "agodaUrl": "https://www.agoda.com/webase-hakata/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2429693/-1/8a1b775eae440be11b2edfadd75fbcf9.jpg?ca=15&ce=1",
+      "score": 9.1,
+      "reviewCount": 5620,
+      "reviewCountFmt": "5,620건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "나카스카와바타역",
+      "star": 2,
+      "blurb": "평점 9.1 · 리뷰 5,620건. 나카스카와바타역 도보 2분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 5,620건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치, 편의 시설, 직원, 청결도는 최고 수준입니다!",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치에 있으며 훌륭한 직원과 편의시설을 갖추고 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 매우 깨끗했고 직원들도 정말 친절했습니다.",
+          "score": "10",
+          "country": "Suisse",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "시설은 훌륭하고 직원들은 매우 친절합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "내 인생에서 만난 최고의 호스텔입니다.",
+          "score": "9.6",
+          "country": "ไทย",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "후쿠오카 게스트하우스 짓카 (Fukuoka Guest House Jikka)",
+      "agodaUrl": "https://www.agoda.com/fukuoka-guest-house-jikka-h16344768/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/65747029/0/5109d17d1558a5e826ef93ac69fdf1fd.jpg?ce=3",
+      "score": 8.7,
+      "reviewCount": 827,
+      "reviewCountFmt": "827건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 4,
+      "refLabel": "와타나베도리역",
+      "star": 5,
+      "blurb": "평점 8.7 · 리뷰 827건. 와타나베도리역 도보 4분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 827건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "친절하신 덕분에 4일동안 잘 지냈습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "지카와 함께 너무 기억에 남는 경험을 했어요😍",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "사랑스러운 직원들이 가능한 모든 방법으로 도움을 주었습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원분들 정말 친절하시고 방도 너무 좋았어요.",
+          "score": "10",
+          "country": "Austria",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "숙소는 완벽하고 관광지와 가깝습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "웰캐빈 텐진 - 남성 전용 (WELLCABIN TENJIN - Male Only)",
+      "agodaUrl": "https://www.agoda.com/wellcabin-tenjin/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37767651/-1/b884413dcd3d57b6143f0e42f941fcbb.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 6496,
+      "reviewCountFmt": "6,496건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "덴진미나미역",
+      "star": 1.5,
+      "blurb": "평점 8.5 · 리뷰 6,496건. 덴진미나미역 도보 2분, ₩ · 약 8만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 6,496건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "텐진에 머물고 싶은 관광객에게 이 호텔을 추천합니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "그것은 나를 실망시키지 않았고 나는 그것에 머무르는 전체를 즐겼습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "후쿠오카의 강력 추천 숙소⭐⭐⭐⭐⭐",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "텐진 미나미 역 출구 근처의 환상적인 위치.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "시설은 놀라울 정도로 깨끗하고 잘 관리되어 있습니다.",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "9h 나인아워즈 하카타 스테이션 (9h nine hours Hakata station)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-hakata-station/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/16143404/-1/bdc18259a26fef23ed3129475a8a35b5.jpg?ca=14&ce=1",
+      "score": 8.4,
+      "reviewCount": 15246,
+      "reviewCountFmt": "15,246건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 1,
+      "refLabel": "JR Kyushu",
+      "star": 1.5,
+      "blurb": "평점 8.4 · 리뷰 15,246건. JR Kyushu 도보 1분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 15,246건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 호텔은 훌륭한 잠을 잤기 때문에 적극 추천됩니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "청결도:✅ (시트와 편의용품을 매일 교체해 줍니다)",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "하카타역과 매우 가까워서 이것이 최고입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 깨끗하고 명확하게 구분되어 있으며 완벽한 편의 시설",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 역과 가까워 위치가 좋습니다.",
+          "score": "10",
+          "country": "台湾",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "하츠 캡슐 호텔 앤 스파 나카스 -남성 전용- (HEARTS Capsule Hotel & Spa Nakasu -Male only-)",
+      "agodaUrl": "https://www.agoda.com/resort-capsule-hotel-well-cabin-fukuoka-nakasu-male-only/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/409710/0/3186c689851bfa70a05846623340768c.png?ce=3",
+      "score": 8,
+      "reviewCount": 5648,
+      "reviewCountFmt": "5,648건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "나카스카와바타역",
+      "star": 1.5,
+      "blurb": "평점 8 · 리뷰 5,648건. 나카스카와바타역 도보 2분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 5,648건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "좋은 위치, 깨끗한 객실과 시설, 저렴한 가격.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "하츠 캡슐 호텔에 묵는 것은 정말 좋은 경험이었습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 객실도 매우 깨끗합니다.",
+          "score": "8.4",
+          "country": "中國",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "낡았지만 관리가 잘되어 깨끗하고 불평할 것이 없습니다.",
+          "score": "9.2",
+          "country": "Norway",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "캡슐은 크기가 적당하고 잘 잤습니다.",
+          "score": "10",
+          "country": "メキシコ",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-18T21:44:19.319Z",
+    "source": "agoda citySearch",
+    "daysAhead": 28,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

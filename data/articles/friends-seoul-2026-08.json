@@ -1,0 +1,474 @@
+{
+  "slug": "friends-seoul-2026-08",
+  "theme": "friends",
+  "audience": "친구여행",
+  "emoji": "🧑‍🤝‍🧑",
+  "city": "서울",
+  "citySlug": "seoul",
+  "cityId": 14690,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14690",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[친구여행] 서울 - 밤늦게 들어와도 편한 위치",
+  "metaDescription": "서울 친구여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 친구 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "친구들과의 여행은 위치와 동선이 만족도를 가릅니다. 번화가·역세권에 가깝고 평이 좋은 가성비 숙소를 골랐습니다.",
+  "viewpoint": "여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "verdict": "친구여행 기준 1순위는 <b>고유인 앤 캐빈즈</b>입니다 (평점 9.2·리뷰 2,209건·1박 약 7만원). 여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 29,
+        "pct": 97
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/75205622/0/4ca3f8d8b32a8a59d8f3c4ff491df355.jpg?ce=3",
+  "heroAlt": "서울 친구여행",
+  "updated": "2026-07-19",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "고유인 앤 캐빈즈 (GOYOO INN & CABINS)",
+      "agodaUrl": "https://www.agoda.com/goyoo-inn-homes/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/75205622/0/4ca3f8d8b32a8a59d8f3c4ff491df355.jpg?ce=3",
+      "score": 9.2,
+      "reviewCount": 2209,
+      "reviewCountFmt": "2,209건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 6,
+      "refLabel": "선릉역",
+      "star": 2,
+      "blurb": "평점 9.2 · 리뷰 2,209건. 선릉역 도보 6분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,209건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "서울에서 혼자 여행할 때 꼭 다시 여기에 묵을 거예요!",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이곳은 말 그대로 제가 서울에서 머물렀던 가장 깨끗한 숙소입니다",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "이 장소를 정말 추천하고 꼭 다시 올 것입니다!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "만약 서울에 다시 온다면 저는 이곳에 다시 머물고 싶습니다!",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "이곳은 엄청나게 깨끗합니다. 마치 다음 단계의 흠집 하나 없는 것처럼요.",
+          "score": "10",
+          "country": "중국",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "기와 호스텔 (Kiwa Hostel)",
+      "agodaUrl": "https://www.agoda.com/h80243003/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/82158222/0/dd79a1be8678491016a69acd6ded2290.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 977,
+      "reviewCountFmt": "977건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 3,
+      "refLabel": "시티 공항 터미널",
+      "star": 2,
+      "blurb": "평점 9 · 리뷰 977건. 시티 공항 터미널 도보 3분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 977건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 것이 깨끗했고 이는 나에게 매우 중요했습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "직원들이 매우 친절하고, 시설도 깨끗합니다.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "안전하고 깨끗하며 합리적인 가격, 여행하기 쉬운 곳에서 퇴장",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "완벽한 숙박",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "캡슐이 너무 편했어요",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "몽헤브 캐빈즈 (강남역 5분) (Monrêve Cabins)",
+      "agodaUrl": "https://www.agoda.com/monreve-cabins/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/83505859/0/368dac7c4e41042a3e239ad245bae66d.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 366,
+      "reviewCountFmt": "366건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 8,
+      "refLabel": "강남역",
+      "star": 2,
+      "blurb": "평점 9.1 · 리뷰 366건. 강남역 도보 8분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 366건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 것이 매우 새것이었고, 청결도가 뛰어났습니다!",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "다음번 방문에도 꼭 이곳에 다시 묵을 예정입니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "침대와 공간이 마음에 들고 매우 편안합니다.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 매우 편안합니다",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "그리고 나는 이것이 최고 중 하나라고 말하고 싶습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "레이지 큐브 (Lazy Cube)",
+      "agodaUrl": "https://www.agoda.com/lazy-cube/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87472001/0/5ef0068db7a32b47a0abfa422b648d72.jpg?ce=3",
+      "score": 9.3,
+      "reviewCount": 152,
+      "reviewCountFmt": "152건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "홍대입구역",
+      "star": 2,
+      "blurb": "평점 9.3 · 리뷰 152건. 홍대입구역 도보 2분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 152건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "5성급 호텔 수준의 서비스, 편의시설, 청결함.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "위치도 훌륭하고 중앙 집중식이며 모든 것에 가깝습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "제가 서울에서 묵어본 호스텔 중 최고의 호스텔입니다.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "침대는 프라이버시가 뛰어납니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "제가 정말 마음에 들었던 것 중 하나는 샤워시설이었습니다.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "맹그로브 동대문 (Mangrove Dongdaemun)",
+      "agodaUrl": "https://www.agoda.com/mangrove-dongdaemun/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34563804/-1/16328c60ff008bc35212668f3175139b.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 9030,
+      "reviewCountFmt": "9,030건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "동대문역사문화공원역",
+      "star": 2,
+      "blurb": "평점 8.9 · 리뷰 9,030건. 동대문역사문화공원역 도보 2분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 9,030건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "비교할 수 없는 편안함과 뛰어난 직원이 함께하는 완벽한 숙박",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "숙소 자체는 흠잡을 곳이 없고 매우 잘 계획되어 있습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방(욕실 포함)은 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "동대문역사문화공원 맞은편 최고의 위치.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "(맹그로브 바로 앞) 공항 버스를 탈 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "호텔 드립앤드롭, 명동 (HOTEL DRIP&DROP, Myeongdong )",
+      "agodaUrl": "https://www.agoda.com/hotel-drip-drop-h59123585/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59123585/-1/bd4a1f8f4abd3251eee96787c4c70f91.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 3312,
+      "reviewCountFmt": "3,312건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 1,
+      "refLabel": "을지로입구역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 3,312건. 을지로입구역 도보 1분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,312건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "아마도 제가 가본 캡슐 호텔 중 최고였을 것입니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "이번이 두 번째 방문입니다. 다음 여행에도 다시 방문하겠습니다!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "편안하고 즐거운 숙박을 위해 적극 추천합니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "내가 서울에 있을 때마다 항상 여기에 머물기로 선택할 것입니다",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "위치는 환상적입니다. 명동 가장자리에 바로 있습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-19T21:45:33.731Z",
+    "source": "agoda citySearch",
+    "daysAhead": 27,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

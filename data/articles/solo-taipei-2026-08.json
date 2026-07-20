@@ -1,0 +1,461 @@
+{
+  "slug": "solo-taipei-2026-08",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "타이베이",
+  "citySlug": "taipei",
+  "cityId": 4951,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4951",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[혼자여행] 타이베이 - 역세권 1인 여행 베이스캠프",
+  "metaDescription": "타이베이 혼자여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>저스트 라이브 호스텔</b>입니다 (평점 9.3·리뷰 2,507건·1박 약 6만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/45462950/0/6a190f049c95bc1d4813cca1d2d137fb.jpg?ce=2",
+  "heroAlt": "타이베이 혼자여행",
+  "updated": "2026-07-20",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "저스트 라이브 호스텔 (Just Live Hostel)",
+      "agodaUrl": "https://www.agoda.com/just-live-hostel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/45462950/0/6a190f049c95bc1d4813cca1d2d137fb.jpg?ce=2",
+      "score": 9.3,
+      "reviewCount": 2507,
+      "reviewCountFmt": "2,507건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 3,
+      "refLabel": "Taipei West Bus Station",
+      "star": 3,
+      "blurb": "평점 9.3 · 리뷰 2,507건. Taipei West Bus Station 도보 3분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 2,507건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 Just Live Hostel은 가격 대비 훌륭한 가치를 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "지금까지 제가 머물렀던 호스텔 중 최고의 호스텔입니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "호스텔 자체는 매우 깨끗하고 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 깨끗하고 새로운 호스텔, 훌륭한 직원.",
+          "score": "10",
+          "country": "Kolumbien",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "위치가 매우 편리하고 근처에 교통이 편리합니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "미앤더 1948 (MEANDER 1948)",
+      "agodaUrl": "https://www.agoda.com/meander-1948/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5906312/0/a9c215aa09c437a55c1ae6227a9c0052.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 7171,
+      "reviewCountFmt": "7,171건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "Taoyuan International Airport MRT",
+      "star": 3,
+      "blurb": "평점 9.1 · 리뷰 7,171건. Taoyuan International Airport MRT 도보 2분, ₩ · 약 8만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 7,171건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 이것은 매우 저렴하지만 훌륭한 숙박을 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "특히 슬리퍼와 깨끗한 화장실이 너무 감사해요!!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 배낭여행객으로서 대만에서 11일 동안 머물렀던 시간을 절약해 주었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "욕실과 샤워실은 새로 리모델링되어 매우 깨끗합니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "직원들도 훌륭하고 친절하며 매우 도움이 되었습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "원더타임 타이베이 스테이션-한커우 레이디스 호스텔 (Wondertime Taipei Station-Hankou Ladies Hostel)",
+      "agodaUrl": "https://www.agoda.com/wondertime-taipei-station-branch-iii/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59425219/0/aef99f8ae2bc0faaeb35e6b4b88f6d48.jpg?ce=2",
+      "score": 9.1,
+      "reviewCount": 3121,
+      "reviewCountFmt": "3,121건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 3,
+      "refLabel": "Taipei West Bus Station",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 3,121건. Taipei West Bus Station 도보 3분, ₩ · 약 7만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,121건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "가격, 위치, 청결도 측면에서 적극 추천합니다",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "하지만 그 외에는 이 호텔에서 정말 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "시먼 거리까지 걸어서 갈 수 있어 MRT를 탈 필요가 없습니다.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "나중에 대만을 방문한다면 이 호텔을 예약하겠습니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아주 푹신한 매트리스와 베개에서 잠을 잘 잤습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "타이페이 디스커버 호스텔 (Taipei Discover Hostel)",
+      "agodaUrl": "https://www.agoda.com/taipei-discover-hostel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1023680/0/7e78f68adbdfc81ce8738b1d17587419.jpeg?ce=0",
+      "score": 9,
+      "reviewCount": 4909,
+      "reviewCountFmt": "4,909건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "중산초교역",
+      "star": 2,
+      "blurb": "평점 9 · 리뷰 4,909건. 중산초교역 도보 3분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 4,909건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 완벽했고 모든 것에 쉽게 접근할 수 있었습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "FD가 처음부터 모든 것을 설명하는 방식이 마음에 듭니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가격도 저렴하고, 깨끗하고, 위치도 좋아요!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 체계적이며 매우 도움이되는 직원.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "저는 타이페이에 있는 이 호스텔에서 정말 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "워크 인 TPE (WORK INN TPE)",
+      "agodaUrl": "https://www.agoda.com/work-inn-tpe/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/914412/0/201269074393e521c967a105660e652f.png?ce=2",
+      "score": 8.4,
+      "reviewCount": 17550,
+      "reviewCountFmt": "17,550건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "Taipei Main Station",
+      "star": 2,
+      "blurb": "평점 8.4 · 리뷰 17,550건. Taipei Main Station 도보 3분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 17,550건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "타이베이 메인역에서 몇 분 거리에 있어 찾기 쉽습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "요약은 가격 대비 좋은 가치가 있으므로 여기에서 예약하세요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 아늑해서 편안한 휴식을 제공했습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "mrt m8과 타이페이 중앙역과 가까워 위치가 완벽합니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "장소와 화장실, 객실 모두 깨끗합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "싱글 인 타이베이 (Single Inn Taipei)",
+      "agodaUrl": "https://www.agoda.com/single-inn-taipei/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/828224/-1/99c5c00ec4678d39674627a230333f3f.jpg?ca=0&ce=1",
+      "score": 8.4,
+      "reviewCount": 7943,
+      "reviewCountFmt": "7,943건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "푸중역",
+      "star": 2,
+      "blurb": "평점 8.4 · 리뷰 7,943건. 푸중역 도보 3분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 7,943건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 너무 작지 않고 침대도 편안합니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "3박 동안 이곳에 머무르는 것이 매우 편안하다고 느낄 수 있습니다.",
+          "score": "8",
+          "country": "中国",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "Single Inn은 이런 종류의 경험을 위한 완벽한 호스텔입니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "무료 아침 식사는 맛있고 서비스도 좋습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "온천과 라운지 룸은 큰 장점이었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T21:57:17.998Z",
+    "source": "agoda citySearch",
+    "daysAhead": 26,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

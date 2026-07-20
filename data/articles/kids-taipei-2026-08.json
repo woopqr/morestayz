@@ -1,0 +1,547 @@
+{
+  "slug": "kids-taipei-2026-08",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "타이베이",
+  "citySlug": "taipei",
+  "cityId": 4951,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4951",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[아이와함께] 타이베이 - 키즈 친화 시설 좋은 가성비 숙소",
+  "metaDescription": "타이베이 아이와함께 호캉스, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 40%로 아이와함께 호캉스 기준 1순위는 <b>초 호텔</b>입니다 (평점 8.9·리뷰 9,034건·1박 약 16만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 12,
+        "pct": 40
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/746735/0/2f1e49bb1d8714803ec251a70a586145.png?ce=3",
+  "heroAlt": "타이베이 아이와함께 호캉스",
+  "updated": "2026-07-20",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "초 호텔 (Cho Hotel)",
+      "agodaUrl": "https://www.agoda.com/cho-hotel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/746735/0/2f1e49bb1d8714803ec251a70a586145.png?ce=3",
+      "score": 8.9,
+      "reviewCount": 9034,
+      "reviewCountFmt": "9,034건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 4,
+      "refLabel": "시먼역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 9,034건. 시먼역 도보 4분, ₩₩ · 약 16만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 9,034건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "매우 아늑하고 무료 스낵과 엔터테인먼트 층을 좋아합니다.",
+          "score": "10",
+          "country": "英國",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "4개의 대형 수하물과 좌석 공간을 위한 충분한 공간.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "나는 그들이 호텔을 장식하고 가구를 갖춘 방식을 좋아했습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "TV, 냉장고, 헤어드라이어 등의 편의시설도 이용 가능합니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "침대 시트와 베개도 깨끗하고 깔끔했어요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "시저 메트로 타이베이 (Caesar Metro Taipei)",
+      "agodaUrl": "https://www.agoda.com/caesar-metro-taipei/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2150639/0/dd98cacd3fe155fe73540401aa29c5ce.jpg?ce=3",
+      "score": 8.6,
+      "reviewCount": 66676,
+      "reviewCountFmt": "66,676건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 3,
+      "refLabel": "룽산쓰역",
+      "star": 5,
+      "blurb": "평점 8.6 · 리뷰 66,676건. 룽산쓰역 도보 3분, ₩₩ · 약 15만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 66,676건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그들은 심지어 침대를 정돈한 후에 내 봉제인형을 다시 집어넣기도 했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "MRT까지 도보로 가까운 거리에 있으며 Wanhua 지역 열차 옆에 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "놀이 공간은 깨끗하고 넓으며 많은 장난감을 갖추고 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 뛰어난 보행 편의성과 안정적인 Wi-Fi를 제공합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 깔끔하며 스마트 화장실이 있어 매우 편리합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "마예르 인 (Mayer Inn)",
+      "agodaUrl": "https://www.agoda.com/mayer-inn/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9377130/0/f525c9427663d82ee8dd98b2f9ed9291.jpg?ce=3",
+      "score": 8.3,
+      "reviewCount": 25563,
+      "reviewCountFmt": "25,563건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 2,
+      "refLabel": "Taipei Main Station",
+      "star": 3,
+      "blurb": "평점 8.3 · 리뷰 25,563건. Taipei Main Station 도보 2분, ₩₩ · 약 11만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 25,563건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "타이페이 MRT 역 바로 맞은편에 있는 훌륭한 위치.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "MOS 버거 옆에 ​​있는 엘리베이터를 통해서도 호텔까지 오실 수 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "창문이 없음에도 불구하고 방 크기는 충분히 넓습니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "가장 좋은 점은.. 변기에는 일본식 비데가 있었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "매일 새 수건을 제공하고 쓰레기도 매일 청소합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "NK 호스텔 (NK Hostel)",
+      "agodaUrl": "https://www.agoda.com/nk-hostel_4/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4215591/0/ecedd9d9d9c75b443c63dbce2e803921.jpeg?ce=0",
+      "score": 9,
+      "reviewCount": 7961,
+      "reviewCountFmt": "7,961건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 6,
+      "refLabel": "난징산민역",
+      "star": null,
+      "blurb": "평점 9 · 리뷰 7,961건. 난징산민역 도보 6분, ₩ · 약 5만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 7,961건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 직원, 아침 식사, 커피 및... 변기 온도 조절 장치!",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "오래된 타이페이 아파트 건물을 완전히 개조했습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "여자 방에서는 타이페이 101 빌딩의 멋진 전망을 감상하실 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 좋은 침대와 깨끗한 시트가 있었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "장소 전체에 매우 사려 깊고 아늑한 디자인이 있습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "부테크 지안탄 호텔 (Boutech Jiantan Hotel)",
+      "agodaUrl": "https://www.agoda.com/boutech-meet-jiantan-hotel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36796961/0/f584d4016b3a67e21f98828d28889555.png?ce=3",
+      "score": 8.8,
+      "reviewCount": 19653,
+      "reviewCountFmt": "19,653건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 9,
+      "refLabel": "젠탄역",
+      "star": 4,
+      "blurb": "평점 8.8 · 리뷰 19,653건. 젠탄역 도보 9분, ₩₩ · 약 14만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 19,653건",
+        "⭐ 4성급",
+        "👥 출장·비즈니스 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "출장·비즈니스",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "야시장에 가기 좋은 위치, MRT까지 도보로 약 11분.",
+          "score": "7.2",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "또한 깨끗하고 편안한 무료 스파도 제공됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대, 좋은 방음 시설, 멋진 전망을 갖추고 있었습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 예약 시 요청 사항을 매우 잘 들어주었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "새 호텔이라 모든 것이 기대 이상입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "워크 인 101 (Work Inn 101)",
+      "agodaUrl": "https://www.agoda.com/work-inn-at-taipei-101/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36862237/0/f49d2a9fa856321ca212c9ee996541f9.jpeg",
+      "score": 8.7,
+      "reviewCount": 5677,
+      "reviewCountFmt": "5,677건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 3,
+      "refLabel": "Taipei 101–World Trade Center Metro Station",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 5,677건. Taipei 101–World Trade Center Metro Station 도보 3분, ₩ · 약 6만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,677건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실에는 20개의 이층 침대가 있으며 매우 조용하고 편안합니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "타이페이 중심부에서 밤을 보내기에 이상적인 예산 선택입니다.",
+          "score": "8.8",
+          "country": "Taiwan",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "내 물건과 직원 연락처를 잊어버려서 보관했습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실과 욕실은 제가 묵어본 것 중 가장 깨끗했습니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "공간 활용이 매우 효율적이어서 기대에 부응했습니다.",
+          "score": "7.6",
+          "country": "Taiwan",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-20T21:56:41.645Z",
+    "source": "agoda citySearch",
+    "daysAhead": 26,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

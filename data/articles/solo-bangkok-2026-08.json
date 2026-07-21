@@ -1,0 +1,507 @@
+{
+  "slug": "solo-bangkok-2026-08",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[혼자여행] 방콕 - 역세권 1인 여행 베이스캠프",
+  "metaDescription": "방콕 혼자여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 73%로 혼자여행 기준 1순위는 <b>W 21 호텔 방콕</b>입니다 (평점 7.8·리뷰 11,300건·1박 약 5만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 22,
+        "pct": 73
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/296153/-1/fd3b1c566e5bbefa856ceef47f9cd9b5.jpg?ca=20&ce=1",
+  "heroAlt": "방콕 혼자여행",
+  "updated": "2026-07-21",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "W 21 호텔 방콕 (W 21 HOTEL Bangkok)",
+      "agodaUrl": "https://www.agoda.com/serene-asoke-suites/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/296153/-1/fd3b1c566e5bbefa856ceef47f9cd9b5.jpg?ca=20&ce=1",
+      "score": 7.8,
+      "reviewCount": 11300,
+      "reviewCountFmt": "11,300건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 1,
+      "refLabel": "수쿰윗역",
+      "star": 3,
+      "blurb": "평점 7.8 · 리뷰 11,300건. 수쿰윗역 도보 1분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 11,300건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "최고의 위치, 가격 대비 가치, 친절하고 도움이 되는 직원",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "그리고 방은 꽤 넓고 매우 깨끗합니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "방에는 필요한 모든 편의 시설이 갖추어져있었습니다.",
+          "score": "7.6",
+          "country": "India",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 매우 쾌적하고 편안한 숙박이었습니다",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "W21 호텔에서의 최근 숙박은 전반적으로 예상외로 훌륭했습니다!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "나라 호텔 (Narra hotel)",
+      "agodaUrl": "https://www.agoda.com/narra-hotel_2/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4363456/-1/a71d6ad4d29b2527b9bb824c6116cdf9.jpg?ca=12&ce=1",
+      "score": 8.9,
+      "reviewCount": 11016,
+      "reviewCountFmt": "11,016건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 3,
+      "refLabel": "쨍와타나 14역",
+      "star": 3.5,
+      "blurb": "평점 8.9 · 리뷰 11,016건. 쨍와타나 14역 도보 3분, ₩₩ · 가격 변동. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 11,016건",
+        "⭐ 3.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 8.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "KLIA 공항과 충분히 가까운 새롭고 매우 깨끗한 호텔",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "MRT 핑크 라인 Chaeng Wattana 14 역까지 도보 거리.",
+          "score": "7.2",
+          "country": "Thailand",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "룸서비스는 가격 대비 훌륭하고 맛있으며 신속하게 도착했습니다.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "며칠간 편안하게 잘 지냈습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 저는 이곳에 머무는 동안 정말 즐거웠습니다.",
+          "score": "7.6",
+          "country": "Vietnam",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "12 더 레지던스 호텔 (12 The Residence Hotel)",
+      "agodaUrl": "https://www.agoda.com/12-the-residence-hotel-apartment/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32901818/-1/013ea3e91874c92ded78a8657f50ce1f.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 23904,
+      "reviewCountFmt": "23,904건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 10,
+      "refLabel": "돈므앙 기차역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 23,904건. 돈므앙 기차역 도보 10분, ₩ · 약 3만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 23,904건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "돈므앙 공항(DMK) 근처 최고의 버짓 호텔입니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "방에는 냉장고, 전자레인지, 심지어 스토브도 있습니다.",
+          "score": "10",
+          "country": "Вьетнам",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "최고 수준의 시설과 친절한 직원을 갖춘 깨끗한 숙소입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 아침 식사와 크고 편안한 침실.",
+          "score": "10",
+          "country": "Brasil",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "확실히 5성급 호텔/리조트의 표준을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "이비스 스타일 방콕 수쿰빗 프라 카농 (ibis Styles Bangkok Sukhumvit Phra Khanong)",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-bangkok-sukhumvit-phra-khanong/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/21603533/0/89e7b6cc52802d9199c04bdfdc5e02d8.jpeg?ce=2",
+      "score": 8.4,
+      "reviewCount": 10337,
+      "reviewCountFmt": "10,337건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 6,
+      "refLabel": "프라카농역",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 10,337건. 프라카농역 도보 6분, ₩ · 약 6만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 10,337건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "멋진 옥상 바, 아름다운 수영장, 기본 체육관 시설.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "나중에 모든 리셉션 팀이 멋진 케이크를 가지고 와서 노래를 불렀습니다.",
+          "score": "7.6",
+          "country": "תאילנד",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "BTS 프라카농역 바로 옆 최고의 위치.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "하루를 마치고 돌아올 때 방은 항상 청소되었습니다.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "조식당은 크고 선택의 폭이 넓습니다.",
+          "score": "10",
+          "country": "Norway",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "루암칫 플라자 호텔 (Ruamchitt Plaza Hotel)",
+      "agodaUrl": "https://www.agoda.com/oyo-108-ruamchitt-plaza-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/290437/-1/3de08fb92e547740eafe692d685cda98.jpg?ca=8&ce=1",
+      "score": 8.1,
+      "reviewCount": 11118,
+      "reviewCountFmt": "11,118건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 4,
+      "refLabel": "나나역",
+      "star": 3,
+      "blurb": "평점 8.1 · 리뷰 11,118건. 나나역 도보 4분, ₩ · 약 6만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 11,118건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "최상층에 있는 수영장은 깨끗하고 전망이 좋으며 라운지 공간이 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 에그 베네딕트를 곁들인 아침 식사가 훌륭합니다.",
+          "score": "8.4",
+          "country": "Duitsland",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "창문이 많고 전망이 멋진 방이 마음에 듭니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "Thermae Cafe 위에 위치해 있지만 방에서 소음이 들리지 않습니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "고급스럽진 않지만 가격대비 아주 좋습니다",
+          "score": "10",
+          "country": "Egypt",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "맨해튼 호텔 (Manhattan Hotel)",
+      "agodaUrl": "https://www.agoda.com/manhattan-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2203/-1/7af87453e6a1c027928025f55c7e741d.jpg?ca=9&ce=1",
+      "score": 7.7,
+      "reviewCount": 16402,
+      "reviewCountFmt": "16,402건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 4,
+      "refLabel": "나나역",
+      "star": 4,
+      "blurb": "평점 7.7 · 리뷰 16,402건. 나나역 도보 4분, ₩ · 약 6만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 16,402건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Nana와 Asoke BTS 역 사이에 위치가 좋습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "매우 큰 구식 호텔이며 객실은 넓고 침대가 좋습니다.",
+          "score": "8.4",
+          "country": "Deutschland",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "주요 도로에 접근이 매우 용이하고 지하철역과도 가깝습니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "호텔은 흠잡을 곳이 없었고 직원들은 매력적이었습니다.",
+          "score": "8",
+          "country": "Thailand",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 즐거운 경험이었고 다시 돌아올 것입니다.",
+          "score": "9.2",
+          "country": "中国台湾",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-21T22:00:20.357Z",
+    "source": "agoda citySearch",
+    "daysAhead": 25,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

@@ -9,6 +9,7 @@
   <url><loc>https://morestayz.com/page/4</loc><priority>0.5</priority></url>
   <url><loc>https://morestayz.com/page/5</loc><priority>0.5</priority></url>
   <url><loc>https://morestayz.com/page/6</loc><priority>0.5</priority></url>
+  <url><loc>https://morestayz.com/page/7</loc><priority>0.5</priority></url>
   <url><loc>https://morestayz.com/category/couple</loc><priority>0.6</priority></url>
   <url><loc>https://morestayz.com/category/couple/2</loc><priority>0.4</priority></url>
   <url><loc>https://morestayz.com/category/couple/3</loc><priority>0.4</priority></url>
@@ -17,6 +18,9 @@
   <url><loc>https://morestayz.com/category/kids</loc><priority>0.6</priority></url>
   <url><loc>https://morestayz.com/category/solo</loc><priority>0.6</priority></url>
   <url><loc>https://morestayz.com/category/friends</loc><priority>0.6</priority></url>
+  <url><loc>https://morestayz.com/articles/family-danang-2026-08</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://morestayz.com/articles/kids-danang-2026-08</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://morestayz.com/articles/solo-danang-2026-08</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://morestayz.com/articles/friends-bangkok-2026-08</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://morestayz.com/articles/kids-bangkok-2026-08</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://morestayz.com/articles/solo-bangkok-2026-08</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>

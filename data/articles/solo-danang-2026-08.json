@@ -1,0 +1,515 @@
+{
+  "slug": "solo-danang-2026-08",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "다낭",
+  "citySlug": "danang",
+  "cityId": 16440,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16440",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[혼자여행] 다낭 - 혼행자가 조용히 쉬어가는 숙소",
+  "metaDescription": "다낭 혼자여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 80%로 혼자여행 기준 1순위는 <b>믹스테이</b>입니다 (평점 9.1·리뷰 277건·1박 약 1만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/78071005/0/a58fa3e851f2f5a720077d2b78bf97f3.jpg?ce=2",
+  "heroAlt": "다낭 혼자여행",
+  "updated": "2026-07-22",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "믹스테이 (Mik Stay)",
+      "agodaUrl": "https://www.agoda.com/mik-stay/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/78071005/0/a58fa3e851f2f5a720077d2b78bf97f3.jpg?ce=2",
+      "score": 9.1,
+      "reviewCount": 277,
+      "reviewCountFmt": "277건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 23,
+      "refLabel": "다낭역",
+      "star": 3,
+      "blurb": "평점 9.1 · 리뷰 277건. 다낭역 도보 23분, ₩ · 약 1만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 277건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "욕실이 딸린 새롭고 매우 깨끗한 여성 기숙사입니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "2025년에 지어진 건물로 내부는 새것입니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "위치는 조용한 거리에 있으며 공항과 가깝습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "나홀로 여행자를 위한 최고의 호텔",
+          "score": "10",
+          "country": "China",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "에어컨은 조용하고 소음이 없었습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "다나 펄 다낭 호텔 (Dana Pearl Da Nang Hotel )",
+      "agodaUrl": "https://www.agoda.com/dana-pearl-hotel-da-nang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/583496/-1/51053e11ca1d254fec605b835e09bbe1.jpg?ce=0",
+      "score": 8.3,
+      "reviewCount": 1540,
+      "reviewCountFmt": "1,540건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 15,
+      "refLabel": "다낭역",
+      "star": 3,
+      "blurb": "평점 8.3 · 리뷰 1,540건. 다낭역 도보 15분, ₩ · 약 6만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 1,540건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "야간 승무원과 함께 스쿠터 주차.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "거대한 객실, 가격 대비 가치.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "작은 호텔.. 깨끗하고 편안하며 현대적입니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "도착했을 때 늦은 밤에도 쉽게 체크인할 수 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "다낭에서 처음 머물기에 완벽한 장소입니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "재패니즈 슬립 박스 다낭 에어포트 (Japanese Sleep Box Da Nang Airport )",
+      "agodaUrl": "https://www.agoda.com/capsule-hotel-da-nang-airport/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87884364/0/cbec2dfe51d5740a75f5217781fc12bd.jpg?ce=3",
+      "score": 9.3,
+      "reviewCount": 33,
+      "reviewCountFmt": "33건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 19,
+      "refLabel": "다낭역",
+      "star": 3,
+      "blurb": "평점 9.3 · 리뷰 33건. 다낭역 도보 19분, ₩ · 약 1만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 33건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그들은 무료 차와 커피를 제공합니다.",
+          "score": "8.4",
+          "country": "Japan",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 조용합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "단기 체류에 좋은 숙소입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "좋은 하룻밤 숙박",
+          "score": "8.4",
+          "country": "Japan",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "머물기 가장 좋은 장소",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "에어포트 홈스테이 다낭 (Airport Homestay Đà Nẵng)",
+      "agodaUrl": "https://www.agoda.com/airport-homestay-h31449485/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31439284/0/3852475c11d354121dd456f13821d6fa.jpg?ca=28&ce=0",
+      "score": 8.2,
+      "reviewCount": 698,
+      "reviewCountFmt": "698건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 26,
+      "refLabel": "다낭역",
+      "star": 3,
+      "blurb": "평점 8.2 · 리뷰 698건. 다낭역 도보 26분, ₩ · 약 2만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 698건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "숙소는 말 그대로 공항에서 도보로 5분 거리에 있습니다.",
+          "score": "9.2",
+          "country": "Bulgaria",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "편안한 숙박과 친절한 직원",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이 호텔 방은 자연 채광이 풍부하고 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "이 숙소는 가격 대비 훌륭한 가치를 제공합니다.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "집 분위기가 아주 아늑해요.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "무엉탄 그랜드 다낭 호텔 (Muong Thanh Grand Da Nang Hotel)",
+      "agodaUrl": "https://www.agoda.com/muong-thanh-grand-da-nang-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/502/502099/502099_14060516240019719334.jpg?ca=2&ce=1",
+      "score": 8,
+      "reviewCount": 5917,
+      "reviewCountFmt": "5,917건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 33,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 8 · 리뷰 5,917건. 다낭역 도보 33분, ₩ · 약 4만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,917건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "드래곤 브릿지를 볼 수 있고, 야시장에 접근할 수 있습니다.",
+          "score": "8",
+          "country": "Vietnam",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "한쪽 리버뷰가 너무 좋아요 꼭 요청하세요",
+          "score": "7.6",
+          "country": "United States",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 다낭 해변 전망이 좋았습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "매우 다양하고 신선한 요리와 계란 바를 주문하여 조리합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 가격 대비 뛰어난 가치를 자랑합니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "윙크 호텔 다낭 센터, 언스크립티드 바이 하얏트 (Wink Danang Centre, Unscripted by Hyatt - 24 hours stay)",
+      "agodaUrl": "https://www.agoda.com/wink-hotel-danang-centre/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/83513336/0/55055ea906ab34d77a3f3812c40aa920.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 10776,
+      "reviewCountFmt": "10,776건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 21,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 10,776건. 다낭역 도보 21분, ₩ · 약 7만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 10,776건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "조각 박물관과 용 다리까지 도보 거리에 있습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "nhung과 Trim을 요청하면 도움을 드릴 것입니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "음식도 맛있고 방에서 보이는 뷰도 너무 좋아요.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "24시간 예약이 가능한 점이 마음에 듭니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "그들은 우리가 매일 아침 즐겼던 뷔페 식 아침 식사를 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-22T22:01:11.494Z",
+    "source": "agoda citySearch",
+    "daysAhead": 24,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

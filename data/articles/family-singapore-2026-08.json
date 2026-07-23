@@ -1,0 +1,554 @@
+{
+  "slug": "family-singapore-2026-08",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "싱가포르",
+  "citySlug": "singapore",
+  "cityId": 4064,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4064",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[가족여행] 싱가포르 - 최고의 남편이 선택하는 가성비 숙소",
+  "metaDescription": "싱가포르 가족여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 57%로 가족여행 기준 1순위는 <b>리조트 월드 센토사 - 호텔 마이클</b>입니다 (평점 8.3·리뷰 10,000건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 17,
+        "pct": 57
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/186994/0/c55b813e713ed320faf58c7d2bc10b2e.jpeg?ce=0",
+  "heroAlt": "싱가포르 가족여행",
+  "updated": "2026-07-23",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "리조트 월드 센토사 - 호텔 마이클 (Resorts World Sentosa - Hotel Michael)",
+      "agodaUrl": "https://www.agoda.com/resorts-world-sentosa-hotel-michael/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/186994/0/c55b813e713ed320faf58c7d2bc10b2e.jpeg?ce=0",
+      "score": 8.3,
+      "reviewCount": 10000,
+      "reviewCountFmt": "10,000건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 2,
+      "refLabel": "Waterfront",
+      "star": 5,
+      "blurb": "평점 8.3 · 리뷰 10,000건. Waterfront 도보 2분, ₩₩ · 가격 변동. 가족 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 10,000건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "귀하의 관대함과 탁월한 서비스에 다시 한번 감사드립니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "센토사 명소와 매우 가깝습니다! 워터파크에 딱 맞는",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "호텔의 프레젠테이션은 흠 잡을 데가 없습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "2베드룸 슈트로 룸 업그레이드를 받았습니다. 매우 감사합니다",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 깔끔했으며 서비스도 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "실로소 비치 리조트 센토사 (Siloso Beach Resort Sentosa)",
+      "agodaUrl": "https://www.agoda.com/siloso-beach-resort-sentosa/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/989/98946/98946_16111610410048759639.jpg?ca=6&ce=1",
+      "score": 7.7,
+      "reviewCount": 14367,
+      "reviewCountFmt": "14,367건",
+      "priceText": "₩₩₩ · 약 25만원",
+      "walkMin": 8,
+      "refLabel": "Beach",
+      "star": 4,
+      "blurb": "평점 7.7 · 리뷰 14,367건. Beach 도보 8분, ₩₩₩ · 약 25만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 14,367건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "또한 호텔의 시설은 매우 훌륭합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "두 개의 작은 슬라이드와 함께 작은 폭포도 있습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "실로소 비치 리조트는 가족을 위한 환상적인 선택입니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "객실 내부와 외부 시설도 매우 좋습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "비가 와도 좋은 경험을 했습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "칼튼 시티 호텔 싱가포르 (Carlton City Hotel Singapore)",
+      "agodaUrl": "https://www.agoda.com/carlton-city-hotel-singapore/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/34178188.jpg?k=d0c00463d9704c608433217bff9983353d46b5f9f0049c6d2a5828bd3c1aafb3&o=",
+      "score": 8.7,
+      "reviewCount": 15599,
+      "reviewCountFmt": "15,599건",
+      "priceText": "₩₩₩ · 약 32만원",
+      "walkMin": 2,
+      "refLabel": "MRT 탄종파가역",
+      "star": 5,
+      "blurb": "평점 8.7 · 리뷰 15,599건. MRT 탄종파가역 도보 2분, ₩₩₩ · 약 32만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 32만원",
+        "📝 리뷰 15,599건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 처음부터 끝까지 훌륭한 경험이었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "호텔의 전반적인 분위기는 우아하고 편안합니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 욕실과 마찬가지로 크기도 매우 좋았습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "Carlton City Hotel은 항상 그 지역에서 제가 선택하는 곳입니다.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "뷔페 식 아침 식사는 훌륭한 음식 선택과 품질을 제공했습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "헴렛 에센셜스 클라크 키 (Hmlet Essentials Clarke Quay)",
+      "agodaUrl": "https://www.agoda.com/champion-hotel-city/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1409848/0/7c418d73c4c3ac58f0d774b50e2cb467.jpg?ce=2",
+      "score": 8.2,
+      "reviewCount": 3567,
+      "reviewCountFmt": "3,567건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 2,
+      "refLabel": "MRT 클락키역",
+      "star": 3,
+      "blurb": "평점 8.2 · 리뷰 3,567건. MRT 클락키역 도보 2분, ₩₩ · 약 12만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 3,567건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 MRT 근처에 있어 다른 명소로 이동하기 쉽습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2022.09",
+          "translated": true
+        },
+        {
+          "text": "그런 다음 그녀는 우리를 호텔까지 올바른 방향으로 안내했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "간편한 체크인 절차, 훌륭한 직원, 놀라운 위치.",
+          "score": "10",
+          "country": "Serbia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "나는 앞으로 다시 여기에 머무를 것을 확실히 고려할 것입니다.",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "나는 잠을 깊게 자는 사람이지만 여기서 자는 데 문제가 없었습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "V 호텔 라벤더 (SG Clean 인증) (V Hotel Lavender)",
+      "agodaUrl": "https://www.agoda.com/v-hotel-lavender/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/58982106.jpg?k=b3bb03396a540eedae5a610ca4c9c4292fba52a38164014800df650e5c07823f&o=",
+      "score": 7.9,
+      "reviewCount": 66688,
+      "reviewCountFmt": "66,688건",
+      "priceText": "₩₩₩ · 약 34만원",
+      "walkMin": 1,
+      "refLabel": "MRT 라벤더역",
+      "star": 4,
+      "blurb": "평점 7.9 · 리뷰 66,688건. MRT 라벤더역 도보 1분, ₩₩₩ · 약 34만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 66,688건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "싱가포르 방문을 위한 확실한 추천 호텔입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "비행기가 연착되어서 3시간 더 머물라고 하더군요.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "MRT 역과 레스토랑이 주변에 있어 위치가 좋습니다.",
+          "score": "8.8",
+          "country": "馬來西亞",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "MRT와 가까워 이동이 편리한 위치에 만족합니다.",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "기본적으로 우리는 이 호텔에서 매우 좋은 경험을 했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Wink 앳 잘란 브사르 (Wink @ Jalan Besar)",
+      "agodaUrl": "https://www.agoda.com/wink-jalan-besar/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/85989250/0/f6e6da68cf57ed7898bf9a321835d9c4.png?ce=3",
+      "score": 8.7,
+      "reviewCount": 316,
+      "reviewCountFmt": "316건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "Jalan Besar MRT Station",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 316건. Jalan Besar MRT Station 도보 2분, ₩ · 약 4만원. 가족 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 316건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 훌륭한 곳이므로 적극 추천합니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "싱가포르에 오면 다시 여기에 머무를 것입니다",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "우리는 진심으로 보살핌을 받고 있다는 느낌을 받았고 행복하게 다시 머물고 싶습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "나는 Jelan Basar에서 이 호스텔을 꼭 추천할 것입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗하고 편안하며 정리되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-23T22:00:45.062Z",
+    "source": "agoda citySearch",
+    "daysAhead": 23,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

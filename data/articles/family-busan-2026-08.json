@@ -1,0 +1,562 @@
+{
+  "slug": "family-busan-2026-08",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "부산",
+  "citySlug": "busan",
+  "cityId": 17172,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17172",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[가족여행] 부산 - 최고의 남편이 선택하는 가성비 숙소",
+  "metaDescription": "부산 가족여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 53%로 가족여행 기준 1순위는 <b>신라스테이 부산 해운대</b>입니다 (평점 8.7·리뷰 20,520건·1박 약 54만원). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 16,
+        "pct": 53
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/1974844/0/f58cb931de14f268c94a883e7b4f10f9.jpg?ce=2",
+  "heroAlt": "부산 가족여행",
+  "updated": "2026-07-27",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "신라스테이 부산 해운대 (Shilla Stay Busan Haeundae)",
+      "agodaUrl": "https://www.agoda.com/shilla-stay-haeundae/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1974844/0/f58cb931de14f268c94a883e7b4f10f9.jpg?ce=2",
+      "score": 8.7,
+      "reviewCount": 20520,
+      "reviewCountFmt": "20,520건",
+      "priceText": "₩₩₩ · 약 54만원",
+      "walkMin": 5,
+      "refLabel": "해운대역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 20,520건. 해운대역 도보 5분, ₩₩₩ · 약 54만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 54만원",
+        "📝 리뷰 20,520건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 아늑하고 깨끗하며 바다 전망이 좋습니다.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "해운대 해수욕장이 호텔 바로 앞에 있습니다.",
+          "score": "8",
+          "country": "Indonesia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "호텔은 사랑스럽고 바다 전망은 정말 놀랍습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "추가 비용을 내고 오션뷰를 선택했는데 그만한 가치가 있었습니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "10층 객실에서 보이는 바다뷰가 너무 좋아요.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "하운드호텔 프리미어 남포 (Hound Hotel Premier Nampo)",
+      "agodaUrl": "https://www.agoda.com/hound-hotel-premier-nampo/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4991255/-1/f1152cacb06237b353985ed8225075b5.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 7591,
+      "reviewCountFmt": "7,591건",
+      "priceText": "₩₩₩ · 약 24만원",
+      "walkMin": 3,
+      "refLabel": "자갈치역",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 7,591건. 자갈치역 도보 3분, ₩₩₩ · 약 24만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 7,591건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "욕조는 거대하며 성인 2명이 쉽게 들어갈 수 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 깨끗하며 직원들은 매우 도움이 됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "근처에 식당이나 포장마차가 많았어요.",
+          "score": "7.6",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "나는 현대적이고 멋진 디자인으로 단장된 방을 받았습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "호텔 맞은편에 현지 슈퍼마켓도 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "스탠포드 호텔 부산 ([Agoda Pick] Stanford hotel Busan)",
+      "agodaUrl": "https://www.agoda.com/stanford-inn-busan_2/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2233941/-1/d39d132e38dcfb177926a1c189e99814.jpg?ca=9&ce=1",
+      "score": 8.8,
+      "reviewCount": 10348,
+      "reviewCountFmt": "10,348건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "walkMin": 4,
+      "refLabel": "자갈치역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 10,348건. 자갈치역 도보 4분, ₩₩₩ · 약 23만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 10,348건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "BIFF 광장과 잘가치 시장까지 도보 거리.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "객실은 에어컨과 좋은 샤워 시설을 갖춘 적당한 크기입니다.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "서울에서 부산에 올 때까지 짐을 맡아주세요.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "욕조는 깨끗했고 우리 아이들은 그것을 사용하여 즐거운 시간을 보냈습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "시설은 완벽하게 적합하며 침대는 편안합니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "라마다 앙코르 바이 윈덤 부산역 (Ramada Encore by Wyndham Busan Station)",
+      "agodaUrl": "https://www.agoda.com/ramada-encore-by-wyndham-busan-station/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9079659/0/cdb8763190094eb1b580747dc3f01993.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 13208,
+      "reviewCountFmt": "13,208건",
+      "priceText": "₩₩₩ · 약 30만원",
+      "walkMin": 1,
+      "refLabel": "부산역",
+      "star": 4,
+      "blurb": "평점 8.8 · 리뷰 13,208건. 부산역 도보 1분, ₩₩₩ · 약 30만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 30만원",
+        "📝 리뷰 13,208건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔 바로 앞에 KTX와 시내 지하철역이 있습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "부산역을 볼 수 있는 곳이 있어 멋진 전망을 감상할 수 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 넓은 객실, 완벽한 시설.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 잘 꾸며져 있으며 매우 편안합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "나와 내 가족은 호텔에 머무르는 것을 즐겼습니다.",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "파라다이스 호텔 부산 (Paradise Hotel Busan)",
+      "agodaUrl": "https://www.agoda.com/paradise-hotel-busan/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/654/65460/65460_17021507500051032269.jpg?ca=6&ce=1",
+      "score": 9,
+      "reviewCount": 13704,
+      "reviewCountFmt": "13,704건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 9,
+      "refLabel": "해운대역",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 13,704건. 해운대역 도보 9분, ₩₩ · 가격 변동. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 13,704건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 7.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "해변에 바로 위치하고 있으며 멋진 전망을 자랑합니다.",
+          "score": "8",
+          "country": "South Korea",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "호텔에는 사우나가 딸린 훌륭한 야외 온수 수영장이 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "발코니에서 바라보는 일몰과 일출은 정말 환상적이었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "방은 거대했고 괜찮은 세면도구가 잘 갖춰져 있었습니다.",
+          "score": "7.2",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "저는 이틀 밤을 머물렀는데 바다가 보이는 방을 이용했습니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "라라비안코 비즈니스호텔 ([Agoda Pick] Lala Vianco Business Hotel)",
+      "agodaUrl": "https://www.agoda.com/lala-vianco-hotel-h17185049/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/206/20615204/20615204_20121014060093591022.jpg?ca=16&ce=1",
+      "score": 8.8,
+      "reviewCount": 3309,
+      "reviewCountFmt": "3,309건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 5,
+      "refLabel": "서면역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 3,309건. 서면역 도보 5분, ₩ · 약 7만원. 가족 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,309건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전체적으로 방이 깨끗하고 새것이라 가격대비 괜찮았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "지금까지 한국에서 가본 숙소 중 최고였어요!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "친절하고 도움이 되는 직원(실제로 영어를 구사합니다!)",
+          "score": "10",
+          "country": "Switzerland",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "LG인사이드룸을 이용해 옷을 말리고 청소할 수 있어요",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "라운지 공간에는 내가 필요한 모든 것이 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-27T22:00:19.841Z",
+    "source": "agoda citySearch",
+    "daysAhead": 19,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

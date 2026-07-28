@@ -1,0 +1,461 @@
+{
+  "slug": "solo-busan-2026-08",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "부산",
+  "citySlug": "busan",
+  "cityId": 17172,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17172",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[혼자여행] 부산 - 혼행자가 조용히 쉬어가는 숙소",
+  "metaDescription": "부산 혼자여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>굿데이큐브 서면 캡슐호텔</b>입니다 (평점 9.4·리뷰 88건·1박 약 6만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/87898095/0/d363d0b6bed8c8e3257e2a2a83643535.png?ce=3",
+  "heroAlt": "부산 혼자여행",
+  "updated": "2026-07-28",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "굿데이큐브 서면 캡슐호텔 (Goodday CUBE Seomyeon Capsule Hotel )",
+      "agodaUrl": "https://www.agoda.com/h87898095/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87898095/0/d363d0b6bed8c8e3257e2a2a83643535.png?ce=3",
+      "score": 9.4,
+      "reviewCount": 88,
+      "reviewCountFmt": "88건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 5,
+      "refLabel": "서면역",
+      "star": 3,
+      "blurb": "평점 9.4 · 리뷰 88건. 서면역 도보 5분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 88건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "최고의 캡슐 호텔 ;)",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 깨끗한 객실, 아름다운 지역",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "편안한 숙박",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "강력히 추천합니다",
+          "score": "10",
+          "country": "新加坡",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "이 곳을 발견한 것이 정말 행운이라고 생각하세요.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "블루보트 호스텔 해운대 (Blueboat Hostel Haeundae)",
+      "agodaUrl": "https://www.agoda.com/blueboat-hostel-haeundae/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/334356/-1/7915450aff06c8e7b7c4421c319fb1fa.jpg?ca=0&ce=1",
+      "score": 9.2,
+      "reviewCount": 1042,
+      "reviewCountFmt": "1,042건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 3,
+      "refLabel": "해운대역",
+      "star": 1.5,
+      "blurb": "평점 9.2 · 리뷰 1,042건. 해운대역 도보 3분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,042건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 완벽하고 해운대 해수욕장까지 도보 거리에 있습니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "정수기, 편안한 침대, 뛰어난 난방 및 냉방.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "나같은 나홀로 여행자에게는 너무 깨끗하고 안전해요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "혼자 여행한다면 부산에서 정말 좋은 호스텔입니다!",
+          "score": "9.6",
+          "country": "Taïwan",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "4인용 방은 2층 침대 2개 사이로 넓습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "노마드 리브 호스텔 (Nomad Live Hostel)",
+      "agodaUrl": "https://www.agoda.com/nomad-live-hostel/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/76074551/0/b730bf4b663df8938fdde367c838d5c0.jpg?ce=2",
+      "score": 8.9,
+      "reviewCount": 919,
+      "reviewCountFmt": "919건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 4,
+      "refLabel": "장산역",
+      "star": 2,
+      "blurb": "평점 8.9 · 리뷰 919건. 장산역 도보 4분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 919건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "캡슐은 안전하고 단단하며 거의 방음 기능이 있습니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "작업 공간과 체육관을 이용할 수 있어서 꽤 좋습니다.",
+          "score": "7.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "수면 포드는 매우 잘 디자인되었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "개인별 프라이빗 공간이 보장됩니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "호스텔 내부에 있는 셀프 계산대 미니 매장도 너무 마음에 들었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "원웨이 게스트하우스 부산 (One Way Guesthouse Busan)",
+      "agodaUrl": "https://www.agoda.com/one-way-guesthouse-busan/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5238310/-1/012f92257490aea2bead28b878b49db9.jpg?ca=14&ce=1",
+      "score": 8.7,
+      "reviewCount": 1756,
+      "reviewCountFmt": "1,756건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "부산역",
+      "star": 2,
+      "blurb": "평점 8.7 · 리뷰 1,756건. 부산역 도보 2분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,756건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "심지어 10,000원에 세탁 서비스(세탁 및 건조)도 제공됩니다.",
+          "score": "10",
+          "country": "Germany",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "내가 좋아하는 가장 좋은 점은 수하물 무게 계산이 가능하다는 것입니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽합니다. 부산역에서 단 5분 거리에 있습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "모든 방에 라우터가 있어서 WIFI 신호가 좋습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "모든 조리 장비를 갖춘 큰 주방이 있습니다.",
+          "score": "8.4",
+          "country": "ไทย",
+          "date": "2023.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "해운대 아리랑아일랜드 (Haeundae Arirang Island)",
+      "agodaUrl": "https://www.agoda.com/haeundae-arirang-island-guesthouse/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59154095/0/87370e1f1b780d7ab9002a82f47a5483.jpeg?ce=0",
+      "score": 8.2,
+      "reviewCount": 593,
+      "reviewCountFmt": "593건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 4,
+      "refLabel": "해운대역",
+      "star": 2.5,
+      "blurb": "평점 8.2 · 리뷰 593건. 해운대역 도보 4분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 593건",
+        "⭐ 2.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "기숙사는 넓고 침대도 넓었습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "아마도 해운대에서 찾을 수 있는 침대 중 가장 좋은 가격일 것입니다.",
+          "score": "9.6",
+          "country": "France",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 도움이 되었고 체크인도 빠르고 쉬웠습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 잘 관리되어 있으며 새 것처럼 보입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "번개도 매우 편안하고 너무 밝지 않습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "김치 부산 다운타운 게스트하우스 (Kimchee Busan Downtown Guesthouse)",
+      "agodaUrl": "https://www.agoda.com/kimchee-busan-downtown-guesthouse/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1270975/-1/d7eb6102ebe7bc73e334cc276948ecb6.jpg?ca=0&ce=1",
+      "score": 8.3,
+      "reviewCount": 3061,
+      "reviewCountFmt": "3,061건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "범내골역",
+      "star": 2,
+      "blurb": "평점 8.3 · 리뷰 3,061건. 범내골역 도보 2분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 3,061건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 깨끗하고 넓으며 접근성이 매우 좋습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "부산에서 오래 머물 수 있는 최선의 선택.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원들이 너무 친절하고 영어도 정말 잘 구사합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "저렴하게 개인실을 구했는데 너무 좋았어요.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "그냥 편안하게 쉬면서 사람들을 만날 수 있는 멋진 주방과 공간!",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-28T21:57:22.134Z",
+    "source": "agoda citySearch",
+    "daysAhead": 18,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

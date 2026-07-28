@@ -1,0 +1,506 @@
+{
+  "slug": "friends-busan-2026-08",
+  "theme": "friends",
+  "audience": "친구여행",
+  "emoji": "🧑‍🤝‍🧑",
+  "city": "부산",
+  "citySlug": "busan",
+  "cityId": 17172,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17172",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[친구여행] 부산 - 우정 여행을 살려줄 가성비 숙소",
+  "metaDescription": "부산 친구여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 친구 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "친구들과의 여행은 위치와 동선이 만족도를 가릅니다. 번화가·역세권에 가깝고 평이 좋은 가성비 숙소를 골랐습니다.",
+  "viewpoint": "여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "verdict": "친구여행 기준 1순위는 <b>소호스텔 코리아</b>입니다 (평점 9.1·리뷰 613건·1박 약 3만원). 여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4436955/0/781931ee07ad90e5104e68017ea646bf.jpg?ce=2",
+  "heroAlt": "부산 친구여행",
+  "updated": "2026-07-28",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "소호스텔 코리아 (Sohostel Korea)",
+      "agodaUrl": "https://www.agoda.com/sohostel-korea_2/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4436955/0/781931ee07ad90e5104e68017ea646bf.jpg?ce=2",
+      "score": 9.1,
+      "reviewCount": 613,
+      "reviewCountFmt": "613건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 3,
+      "refLabel": "부산역",
+      "star": 2,
+      "blurb": "평점 9.1 · 리뷰 613건. 부산역 도보 3분, ₩ · 약 3만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 613건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "최고의 호스텔이 되기 위한 모든 요건을 충족합니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "또한 샤워 시설은 매우 깨끗하며 새로운 곳입니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "장소는 매우 깨끗하고 직원은 매우 친절합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "가격도 저렴하고 위치도 직원도 시설도 괜찮습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "부산에 다시 오면 꼭 다시 여기에 묵을 예정입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "굿데이큐브 서면 캡슐호텔 (Goodday CUBE Seomyeon Capsule Hotel )",
+      "agodaUrl": "https://www.agoda.com/h87898095/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87898095/0/3e93c50ed850e20598511cf70e84a3c6.jpg?ce=3",
+      "score": 9.4,
+      "reviewCount": 88,
+      "reviewCountFmt": "88건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 5,
+      "refLabel": "서면역",
+      "star": 3,
+      "blurb": "평점 9.4 · 리뷰 88건. 서면역 도보 5분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 88건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "다시 부산을 방문하게 된다면 꼭 이곳에 묵고 싶습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "귀엽고 깨끗하고 직원들도 너무 친절해요.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "숙소는 편안하고 매우 깨끗했습니다.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "제가 머물렀을 때는 거의 새것 같았습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이 곳을 발견한 것이 정말 행운이라고 생각하세요.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "노마드 리브 호스텔 (Nomad Live Hostel)",
+      "agodaUrl": "https://www.agoda.com/nomad-live-hostel/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/76074551/0/b730bf4b663df8938fdde367c838d5c0.jpg?ce=2",
+      "score": 8.9,
+      "reviewCount": 919,
+      "reviewCountFmt": "919건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 4,
+      "refLabel": "장산역",
+      "star": 2,
+      "blurb": "평점 8.9 · 리뷰 919건. 장산역 도보 4분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 919건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "장소는 매우 깨끗하고 직원들은 매우 친절했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "일을 하기 좋은 곳, 편안한 침대, 친절한 직원.",
+          "score": "10",
+          "country": "Chile",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "너무 좋아서 방문하러 떠나고 싶지도 않아요",
+          "score": "10",
+          "country": "Suisse",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "내가 머물렀던 최고의 호스텔 중 하나",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "나는 이 호텔을 충분히 추천할 수 없습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Lala Vianco Business Hotel",
+      "agodaUrl": "https://www.agoda.com/lala-vianco-hotel-h17185049/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/206/20615204/20615204_20121014060093591022.jpg?ca=16&ce=1",
+      "score": 8.8,
+      "reviewCount": 2165,
+      "reviewCountFmt": "2,165건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 5,
+      "refLabel": "서면역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 2,165건. 서면역 도보 5분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 2,165건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 지금까지 묵어본 호텔 중 단연 최고입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "부산에 다시 오면 꼭 다시 여기에 머물고 싶습니다.",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "서비스, ​​편안함, 분위기 모두 완벽합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치와 편안함에 있어서 가격을 이길 수 없습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "편리한 위치 - KTX 및 지하철역에서 도보로 5분 거리",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "원웨이 게스트하우스 부산 (One Way Guesthouse Busan)",
+      "agodaUrl": "https://www.agoda.com/one-way-guesthouse-busan/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5238310/-1/012f92257490aea2bead28b878b49db9.jpg?ca=14&ce=1",
+      "score": 8.7,
+      "reviewCount": 1756,
+      "reviewCountFmt": "1,756건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "부산역",
+      "star": 2,
+      "blurb": "평점 8.7 · 리뷰 1,756건. 부산역 도보 2분, ₩ · 약 3만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,756건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "부산에 다시 오면 꼭 다시 이곳에 묵을 예정입니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "시설도 좋고 방도 너무 넓어요👍",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 매트리스도 편안했어요.",
+          "score": "9.2",
+          "country": "Việt Nam",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "어쨌든, 저는 여기서 즐거운 시간을 보냈고, 여러분도 그러하길 바랍니다 :D",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "방 자체는 매우 깨끗했고, 욕실도 깨끗했습니다!",
+          "score": "9.2",
+          "country": "France",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "부산 남포동 그랜드 (Busan Nampodong Grand)",
+      "agodaUrl": "https://www.agoda.com/grand-in-nampo-dong-busan/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/64062171/998736077/5e4f9e3875430b3f97e6c6241bf226bc.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 1314,
+      "reviewCountFmt": "1,314건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 2,
+      "refLabel": "자갈치역",
+      "star": null,
+      "blurb": "평점 8.5 · 리뷰 1,314건. 자갈치역 도보 2분, ₩ · 약 5만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,314건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 꽤 작지만 매우 편안하고 시장과 가깝습니다.",
+          "score": "10",
+          "country": "Hàn Quốc",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "좋고 매우 조용합니다",
+          "score": "8.4",
+          "country": "United Arab Emirates",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방과 침대는 깨끗하고 편안했습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "냉/온수 디스펜서도 방에 배치되었습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.07",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-28T21:57:57.352Z",
+    "source": "agoda citySearch",
+    "daysAhead": 18,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "slug": "solo-kaohsiung-2026-08",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "가오슝",
+  "citySlug": "kaohsiung",
+  "cityId": 756,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=756",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[혼자여행] 가오슝 - 혼행자가 조용히 쉬어가는 숙소",
+  "metaDescription": "가오슝 혼자여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 93%로 혼자여행 기준 1순위는 <b>아히루야 게스트하우스</b>입니다 (평점 9.2·리뷰 3,235건·1박 약 4만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 28,
+        "pct": 93
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/734811/-1/0f7e1487070af6407cfee44d9acb8c0b.png?ce=0",
+  "heroAlt": "가오슝 혼자여행",
+  "updated": "2026-07-29",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "아히루야 게스트하우스 (Ahiruyah Guest House)",
+      "agodaUrl": "https://www.agoda.com/ahiruyah-guest-house/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/734811/-1/0f7e1487070af6407cfee44d9acb8c0b.png?ce=0",
+      "score": 9.2,
+      "reviewCount": 3235,
+      "reviewCountFmt": "3,235건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "MRT 메이리다오역",
+      "star": 2,
+      "blurb": "평점 9.2 · 리뷰 3,235건. MRT 메이리다오역 도보 3분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 3,235건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치도 좋고 야시장과도 매우 가깝습니다",
+          "score": "9.6",
+          "country": "Deutschland",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "객실, 특히 욕실이 매우 깨끗합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "공용 공간도 넓고 화장실도 깨끗해요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "시설은 물론 편의시설도 잘 관리되어 있어요!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "직원들도 너무 따뜻하고 친절하며 수용적입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "싱글 인 - 카오슝 스테이션 (Single Inn - Kaohsiung Station)",
+      "agodaUrl": "https://www.agoda.com/single-inn-kaohsiung-station_2/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2086565/-1/209e7fb3b154e09b08a58cbfd37fa531.jpg?ca=0&ce=1",
+      "score": 8.6,
+      "reviewCount": 7738,
+      "reviewCountFmt": "7,738건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "Zhongnan Bus Station",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 7,738건. Zhongnan Bus Station 도보 2분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 7,738건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 기차나 버스를 통해 실제로 접근할 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "나는 실내 온천과 아침 식사도 즐겼습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "나중에 가오슝을 방문한다면 꼭 다시 묵을 예정입니다",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "위치는 음식을 선택할 수 있는 많은 장소와 매우 가깝습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가오슝에서 휴가를 보내기에 완벽한 장소입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "싱글 인 - 린센 (Single Inn - Linsen)",
+      "agodaUrl": "https://www.agoda.com/single-inn-kaohsiung-linsen_2/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/296361/-1/0aa08887097833d5f53f7be370f1480f.jpg?ca=7&ce=1",
+      "score": 8.2,
+      "reviewCount": 7017,
+      "reviewCountFmt": "7,017건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "Ho Hsin Bus Jianguo Bus Station",
+      "star": 1,
+      "blurb": "평점 8.2 · 리뷰 7,017건. Ho Hsin Bus Jianguo Bus Station 도보 2분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 7,017건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Kaoshiung에 다시 간다면 반드시 이곳을 다시 예약할 것입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "침대도 깨끗하고 에어컨도 시원해서 잠을 잘 잘 수 있어요.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "가오슝에 방문하면 이 호텔을 예약합니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "온천과 사우나 시설을 갖춘 숙박 시설입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "직원들이 매우 친절하고, 시설이 매우 깨끗합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "우노 백패커스 인 (Uno Backpackers Inn)",
+      "agodaUrl": "https://www.agoda.com/backpackers-inn-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/866860/-1/9b8eb3c986e0405b7c71a737acff84eb.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 11194,
+      "reviewCountFmt": "11,194건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 3,
+      "refLabel": "MRT 중앙공원역",
+      "star": 2,
+      "blurb": "평점 9 · 리뷰 11,194건. MRT 중앙공원역 도보 3분, ₩ · 약 2만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 11,194건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 MRT와 매우 가까워서 편리했습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "그리고 화장실을 깨끗하게 유지하기 위해 알코올 스프레이와 티슈도 준비되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗하고 직원은 매우 사랑스럽고 도움이 됩니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "다시 가오슝을 방문한다면 다시 머물고 싶습니다",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 멋진 공용 공간이 있었고 우리 방의 크기는 적당했습니다.",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "렛츠 호스텔 (Let's Hostel )",
+      "agodaUrl": "https://www.agoda.com/light-hostel-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1504829/0/ce566988ee63ce37a856c6fad6cb2278.png?ce=3",
+      "score": 8.9,
+      "reviewCount": 11543,
+      "reviewCountFmt": "11,543건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 1,
+      "refLabel": "MRT 메이리다오역",
+      "star": 3.5,
+      "blurb": "평점 8.9 · 리뷰 11,543건. MRT 메이리다오역 도보 1분, ₩ · 약 3만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 11,543건",
+        "⭐ 3.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그리고 분위기는 아늑하고 편안했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "호스텔은 Formosa Boulevard MRT 역에 위치해 있습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "가오슝으로 다시 오면 여기에서 다시 임대할 예정입니다",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "위치는 완벽합니다 - LiuHe 야시장 옆에 있습니다.",
+          "score": "9.2",
+          "country": "泰國",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "가오슝을 방문하는 모든 사람에게 이곳을 적극 추천합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "카오슝 아일랜드 하트 (Kaohsiung Island Heart)",
+      "agodaUrl": "https://www.agoda.com/hotel-leisure-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36805427/0/2ba28a7c88e76436fb623760077a113b.png?ce=3",
+      "score": 8.7,
+      "reviewCount": 3323,
+      "reviewCountFmt": "3,323건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 1,
+      "refLabel": "Cianjin MRT Station",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 3,323건. Cianjin MRT Station 도보 1분, ₩₩ · 가격 변동. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 3,323건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 8.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 거대하고 깨끗하며 매우 편안했습니다.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "MRT 역까지 도보로 5분 거리입니다.",
+          "score": "8",
+          "country": "Taiwan",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치!",
+          "score": "8",
+          "country": "Taiwan",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 매우 좋은 호텔이며 강력 추천합니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치! 에어컨, 욕조가 있고 깨끗합니다.",
+          "score": "7.6",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-29T21:54:33.078Z",
+    "source": "agoda citySearch",
+    "daysAhead": 17,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

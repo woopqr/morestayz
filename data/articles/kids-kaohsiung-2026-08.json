@@ -1,0 +1,542 @@
+{
+  "slug": "kids-kaohsiung-2026-08",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "가오슝",
+  "citySlug": "kaohsiung",
+  "cityId": 756,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=756",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[아이와함께] 가오슝 - 아이가 신나는 여름 물놀이 호캉스",
+  "metaDescription": "가오슝 아이와함께 호캉스, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 57%로 아이와함께 호캉스 기준 1순위는 <b>타이 어반 리조트</b>입니다 (평점 9.2·리뷰 9,086건·1박 약 39만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 17,
+        "pct": 57
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/34124512/0/95e2fd081306e19236a171e3f5b830d9.jpeg?ce=0",
+  "heroAlt": "가오슝 아이와함께 호캉스",
+  "updated": "2026-07-29",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "타이 어반 리조트 (TAI Urban Resort)",
+      "agodaUrl": "https://www.agoda.com/h34124512/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34124512/0/95e2fd081306e19236a171e3f5b830d9.jpeg?ce=0",
+      "score": 9.2,
+      "reviewCount": 9086,
+      "reviewCountFmt": "9,086건",
+      "priceText": "₩₩₩ · 약 39만원",
+      "walkMin": 5,
+      "refLabel": "Software Technology Park",
+      "star": 5,
+      "blurb": "평점 9.2 · 리뷰 9,086건. Software Technology Park 도보 5분, ₩₩₩ · 약 39만원. 아이와함께 호캉스 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 39만원",
+        "📝 리뷰 9,086건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "건물에는 수영장, 영화관, 레스토랑이 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "체육관에는 최첨단 장비가 갖추어져 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "26층에서는 무료 조식 뷔페도 즐깁니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭합니다. MRT에서 단 5분 거리에 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗했고 매일 간식과 음료를 채워줍니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "어반 호텔 33 (Urban Hotel 33)",
+      "agodaUrl": "https://www.agoda.com/urban-hotel-33/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/256258/-1/c6df298b4767a8d45127808292aee73f.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 7986,
+      "reviewCountFmt": "7,986건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 3,
+      "refLabel": "MRT 신이초등학교역",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 7,986건. MRT 신이초등학교역 도보 3분, ₩₩ · 약 11만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 7,986건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "유아용 침대와 유아용 욕조를 제공하는 가족 친화적인 호텔입니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방에서는 담배 냄새가 전혀 나지 않습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "조식 뷔페는 선택의 폭이 넓어 가격 대비 훌륭합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "방은 편안하고 조용해서 잘 쉬었습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭했고 MRT와 시내에 가깝습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "카인드니스 호텔 - 카오슝 메인 스테이션 (Kindness Hotel - Kaohsiung Main Station)",
+      "agodaUrl": "https://www.agoda.com/kindness-hotel-kaohsiung-main-station_7/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/670643/0/a8cb7665712be311fda1a624d44eb474.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 14970,
+      "reviewCountFmt": "14,970건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 1,
+      "refLabel": "Zhongnan Bus Station",
+      "star": 3,
+      "blurb": "평점 9.2 · 리뷰 14,970건. Zhongnan Bus Station 도보 1분, ₩₩ · 약 19만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 14,970건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "24시간 무제한 아이스크림과 스낵이 제공되는 넓은 공간이었습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "사려 깊은 편의 시설과 욕실을 갖춘 밝고 통풍이 잘 되는 객실입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "가오슝 중앙역과 가까우며 호텔 직원이 친절합니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "아침 식사: 무료 아침 식사가 포함되어 있어 다양한 선택이 가능합니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "작업할 공간이 필요한 경우 테이블도 많이 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "스카이원 호텔 (Skyone Hotel)",
+      "agodaUrl": "https://www.agoda.com/skyone-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2985159/-1/5ab7e4910c76100ba096efc1f2eb3d06.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 17865,
+      "reviewCountFmt": "17,865건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 3,
+      "refLabel": "Cianjin MRT Station",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 17,865건. Cianjin MRT Station 도보 3분, ₩ · 약 6만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 17,865건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "mrt n 야시장 근처 n 프라임 위치 근처",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "가족간의 유대감에 좋은 객실 공간과 로비 게임",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고 우리 방은 깨끗하고 조용했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "가오슝을 방문할 때 이 호텔을 적극 추천합니다.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "기대 이상의 저렴한 호텔",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "시 치 호텔 (Shi Chi Hotel)",
+      "agodaUrl": "https://www.agoda.com/shi-chi-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/983497/-1/3970de7ca978c2e180339dc3a0b6dde9.jpg?ca=7&ce=1",
+      "score": 8.5,
+      "reviewCount": 2086,
+      "reviewCountFmt": "2,086건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "MRT 동구장역",
+      "star": 3,
+      "blurb": "평점 8.5 · 리뷰 2,086건. MRT 동구장역 도보 2분, ₩ · 약 8만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 2,086건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 것이 완벽했지만 방이 너무 작았습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "유아용 욕조, 국자, 의자 제공",
+          "score": "8.8",
+          "country": "Taiwan",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "중간 가격의 고품질 서비스.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 작은 창문이 있어 넓었습니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 훌륭했고 양이 넉넉했습니다.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "더 리베로 호텔 (The Rivero Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-rivero-hotel/hotel/kaohsiung-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6520940/-1/3b366b384c5cf0c882937bafe5347056.jpg?ca=10&ce=1",
+      "score": 8,
+      "reviewCount": 4560,
+      "reviewCountFmt": "4,560건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 8,
+      "refLabel": "MRT 옌청푸역",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 4,560건. MRT 옌청푸역 도보 8분, ₩ · 약 7만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 4,560건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 깨끗하고, 에어컨, 주전자, Wi-Fi가 작동합니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "항구 앞 지역에 근접해 있어 저렴한 예산으로 숙박할 수 있습니다.",
+          "score": "8.4",
+          "country": "Deutschland",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "프론트 데스크의 Kevin은 매우 도움이 되었고 영어를 구사했습니다!",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "가오슝에 오면 꼭 가고 싶은 옵션이에요!",
+          "score": "10",
+          "country": "Panama",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 우리는 The Rivero Hotel에서의 숙박을 좋아했습니다!",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-29T21:54:01.500Z",
+    "source": "agoda citySearch",
+    "daysAhead": 17,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "slug": "family-chiangmai-2026-08",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "치앙마이",
+  "citySlug": "chiangmai",
+  "cityId": 7401,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=7401",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[가족여행] 치앙마이 - 아이도 부모도 만족한 가족 호텔",
+  "metaDescription": "치앙마이 가족여행, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 40%로 가족여행 기준 1순위는 <b>호텔 마유 치앙마이</b>입니다 (평점 9.1·리뷰 10,909건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 12,
+        "pct": 40
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 11,
+        "pct": 37
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4849836/-1/5900060ce0488a70ae4704ae8cafc5be.jpg?ca=7&ce=1",
+  "heroAlt": "치앙마이 가족여행",
+  "updated": "2026-07-30",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 마유 치앙마이 (Hotel MAYU Chiang Mai)",
+      "agodaUrl": "https://www.agoda.com/hotel-mayu_2/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4849836/-1/5900060ce0488a70ae4704ae8cafc5be.jpg?ca=7&ce=1",
+      "score": 9.1,
+      "reviewCount": 10909,
+      "reviewCountFmt": "10,909건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 20,
+      "refLabel": "도이수텝행 버스 정류장",
+      "star": 3.5,
+      "blurb": "평점 9.1 · 리뷰 10,909건. 도이수텝행 버스 정류장 도보 20분, ₩₩ · 가격 변동. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 10,909건",
+        "⭐ 3.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "트리플룸에는 욕조와 대형 발코니가 있습니다.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "님만 레스토랑, 카페, 나이트라이프까지 도보 거리",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 새롭고 편안하며 깨끗하고 도움이되는 직원입니다.",
+          "score": "9.6",
+          "country": "ไทย",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "저렴한 가격의 호텔을 찾고 있다면 최고의 선택",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "그는 정말 즐거운 하루를 보냈고 우리는 꼭 다시 여기에 머물 것입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "문드래곤 호텔 치앙마이 (Moondragon Hotel Chiang Mai)",
+      "agodaUrl": "https://www.agoda.com/moondragon-hotel-chiang-mai/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1155923/-1/396ec95e07b89656666c0d494e88bf65.jpg?ca=23&ce=0",
+      "score": 8.8,
+      "reviewCount": 3100,
+      "reviewCountFmt": "3,100건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 36,
+      "refLabel": "치앙마이역",
+      "star": 3.5,
+      "blurb": "평점 8.8 · 리뷰 3,100건. 치앙마이역 도보 36분, ₩ · 약 6만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,100건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "일요일 야시장을 즐기기에 가장 좋은 숙소",
+          "score": "10",
+          "country": "France",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "수영장 공간이 좋고, 객실이 크고 욕실이 넓습니다.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔, 주요 지역의 아름다운 정원 환경.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "진흙 묻은 신발을 세탁했더니 새것처럼 보였어요!",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 특히 프론트 데스크의 Ploy가 훌륭합니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2022.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "치앙마이 오키드 호텔 (Chiang Mai Orchid Hotel)",
+      "agodaUrl": "https://www.agoda.com/chiang-mai-orchid-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/107/10737/10737_17021612400051063521.jpg?ca=6&ce=1",
+      "score": 7.6,
+      "reviewCount": 6395,
+      "reviewCountFmt": "6,395건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 32,
+      "refLabel": "도이수텝행 버스 정류장",
+      "star": 4,
+      "blurb": "평점 7.6 · 리뷰 6,395건. 도이수텝행 버스 정류장 도보 32분, ₩ · 약 5만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 6,395건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "큰 창문이 있는 큰 방, 훌륭한 수영장, 조용함.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "방도 크고 방음도 잘 되고 직원도 친절했어요.",
+          "score": "7.2",
+          "country": "France",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "이 지역은 구시가지와 마야 쇼핑몰과 매우 가깝습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "아침 조식 뷔페는 훌륭했습니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "요리사는 숙련되었고 음식은 훌륭했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "악사라 헤리티지 (Aksara Heritage)",
+      "agodaUrl": "https://www.agoda.com/aksara-heritage/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10681972/-1/23c50d498db3ad4d6a4c07d4f6451b55.jpg?ca=23&ce=0",
+      "score": 9.3,
+      "reviewCount": 4071,
+      "reviewCountFmt": "4,071건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 34,
+      "refLabel": "치앙마이역",
+      "star": 4,
+      "blurb": "평점 9.3 · 리뷰 4,071건. 치앙마이역 도보 34분, ₩₩ · 가격 변동. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 4,071건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "홈 스파는 호텔을 오가는 무료 교통편을 제공합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "방은 빨간 하트와 사랑스러운 메모로 장식되었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 직원과 깨끗한 호텔 넓은 객실.",
+          "score": "8.8",
+          "country": "India",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 구시가지 한가운데에 있어 매우 좋습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "나는 꼭 다시 올 것이다. 가격 대비 훌륭한 호텔",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "노른 님만13 부티크 호텔 치앙마이 (NORN Nimman13 Boutique Hotel Chiangmai)",
+      "agodaUrl": "https://www.agoda.com/norn-boutique-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/13579740/-1/b1a90eafcd0b5ec5d753d75dbf5971ef.jpg?ca=21&ce=0",
+      "score": 8.9,
+      "reviewCount": 3750,
+      "reviewCountFmt": "3,750건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 25,
+      "refLabel": "도이수텝행 버스 정류장",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 3,750건. 도이수텝행 버스 정류장 도보 25분, ₩₩ · 가격 변동. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 3,750건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그들은 또한 우리 방에서 24시간 마사지 서비스를 제공합니다!",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "님만(Nimman)의 유명한 유흥 중심지에 위치한 호텔입니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방에 공기청정기가 있어서 좋았습니다.",
+          "score": "7.6",
+          "country": "Thailand",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "로비에서 커피, 초콜릿 음료, 물을 무제한으로 즐기실 수 있습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "이 멋진 부티크 호텔에서 3박을 묵었습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "로이 호텔 (Loyy Hotel)",
+      "agodaUrl": "https://www.agoda.com/loyy-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10901375/0/d8916fd231c87f4d935746031419f374.jpeg?ce=0",
+      "score": 8.8,
+      "reviewCount": 6638,
+      "reviewCountFmt": "6,638건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 26,
+      "refLabel": "치앙마이역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 6,638건. 치앙마이역 도보 26분, ₩ · 약 1만원. 가족 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 6,638건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "무료 아침 식사가 마음에 들고 이 호텔이 얼마나 흠잡을 곳이 없는지 마음에 듭니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "관광 명소, 식당, 레스토랑, 7-11, 마사지 상점 근처",
+          "score": "8",
+          "country": "Việt Nam",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "방은 시원한 에어컨이 있어서 매우 편안했습니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "가장 좋은 점은 무료 셀프 서비스의 가벼운 아침 식사입니다.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 Loyy Hotel은 가격 대비 놀라운 가치를 제공합니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-30T22:08:39.218Z",
+    "source": "agoda citySearch",
+    "daysAhead": 16,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

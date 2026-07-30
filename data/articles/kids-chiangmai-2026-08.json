@@ -1,0 +1,574 @@
+{
+  "slug": "kids-chiangmai-2026-08",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "치앙마이",
+  "citySlug": "chiangmai",
+  "cityId": 7401,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=7401",
+  "season": "여름 휴가",
+  "seasonNote": "성수기 가격이 빨리 오르니 미리 비교하는 게 유리합니다.",
+  "travelMonthLabel": "2026년 8월",
+  "title": "[아이와함께] 치앙마이 - 가족 물놀이하기 좋은 여름 호텔",
+  "metaDescription": "치앙마이 아이와함께 호캉스, 2026년 8월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 40%로 아이와함께 호캉스 기준 1순위는 <b>문드래곤 호텔 치앙마이</b>입니다 (평점 8.8·리뷰 3,100건·1박 약 6만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 12,
+        "pct": 40
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 9,
+        "pct": 30
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/1155923/-1/396ec95e07b89656666c0d494e88bf65.jpg?ca=23&ce=0",
+  "heroAlt": "치앙마이 아이와함께 호캉스",
+  "updated": "2026-07-30",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "문드래곤 호텔 치앙마이 (Moondragon Hotel Chiang Mai)",
+      "agodaUrl": "https://www.agoda.com/moondragon-hotel-chiang-mai/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1155923/-1/396ec95e07b89656666c0d494e88bf65.jpg?ca=23&ce=0",
+      "score": 8.8,
+      "reviewCount": 3100,
+      "reviewCountFmt": "3,100건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 36,
+      "refLabel": "치앙마이역",
+      "star": 3.5,
+      "blurb": "평점 8.8 · 리뷰 3,100건. 치앙마이역 도보 36분, ₩ · 약 6만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,100건",
+        "⭐ 3.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 넓고 깨끗하며 매우 편안했습니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "수영장도 매우 깨끗하고 더위를 식힐 수 있는 좋은 장소였습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 훌륭하고 특히 프론트 데스크의 Ploy가 훌륭합니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "진흙 묻은 신발을 세탁했더니 새것처럼 보였어요!",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "가격대비 훌륭합니다..객실도 넓고 좋습니다..",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "디 에어포트 그리너리 호텔 (The Airport Greenery Hotel)",
+      "agodaUrl": "https://www.agoda.com/airport-greenery-hotel-serviced-apartment/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/215793/-1/3f62324713ef5ce10ab10aac42138b18.jpg?ca=8&ce=1",
+      "score": 8.3,
+      "reviewCount": 5661,
+      "reviewCountFmt": "5,661건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 55,
+      "refLabel": "치앙마이역",
+      "star": 3,
+      "blurb": "평점 8.3 · 리뷰 5,661건. 치앙마이역 도보 55분, ₩ · 약 3만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 5,661건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 넓고 깨끗했으며 매우 조용했습니다.",
+          "score": "9.2",
+          "country": "ישראל",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 훌륭하고 가격 대비 가치가 높습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "게다가 아침식사까지 포함해서 가격대비 훌륭합니다.",
+          "score": "8",
+          "country": "Thailand",
+          "date": "2022.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 협조적이며, 방은 깨끗합니다.",
+          "score": "8.8",
+          "country": "台灣",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "이것은 훌륭한 호텔이며 넓은 객실과 좋은 위치입니다.",
+          "score": "9.6",
+          "country": "China",
+          "date": "2022.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "시리판나 빌라 리조트 앤 스파 치앙마이 (Siripanna Villa Resort & Spa Chiangmai)",
+      "agodaUrl": "https://www.agoda.com/siripanna-villa-resort-spa-chiangmai/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/165/165345/165345_16090717000046200870.jpg?ca=6&ce=1",
+      "score": 8.1,
+      "reviewCount": 5544,
+      "reviewCountFmt": "5,544건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 14,
+      "refLabel": "치앙마이역",
+      "star": 5,
+      "blurb": "평점 8.1 · 리뷰 5,544건. 치앙마이역 도보 14분, ₩ · 약 5만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 5,544건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 여기보다 적은 5성급 리조트에 머물렀다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "이번이 이 호텔에 3번째 방문인데 매번 너무 마음에 듭니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "수영장은 훌륭했고 아름다운 풍경으로 둘러싸여 있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "그들은 모두 귀하의 편안한 숙박을 위해 최선을 다하고 있습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "아름다운 숙소, 직원은 태국 최고 수준입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "보디 세린 치앙마이 호텔 (Bodhi Serene Chiang Mai Hotel)",
+      "agodaUrl": "https://www.agoda.com/bodhi-serene-chiang-mai-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/95212/-1/ca4276006425f347f9ec0ce80ecc7117.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 4101,
+      "reviewCountFmt": "4,101건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 35,
+      "refLabel": "치앙마이역",
+      "star": 4.5,
+      "blurb": "평점 8.6 · 리뷰 4,101건. 치앙마이역 도보 35분, ₩₩ · 약 9만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 4,101건",
+        "⭐ 4.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "시설도 훌륭하고 직원들도 매우 친절했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "매우 편리한 위치에 있으며 꼭 다시 올 것입니다!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.05",
+          "translated": true
+        },
+        {
+          "text": "수영장은 휴식을 취하고 놀기에 좋았습니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "호텔, 위치 및 직원은 우리에게 완벽했습니다.",
+          "score": "9.6",
+          "country": "France",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "Bodhi Serene은 가격 대비 훌륭한 숙소였습니다!",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "나린트라 헤리티지 (Narinthra Heritage)",
+      "agodaUrl": "https://www.agoda.com/narinthra-heritage/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/80466449/0/ccd69d37e8994bdc783b889279582cc0.jpg?ce=3",
+      "score": 9.5,
+      "reviewCount": 673,
+      "reviewCountFmt": "673건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 34,
+      "refLabel": "치앙마이역",
+      "star": 4,
+      "blurb": "평점 9.5 · 리뷰 673건. 치앙마이역 도보 34분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 673건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "아침 식사는 다양하고 인상적이었습니다.",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "장소는 내가 머물렀던 최고의 장소 중 하나입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "수영장 옆에서 여유로운 오후를 보내는 것이 하이라이트였습니다.",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "기억에 남는 경험을 제공해 주셔서 감사합니다!",
+          "score": "10",
+          "country": "台灣",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "꼭 다시 머물고 친구들에게 제안할 것입니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "악사라 헤리티지 (Aksara Heritage)",
+      "agodaUrl": "https://www.agoda.com/aksara-heritage/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10681972/-1/23c50d498db3ad4d6a4c07d4f6451b55.jpg?ca=23&ce=0",
+      "score": 9.3,
+      "reviewCount": 4071,
+      "reviewCountFmt": "4,071건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 34,
+      "refLabel": "치앙마이역",
+      "star": 4,
+      "blurb": "평점 9.3 · 리뷰 4,071건. 치앙마이역 도보 34분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 4,071건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "예약과 투어에 많은 도움을 주셨어요.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "매우 친절한 직원과 훌륭한 위치를 갖춘 완벽한 호텔입니다.",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "위치, 아침 식사 및 직원 팀도 훌륭합니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리가 예약한 방은 욕조가 포함된 적당한 크기였습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "모든 직원은 매우 수용적이고 친절했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-07-30T22:09:04.508Z",
+    "source": "agoda citySearch",
+    "daysAhead": 16,
+    "targetMonth": "2026-08",
+    "count": 6
+  }
+}

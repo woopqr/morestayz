@@ -1,0 +1,546 @@
+{
+  "slug": "family-osaka-namba-2026-09",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "오사카",
+  "citySlug": "osaka-namba",
+  "cityId": 9590,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9590",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[가족여행] 오사카 - 짐 많은 가족여행에 똑똑한 선택",
+  "metaDescription": "오사카 가족여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 60%로 가족여행 기준 1순위는 <b>더 라이즈 오사카 유니버설 베이사이드</b>입니다 (평점 9·리뷰 2,006건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 18,
+        "pct": 60
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/80483820/0/5db95ec0929347b216edab3c0c056ce0.jpg?ce=3",
+  "heroAlt": "오사카 가족여행",
+  "updated": "2026-08-01",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 라이즈 오사카 유니버설 베이사이드 (The Rise Osaka Universal Bayside)",
+      "agodaUrl": "https://www.agoda.com/the-rise-osaka-universal-bayside/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/80483820/0/5db95ec0929347b216edab3c0c056ce0.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 2006,
+      "reviewCountFmt": "2,006건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "아지카와구치역",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 2,006건. 아지카와구치역 도보 4분, ₩₩ · 가격 변동. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 2,006건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "콘서트 때문에 갔는데 위치가 정말 환상적이었어요.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "편안한 숙박, 맛있는 아침 식사, 저녁 식사 및 편안한 스파",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 넓으며 독특한 첨단 기술 경험을 제공합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방 때문에 나중에 다시 올 것입니다.",
+          "score": "8.5",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "앞으로의 여행을 위한 키퍼입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 레갈리에 오사카 닛폰바시 사우스 (HOTEL LEGALIE Osaka Nipponbashi South)",
+      "agodaUrl": "https://www.agoda.com/hotel-legalie-osaka-nipponbashi-south/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87177229/0/c5e87344f77cd8088f4809a02246d3d7.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 244,
+      "reviewCountFmt": "244건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 2,
+      "refLabel": "에비스초역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 244건. 에비스초역 도보 2분, ₩₩ · 가격 변동. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 244건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "교통도 가깝고 세탁시설도 훌륭해요!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "오사카의 조용한 지역이라 위치가 마음에 들었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 넓습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "어린 자녀가 있는 가족에게 적합합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 장소",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "렘 신-오사카 (remm Shin-Osaka)",
+      "agodaUrl": "https://www.agoda.com/remm-shin-osaka/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/311920/0/eb4fda91d46571953be6673781d531f9.jpg?ce=0",
+      "score": 8.7,
+      "reviewCount": 12241,
+      "reviewCountFmt": "12,241건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 1,
+      "refLabel": "신오사카역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 12,241건. 신오사카역 도보 1분, ₩₩ · 약 9만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 12,241건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "연결 열차를 타면 매우 편리합니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "우리가 머무는 내내 분위기를 조성한 따뜻한 환영이었습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "특히 신칸센을 타야 하는 경우 위치가 마음에 듭니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "신오사카역 신칸센 중앙출구 바로 옆.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "신오사카 지하철과 신카센역 꼭대기에 있는 호텔.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "칸데오 호텔 오사카 더 타워 (CANDEO HOTELS Osaka The Tower)",
+      "agodaUrl": "https://www.agoda.com/candeo-hotels-osaka-the-tower/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48925496/-1/1b3a8cc649ff3c150c3d95bdd2052dbe.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 17035,
+      "reviewCountFmt": "17,035건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 5,
+      "refLabel": "요도야바시역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 17,035건. 요도야바시역 도보 5분, ₩₩ · 약 19만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 17,035건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "별로 기대하지 않았는데 이 호텔이 너무 마음에 들었어요.",
+          "score": "9.6",
+          "country": "베트남",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방은 환상적이었고 직원들은 매우 친절했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "모든 가족에게 이 환상적인 호텔에 머물 것을 권하고 싶습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "그들은 영어를 이해하며 매우 친절하고 수용적입니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "근처에 훌륭한 레스토랑이 많아 편리한 위치입니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "APA 호텔 난바 신사이바시 니시 (APA Hotel Namba Shinsaibashi Nishi)",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-namba-shinsaibashi-nishi/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/22995346/0/dff674070a8978cc13bff9c605851330.jpg?ce=3",
+      "score": 8.8,
+      "reviewCount": 7496,
+      "reviewCountFmt": "7,496건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 4,
+      "refLabel": "오사카난바역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 7,496건. 오사카난바역 도보 4분, ₩ · 약 7만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 7,496건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔 직원은 영어를 유창하게 구사할 수 있으며 매우 도움이 됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치에 좋은 가격에 간단하고 기능적입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗했고 체크인/체크아웃이 쉬웠습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "CP를 두고 왔는데 돌아왔을 때 바로 거기에 있었어요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "공항에서 기차로 단 1번 거리에 있어 번거로움도 덜합니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2025.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "APA 호텔 앤 리조트 오사카 우메다 에키 타워 (APA Hotel & Resort Osaka Umeda Eki Tower)",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-resort-osaka-umeda-eki-tower/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/33494376/-1/6e3b31459153b9ddc7fff8a31d992b15.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 46343,
+      "reviewCountFmt": "46,343건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 3,
+      "refLabel": "히가시우메다역",
+      "star": 3,
+      "blurb": "평점 8.5 · 리뷰 46,343건. 히가시우메다역 도보 3분, ₩ · 약 7만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 46,343건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 하우스키핑, 합리적인 가격, 훌륭한 위치",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "모든 시설은 새롭고 손님을 위해 잘 설계되었습니다.",
+          "score": "10",
+          "country": "日本",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "환경을 사랑합니다. 저는 이 호텔에 다시 올 것입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "셀프 체크인을 도와주는 잘 조직되고 도움이 되는 직원.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "호텔 직원은 친절했고 머무는 내내 도움이 되었습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-01T21:48:23.525Z",
+    "source": "agoda citySearch",
+    "daysAhead": 45,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

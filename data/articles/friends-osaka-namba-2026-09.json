@@ -1,0 +1,549 @@
+{
+  "slug": "friends-osaka-namba-2026-09",
+  "theme": "friends",
+  "audience": "친구여행",
+  "emoji": "🧑‍🤝‍🧑",
+  "city": "오사카",
+  "citySlug": "osaka-namba",
+  "cityId": 9590,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9590",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[친구여행] 오사카 - 추억 남기기 좋은 인생 숙소",
+  "metaDescription": "오사카 친구여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 친구 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "친구들과의 여행은 위치와 동선이 만족도를 가릅니다. 번화가·역세권에 가깝고 평이 좋은 가성비 숙소를 골랐습니다.",
+  "viewpoint": "여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "verdict": "친구여행 기준 1순위는 <b>신사이바시 아티 인</b>입니다 (평점 9.1·리뷰 7,526건·1박 약 5만원). 여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 15,
+        "pct": 50
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/843262363.jpg?k=a5fdbca505d1830f19206cb1ef974fc91e5ae884ed68140aa55fd32bb02ef823&o=",
+  "heroAlt": "오사카 친구여행",
+  "updated": "2026-08-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "신사이바시 아티 인 (Shinsaibashi Arty Inn)",
+      "agodaUrl": "https://www.agoda.com/h30799875/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/843262363.jpg?k=a5fdbca505d1830f19206cb1ef974fc91e5ae884ed68140aa55fd32bb02ef823&o=",
+      "score": 9.1,
+      "reviewCount": 7526,
+      "reviewCountFmt": "7,526건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 4,
+      "refLabel": "요쓰바시역",
+      "star": 3,
+      "blurb": "평점 9.1 · 리뷰 7,526건. 요쓰바시역 도보 4분, ₩ · 약 5만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 7,526건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "온천에 몸을 담글 수 있는 대중목욕탕이 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "대중목욕탕 하나만으로도 이곳에 다시 머물고 싶은 이유입니다!",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "지하철과 명소까지 도보 거리.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 시설이 잘 갖춰져 있었고 조용했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "우리는 트윈룸을 예약했는데 매우 넓었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "캐빈 앤 캡슐 호텔 J-쉽 오사카 난바 (Cabin & Capsule Hotel J-SHIP Osaka Namba)",
+      "agodaUrl": "https://www.agoda.com/cabin-capsule-hotel-j-ship-osaka-namba/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5710110/-1/b651de3e1ab9cbca7494a8a43af40f64.jpg?ca=11&ce=1",
+      "score": 9.1,
+      "reviewCount": 6050,
+      "reviewCountFmt": "6,050건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "JR 난바역",
+      "star": 2,
+      "blurb": "평점 9.1 · 리뷰 6,050건. JR 난바역 도보 3분, ₩ · 약 4만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 6,050건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "여성을 위한 별도의 안전한 층이 있습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "일본에서 묵어본 캡슐호텔 중 최고!",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "현대적이며 무엇보다도 욕실에 온천이 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 가격에 디럭스 포드에 충분한 공간이 있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "캡슐은 매우 깨끗하고 훌륭한 분위기를 제공합니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "호텔 카고 신사이바시 (Hotel Cargo Shinsaibashi)",
+      "agodaUrl": "https://www.agoda.com/hotel-cargo-shinsaibashi_3/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/268/2681766/2681766_17091407390056328428.jpg?ca=6&ce=1",
+      "score": 9.1,
+      "reviewCount": 5571,
+      "reviewCountFmt": "5,571건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 6,
+      "refLabel": "신사이바시역",
+      "star": 3,
+      "blurb": "평점 9.1 · 리뷰 5,571건. 신사이바시역 도보 6분, ₩ · 약 3만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 5,571건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "캡슐은 일반 크기보다 크고 편안합니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "저는 9층에 있는 크고 깨끗한 온천을 정말 좋아합니다.",
+          "score": "9.6",
+          "country": "法国",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖추고 있으며 꼭대기 층에는 대중목욕탕이 있습니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "레스토랑과 쇼핑가, 대중교통과 가깝습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "내가 가본 호스텔 중 가장 깨끗한 호스텔 중 하나",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "그랜드 호스텔 엘디케이 오사카 신사이바시 (GRAND HOSTEL LDK OSAKA SHINSAIBASHI)",
+      "agodaUrl": "https://www.agoda.com/the-stay-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6405135/0/9aaedf3e6e75e1e9bf9ff69e6aa54e4f.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 11551,
+      "reviewCountFmt": "11,551건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 2,
+      "refLabel": "나가호리바시역",
+      "star": 2,
+      "blurb": "평점 9 · 리뷰 11,551건. 나가호리바시역 도보 2분, ₩ · 약 2만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 11,551건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "기차역 근처, 도톤보리에서 약 1km 거리.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "6개의 이층 침대가 있는 개인실로 깨끗하고 꽤 넓습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "사랑스럽고 넓은 공용 공간과 주방, 좋은 수하물 보관소",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "공용 욕실은 크고 조용하며 흠집 하나 없이 깨끗했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "프론트 데스크는 항상 직원이 풍부하고 도움이 되었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "J-호퍼스 오사카 유니버설 (J-Hoppers Osaka Universal)",
+      "agodaUrl": "https://www.agoda.com/j-hoppers-osaka-universal/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1183413/-1/c83aae943be8aed24d72e1a190b44106.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 3272,
+      "reviewCountFmt": "3,272건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 2,
+      "refLabel": "아지카와구치역",
+      "star": 1.5,
+      "blurb": "평점 9 · 리뷰 3,272건. 아지카와구치역 도보 2분, ₩ · 약 2만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 3,272건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "유니버설 스튜디오 재팬을 방문할 때 머물기에 좋은 곳입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "화장실을 공유해야 하는데 깨끗했어요.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "여기에 짐을 보관할 수 있고 나 자신을 위한 공간이 많이 있을 수 있습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원, 좋은 방, 시설 등.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "침대도 넓어서 큰 짐도 펼칠 수 있어요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "토요코 인 오사카 남바 (Toyoko Inn Osaka Namba)",
+      "agodaUrl": "https://www.agoda.com/toyoko-inn-osaka-namba-h39896744/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/47646382/-1/bfce4e8fe53aec0a667d8147d9831532.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 3361,
+      "reviewCountFmt": "3,361건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "오사카난바역",
+      "star": 3,
+      "blurb": "평점 9 · 리뷰 3,361건. 오사카난바역 도보 2분, ₩ · 약 8만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 3,361건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "게다가 일본 호텔에서는 드물게 무료 조식이 제공됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "2) 50m 이내에 편의점과 음식점이 많습니다.",
+          "score": "7.2",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "방은 새거라서 깨끗해요.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "위치는 접근 가능하고 도톤보리와 기차 근처에 있습니다.",
+          "score": "7.2",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "큰 짐이 있어도 방이 넓고 깨끗했어요.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-02T21:49:04.966Z",
+    "source": "agoda citySearch",
+    "daysAhead": 44,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

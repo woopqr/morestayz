@@ -1,0 +1,507 @@
+{
+  "slug": "couple-tokyo-2026-09",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[연인여행] 도쿄 - 기념일을 완성하는 분위기 호텔",
+  "metaDescription": "도쿄 연인여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 73%로 연인여행 기준 1순위는 <b>하네다 엑셀 호텔 도큐 하네다 에어포트 터미널 2</b>입니다 (평점 8.6·리뷰 15,864건·1박 약 16만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 22,
+        "pct": 73
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/51461/-1/54ccac8f165ec1aa6974c0b107e0f982.jpg?ca=9&ce=1",
+  "heroAlt": "도쿄 연인여행",
+  "updated": "2026-08-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "하네다 엑셀 호텔 도큐 하네다 에어포트 터미널 2 (Haneda Excel Hotel Tokyu Haneda Airport Terminal 2 )",
+      "agodaUrl": "https://www.agoda.com/haneda-excel-hotel-tokyu/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51461/-1/54ccac8f165ec1aa6974c0b107e0f982.jpg?ca=9&ce=1",
+      "score": 8.6,
+      "reviewCount": 15864,
+      "reviewCountFmt": "15,864건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 4,
+      "refLabel": "하네다공항 제2터미널역",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 15,864건. 하네다공항 제2터미널역 도보 4분, ₩₩ · 약 16만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 15,864건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "ANA 항공편을 일찍 이용하는 승객에게 매우 편리합니다.",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 활주로 전망이 보이는 방을 예약했는데 정말 좋았어요!",
+          "score": "8.8",
+          "country": "New Zealand",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 사랑스럽고 편안한 침대를 갖추고 있습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "객실에는 공기 청정기가 있어 신선한 공기를 유지할 수 있습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "모든 직원은 좋은 영어를 구사하며 모든 요청에 ​​도움을 주었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "힐즈 호텔 고탄다 (Hills Hotel Gotanda)",
+      "agodaUrl": "https://www.agoda.com/hills-hotel-gotanda/hotel/all/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/131329963.jpg?k=b731fa709ec64f3b5e3e4eacbf6d06c37d108fee80aec86dc4052c9bb061c3f8&o=",
+      "score": 6.2,
+      "reviewCount": 1170,
+      "reviewCountFmt": "1,170건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 3,
+      "refLabel": "고탄다역",
+      "star": 2,
+      "blurb": "평점 6.2 · 리뷰 1,170건. 고탄다역 도보 3분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 1,170건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "놀라운 객실을 갖춘 깨끗하고 넓은 욕실.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 좋은 가치",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 친절하고 도움이 됩니다.",
+          "score": "8",
+          "country": "Japan",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "완벽하고 평화로운 환경.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "방에는 우리에게 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "소테츠 프레사 인 다이몬 (Sotetsu Fresa Inn Daimon)",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-daimon/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28273576/-1/ce5dae0cb8df95e3fc7125b2a8fc3bd2.jpg?ca=28&ce=0",
+      "score": 8.9,
+      "reviewCount": 8420,
+      "reviewCountFmt": "8,420건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 2,
+      "refLabel": "다이몬역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 8,420건. 다이몬역 도보 2분, ₩₩ · 약 11만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 8,420건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "하마마츠초역 근처…하네다 공항까지 쉽게 갈 수 있습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "서로 연결된 2개의 객실은 5인 가족에게 적합했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "조식 뷔페는 가격대에 비해 맛있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "이것은 도쿄에서 제가 가장 좋아하는 호텔이었습니다",
+          "score": "10",
+          "country": "México",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "시설과 객실은 모두 깨끗하고 신선하며 새롭습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "호텔 리브맥스 시오도메 (HOTEL LiVEMAX Shiodome)",
+      "agodaUrl": "https://www.agoda.com/hotel-livemax-shiodome/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/73165915/0/f705082c45a811e6410e2c3cf38ac5eb.jpg?ce=2",
+      "score": 7.6,
+      "reviewCount": 1080,
+      "reviewCountFmt": "1,080건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 3,
+      "refLabel": "유리카모메시오도메역",
+      "star": 3,
+      "blurb": "평점 7.6 · 리뷰 1,080건. 유리카모메시오도메역 도보 3분, ₩ · 약 8만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 1,080건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 위치, 도시 최고의 위치 중 하나.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 간단했지만 하루를 시작하기에 좋았습니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "단기 체류에 좋음",
+          "score": "8",
+          "country": "Japan",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "단기 체류에는 좋았습니다.",
+          "score": "8",
+          "country": "Japan",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "호텔 라이브맥스 이케부쿠로에키마에 (HOTEL LiVEMAX IKEBUKUROEKIMAE)",
+      "agodaUrl": "https://www.agoda.com/h19111563/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/19933462/-1/63131409fcb2f2b22ae36f8eeb6f5478.jpg?ca=20&ce=0",
+      "score": 7.6,
+      "reviewCount": 1270,
+      "reviewCountFmt": "1,270건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 6,
+      "refLabel": "이케부쿠로역",
+      "star": 3,
+      "blurb": "평점 7.6 · 리뷰 1,270건. 이케부쿠로역 도보 6분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 1,270건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이케부쿠로에서 기차를 타기 쉽습니다.",
+          "score": "7.6",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "호텔은 깨끗하고 직원들은 친절합니다.",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "방에 제습기도 있어요.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "싱글룸을 원하는 분들에게 좋은 저예산 숙박입니다.",
+          "score": "8",
+          "country": "日本",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "나와 내 12살 딸에게 딱 맞습니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "소테츠 프레사 인 도쿄-롯폰기 (Sotetsu Fresa Inn Tokyo-Roppongi)",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-tokyo-roppongi/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2231668/-1/7fbeb9d9006e9ad4e3833d93f40724b9.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 12214,
+      "reviewCountFmt": "12,214건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 3,
+      "refLabel": "롯폰기역",
+      "star": 3.5,
+      "blurb": "평점 8.6 · 리뷰 12,214건. 롯폰기역 도보 3분, ₩₩ · 약 10만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 12,214건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "롯폰기 중심부에는 근처에 다양한 음식점이 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 직원은 매우 도움이됩니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "데일리 케어에 꼭 필요한 헤어 마스크까지 모두 갖춰져 있어요!",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "우리 호텔 방은 작지만 전반적으로 모든 것이 완벽했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "거래로 며칠 밤을 예약했는데 아침 식사가 훌륭했습니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-02T21:49:42.442Z",
+    "source": "agoda citySearch",
+    "daysAhead": 44,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "slug": "kids-tokyo-2026-09",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[아이와함께] 도쿄 - 아이와 편하게 쉬는 여름 바캉스",
+  "metaDescription": "도쿄 아이와함께 호캉스, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 37%로 아이와함께 호캉스 기준 1순위는 <b>Hotel Livemax Ueno-ekimae</b>입니다 (평점 7.7·리뷰 6,981건·1박 약 7만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 11,
+        "pct": 37
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/8820389/-1/57a6ac4101df9fa63d3c5685730fdccb.jpg?ce=0",
+  "heroAlt": "도쿄 아이와함께 호캉스",
+  "updated": "2026-08-03",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Hotel Livemax Ueno-ekimae",
+      "agodaUrl": "https://www.agoda.com/hotel-livemax-ueno-ekimae/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8820389/-1/57a6ac4101df9fa63d3c5685730fdccb.jpg?ce=0",
+      "score": 7.7,
+      "reviewCount": 6981,
+      "reviewCountFmt": "6,981건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 3,
+      "refLabel": "우에노역",
+      "star": 2,
+      "blurb": "평점 7.7 · 리뷰 6,981건. 우에노역 도보 3분, ₩ · 약 7만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 6,981건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "도쿄에서 가장 큰 우에노와 가깝습니다.",
+          "score": "8",
+          "country": "日本",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 최고 수준이고 직원들은 친절합니다!",
+          "score": "9.6",
+          "country": "Portugal",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "방은 우리 4명이 편안하게 지내기에 충분했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "이 호텔 예약을 후회하지 않으실 겁니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "직원들은 우리와 함께 일하고 우리에게 방을 제공하는 데 훌륭했습니다.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 코토토이 이스트 (Hotel Kototoi East)",
+      "agodaUrl": "https://www.agoda.com/hotel-kototoi-east/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/86321172/0/f5f32987717369befd2714d692ada4fa.jpg?ce=3",
+      "score": 9.7,
+      "reviewCount": 642,
+      "reviewCountFmt": "642건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 7,
+      "refLabel": "미카와시마역",
+      "star": 3,
+      "blurb": "평점 9.7 · 리뷰 642건. 미카와시마역 도보 7분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 642건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "다음에 도쿄를 방문하면 다시 방문하겠습니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "하지만 호텔의 쾌적함이 산책을 보상해주었습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "특히 4인 가족이 지내기에 방이 넓습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "집처럼 느껴지는 훌륭한 장소.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "넓고 편안한 객실.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2026.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "호텔 마이스테이 고탄다 스테이션 (HOTEL MYSTAYS Gotanda Station)",
+      "agodaUrl": "https://www.agoda.com/hotel-mystays-gotanda-station/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/918/918249/918249_15122110070038646865.jpg?ca=6&ce=1",
+      "score": 8,
+      "reviewCount": 9014,
+      "reviewCountFmt": "9,014건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 1,
+      "refLabel": "고탄다역",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 9,014건. 고탄다역 도보 1분, ₩₩ · 약 9만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 9,014건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔 마이스테이스(Hotel Mystays)는 역에서 도보로 150m 거리에 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "제가 배정받은 방은 깨끗하고 전망도 좋았습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "일본에서 이러한 서비스를 제공하는 것은 이번이 처음입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "시설은 훌륭하고 필요한 모든 것을 제공합니다.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "침대, 베개, 담요, 청결도, 위치가 좋음",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "APA 호텔 아사쿠사 타와라마치 에키마에 (APA Hotel Asakusa Tawaramachi Ekimae)",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-asakusa-tawaramachi-ekimae/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2167356/-1/4a1dcb579cfa4e73728f17aef6bac82d.jpg?ca=13&ce=1",
+      "score": 8.6,
+      "reviewCount": 21186,
+      "reviewCountFmt": "21,186건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 1,
+      "refLabel": "다와라마치역",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 21,186건. 다와라마치역 도보 1분, ₩ · 약 8만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 21,186건",
+        "⭐ 3성급",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 호텔에 묵는 것은 나에게 있어서 탁월한 선택이었습니다.",
+          "score": "10",
+          "country": "Südkorea",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "그래서 주변에 시설이 너무 많지만, 그렇게 붐비지는 않습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "호텔은 또한 일찍 도착할 때 수하물을 보관하는 데 도움을 주었습니다.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "Don Quijote 및 Rox 쇼핑 단지와 매우 가깝습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "호텔 근처에 편의점과 레스토랑이 많습니다",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "루아나 시부야 (Luana Shibuya)",
+      "agodaUrl": "https://www.agoda.com/luana-shibuya/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/25099471/-1/4b55cb88069a9684e009fbc9bf55093f.jpg?ca=20&ce=0",
+      "score": 8.2,
+      "reviewCount": 798,
+      "reviewCountFmt": "798건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 12,
+      "refLabel": "하쓰다이역",
+      "star": 3,
+      "blurb": "평점 8.2 · 리뷰 798건. 하쓰다이역 도보 12분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 798건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치가 마음에 들었고 아파트가 얼마나 깨끗한지 좋았습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 2인이 머물기에 완벽한 공간",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "이 매우 귀여운 아파트에 머무르는 것을 적극 권장합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 이 호텔을 추천하고 싶습니다!",
+          "score": "9.2",
+          "country": "Deutschland",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "체크인은 최대 5분만에 완료되었습니다!",
+          "score": "9.2",
+          "country": "Deutschland",
+          "date": "2024.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "시나가와 프린스 호텔 (Shinagawa Prince Hotel)",
+      "agodaUrl": "https://www.agoda.com/shinagawa-prince-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9358/0/8d1131e167910cca8578073f49953ca2.jpg?ce=3",
+      "score": 8.2,
+      "reviewCount": 34408,
+      "reviewCountFmt": "34,408건",
+      "priceText": "₩₩ · 약 17만원",
+      "walkMin": 3,
+      "refLabel": "시나가와역",
+      "star": 4,
+      "blurb": "평점 8.2 · 리뷰 34,408건. 시나가와역 도보 3분, ₩₩ · 약 17만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 34,408건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 환상적이지만 다른 일본 호텔처럼 방이 작습니다.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 좋은 가치, 좋은 위치, 적극 추천합니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 뷔페 스타일 또는 오전 11시까지 선택 가능합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 공항까지 가는 JR/기차 근처에 위치해 있습니다.",
+          "score": "9.2",
+          "country": "ไทย",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "매우 편리하고 원활한 체크인 및 체크아웃 서비스를 제공합니다.",
+          "score": "8",
+          "country": "Guam",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-03T22:02:17.066Z",
+    "source": "agoda citySearch",
+    "daysAhead": 43,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

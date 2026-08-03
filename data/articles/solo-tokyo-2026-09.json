@@ -1,0 +1,433 @@
+{
+  "slug": "solo-tokyo-2026-09",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[혼자여행] 도쿄 - 나를 위한 온전한 하루를 주는 곳",
+  "metaDescription": "도쿄 혼자여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>안신 오야도 도쿄 맨 신주쿠</b>입니다 (평점 8.9·리뷰 5,622건·1박 약 6만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 26,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 26,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/762741/0/3ac0b7e82dfb46f15bdcda6ee0ce8558.jpg?ce=3",
+  "heroAlt": "도쿄 혼자여행",
+  "updated": "2026-08-03",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "안신 오야도 도쿄 맨 신주쿠 (Anshin Oyado Tokyo Man Shinjuku)",
+      "agodaUrl": "https://www.agoda.com/capsule-hotel-anshin-oyado-premier-tokyo-shinjuku-station/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/762741/0/3ac0b7e82dfb46f15bdcda6ee0ce8558.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 5622,
+      "reviewCountFmt": "5,622건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 3,
+      "refLabel": "신주쿠역",
+      "star": 1.5,
+      "blurb": "평점 8.9 · 리뷰 5,622건. 신주쿠역 도보 3분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,622건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "무료로 음식과 음료를 즐길 수 있다는 점을 고려하면 놀라운 가격 대비 가치를 제공합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "JR선과 지하철 기차역 근처의 완벽한 위치.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "온천은 환상적이었습니다. 외국인의 문신에는 문제가 없습니다.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "신주쿠역과 매우 가까워서 다른 지역으로 이동할 수 있습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "확실히 내가 머물렀던 최고의 캡슐 호텔 중 하나입니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "북 티 베드 시부야 (Book Tea Bed SHIBUYA)",
+      "agodaUrl": "https://www.agoda.com/bookteabed-shibuya/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55140165/-1/867bbed5ffe030ce21adcbdf8b1b20e8.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 5329,
+      "reviewCountFmt": "5,329건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 4,
+      "refLabel": "신센역",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 5,329건. 신센역 도보 4분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,329건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "메가 돈키와 기차역과 매우 가깝습니다!",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "여성 혼자 여행하는 시부야를 위한 가성비 좋은 숙소",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "가격은 해당 지역의 다른 호텔보다 훨씬 저렴합니다.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 현대적인 복고풍 느낌을 가지고 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "장소는 접근성이 매우 좋으며 프라이버시가 존중됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "퍼스트 캐빈 아키하바라 (First Cabin Akihabara)",
+      "agodaUrl": "https://www.agoda.com/first-cabin-akihabara-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/462/462936/462936_16022212450040090344.jpg?ca=6&ce=1",
+      "score": 8.3,
+      "reviewCount": 639,
+      "reviewCountFmt": "639건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 2,
+      "refLabel": "아키하바라역",
+      "star": 1.5,
+      "blurb": "평점 8.3 · 리뷰 639건. 아키하바라역 도보 2분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 639건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 숙박",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "호텔 토마리야 우에노 (Hotel Tomariya Ueno)",
+      "agodaUrl": "https://www.agoda.com/hotel-tomariya-ueno/hotel/hatoyama-machi-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42391416/0/0dbeaaec13490ebc6f255599ca631a93.jpeg?ce=0",
+      "score": 8.5,
+      "reviewCount": 5437,
+      "reviewCountFmt": "5,437건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 4,
+      "refLabel": "우에노역",
+      "star": 1,
+      "blurb": "평점 8.5 · 리뷰 5,437건. 우에노역 도보 4분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 5,437건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "캡슐 침대는 매우 편안하고 통풍이 잘됩니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "시설도 깨끗하고, 침대도 깨끗하고, 사실 너무 넓습니다.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "위치는 훌륭하고 조용한 곳이지만 매우 편리합니다.",
+          "score": "7.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 영어를 구사하며 모든 사람들과 대화를 나눕니다.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "수납공간도 넉넉하고 직원분들도 정말 친절하세요.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "호텔 아울 (HOTEL OWL)",
+      "agodaUrl": "https://www.agoda.com/hotel-owl/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/234/2347544/2347544_17090119270055922731.jpg?ca=6&ce=1",
+      "score": 8.4,
+      "reviewCount": 3059,
+      "reviewCountFmt": "3,059건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 3,
+      "refLabel": "닛포리역",
+      "star": 1,
+      "blurb": "평점 8.4 · 리뷰 3,059건. 닛포리역 도보 3분, ₩ · 약 1만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 3,059건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "화장실, 샤워실은 정말 완벽했어요!",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "로비에 무료 음료 디스펜서가 있어서 좋습니다.",
+          "score": "8.8",
+          "country": "South Korea",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "도쿄에 머물고 싶은 개인 여행자에게 추천",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "방은 조용하고 반짝반짝 깨끗합니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "침대는 매우 편안했고 온도도 좋았습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "나인아워즈 우먼 신주쿠 (9h nine hours woman Shinjuku)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-woman-shinjuku/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/30673582/-1/0885c76de0fbbe418fdd0b37488dab75.jpg?ca=29&ce=0",
+      "score": 8.2,
+      "reviewCount": 9530,
+      "reviewCountFmt": "9,530건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "신주쿠역",
+      "star": 2,
+      "blurb": "평점 8.2 · 리뷰 9,530건. 신주쿠역 도보 2분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 9,530건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "현대적인 스타일의 캡슐과 시설이 꽤 인상적이었습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "또한 매일 깨끗한 잠옷과 슬리퍼를 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "기차역까지 도보로 200m도 채 안 걸립니다.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "매일 라운지웨어와 용품이 교체됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "특히 밤에 라운지의 전망은 환상적입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-03T22:02:46.524Z",
+    "source": "agoda citySearch",
+    "daysAhead": 43,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

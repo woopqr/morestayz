@@ -1,0 +1,501 @@
+{
+  "slug": "couple-kyoto-2026-09",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "교토",
+  "citySlug": "kyoto",
+  "cityId": 1784,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=1784",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[연인여행] 교토 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "교토 연인여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 87%로 연인여행 기준 1순위는 <b>Sora Niwa Terrace Kyoto</b>입니다 (평점 9.3·리뷰 3,580건·1박 약 19만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 26,
+        "pct": 87
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/367602473.jpg?k=a82e7e9ca5657d6f448e47b65d73e2011eb768a8def4d3a6211b69b11b66b650&o=",
+  "heroAlt": "교토 연인여행",
+  "updated": "2026-08-04",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Sora Niwa Terrace Kyoto",
+      "agodaUrl": "https://www.agoda.com/sora-niwa-terrace-kyoto/hotel/all/kyoto-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/367602473.jpg?k=a82e7e9ca5657d6f448e47b65d73e2011eb768a8def4d3a6211b69b11b66b650&o=",
+      "score": 9.3,
+      "reviewCount": 3580,
+      "reviewCountFmt": "3,580건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 2,
+      "refLabel": "가와라마치역",
+      "star": 4,
+      "blurb": "평점 9.3 · 리뷰 3,580건. 가와라마치역 도보 2분, ₩₩ · 약 19만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 3,580건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 시원한 공기가 흐르는 야외 온천탕을 좋아합니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "기차역과 쇼핑몰과 가까운 좋은 위치.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "객실 내에서 언제든지 사용할 수 있는 대형 온수 욕조/온천이 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "목욕 가운, 수건, 편의용품이 제공됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "수건, 목욕 가운 가운 및 편의용품이 제공됩니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "소테츠 프레사 인 교토-하치조구치 (Sotetsu Fresa Inn Kyoto-Hachijoguchi)",
+      "agodaUrl": "https://www.agoda.com/sotetsu-fresa-inn-kyoto-hachijoguchi/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/161/1618496/1618496_17042219000052554191.jpg?ca=6&ce=1",
+      "score": 9,
+      "reviewCount": 13035,
+      "reviewCountFmt": "13,035건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 4,
+      "refLabel": "교토역 하치조구치 버스 정류장",
+      "star": 3.5,
+      "blurb": "평점 9 · 리뷰 13,035건. 교토역 하치조구치 버스 정류장 도보 4분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 13,035건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 환상적입니다. 교토역에서 2분 거리입니다.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "매우 뜨거운 건조기를 갖춘 세탁기 서비스를 제공합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 현대적이며 흠잡을 데 없이 깨끗했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원들이 항상 정중하고 도움을 줄 준비가 되어 있다는 점이 마음에 들었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "전반적으로, 즐겁고 편안한 숙박이었습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "교토 우메코지 카덴쇼 - 프라이빗 배스 퍼실리티 - 교리츠 리조트 (Kyoto Umekoji Kadensho - Private bath facility -Kyoritsu Resort)",
+      "agodaUrl": "https://www.agoda.com/kyoto-umekoji-kadensho-private-bath-facility-kyoritsu-resort-h36108527/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36108527/0/f23e5f4a9b48d0e6dcfce1c139d8b727.png?ce=3",
+      "score": 8.9,
+      "reviewCount": 3465,
+      "reviewCountFmt": "3,465건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 1,
+      "refLabel": "우메코지교토니시역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 3,465건. 우메코지교토니시역 도보 1분, ₩₩ · 약 16만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 3,465건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "공동 온천탕과 전용 온천탕을 모두 갖춘 놀라운 료칸입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "가이세키 스타일의 저녁 식사는 훌륭하고 가득합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 개인 및 공용 온천이 훌륭했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "개인 온천과 공용 온천은 아름답고 편안했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "공중 온천은 규모가 크며 실내 온천과 노천 온천이 모두 있습니다.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "호텔 수이 교토 기요미즈 (Hotel SUI Kyoto Kiyomizu)",
+      "agodaUrl": "https://www.agoda.com/h26078519/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/26066736/0/6d56184358a644d65d7e032af8040be0.jpg?ce=2",
+      "score": 8.6,
+      "reviewCount": 8538,
+      "reviewCountFmt": "8,538건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 1,
+      "refLabel": "기요미즈고조역",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 8,538건. 기요미즈고조역 도보 1분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 8,538건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "욕실과 화장실은 현대적이고 스마트한 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "韩国",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "기차와 강에서 불과 몇 미터 거리에 있는 완벽한 위치입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 비교적 넓은 객실로 멋진 샤워 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "손님께서는 무료 환영 음료를 즐기실 수 있으며 이는 좋은 감동이었습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "교토에서 독특한 숙박을 원하는 사람에게 적극 추천합니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "사쿠라 테라스 디 아틀리에 -성인 전용- (Sakura Terrace The Atelier -Adult Only-)",
+      "agodaUrl": "https://www.agoda.com/sakura-terrace-the-atelier_3/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/226/2260256/2260256_17051609500053007507.jpg?ca=6&ce=1",
+      "score": 8.5,
+      "reviewCount": 5789,
+      "reviewCountFmt": "5,789건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "구조역",
+      "star": 3,
+      "blurb": "평점 8.5 · 리뷰 5,789건. 구조역 도보 3분, ₩ · 약 4만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,789건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "무료 세탁이 가능하고 대중목욕탕에는 온천이 있습니다!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "직원은 매우 친절하고 무료 커피와 온천이 있습니다.",
+          "score": "9.6",
+          "country": "Deutschland",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "욕실과 샤워실은 매우 깨끗했고, 방도 마찬가지였습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "매우 조용하고 동네가 매우 안전하다고 느껴집니다.",
+          "score": "10",
+          "country": "Czech Republic",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "나는 구내에 있는 온수 욕조를 좋아합니다!",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "교토 타워 호텔 (Kyoto Tower Hotel)",
+      "agodaUrl": "https://www.agoda.com/kyoto-tower-hotel/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51412/0/1c7eb58ef8870938c629f2fa0e1160ac.jpg?ce=2",
+      "score": 8.5,
+      "reviewCount": 9649,
+      "reviewCountFmt": "9,649건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "교토역",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 9,649건. 교토역 도보 2분, ₩ · 약 8만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 9,649건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 8.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 교토역 바로 앞이라 타의 추종을 불허합니다.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하며 잠옷과 슬리퍼를 제공합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "도쿄 시내보다 넓은 호텔 객실 크기.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "아침 식사는 다양하며 모든 취향을 충족시킵니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "다행히 이 호텔은 조기 수하물 위탁 서비스를 제공합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-04T22:07:13.893Z",
+    "source": "agoda citySearch",
+    "daysAhead": 42,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

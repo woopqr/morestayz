@@ -1,0 +1,507 @@
+{
+  "slug": "couple-fukuoka-2026-09",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "후쿠오카",
+  "citySlug": "fukuoka",
+  "cityId": 16527,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16527",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[연인여행] 후쿠오카 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "후쿠오카 연인여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 70%로 연인여행 기준 1순위는 <b>Chapel Coconuts Hotel Ipolani fukuoka</b>입니다 (평점 8.4·리뷰 578건·1박 가격 변동). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 70
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/457814206.jpg?k=86832d525162a08a148c64a544ae82c811b459b2d02466f4ab15c4c559984402&o=",
+  "heroAlt": "후쿠오카 연인여행",
+  "updated": "2026-08-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Chapel Coconuts Hotel Ipolani fukuoka",
+      "agodaUrl": "https://www.agoda.com/fukuoka-chapel-coconuts-hotel-ipolani_2/hotel/all/fukuoka-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/457814206.jpg?k=86832d525162a08a148c64a544ae82c811b459b2d02466f4ab15c4c559984402&o=",
+      "score": 8.4,
+      "reviewCount": 578,
+      "reviewCountFmt": "578건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 7,
+      "refLabel": "오호리코엔역",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 578건. 오호리코엔역 도보 7분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 578건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "마사지를 위한 모든 종류의 목욕 소금과 크림을 무료로 제공합니다.",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 러브호텔",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 좋아요",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "로비에서 무료 아이스 커피와 주스",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "게스트의 개인정보 보호는 체크인부터 시작됩니다.",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 포르자 하카타에키 치쿠시-구치 I (Hotel Forza Hakataeki Chikushi-Guchi I)",
+      "agodaUrl": "https://www.agoda.com/hotel-forza-hakataeki-chikushi-guchi-i/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/410/410788/410788_16111816590048887005.jpg?ca=6&ce=1",
+      "score": 8.5,
+      "reviewCount": 21889,
+      "reviewCountFmt": "21,889건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 2,
+      "refLabel": "Nishitetsu Bus",
+      "star": 3.5,
+      "blurb": "평점 8.5 · 리뷰 21,889건. Nishitetsu Bus 도보 2분, ₩₩ · 약 11만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 21,889건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "지하철로 공항과의 연결성도 훌륭합니다.",
+          "score": "8.4",
+          "country": "Thailand",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "저는 약 300평방피트 규모의 휴식형 방에 살았습니다.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "호텔과 객실은 새롭고 깨끗하며 잘 디자인되어 있습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "직원들은 도움이 되고, 로비에서 무료 커피가 제공되며, 모든 것이 훌륭합니다!",
+          "score": "10",
+          "country": "新加坡",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "나는 이곳에서 정말 즐거운 시간을 보냈으며 적극 추천하고 싶습니다!",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "더 라이블리 후쿠오카 하카타 (THE LIVELY FUKUOKA HAKATA)",
+      "agodaUrl": "https://www.agoda.com/the-lively-hakata-fukuoka/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6496510/-1/07359c518bdf0ba511a3d39a1f6539e4.jpg?ca=9&ce=1",
+      "score": 8.3,
+      "reviewCount": 15128,
+      "reviewCountFmt": "15,128건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "나카스카와바타역",
+      "star": 3,
+      "blurb": "평점 8.3 · 리뷰 15,128건. 나카스카와바타역 도보 2분, ₩ · 약 8만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 15,128건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 정말 환상적입니다. 지하철역까지 도보로 2분 거리입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "아주 좋은 아침 식사 세트 - 영어 또는 일본어 선택.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아름다운 로비가 강렬한 첫인상을 남겼습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "방은 편안했고 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 매우 도움이 되었으며 일부는 유창한 영어를 구사했습니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "베셀 인 하카타 나카스 (Vessel Inn Hakata Nakasu)",
+      "agodaUrl": "https://www.agoda.com/vessel-inn-hakata-nakasu/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/193/193769/193769_16110912420048562162.jpg?ca=6&ce=1",
+      "score": 8.3,
+      "reviewCount": 6206,
+      "reviewCountFmt": "6,206건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "나카스카와바타역",
+      "star": 3.5,
+      "blurb": "평점 8.3 · 리뷰 6,206건. 나카스카와바타역 도보 2분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 6,206건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "멘타이코나 모스나베 같은 후쿠오카 특선 요리도 있었어요.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "캐널시티 방향 쇼핑가 근처에 있어요.",
+          "score": "8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "Wi-Fi는 강력하고 다양한 아침 식사가 마음에 듭니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "가격은 품질과 편안한 숙박에 적합합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "직원분 친절하시고 음료도 무료로 주셨어요",
+          "score": "10",
+          "country": "Japan",
+          "date": "2022.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "리치몬드 호텔 하카타 에키매 (Richmond Hotel Hakata Ekimae)",
+      "agodaUrl": "https://www.agoda.com/richmond-hotel-hakata-ekimae/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/246/246295/246295_15062310540030372087.jpg?ca=4&ce=1",
+      "score": 8.8,
+      "reviewCount": 9214,
+      "reviewCountFmt": "9,214건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 3,
+      "refLabel": "하카타역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 9,214건. 하카타역 도보 3분, ₩₩ · 약 9만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 9,214건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "JR 하카타역과 매우 가까우며 요다바시 바로 뒤에 있습니다.",
+          "score": "7.2",
+          "country": "Japan",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "그들은 장애인을 위한 엘리베이터를 지원했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "직원들과 대화하기 편했고, 객실도 정기적으로 청소해주었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 편안하고 넓으며 트윈 침대가 마련되어 있습니다.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "이것은 환상적인 호텔이었습니다...우리는 거기에 두 번 묵었습니다!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "더 낫 후쿠오카 텐진 (THE KNOT FUKUOKA Tenjin)",
+      "agodaUrl": "https://www.agoda.com/the-knot-fukuoka-tenjin/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/178523/0/4b1bbbdd85b8ccc263081084ed351274.jpg?ce=3",
+      "score": 8.7,
+      "reviewCount": 749,
+      "reviewCountFmt": "749건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 4,
+      "refLabel": "아카사카역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 749건. 아카사카역 도보 4분, ₩₩ · 약 9만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 749건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "로비도 주류 밀매점 바입니다! 놀라운!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "지하철역과 가까우며 쇼핑몰까지 도보 거리",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "접근성이 매우 좋고, 나이트라이프가 좋으며, 깨끗하고 직원들이 친절합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 작지만 편의 시설과 세부 사항이 훌륭합니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "예산이 부족한 여행자에게 추천합니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2023.11",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-07T01:00:19.827Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "slug": "couple-seoul-2026-09",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "서울",
+  "citySlug": "seoul",
+  "cityId": 14690,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14690",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[연인여행] 서울 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "서울 연인여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 77%로 연인여행 기준 1순위는 <b>이코노미 호텔 명동 프리미어</b>입니다 (평점 8.4·리뷰 5,652건·1박 약 13만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/686778/0/fcc406003a1768b08de238d0badcc5b9.png?ce=3",
+  "heroAlt": "서울 연인여행",
+  "updated": "2026-08-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "이코노미 호텔 명동 프리미어 (Ekonomy Hotel Myeongdong Premier)",
+      "agodaUrl": "https://www.agoda.com/ekonomy-hotel-myeongdong-premier/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/686778/0/fcc406003a1768b08de238d0badcc5b9.png?ce=3",
+      "score": 8.4,
+      "reviewCount": 5652,
+      "reviewCountFmt": "5,652건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 2,
+      "refLabel": "명동역",
+      "star": 2,
+      "blurb": "평점 8.4 · 리뷰 5,652건. 명동역 도보 2분, ₩₩ · 약 13만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 5,652건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "리프트는 생명의 은인이며 직원은 친절하고 영어에 능통합니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "지하철역도 100m 거리에 매우 가깝습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "시설: 너무 붐비지 않고 믿을 수 있는 엘리베이터가 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "방은 조용하고 다른 방의 소음은 들리지 않았습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "객실에는 무료 Wi-Fi, TV, 온수 샤워 시설 및 헤어드라이어가 있습니다.",
+          "score": "9.6",
+          "country": "ไทย",
+          "date": "2023.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "명동 맘 하우스 (Myeongdong Mom House)",
+      "agodaUrl": "https://www.agoda.com/myeongdong-mom-house-foreigners-only/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/746833/0/3148f061b64fc35f159b33cfda0934b6.jpeg?ce=0",
+      "score": 8,
+      "reviewCount": 4747,
+      "reviewCountFmt": "4,747건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 1,
+      "refLabel": "명동역",
+      "star": 2.5,
+      "blurb": "평점 8 · 리뷰 4,747건. 명동역 도보 1분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 4,747건",
+        "⭐ 2.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "명동 거리와 지하철과 매우 가까운 최고의 위치.",
+          "score": "8.8",
+          "country": "ไทย",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "이곳에는 주방, 세탁기, 옥상이 있었습니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "체크인 전후에도 짐을 맡길 수 있습니다!",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "바닥 난방과 온수 샤워도 잘 작동했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 최대 3개의 수하물을 수용할 수 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "트립스테이 명동 (TRIPSTAY Myeongdong)",
+      "agodaUrl": "https://www.agoda.com/tripstay-myeongdong/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/127/1270807/1270807_16081615390045530040.jpg?ca=6&ce=1",
+      "score": 7.9,
+      "reviewCount": 3304,
+      "reviewCountFmt": "3,304건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 2,
+      "refLabel": "을지로3가역",
+      "star": 2,
+      "blurb": "평점 7.9 · 리뷰 3,304건. 을지로3가역 도보 2분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,304건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원은 훌륭합니다! 그들은 영어로 의사소통을 잘 할 수 있습니다.",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "전자레인지, 정수기, 무료 커피 이용 가능👍🏻",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치, 명동, 시장 등까지 도보로 약 20분 거리.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": true
+        },
+        {
+          "text": "방은 작지만 깨끗하고 시설이 완비되어 있습니다.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "가장 좋은 점은 근처에 공항버스가 있다는 점입니다",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "나인트리 프리미어 로카우스 호텔 서울 용산 (Nine Tree Premier ROKAUS Hotel Seoul Yongsan)",
+      "agodaUrl": "https://www.agoda.com/h36845586/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36845586/-1/5d05b4e695b0f3c783c601f88579d898.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 12525,
+      "reviewCountFmt": "12,525건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 3,
+      "refLabel": "용산역",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 12,525건. 용산역 도보 3분, ₩₩ · 가격 변동. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "📝 리뷰 12,525건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "용산역 1번 출구에서 2분 거리에 있는 매우 쾌적한 위치입니다.",
+          "score": "9.2",
+          "country": "France",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "우리방에서 N서울타워가 보이는 뷰가 너무 좋았어요!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 현대적인 객실과 시설을 갖춘 새로운 호텔입니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "비교적 새 호텔이고 최상의 상태를 유지하고 있습니다.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "방은 현대적이었고 매일 하우스키핑 서비스가 제공되었습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "넘버25 호텔 동대문점 (No.25 Hotel Dongdaemun branch)",
+      "agodaUrl": "https://www.agoda.com/dongdaemun-no-25-dongdaemun-branch/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/68641372/0/6219059131498881dd17dcad8d908416.jpg?ce=2",
+      "score": 8.7,
+      "reviewCount": 1185,
+      "reviewCountFmt": "1,185건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 2,
+      "refLabel": "동대문역사문화공원역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 1,185건. 동대문역사문화공원역 도보 2분, ₩₩ · 약 9만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,185건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 7.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방에 노트북이 있고 여성용 교정기도 있어요!",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "비오는 날에는 우산을 무료로 사용할 수 있는 서비스도 제공합니다.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 위치가 좋음",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "지하철역과 가까워 전반적으로 훌륭한 숙박이었습니다.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "길거리 음식, 쇼핑몰, DDP, 기차역, 레스토랑 근처.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "강남 더 호텔 1997 (Gangnam The Hotel 1997)",
+      "agodaUrl": "https://www.agoda.com/hotel-seattle-gangnam_2/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/75162788/0/12926b5a1723f271cc884a1fea69a02b.jpg?ce=2",
+      "score": 8.4,
+      "reviewCount": 315,
+      "reviewCountFmt": "315건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 4,
+      "refLabel": "강남역",
+      "star": null,
+      "blurb": "평점 8.4 · 리뷰 315건. 강남역 도보 4분, ₩₩ · 약 11만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 315건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "버스정류장과 지하철역이 가까워 이동이 편리합니다.",
+          "score": "8",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "객실 공간이 넓습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 청결도는 좋습니다.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 접근하기 쉽고 도움이 됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "아주 좋은 호텔",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-07T21:33:21.206Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "slug": "solo-fukuoka-2026-09",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "후쿠오카",
+  "citySlug": "fukuoka",
+  "cityId": 16527,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16527",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[혼자여행] 후쿠오카 - 혼행자가 조용히 쉬어가는 숙소",
+  "metaDescription": "후쿠오카 혼자여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>퍼스트 캐빈 하카타</b>입니다 (평점 8.8·리뷰 4,954건·1박 약 4만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/property/633546/0/2070ce3e62299be00619f0c568a6dbca.jpeg?ce=3",
+  "heroAlt": "후쿠오카 혼자여행",
+  "updated": "2026-08-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "퍼스트 캐빈 하카타 (First Cabin Hakata)",
+      "agodaUrl": "https://www.agoda.com/first-cabin-hakata/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/633546/0/2070ce3e62299be00619f0c568a6dbca.jpeg?ce=3",
+      "score": 8.8,
+      "reviewCount": 4954,
+      "reviewCountFmt": "4,954건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 1,
+      "refLabel": "나카스카와바타역",
+      "star": 1.5,
+      "blurb": "평점 8.8 · 리뷰 4,954건. 나카스카와바타역 도보 1분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 4,954건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "건물 지하에 지하철 노선이 연결되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "나카수카와바타역 8층에 있어 최적의 위치",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "사용자 친화적인 디자인의 깨끗한 캡슐룸입니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "개인 여행자에게 적합하며 수하물을 보관할 수 있습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "편안하고 아늑한 캡슐호텔이었습니다.",
+          "score": "10",
+          "country": "일본",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더 밀레니얼스 후쿠오카 (The Millennials Fukuoka)",
+      "agodaUrl": "https://www.agoda.com/the-millennials-fukuoka_3/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/761/7616486/7616486_19060615160075368451.jpg?ca=8&ce=1",
+      "score": 8.8,
+      "reviewCount": 8321,
+      "reviewCountFmt": "8,321건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "나카스카와바타역",
+      "star": 2,
+      "blurb": "평점 8.8 · 리뷰 8,321건. 나카스카와바타역 도보 2분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 8,321건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "제가 요청하면 벳푸에 온천을 예약해 주기도 합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "지하철 노선, 돈키, 이치란과 가까운 훌륭한 위치.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "호텔과 같은 편안함을 제공하는 최고의 호스텔 중 하나",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "캡슐이 생각보다 방음이 잘 되더라구요.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "귀마개, 칫솔 등의 편의용품도 제공되었습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "9h 나인아워즈 나카스카와바타 스테이션 (9h nine hours Nakasukawabata Station)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-nakasukawabata-station/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6947589/-1/35142035a21931b76a1a412ded778118.jpg?ca=9&ce=1",
+      "score": 8.6,
+      "reviewCount": 7364,
+      "reviewCountFmt": "7,364건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 1,
+      "refLabel": "나카스카와바타역",
+      "star": 1.5,
+      "blurb": "평점 8.6 · 리뷰 7,364건. 나카스카와바타역 도보 1분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 7,364건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "캡슐은 높은 보안 수준으로 깨끗하고 아늑합니다.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "같은 건물에서 바로 공항까지 기차를 타세요.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "- 로비 이후 여성과 남성을 위한 별도의 공간이 있습니다.",
+          "score": "7.6",
+          "country": "Thailand",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "- 욕실은 별도의 화장실이 있어 예상보다 넓습니다.",
+          "score": "7.6",
+          "country": "Thailand",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원은 영어를 구사하며 체크인은 매우 쉽습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "그랜드 케빈 텐진 미나미 (Grand Cabin Tenjin Minami)",
+      "agodaUrl": "https://www.agoda.com/grand-cabin-tenjin-minami/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/247323099.jpg?k=034016e3d9b25dd4b8f3427b5587186a0c749042c0bce305c77fec62660c3e56&o=",
+      "score": 8.4,
+      "reviewCount": 494,
+      "reviewCountFmt": "494건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 2,
+      "refLabel": "야쿠인역",
+      "star": 1,
+      "blurb": "평점 8.4 · 리뷰 494건. 야쿠인역 도보 2분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 494건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "여느 호텔과 비교할 수 없는 멋진 캡슐 호텔이었습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "야쿠인역에서 몇 걸음 떨어져 있습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "상의와 바지의 잠옷도 제공됩니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "필요한 모든 것을 갖춘 넓은 '방'.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 지불하는 가격에 비해 매우 가치가 있습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "9h 나인아워즈 하카타 스테이션 (9h nine hours Hakata station)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-hakata-station/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/16143404/-1/4284ec06a00095d1e65ab2e7bfe1fc3f.jpg?ca=14&ce=1",
+      "score": 8.4,
+      "reviewCount": 15440,
+      "reviewCountFmt": "15,440건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 1,
+      "refLabel": "JR Kyushu",
+      "star": 1.5,
+      "blurb": "평점 8.4 · 리뷰 15,440건. JR Kyushu 도보 1분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 15,440건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "하카타역까지 도보로 단 몇 분 거리에 있는 훌륭한 위치.",
+          "score": "9.6",
+          "country": "อารูบา",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 현대적이며 매우 편안한 캡슐 호텔입니다.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "나는 캡슐 경험을 좋아했고 거기에서 이틀 밤을 묵었습니다.",
+          "score": "8.4",
+          "country": "Sweden",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "이것은 지금까지 최고의 캡슐 경험이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "직원의 도움 없이 빠른 체크인도 가능합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "하츠 캡슐 호텔 앤 스파 나카스 -남성 전용- (HEARTS Capsule Hotel & Spa Nakasu -Male only-)",
+      "agodaUrl": "https://www.agoda.com/resort-capsule-hotel-well-cabin-fukuoka-nakasu-male-only/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/409710/3126725/0b2fac00cd187acdef0537f9040e4238.jpeg?ce=0",
+      "score": 8,
+      "reviewCount": 5692,
+      "reviewCountFmt": "5,692건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "나카스카와바타역",
+      "star": 1.5,
+      "blurb": "평점 8 · 리뷰 5,692건. 나카스카와바타역 도보 2분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 5,692건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "일본의 캡슐호텔을 체험하기 좋은 곳이에요.",
+          "score": "8",
+          "country": "대한민국",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "나카수바타 3번 출구 바로 위의 완벽한 위치.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "일반 캐빈과 프리미엄 캐빈 모두에 대해 저렴한 등급입니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "시설이 깨끗하고 조용하며 다른 손님이 거의 보이지 않습니다.",
+          "score": "8.4",
+          "country": "Japan",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "SPA는 규모가 크며 모든 것을 나 혼자 가지고 있습니다.",
+          "score": "10",
+          "country": "メキシコ",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-07T21:32:28.755Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

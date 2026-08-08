@@ -1,0 +1,562 @@
+{
+  "slug": "kids-seoul-2026-09",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "서울",
+  "citySlug": "seoul",
+  "cityId": 14690,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14690",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[아이와함께] 서울 - 키즈 친화 시설 좋은 가성비 숙소",
+  "metaDescription": "서울 아이와함께 호캉스, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 47%로 아이와함께 호캉스 기준 1순위는 <b>스텝 인 명동 1호점</b>입니다 (평점 8.7·리뷰 8,089건·1박 약 3만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 14,
+        "pct": 47
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/782060/-1/e5cafe77401e9012d376407bd41e3647.jpg?ca=11&ce=1",
+  "heroAlt": "서울 아이와함께 호캉스",
+  "updated": "2026-08-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "스텝 인 명동 1호점 (STEP INN Myeongdong 1)",
+      "agodaUrl": "https://www.agoda.com/step-inn-myeongdong-1/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/782060/-1/e5cafe77401e9012d376407bd41e3647.jpg?ca=11&ce=1",
+      "score": 8.7,
+      "reviewCount": 8089,
+      "reviewCountFmt": "8,089건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 4,
+      "refLabel": "을지로입구역",
+      "star": 2.5,
+      "blurb": "평점 8.7 · 리뷰 8,089건. 을지로입구역 도보 4분, ₩ · 약 3만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 8,089건",
+        "⭐ 2.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "지하철 4호선 명동역 도보 10분",
+          "score": "8.8",
+          "country": "Кыргызстан",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "게스트하우스는 15층에 위치해 있어 멋진 전망을 자랑합니다.",
+          "score": "10",
+          "country": "Spain",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "엘리베이터까지 4계단만 올라가시면 됩니다.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "시리얼, 빵, 햄 등으로 구성된 무료 아침 식사가 제공됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "무료 식수와 무제한 커피가 제공됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "구도 컬렉티브 강남 (Gudo Collective Gangnam )",
+      "agodaUrl": "https://www.agoda.com/gudo-collective-gangnam/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/81227846/0/c6d1f6d8a50dc39c61475e89784b101f.jpg?ce=3",
+      "score": 8.6,
+      "reviewCount": 1150,
+      "reviewCountFmt": "1,150건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "walkMin": 5,
+      "refLabel": "강남역",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 1,150건. 강남역 도보 5분, ₩₩₩ · 약 23만원. 아이와함께 호캉스 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 1,150건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 8.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "훌륭한 위치, 깨끗한 객실.",
+          "score": "8.4",
+          "country": "South Korea",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "우리는 그것이 얼마나 깔끔하고 잘 디자인되어 있는지 좋아합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "어른 2명과 어린이 4명이 충분히 들어갈 수 있는 크기입니다.",
+          "score": "8.4",
+          "country": "Taiwan",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "위치도 매우 좋습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "우리는 다시 거기에 머물 것입니다.",
+          "score": "8",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "롯데시티호텔 김포공항 (LOTTE CITY HOTEL GIMPO AIRPORT)",
+      "agodaUrl": "https://www.agoda.com/lotte-city-hotel-gimpo-airport/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/289180/-1/a8f2be613f024636df1766cbb73f981f.jpg?ca=22&ce=0",
+      "score": 8.8,
+      "reviewCount": 13120,
+      "reviewCountFmt": "13,120건",
+      "priceText": "₩₩₩ · 약 20만원",
+      "walkMin": 3,
+      "refLabel": "김포공항역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 13,120건. 김포공항역 도보 3분, ₩₩₩ · 약 20만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 13,120건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "쇼핑몰이 있고 기차역과 가까운 호텔",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "큰 창문, 멋진 공항 전망, 방은 크고 깨끗합니다.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "욕실은 넓고 샤워 시설은 환상적이었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "체크인 시 프론트 데스크 직원은 매우 친절했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "환승이나 조기 비행을 위한 단기 체류에 적합합니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "호텔 동그라미 (Hotel Donggrami)",
+      "agodaUrl": "https://www.agoda.com/jamsil-circle/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/81942974/0/f9321a091e626b17917f5a3659f55c1f.jpg?ce=3",
+      "score": 8.4,
+      "reviewCount": 760,
+      "reviewCountFmt": "760건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 2,
+      "refLabel": "몽촌토성역",
+      "star": 5,
+      "blurb": "평점 8.4 · 리뷰 760건. 몽촌토성역 도보 2분, ₩ · 약 5만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 760건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "매우 조용하고 편안합니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "프론트 데스크 직원은 정말 친절하고 도움이 되었습니다.",
+          "score": "7.6",
+          "country": "South Korea",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "로비에는 연중무휴 24시간 물 + 커피 머신이 있었습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "마사지 의자와 편안한 침대를 갖춘 멋진 크기의 객실",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "방은 비교적 깨끗하고 정말 넓습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "어바웃 스테이 서울 (About Stay Seoul)",
+      "agodaUrl": "https://www.agoda.com/hotel-stay-inn-seoul-station/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/906712/0/ebbfd4318c2b7899de7aef12fdc60cdf.jpg?ce=2",
+      "score": 8,
+      "reviewCount": 4077,
+      "reviewCountFmt": "4,077건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 4,
+      "refLabel": "서울역",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 4,077건. 서울역 도보 4분, ₩₩ · 약 16만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 4,077건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "백 패커를 위한 서울 최고의 숙소",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 작고 아늑하며 침대는 부드럽고 편안합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": true
+        },
+        {
+          "text": "그들은 매일 우리 방을 청소하고 편의 시설을 교체/리필합니다.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "직원들은 정말 친절하고 짐을 들어주는 데 도움을 줍니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.10",
+          "translated": true
+        },
+        {
+          "text": "스테이인서울에 처음 묵었는데 정말 좋았습니다.",
+          "score": "9.6",
+          "country": "日本",
+          "date": "2023.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "잠실 스테이 호텔 (Jamsil stay hotel)",
+      "agodaUrl": "https://www.agoda.com/jamsil-stay-hotel/hotel/seoul-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/29271438/0/ea2bd212c350cd45d7d036e8d83a7410.jpg?ce=3",
+      "score": 8.3,
+      "reviewCount": 3168,
+      "reviewCountFmt": "3,168건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 1,
+      "refLabel": "삼전역",
+      "star": null,
+      "blurb": "평점 8.3 · 리뷰 3,168건. 삼전역 도보 1분, ₩ · 약 7만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,168건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 완벽한 가격으로 멋진 아침 식사를 제공합니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "AirPlay 및 Chromecast를 지원하는 LG 70인치 TV입니다.",
+          "score": "8.8",
+          "country": "台灣",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치! MRT 엘리베이터까지 약 30m",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "특별한 요구 사항에 매우 적합합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "방도 매일 청소가 잘 되어있습니다.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-08T21:23:16.767Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

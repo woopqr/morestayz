@@ -1,0 +1,541 @@
+{
+  "slug": "couple-taipei-2026-09",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "타이베이",
+  "citySlug": "taipei",
+  "cityId": 4951,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4951",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[연인여행] 타이베이 - 센스있는 연인의 탁월한 선택",
+  "metaDescription": "타이베이 연인여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 70%로 연인여행 기준 1순위는 <b>호텔 메트로폴리탄 프리미어 타이베이</b>입니다 (평점 9.1·리뷰 15,804건·1박 약 19만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 70
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/24324690/0/cb96adee2dac234849296efee8ca3ddb.jpg?ce=3",
+  "heroAlt": "타이베이 연인여행",
+  "updated": "2026-08-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 메트로폴리탄 프리미어 타이베이 (Hotel Metropolitan Premier Taipei)",
+      "agodaUrl": "https://www.agoda.com/hotel-metropolitan-premier-taipei/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/24324690/0/cb96adee2dac234849296efee8ca3ddb.jpg?ce=3",
+      "score": 9.1,
+      "reviewCount": 15804,
+      "reviewCountFmt": "15,804건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 3,
+      "refLabel": "난징 푸싱역",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 15,804건. 난징 푸싱역 도보 3분, ₩₩ · 약 19만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 15,804건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그들의 전문성과 친절함이 이 호텔을 돋보이게 합니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "5성급 호텔에서 기대할 수 있는 모든 것을 갖추고 있습니다.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "내 체류를 정말 잊을 수 없게 만든 것은 서비스였습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "객실은 현대적이고 넓으며 흠잡을 데 없이 깨끗합니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "시설과 공간은 훌륭하고 깨끗하며 잘 관리되어 있습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "그랜드 호텔 (Grand Hotel)",
+      "agodaUrl": "https://www.agoda.com/grand-hotel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1885/0/e949115f34b1e9b3c6eb7af6d538c94b.png?ce=3",
+      "score": 8.9,
+      "reviewCount": 17991,
+      "reviewCountFmt": "17,991건",
+      "priceText": "₩₩ · 약 17만원",
+      "walkMin": 8,
+      "refLabel": "젠탄역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 17,991건. 젠탄역 도보 8분, ₩₩ · 약 17만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 17,991건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 수준의 환대는 드물고 정말 인상적입니다.",
+          "score": "8.8",
+          "country": "Taiwan",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "이곳은 제가 세계에서 머물렀던 최고의 장소 중 하나입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "타이페이에 다시 오면 꼭 다시 여기에 머물 것입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 호텔, 100% 추천합니다. 수영장은 야외에 있습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "대만에 다시 갈 때마다 여기 다시 묵을 거예요.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "뉴 월드 호텔 (New World Hotel)",
+      "agodaUrl": "https://www.agoda.com/new-world-hotel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/67108/0/0c9bf629d0cedaf0d385f36b71a9ea86.jpg?ce=3",
+      "score": 8.3,
+      "reviewCount": 7405,
+      "reviewCountFmt": "7,405건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 5,
+      "refLabel": "시먼역",
+      "star": 3,
+      "blurb": "평점 8.3 · 리뷰 7,405건. 시먼역 도보 5분, ₩ · 약 4만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 7,405건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 나와 남편이 머물기에 충분히 깨끗하고 넓습니다.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "5일 동안 머물렀는데 방이 깨끗하고 편안했습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "우리는 New World Hotel에 머물기에 정말 좋은 곳을 가졌습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "뉴월드 호텔은 서비스 때문에 추천합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "직원들은 도움이 되었고 방은 깨끗하고 넓었습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "체크 인 타이베이 신이 (CHECK inn Taipei Xinyi)",
+      "agodaUrl": "https://www.agoda.com/at-boutique-hotel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/230668/0/5a3e7e1e56ff135eff8d5cf40bd51769.jpg?ce=3",
+      "score": 8.1,
+      "reviewCount": 9360,
+      "reviewCountFmt": "9,360건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "Taipei 101–World Trade Center Metro Station",
+      "star": 3,
+      "blurb": "평점 8.1 · 리뷰 9,360건. Taipei 101–World Trade Center Metro Station 도보 2분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 9,360건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 다른 서비스에 대해서는 훌륭하고 협조적이었습니다.",
+          "score": "7.6",
+          "country": "South Korea",
+          "date": "2022.12",
+          "translated": true
+        },
+        {
+          "text": "방은 충분히 깨끗하고 넓었습니다. 이곳 타이페이에서의 숙박이 정말 마음에 들었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "무엇보다 저희 방은 타이페이 101이 가장 잘 보이는 뷰를 자랑합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "방은 꽤 작지만 매우 깨끗하고 편안합니다.",
+          "score": "8.4",
+          "country": "ไทย",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "야시장도 수백 미터 거리에 있습니다.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "이 수 호텔 - 타이베이 닝샤 (YI SU HOTEL – TAIPEI NINGXIA)",
+      "agodaUrl": "https://www.agoda.com/yi-su-hotel-taipei-ningxia/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1176659/0/07dc9eb6aeefa8a1ee00a6f9e9fc75fa.jpg?ce=3",
+      "score": 8,
+      "reviewCount": 13791,
+      "reviewCountFmt": "13,791건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 6,
+      "refLabel": "Taoyuan International Airport MRT",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 13,791건. Taoyuan International Airport MRT 도보 6분, ₩ · 약 4만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 13,791건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "- 대형 침대, 깨끗한 객실, 멋진 객실 시설 및 편의 시설.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "프라이버시가 충분했고 방도 너무 편안했어요.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "여전히 환상적인 가치, 훌륭한 위치, 멋진 방.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치에 있는 독특한 건물에서 즐거운 시간을 보내세요",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "Yisu Hotel에서의 숙박은 전반적으로 훌륭한 경험이었습니다!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "호텔 릴렉스 5 (Hotel Relax 5                                                                )",
+      "agodaUrl": "https://www.agoda.com/hotel-relax-v/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1507446/0/6a9e70747cabcc40ca7e5f08ec5b7765.png?ce=3",
+      "score": 8.7,
+      "reviewCount": 9330,
+      "reviewCountFmt": "9,330건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": 2,
+      "refLabel": "Taipei West Bus Station",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 9,330건. Taipei West Bus Station 도보 2분, ₩₩ · 약 8만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 9,330건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "중앙역에서 몇 분 거리에 있으며 근처에 다양한 음식점이 있습니다",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "완벽한 위치, 깨끗하고 친절한 직원이 있는 멋진 호텔",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2026.02",
+          "translated": true
+        },
+        {
+          "text": "Xingguang Sanyue 백화점과 푸드코트가 근처에 있습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.02",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 방도 깨끗하고 편안합니다.",
+          "score": "10",
+          "country": "España",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "작은 호텔이지만 훌륭한 객실과 현대적인 편의 시설을 갖추고 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-09T21:25:14.122Z",
+    "source": "agoda citySearch",
+    "daysAhead": 37,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

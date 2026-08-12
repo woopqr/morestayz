@@ -1,0 +1,555 @@
+{
+  "slug": "solo-bangkok-2026-09",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[혼자여행] 방콕 - 혼행자가 조용히 쉬어가는 숙소",
+  "metaDescription": "방콕 혼자여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 60%로 혼자여행 기준 1순위는 <b>크리스탈 스위트 수반부미 공항</b>입니다 (평점 8.3·리뷰 8,564건·1박 약 4만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 18,
+        "pct": 60
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/412471/0/c39209411613601fd90fd9ab420efad8.jpg?ce=3",
+  "heroAlt": "방콕 혼자여행",
+  "updated": "2026-08-12",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "크리스탈 스위트 수반부미 공항 (Crystal Suites Suvarnabhumi Airport)",
+      "agodaUrl": "https://www.agoda.com/crystal-suites-suvarnabhumi-airport/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/412471/0/c39209411613601fd90fd9ab420efad8.jpg?ce=3",
+      "score": 8.3,
+      "reviewCount": 8564,
+      "reviewCountFmt": "8,564건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 20,
+      "refLabel": "소이왓란분역",
+      "star": 3.5,
+      "blurb": "평점 8.3 · 리뷰 8,564건. 소이왓란분역 도보 20분, ₩ · 약 4만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 8,564건",
+        "⭐ 3.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "간편한 체크인 절차, 깨끗하고 편안한 객실, 좋은 위치.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "시설은 새것이며 침대와 리넨도 완벽합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "호텔은 공항을 왕복하는 셔틀 버스를 매시간 운행합니다.",
+          "score": "9",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 최고의 서비스 정신을 가지고 있습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "객실의 청결도는 확실히 별 5개입니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "W 21 호텔 방콕 (W 21 HOTEL Bangkok)",
+      "agodaUrl": "https://www.agoda.com/serene-asoke-suites/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/296153/0/882a1bfef184b4f55a24e8fb5b896696.jpeg?ce=2",
+      "score": 7.8,
+      "reviewCount": 11373,
+      "reviewCountFmt": "11,373건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 1,
+      "refLabel": "수쿰윗역",
+      "star": 3,
+      "blurb": "평점 7.8 · 리뷰 11,373건. 수쿰윗역 도보 1분, ₩ · 약 3만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 11,373건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "W21 호텔에서의 최근 숙박은 전반적으로 예상외로 훌륭했습니다!",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "위치는 mrt 바로 옆이고 BTS도 가깝습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "W 21 호텔 방콕: 수쿰윗 중심부의 숨겨진 보석 🌟",
+          "score": "10",
+          "country": "Italy",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "내가 머물렀던 방은 편안함과 스타일의 안식처였습니다.",
+          "score": "10",
+          "country": "Bangladesh",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "방콕을 방문하시는 모든 분들께 W 21 호텔을 적극 추천합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "L42 호스텔 수완나품 에어포트 (L42 Hostel Suvarnabhumi Airport)",
+      "agodaUrl": "https://www.agoda.com/l42-hostel-suvarnabhumi-airport/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7471543/0/646518fcae0ffe18a35a97f5c7b683e3.jpeg",
+      "score": 7.8,
+      "reviewCount": 2329,
+      "reviewCountFmt": "2,329건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 21,
+      "refLabel": "Phra Chom Klao",
+      "star": 2.5,
+      "blurb": "평점 7.8 · 리뷰 2,329건. Phra Chom Klao 도보 21분, ₩ · 약 2만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 2,329건",
+        "⭐ 2.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "그리고 ฿150의 공항 셔틀 서비스도 매우 좋았습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "저는 공간이 넓고 침대도 큰 585호에 방을 얻었습니다",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "침대는 편안했고, 소파는 촉감이 좋았습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "그들은 훌륭한 서비스를 제공하며 직원들은 도움이 되고 친절합니다.",
+          "score": "8.4",
+          "country": "South Africa",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "그들은 심지어 우리를 깨웠고 짐을 아래층으로 가져오는 것을 도와주었습니다.",
+          "score": "8",
+          "country": "Cambodia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "팔레트 더 트래블러스 호텔 방콕 (Palette The Travellers Hotel Bangkok)",
+      "agodaUrl": "https://www.agoda.com/the-travellers-hotel_4/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/39820584/-1/6228d4dff4155ada0f89a8f79cb26b5d.jpg?ce=0",
+      "score": 7.7,
+      "reviewCount": 2681,
+      "reviewCountFmt": "2,681건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 2,
+      "refLabel": "라차다피섹역",
+      "star": 3,
+      "blurb": "평점 7.7 · 리뷰 2,681건. 라차다피섹역 도보 2분, ₩ · 약 2만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 2,681건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 예외적이며 가격은 타의 추종을 불허합니다.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "나는 내가 지불한 돈에 비해 매우 좋은 가치를 지닌 방을 얻었습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "하지만 9층의 마사지 살롱은 훌륭합니다.",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "숙소에 머무르는 것은 좋은 경험이었습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "팔레트 더 트래블러스 방콕에서 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Morocco",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "이비스 방콕 수쿰빗 24 (Ibis Bangkok Sukhumvit 24)",
+      "agodaUrl": "https://www.agoda.com/ibis-bangkok-sukhumvit-24/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10247530/0/1dd1028ae6c0c265f00cedee4f1e1478.jpg?ce=3",
+      "score": 8.7,
+      "reviewCount": 17520,
+      "reviewCountFmt": "17,520건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 2,
+      "refLabel": "프롬퐁역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 17,520건. 프롬퐁역 도보 2분, ₩₩ · 약 10만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 17,520건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 꽤 넓고 깨끗했고, 직원들도 친절했습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원들은 내 요청에 정말로 매우 협조적이었습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "BTS역과의 좋은 위치, 깨끗한 객실과 시설",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 Ibis에서의 숙박은 모든 면에서 훌륭했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "집에 있는 듯한 느낌을 주는 사려 깊은 손길이었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "아바니 라차다 방콕 호텔 (Avani Ratchada Bangkok Hotel)",
+      "agodaUrl": "https://www.agoda.com/avani-ratchada-bangkok-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/60550673/0/ed8478540bcfd84c4ef9555da85c93cb.jpeg?ce=3",
+      "score": 8.7,
+      "reviewCount": 13231,
+      "reviewCountFmt": "13,231건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 1,
+      "refLabel": "프라람9역",
+      "star": 5,
+      "blurb": "평점 8.7 · 리뷰 13,231건. 프라람9역 도보 1분, ₩₩ · 약 12만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 13,231건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "비즈니스 여행은 물론 관광객에게도 완벽한 장소입니다.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "방해금지 버튼을 누르면 아무도 괴롭히지 않고,",
+          "score": "10",
+          "country": "Bulgaria",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "깜짝 😮 객실 업그레이드로 원활하게 체크인했습니다.",
+          "score": "10",
+          "country": "뉴질랜드",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "방콕을 방문할 때마다 이곳은 나의 단골 집이 되었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "조드 페어 마켓(Jodd Fair Market)은 도로 바로 옆에 있고 근처에 대형 7e가 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-12T21:38:20.813Z",
+    "source": "agoda citySearch",
+    "daysAhead": 34,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

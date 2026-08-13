@@ -1,0 +1,568 @@
+{
+  "slug": "family-danang-2026-09",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "다낭",
+  "citySlug": "danang",
+  "cityId": 16440,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16440",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[가족여행] 다낭 - 아이도 부모도 만족한 가족 호텔",
+  "metaDescription": "다낭 가족여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 43%로 가족여행 기준 1순위는 <b>오션 빌라 다낭</b>입니다 (평점 9.3·리뷰 1,657건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/31330595/0/816ae18a266e6fff660a9ff735109cea.jpg?ce=3",
+  "heroAlt": "다낭 가족여행",
+  "updated": "2026-08-13",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "오션 빌라 다낭 (Ocean Villas Da Nang)",
+      "agodaUrl": "https://www.agoda.com/the-ocean-villas-da-nang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31330595/0/816ae18a266e6fff660a9ff735109cea.jpg?ce=3",
+      "score": 9.3,
+      "reviewCount": 1657,
+      "reviewCountFmt": "1,657건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 2,
+      "refLabel": "논 누옥 비치",
+      "star": 5,
+      "blurb": "평점 9.3 · 리뷰 1,657건. 논 누옥 비치 도보 2분, ₩₩ · 가격 변동. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 1,657건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 호텔을 진정으로 차별화하는 것은 탁월한 서비스입니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "그들은 내 숙박이 완벽하도록 최선을 다했습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "저희는 디럭스 풀뷰에 묵었는데 여기가 정말 마음에 들었어요.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "특히 빈스 매니저님을 칭찬하고 싶습니다.",
+          "score": "10",
+          "country": "Hồng Kông",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 매일 청소되었고 침대도 정돈되었습니다.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "만딜라 비치 호텔 다낭 (Mandila Beach Hotel DaNang)",
+      "agodaUrl": "https://www.agoda.com/mandila-beach-hotel-danang/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2225433/-1/5eabe95592ed694262b7ee80225264fd.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 10188,
+      "reviewCountFmt": "10,188건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 48,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 10,188건. 다낭역 도보 48분, ₩ · 약 7만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 10,188건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "특히 하나는 내가 만난 최고의 게스트 관계였습니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.09",
+          "translated": true
+        },
+        {
+          "text": "메리어트나 미국 소유의 호텔보다 훨씬 낫습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "수영장에서는 밤에 해변과 해변 클럽의 멋진 전망을 감상할 수 있었습니다.",
+          "score": "10",
+          "country": "Brunei Darussalam",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "결론적으로 다시 올 의향이 있는 최고의 호텔입니다",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "오션뷰 스위트룸에 묵었는데 방에 흠잡을 데가 없었습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "윙크 호텔 다낭 센터, 언스크립티드 바이 하얏트 (Wink Danang Centre, Unscripted by Hyatt - 24 hours stay)",
+      "agodaUrl": "https://www.agoda.com/wink-hotel-danang-centre/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/83513336/0/55055ea906ab34d77a3f3812c40aa920.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 10909,
+      "reviewCountFmt": "10,909건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 21,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 10,909건. 다낭역 도보 21분, ₩ · 약 6만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 10,909건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치가 매우 좋고 24시간 체크아웃 정책도 좋습니다.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "구내에 세탁 시설도 있으며 매우 현대적입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "나는 Wink 위치와 OMG를 모두 시도했는데 그것이 얼마나 놀라운지.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "호텔은 훌륭하고 직원들은 매우 친절하고 협조적입니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": true
+        },
+        {
+          "text": "호텔은 우리가 갔던 모든 목적지와 가깝습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "사티아 다낭 호텔 한 마켓 (Satya Da Nang Hotel Han Market)",
+      "agodaUrl": "https://www.agoda.com/satya-da-nang-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3606056/-1/b6712d011f11d13b9ccecfa4262daca9.jpg?ca=0&ce=1",
+      "score": 8.7,
+      "reviewCount": 11463,
+      "reviewCountFmt": "11,463건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 21,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 11,463건. 다낭역 도보 21분, ₩ · 약 7만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 11,463건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "하지만 호텔의 첫인상은 좋았습니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.08",
+          "translated": true
+        },
+        {
+          "text": "다시 다낭에 온다면 이 호텔을 선택할 것입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 매력적이며 전용 작업 공간이 마련되어 있습니다.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "방은 용 다리가 내려다보이는 발코니가 있어서 좋았습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 프라이버시를 위해 별도의 화장실과 샤워실을 갖추고 있습니다.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "에어포트 홈스테이 2 (Airport Homestay 2)",
+      "agodaUrl": "https://www.agoda.com/airport-homestay-2/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/86626517/0/8e6446f5a2f10063b02073d6932a2ab8.jpg?ce=3",
+      "score": 8.8,
+      "reviewCount": 46,
+      "reviewCountFmt": "46건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 25,
+      "refLabel": "다낭역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 46건. 다낭역 도보 25분, ₩ · 약 1만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 46건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 흠잡을 데 없이 깨끗했고 매우 조용했습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "공항 근처의 아주 좋은 곳",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "편리하고 도움이 되는 호스트",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 발견",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "좋은 곳",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "무엉탄 그랜드 다낭 호텔 (Muong Thanh Grand Da Nang Hotel)",
+      "agodaUrl": "https://www.agoda.com/muong-thanh-grand-da-nang-hotel/hotel/da-nang-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/502/502099/502099_14060516240019719334.jpg?ca=2&ce=1",
+      "score": 8,
+      "reviewCount": 6007,
+      "reviewCountFmt": "6,007건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 33,
+      "refLabel": "다낭역",
+      "star": 4,
+      "blurb": "평점 8 · 리뷰 6,007건. 다낭역 도보 33분, ₩ · 약 4만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 6,007건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "프리미엄 호텔을 찾아 프리미엄 스테이를 받았습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 가격 대비 뛰어난 가치를 자랑합니다.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "드래곤 브릿지를 볼 수 있고, 야시장에 접근할 수 있습니다.",
+          "score": "8",
+          "country": "Vietnam",
+          "date": "2023.06",
+          "translated": true
+        },
+        {
+          "text": "호텔의 위치와 시설은 훌륭했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "친절함, 청결함, 편안함이 최고였습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-13T21:38:06.273Z",
+    "source": "agoda citySearch",
+    "daysAhead": 33,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

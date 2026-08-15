@@ -1,0 +1,461 @@
+{
+  "slug": "solo-singapore-2026-09",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "싱가포르",
+  "citySlug": "singapore",
+  "cityId": 4064,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4064",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[혼자여행] 싱가포르 - 치안·위치 좋은 1인 가성비 호텔",
+  "metaDescription": "싱가포르 혼자여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>캡슐@하이브 부기스</b>입니다 (평점 8.8·리뷰 5,244건·1박 약 3만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/5486265/0/05e50420762513b7654351dc5d6a98fb.jpeg?ce=2",
+  "heroAlt": "싱가포르 혼자여행",
+  "updated": "2026-08-15",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "캡슐@하이브 부기스 (Capsule@Hive Bugis)",
+      "agodaUrl": "https://www.agoda.com/bond-boutique-capsule-hotel/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5486265/0/05e50420762513b7654351dc5d6a98fb.jpeg?ce=2",
+      "score": 8.8,
+      "reviewCount": 5244,
+      "reviewCountFmt": "5,244건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 5,
+      "refLabel": "MRT 부기스역",
+      "star": 2,
+      "blurb": "평점 8.8 · 리뷰 5,244건. MRT 부기스역 도보 5분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 5,244건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "1인 여행자에게 전반적으로 좋은 장소이며 비용 대비 가치가 높습니다.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "이 가격에? 위치 그 이상의 가치가 있습니다. 저를 믿으세요.",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "비용을 지불하려면 위치에 대한 비용을 지불하십시오.",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "이곳을 정말 좋아하고 위치는 매우 전략적입니다.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "청결함, 편안함, 안전이 보장됩니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "킨 캡슐: HER 스페이스 (여성 전용) (KINN Capsule: HER Space (Female Only))",
+      "agodaUrl": "https://www.agoda.com/kinn/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28877161/0/4b7697c529af0bf4f868f9f426d14a72.jpeg?ce=2",
+      "score": 8.9,
+      "reviewCount": 3171,
+      "reviewCountFmt": "3,171건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "MRT 클락키역",
+      "star": 2,
+      "blurb": "평점 8.9 · 리뷰 3,171건. MRT 클락키역 도보 3분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 3,171건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "다음 여행에도 꼭 다시 이곳에 묵고 싶습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "위치는 10/10이며 근처에 좋은 음식과 레스토랑이 많습니다.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 정말 훌륭합니다. mrt 정류장이 한 곳도 아니고 두 곳과 매우 가깝습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "단기 체류를 위한 개인 여행자에게 훌륭한 숙소입니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "아마도 싱가포르 최고의 캡슐 호텔일 것입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "더 팟 앳 비치 로드 부티크 캡슐 호텔 (The Pod @ Beach Road Boutique Capsule Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-pod-beach-road-boutique-capsule-hotel/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/479243/0/6f1c609a5688d255a6066d71414c3de2.jpeg?ce=2",
+      "score": 8.6,
+      "reviewCount": 9680,
+      "reviewCountFmt": "9,680건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 4,
+      "refLabel": "MRT 니콜하이웨이역",
+      "star": 2,
+      "blurb": "평점 8.6 · 리뷰 9,680건. MRT 니콜하이웨이역 도보 4분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 9,680건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "휴게실도 매우 넓고 깨끗하며 편안합니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "제가 묵었던 스위트룸은 깨끗하고 프라이빗했습니다.",
+          "score": "9.6",
+          "country": "Brunei Darussalam",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗한 직원은 친절하고 항상 이곳에서 놀라운 숙박을 제공합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "무료 커피가 제공되며, 내부에 자판기가 있습니다.",
+          "score": "8.8",
+          "country": "Taiwan",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "방은 환상적이었고 욕실은 흠잡을 데 없이 깨끗했습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "개더 하우스 온 65 사우스 브리지 로드 (Gather House on 65 South Bridge Road)",
+      "agodaUrl": "https://www.agoda.com/gather-house-on-65-south-bridge-road/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87793189/0/78e401b1eeb57e777dc676f0a417326f.jpeg?ce=3",
+      "score": 8.7,
+      "reviewCount": 78,
+      "reviewCountFmt": "78건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 3,
+      "refLabel": "MRT 클락키역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 78건. MRT 클락키역 도보 3분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 78건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치는 훌륭하며 MRT에서 도보로 가까운 거리에 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 조용하며 친절한 직원, 5성급 호텔에 지지 않습니다😁",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "위치는 모든 주요 명소까지 완벽하게 걸어갈 수 있었습니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "모든 시설, 객실, 화장실, 샤워실이 정말 깨끗했습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "침대는 매우 편안하고 분위기와 디자인이 마음에 들었습니다.",
+          "score": "10",
+          "country": "Lithuania",
+          "date": "2026.08",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "윙크 앳 페락 로드 (Wink @ Perak Road)",
+      "agodaUrl": "https://www.agoda.com/wink-at-perak-road/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/68555292/0/c34c2dad56418c3ed31a1a03255688c5.jpeg?ce=3",
+      "score": 8.6,
+      "reviewCount": 314,
+      "reviewCountFmt": "314건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 1,
+      "refLabel": "Rochor MRT Station",
+      "star": 2,
+      "blurb": "평점 8.6 · 리뷰 314건. Rochor MRT Station 도보 1분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 314건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원들은 친절했고 머무는 내내 도움이 되었습니다.",
+          "score": "8.8",
+          "country": "Bangladesh",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "직원들은 친절하고 매일 방을 항상 청소해 줍니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "저렴한 가격에 아주 깨끗하고 고급스럽습니다. 좋은 아침 식사 🥪",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "매우 좋았고 모든 것이 정돈되어 있고 제자리에 있습니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "나중에 싱가포르를 방문하면 다시 여기에 머물고 싶습니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "로얄 로지 @ 파고다 스트리트 (Royal Lodge @ Pagoda Street)",
+      "agodaUrl": "https://www.agoda.com/royal-lodge-pagoda-street/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1139508/0/04ff2cfda6d42f2d1f9239ac97d6d8a3.jpeg?ce=3",
+      "score": 8.1,
+      "reviewCount": 1032,
+      "reviewCountFmt": "1,032건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 2,
+      "refLabel": "MRT 차이나타운역",
+      "star": 2,
+      "blurb": "평점 8.1 · 리뷰 1,032건. MRT 차이나타운역 도보 2분, ₩ · 약 2만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 1,032건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 깨끗하고 편안하며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "매우 도움이 되는 직원, 좋은 위치, 매우 깨끗한 숙소",
+          "score": "8",
+          "country": "Việt Nam",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "이 호스텔에 머무는 것은 정말 멋진 경험이었습니다!",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "나는 그 장소의 청결함에 매우 감동했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "위치는 차이나타운 MRT와 정말 가까워서 최고입니다.",
+          "score": "9.2",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-15T21:14:57.205Z",
+    "source": "agoda citySearch",
+    "daysAhead": 31,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

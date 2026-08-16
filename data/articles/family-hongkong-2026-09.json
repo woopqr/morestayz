@@ -1,0 +1,528 @@
+{
+  "slug": "family-hongkong-2026-09",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "홍콩",
+  "citySlug": "hongkong",
+  "cityId": 16808,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16808",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[가족여행] 홍콩 - 아이도 부모도 만족한 가족 호텔",
+  "metaDescription": "홍콩 가족여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 70%로 가족여행 기준 1순위는 <b>코디스, 홍콩</b>입니다 (평점 8.9·리뷰 25,539건·1박 약 29만원). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 21,
+        "pct": 70
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/48636/-1/248ee36ecd9218931bf39f65283e84a1.jpg?ca=0&ce=1",
+  "heroAlt": "홍콩 가족여행",
+  "updated": "2026-08-16",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "코디스, 홍콩 (Cordis, Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/cordis-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48636/-1/248ee36ecd9218931bf39f65283e84a1.jpg?ca=0&ce=1",
+      "score": 8.9,
+      "reviewCount": 25539,
+      "reviewCountFmt": "25,539건",
+      "priceText": "₩₩₩ · 약 29만원",
+      "walkMin": 3,
+      "refLabel": "MTR 몽콕역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 25,539건. MTR 몽콕역 도보 3분, ₩₩₩ · 약 29만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 25,539건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Mong Kok 및 TST 지역에서 좋은 옵션으로 추천합니다.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "또 다른 직원인 Ms May도 와서 혼란을 정리했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "홍콩 구룡에 있는 이 호텔을 이용하면 잘못될 일이 없을 것이라고 믿으세요.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "따뜻한 물 수영장과 작은 물 욕조가 마음에 드실 겁니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "바로 옆에 쇼핑몰이 있어 위치가 환상적이었습니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "디즈니스 할리우드 호텔 (Disney's Hollywood Hotel)",
+      "agodaUrl": "https://www.agoda.com/disney-s-hollywood-hotel_2/hotel/all/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/78045872/0/d69c25d68a0ef87fa02095532d1ed4d8.jpeg?ce=2",
+      "score": 9,
+      "reviewCount": 17992,
+      "reviewCountFmt": "17,992건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "walkMin": 5,
+      "refLabel": "幻想世界 Fantasyland",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 17,992건. 幻想世界 Fantasyland 도보 5분, ₩₩₩ · 약 23만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 17,992건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "친절한 직원, 훌륭한 아침 식사, 넓은 객실과 수영장.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "휴가 분위기를 더해주는 아름다운 시설.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 제가 머물렀던 다른 모든 호텔보다 뛰어납니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 이곳을 좋아해요! 그럼 디즈니랜드! 모두가 수용하고 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "디즈니 헐리우드 호텔에서의 숙박은 그야말로 마법과도 같습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "디즈니 익스플로러스 로지 (Disney Explorers Lodge)",
+      "agodaUrl": "https://www.agoda.com/disney-explorers-lodge_2/hotel/all/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/2078870/0/bb145ac14dd10874b94f793ee6016270.jpeg",
+      "score": 9,
+      "reviewCount": 29208,
+      "reviewCountFmt": "29,208건",
+      "priceText": "₩₩₩ · 약 28만원",
+      "walkMin": 7,
+      "refLabel": "幻想世界 Fantasyland",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 29,208건. 幻想世界 Fantasyland 도보 7분, ₩₩₩ · 약 28만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 28만원",
+        "📝 리뷰 29,208건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 모든 시설이 넓고 직원이 너무 좋습니다.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "객실은 우리 가족이 머물기에 충분히 넓고 완벽합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "디즈니랜드까지 셔틀버스가 있어서 너무 편리했어요.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "디즈니 호텔은 언제나 나에게 최고의 가족 호텔이다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "디즈니랜드에 있는 이 호텔, 디즈니 탐험가가 우리의 하루를 구해주었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "더 솔즈베리 - YMCA 오브 홍콩 (The Salisbury - YMCA of Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/the-salisbury-ymca-of-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2067/-1/7f3e57c1938d5d2220698890838f2602.jpg?ca=18&ce=1",
+      "score": 8.7,
+      "reviewCount": 22554,
+      "reviewCountFmt": "22,554건",
+      "priceText": "₩₩ · 약 20만원",
+      "walkMin": 4,
+      "refLabel": "East Tsim Sha Tsui MTR Station",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 22,554건. East Tsim Sha Tsui MTR Station 도보 4분, ₩₩ · 약 20만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 22,554건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "확실히 처음 관광객이 머물기에 가장 좋은 곳입니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "내 방은 깨끗하고 깔끔하며 필요한 모든 것을 갖추고 있습니다.",
+          "score": "9.2",
+          "country": "Sverige",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "방은 깨끗하고 편안하며 현대적이며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "솔즈베리 YMCA는 마음으로 프리미엄 경험을 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "전망 너머로, 방 자체가 우리의 기대를 뛰어넘었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "더 오토 호텔 (The OTTO Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-otto-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4915153/-1/253464b42a435ac869dc5091ae96d7e8.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 8769,
+      "reviewCountFmt": "8,769건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 1,
+      "refLabel": "MTR 침사추이역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 8,769건. MTR 침사추이역 도보 1분, ₩₩ · 약 13만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 8,769건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 깨끗하고 현대적이며 위치가 이상적입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "7/11 주변에는 쇼핑 매장, 편의점 등이 있습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "방 자체는 두 명이 지내기에 넓고 편안했습니다.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "기차역 바로 앞에 Tony의 훌륭한 서비스가 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.05",
+          "translated": true
+        },
+        {
+          "text": "우리 가족은 매우 편안하고 편리하며 깨끗하다고 ​​느꼈습니다.",
+          "score": "10",
+          "country": "Vietnam",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "로얄 플라자 호텔 (Royal Plaza Hotel)",
+      "agodaUrl": "https://www.agoda.com/royal-plaza-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/199/-1/5053587cdba1f2013a8fa5c6c6eb428c.jpg?ca=25&ce=0",
+      "score": 8.7,
+      "reviewCount": 71546,
+      "reviewCountFmt": "71,546건",
+      "priceText": "₩₩ · 약 17만원",
+      "walkMin": 2,
+      "refLabel": "MTR 몽콕이스트역",
+      "star": 5,
+      "blurb": "평점 8.7 · 리뷰 71,546건. MTR 몽콕이스트역 도보 2분, ₩₩ · 약 17만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 71,546건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "홍콩을 다시 방문할 때 최고의 선택이 될 것입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "이 호텔은 제가 홍콩에서 머물렀던 최고의 호텔 중 하나입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "우리 방은 넓고 깨끗했으며 편안한 침구도 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "방은 우리가 머물기에 충분히 깨끗하고 넓었습니다.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 위치와 객실 및 직원",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-16T21:14:06.017Z",
+    "source": "agoda citySearch",
+    "daysAhead": 30,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

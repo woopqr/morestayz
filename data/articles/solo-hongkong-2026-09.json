@@ -1,0 +1,508 @@
+{
+  "slug": "solo-hongkong-2026-09",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "홍콩",
+  "citySlug": "hongkong",
+  "cityId": 16808,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16808",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[혼자여행] 홍콩 - 치안·위치 좋은 1인 가성비 호텔",
+  "metaDescription": "홍콩 혼자여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 77%로 혼자여행 기준 1순위는 <b>하이 백패커스</b>입니다 (평점 8.9·리뷰 1,186건·1박 약 3만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/647904205.jpg?k=93b2a4ff5d2fde38f83b502b50cd44702f59ec31826a20e3071ef32d63c2c161&o=",
+  "heroAlt": "홍콩 혼자여행",
+  "updated": "2026-08-17",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "하이 백패커스 (홍콩 호스텔 그룹) (Hi Backpackers (Hong Kong Hostel Group))",
+      "agodaUrl": "https://www.agoda.com/hi-backpackers-hong-kong-hostel-group/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/647904205.jpg?k=93b2a4ff5d2fde38f83b502b50cd44702f59ec31826a20e3071ef32d63c2c161&o=",
+      "score": 8.9,
+      "reviewCount": 1186,
+      "reviewCountFmt": "1,186건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 1,
+      "refLabel": "百德新街 Paterson Street",
+      "star": 1,
+      "blurb": "평점 8.9 · 리뷰 1,186건. 百德新街 Paterson Street 도보 1분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,186건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "침대도 아늑했고 전체적인 분위기도 평화로웠어요.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "방도 크고 깨끗하고 특히 화장실이 넓습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "장소는 깨끗하고 깔끔하며 매우 편안했습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 Hi Backpackers에서의 숙박은 정말 완벽했습니다.",
+          "score": "9.6",
+          "country": "中国",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "직원들은 내가 환영받는다고 느낄 수 있도록 최선을 다했습니다.",
+          "score": "8.8",
+          "country": "中国",
+          "date": "2026.02",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "YHA 메이 호 하우스 유스 호스텔 (샴 수이 포) (YHA Mei Ho House Youth Hostel (Sham Shui Po))",
+      "agodaUrl": "https://www.agoda.com/yha-mei-ho-house-youth-hostel-sham-shui-po/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/137119382.jpg?k=086fe3962538c3a3715e96fcc40eaee1375674bebaeec36d2649b1428d092118&o=",
+      "score": 8.4,
+      "reviewCount": 19289,
+      "reviewCountFmt": "19,289건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 5,
+      "refLabel": "MTR 삼수이포역",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 19,289건. MTR 삼수이포역 도보 5분, ₩ · 약 3만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 19,289건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "환경도 좋고 깨끗하고 서비스도 좋습니다.",
+          "score": "10",
+          "country": "中国",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 홍콩의 평균 객실보다 넓습니다.",
+          "score": "9.6",
+          "country": "Sweden",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "쾌적하고 편리한 숙박을 위해 적극 추천합니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "홍콩에 다시 오면 다시 올거에요",
+          "score": "8.4",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "매우 비싼 홍콩에 있는 좋은 가격의 훌륭한 호텔",
+          "score": "8.4",
+          "country": "Russia",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "레갈라 스카이시티 호텔 바이 리갈 호텔스 (Regala Skycity Hotel by Regal Hotels)",
+      "agodaUrl": "https://www.agoda.com/regala-skycity-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32199969/0/0e66361f69245c9d8d9dce8cd89f2381.jpeg?ce=2",
+      "score": 8.4,
+      "reviewCount": 32495,
+      "reviewCountFmt": "32,495건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 6,
+      "refLabel": "海天客運碼頭 SkyPier",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 32,495건. 海天客運碼頭 SkyPier 도보 6분, ₩₩ · 약 19만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 32,495건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 저는 이 호텔에 매우 감동받았고 만족했습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "저렴한 가격으로 럭셔리하게 지내는 것은 상상도 하지 못했습니다.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "홍콩에 다시 가면 꼭 다시 묵을 거예요 🫶",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 편안하며 잘 관리되어 있었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "집으로 돌아가기 전에 하룻밤 머물기에 좋은 곳입니다.",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "우디 하우스 (Woody House )",
+      "agodaUrl": "https://www.agoda.com/china-rich-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36820409/-1/66f9e8841b7bc7659b358feaf452443c.jpg?ce=0",
+      "score": 8.4,
+      "reviewCount": 3593,
+      "reviewCountFmt": "3,593건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 4,
+      "refLabel": "柯布連道 O'Brien Road",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 3,593건. 柯布連道 O'Brien Road 도보 4분, ₩ · 약 7만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,593건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "객실은 깨끗하고 호텔은 안전하며 직원들은 친절하고 세심합니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "Woodys House 숙박을 강력히 추천합니다.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "가격, 위치, 가치 측면에서 이길 수 없습니다.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "홍콩에 여러 번 가본 적이 있으며 이것은 최고의 숙박 중 하나입니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "위치가 훌륭하고 지하철이나 트램에 쉽게 접근할 수 있습니다.",
+          "score": "8",
+          "country": "Japan",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "더 엠퍼러 호텔 (The Emperor Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-emperor-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2911740/-1/00f00015c611980ecbb6fdcf71d566af.jpg?ca=7&ce=1",
+      "score": 8.2,
+      "reviewCount": 17029,
+      "reviewCountFmt": "17,029건",
+      "priceText": "₩₩₩ · 약 20만원",
+      "walkMin": 2,
+      "refLabel": "皇后大道東 Queen's Road East",
+      "star": 4.5,
+      "blurb": "평점 8.2 · 리뷰 17,029건. 皇后大道東 Queen's Road East 도보 2분, ₩₩₩ · 약 20만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 17,029건",
+        "⭐ 4.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "시설도 훌륭하고 방도 깨끗하고 사랑스러웠습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "위치와 몇 가지 편의시설에 비해 가격이 매우 좋았습니다.",
+          "score": "8",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "방의 모든 세부 사항은 편안함을 느끼게합니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "방이 얼마나 깨끗하고 잘 관리되어 있는지 정말 감사했습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "나는 강력한 샤워를 좋아하고 침대도 매우 편안합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "미니 센트럴 (Mini Central)",
+      "agodaUrl": "https://www.agoda.com/mini-hotel-central/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/296139/0/ab6574121e47f3a79a7db8bf5f726f8d.jpeg?ce=2",
+      "score": 7.1,
+      "reviewCount": 21906,
+      "reviewCountFmt": "21,906건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 2,
+      "refLabel": "畢打街 Pedder Street",
+      "star": 3,
+      "blurb": "평점 7.1 · 리뷰 21,906건. 畢打街 Pedder Street 도보 2분, ₩ · 약 7만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 21,906건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "하지만 홍콩 센트럴의 완벽한 위치에 있습니다.",
+          "score": "7.2",
+          "country": "Deutschland",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "+최고의 가격-품질 균형, 이곳에 다시 머물고 싶습니다)",
+          "score": "9.2",
+          "country": "Russia",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "센트럴 MTR까지 도보로 약 5~7분 거리이므로 위치가 좋습니다.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 편안하며 Wi-Fi가 매우 좋습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 하우스 키핑 직원이 잘 관리했습니다.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-17T21:19:04.884Z",
+    "source": "agoda citySearch",
+    "daysAhead": 29,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

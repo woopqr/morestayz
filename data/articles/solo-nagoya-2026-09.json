@@ -1,0 +1,487 @@
+{
+  "slug": "solo-nagoya-2026-09",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "나고야",
+  "citySlug": "nagoya",
+  "cityId": 13740,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=13740",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[혼자여행] 나고야 - 치안·위치 좋은 1인 가성비 호텔",
+  "metaDescription": "나고야 혼자여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 93%로 혼자여행 기준 1순위는 <b>9h 나인아워즈 나고야 스테이션</b>입니다 (평점 8.5·리뷰 14,168건·1박 약 5만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 28,
+        "pct": 93
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/9775301/-1/0bcaf9c98a2313ea15278bf3d164116c.jpg?ca=10&ce=1",
+  "heroAlt": "나고야 혼자여행",
+  "updated": "2026-08-18",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "9h 나인아워즈 나고야 스테이션 (9h nine hours Nagoya station)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-nagoya-station/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9775301/-1/0bcaf9c98a2313ea15278bf3d164116c.jpg?ca=10&ce=1",
+      "score": 8.5,
+      "reviewCount": 14168,
+      "reviewCountFmt": "14,168건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 6,
+      "refLabel": "나고야역",
+      "star": 1.5,
+      "blurb": "평점 8.5 · 리뷰 14,168건. 나고야역 도보 6분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 14,168건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "잠옷, 수건, 헤어드라이어 등의 편의시설이 제공되었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 효율적이며 편리하며 직원들은 도움이 되고 친절합니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "시설은 깨끗하고 현대적이며 매우 효율적입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "나고야역에서 도보 10분정도로 매우 편리합니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "침구, 수건, 잠옷은 매일 교체되었습니다.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2023.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "2025 리뉴얼 오픈 - 안신 오야도 나고야 맨 / 우먼 사카에 스테이션 (2025 Renewal Open - Anshin Oyado Nagoya Man / Woman Sakae Station)",
+      "agodaUrl": "https://www.agoda.com/capsule-hotel-anshin-oyado-premium-nagoya-sakae/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10681746/0/e80aa9e01a2cf3f844c2b1ba778bd6f8.jpg?ce=3",
+      "score": 8.7,
+      "reviewCount": 4784,
+      "reviewCountFmt": "4,784건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 5,
+      "refLabel": "사카에역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 4,784건. 사카에역 도보 5분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 4,784건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "제가 정말 좋아했던 곳은 대중목욕탕/인공온천이었어요!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.08",
+          "translated": true
+        },
+        {
+          "text": "세차 세계처럼 조각된 목재, 깨끗한 객실을 좋아했습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "위치, 온천, 매우 저렴한 가격이 마음에 듭니다.",
+          "score": "8.4",
+          "country": "Japão",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "이 회사는 놀랍습니다. 최고의 캡슐을 찾을 수 있습니다",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 시설과 훌륭한 직원이 있는 훌륭한 위치.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "호스텔 와사비 나고야 에키마에 (Hostel Wasabi Nagoya Ekimae)",
+      "agodaUrl": "https://www.agoda.com/hostel-wasabi-nagoya-ekimae/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/937265/-1/383aaa497c3b9ea13a1fe2fc647f30c5.jpg?ca=7&ce=1",
+      "score": 8.3,
+      "reviewCount": 7449,
+      "reviewCountFmt": "7,449건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 3,
+      "refLabel": "Nagoya City Bus",
+      "star": 2.5,
+      "blurb": "평점 8.3 · 리뷰 7,449건. Nagoya City Bus 도보 3분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 7,449건",
+        "⭐ 2.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "매우 친절한 직원, 매우 좋은 위치, 무료 음료",
+          "score": "10",
+          "country": "中国",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "침대도 편안하고 시설도 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "침대는 휴식을 취하고 잠을 자기에 너무 편안합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        },
+        {
+          "text": "화장실과 샤워실 이용에는 문제가 없었습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "방은 매우 깨끗하고 가전제품도 잘 작동합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "R&B 호텔 나고야에키마에 (R&B Hotel Nagoyaekimae)",
+      "agodaUrl": "https://www.agoda.com/randbhotel-nagoyaekimae/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/16519027/-1/a2bac24f737486b87854ef482d392b4d.jpg?ce=0",
+      "score": 8.4,
+      "reviewCount": 7001,
+      "reviewCountFmt": "7,001건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 6,
+      "refLabel": "Kintetsu-Nagoya",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 7,001건. Kintetsu-Nagoya 도보 6분, ₩₩ · 약 13만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 7,001건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "푹 잘 수 있어서 가장 편안한 숙박을 했습니다.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 편안하며 잘 관리되어 있었습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "객실은 미니 냉장고와 TV를 갖추고 있어 깨끗합니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "매우 좋은 방, 매우 깨끗하고 매우 편안한 침대와 베개.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 사랑스러운 호텔이며 기꺼이 다시 거기에 머물고 싶습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Hotel Abc Nagoya Eki Shinkansenguchi",
+      "agodaUrl": "https://www.agoda.com/hotel-abc-h9776557/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/46431429/0/ded844782fcf0c57d3214f26538d1a67.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 4224,
+      "reviewCountFmt": "4,224건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 5,
+      "refLabel": "Nagoya City Bus",
+      "star": 1,
+      "blurb": "평점 9.3 · 리뷰 4,224건. Nagoya City Bus 도보 5분, ₩ · 약 7만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 4,224건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔도 조용하고 깨끗하고 직원들도 너무 친절했어요!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": true
+        },
+        {
+          "text": "잠을 자기에는 침대, 이불, 베개가 모두 편안합니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "나는 욕실과 무제한 편의 시설을 좋아했습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "큰 방은 아니지만 필요한 모든 것이 갖춰져 있었습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "친절하고 깨끗한 호텔! 넓고 나는 통나무처럼 잤습니다.",
+          "score": "9.6",
+          "country": "Netherlands",
+          "date": "2024.10",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "트립 앤 슬립 호스텔 (Trip & Sleep Hostel)",
+      "agodaUrl": "https://www.agoda.com/trip-sleep-hostel/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6271960/-1/ab327d94cf173957f66434153647358b.jpg?ca=7&ce=1",
+      "score": 9,
+      "reviewCount": 1855,
+      "reviewCountFmt": "1,855건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 4,
+      "refLabel": "가미마에즈역",
+      "star": 1,
+      "blurb": "평점 9 · 리뷰 1,855건. 가미마에즈역 도보 4분, ₩ · 약 4만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,855건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "위치도 좋고 룸컨디션도 좋고 직원들의 배려도 최고",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이곳은 잘 관리되어 있고 매우 깨끗하며 질서정연합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "위치, 직원, 가격, 시설 모든게 완벽합니다.",
+          "score": "10",
+          "country": "China",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 저는 이곳에 머무는 동안 정말 즐거운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "좋은 위치, 편안한 침대, 매우 깨끗한 숙소, 친절한 직원.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-18T21:17:47.239Z",
+    "source": "agoda citySearch",
+    "daysAhead": 28,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

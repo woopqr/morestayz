@@ -1,0 +1,549 @@
+{
+  "slug": "family-nagoya-2026-09",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "나고야",
+  "citySlug": "nagoya",
+  "cityId": 13740,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=13740",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[가족여행] 나고야 - 아이도 부모도 만족한 가족 호텔",
+  "metaDescription": "나고야 가족여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 53%로 가족여행 기준 1순위는 <b>스파 리조트 - 나고야 카사데라 호텔</b>입니다 (평점 8.1·리뷰 1,666건·1박 약 8만원). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 16,
+        "pct": 53
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/187074/-1/cb2279614ef5e0dd6f60f9d1d55b80ea.jpg?ce=0",
+  "heroAlt": "나고야 가족여행",
+  "updated": "2026-08-18",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "스파 리조트 - 나고야 카사데라 호텔 (SPA RESORT - Nagoya Kasadera Hotel)",
+      "agodaUrl": "https://www.agoda.com/nagoya-kasadera-washington-hotel-plaza_3/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/187074/-1/cb2279614ef5e0dd6f60f9d1d55b80ea.jpg?ce=0",
+      "score": 8.1,
+      "reviewCount": 1666,
+      "reviewCountFmt": "1,666건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": 4,
+      "refLabel": "가사데라역",
+      "star": 3,
+      "blurb": "평점 8.1 · 리뷰 1,666건. 가사데라역 도보 4분, ₩₩ · 약 8만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 1,666건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "직원분들도 친절하시고 방도 깨끗하고 어메니티도 좋았어요",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "호텔에서 조식을 먹을 기회를 놓치지 마세요!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "가족과 커플을 위한 완벽한 휴식과 휴양을 제공합니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "훌륭한 환대와 대중목욕탕을 갖춘 멋지고 아늑한 호텔",
+          "score": "7.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "근처에는 대형 수영장과 축구 경기장이 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더 로얄 파크 캔버스 나고야 (The Royal Park Canvas Nagoya)",
+      "agodaUrl": "https://www.agoda.com/the-royal-park-canvas-nagoya/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/568214/0/8c67d5a83f3393a8883fd9ecb977d247.jpeg",
+      "score": 8.6,
+      "reviewCount": 9728,
+      "reviewCountFmt": "9,728건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 3,
+      "refLabel": "고쿠사이센터역",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 9,728건. 고쿠사이센터역 도보 3분, ₩₩ · 약 11만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 9,728건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "유니몰 입구가 있어서 위치가 너무 좋아요.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "호텔에 스파가 있어서 호텔을 예약했어요.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "나고야를 방문하면 꼭 다시 묵을 예정입니다.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "나고야에 다시 오면 이 호텔을 다시 선택할 것입니다.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2023.09",
+          "translated": true
+        },
+        {
+          "text": "가격 대비 훌륭한 가치를 지닌 새롭고 매우 깨끗한 호텔",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.07",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "SONO 문 나고야 (SONO Moon Nagoya)",
+      "agodaUrl": "https://www.agoda.com/sono-moon-nagoya/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87178209/0/5c5e1d6ad03ecb9fdbfff717d2f5c5de.jpeg?ce=3",
+      "score": 8.3,
+      "reviewCount": 2728,
+      "reviewCountFmt": "2,728건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 4,
+      "refLabel": "고쿠사이센터역",
+      "star": 3,
+      "blurb": "평점 8.3 · 리뷰 2,728건. 고쿠사이센터역 도보 4분, ₩₩ · 약 11만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 2,728건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "시설이 매우 좋고 직원도 친절합니다. :)",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "접근성이 매우 좋고, 버스정류장이 바로 앞에 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 편리한 위치",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": true
+        },
+        {
+          "text": "어디든 매우 가깝습니다",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "좋은 직원",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "베이스 레이어 호텔 나고야 니시키 (BASE LAYER HOTEL NAGOYA NISHIKI)",
+      "agodaUrl": "https://www.agoda.com/base-layer-hotel-nagoya/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/64171597/0/0286acbd4ac841696ff07e4e2425ef5f.jpeg?ce=2",
+      "score": 8.7,
+      "reviewCount": 4000,
+      "reviewCountFmt": "4,000건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 3,
+      "refLabel": "마루노우치역",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 4,000건. 마루노우치역 도보 3분, ₩₩ · 약 9만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 4,000건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "개인 여행자로서 1박 동안 훌륭한 숙박을 했습니다.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "세탁을 포함한 시설은 최고 수준이었습니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "이 위치에서 시내를 쉽게 이동할 수 있습니다.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "샤워공간과 시설도 아이들이 이용하기 딱 좋았습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": true
+        },
+        {
+          "text": "침대는 완벽했습니다. 매우 아늑하고 편안했습니다.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "코코 호텔 나고야 사카에 (KOKO HOTEL Nagoya Sakae)",
+      "agodaUrl": "https://www.agoda.com/hotel-trusty-nagoya-sakae_2/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32323340/-1/517bd4cd1fe97d2b9dd032be61242541.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 7235,
+      "reviewCountFmt": "7,235건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 2,
+      "refLabel": "사카에역",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 7,235건. 사카에역 도보 2분, ₩₩ · 약 10만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 7,235건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "좋은 위치, 지하철에서 도보로 단 몇 분 거리.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "SAKAE 지역에 머무르는 것은 매우 전략적입니다",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "매일 깨끗한 수건, 슬리퍼, 잠옷을 제공합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "미라이 타워와 오아시스 21이 가까워서 좋았어요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "근처에 많은 레스토랑, 편의점, 바가 있습니다.",
+          "score": "8.4",
+          "country": "Japan",
+          "date": "2022.09",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "이비스 스타일 나고야 (ibis Styles Nagoya)",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-nagoya-h18759565/hotel/nagoya-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/18759565/0/29156662c064ba6c9d9add91ccc891b7.jpeg?ce=2",
+      "score": 8.4,
+      "reviewCount": 8878,
+      "reviewCountFmt": "8,878건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 4,
+      "refLabel": "고쿠사이센터역",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 8,878건. 고쿠사이센터역 도보 4분, ₩₩ · 약 12만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 8,878건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 그들과 함께 잤던 편안한 밤을 보냈습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "나고야역까지 도보 10분거리로 위치가 좋습니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "친절한 직원 이 호텔을 꼭 추천합니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 일본에서의 첫날과 마지막 날을 모두 이곳에서 묵었습니다.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.06",
+          "translated": true
+        },
+        {
+          "text": "신혼여행을 위해 이비스 스타일 나고야에서 즐거운 시간을 보냈습니다!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-18T21:16:55.389Z",
+    "source": "agoda citySearch",
+    "daysAhead": 28,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

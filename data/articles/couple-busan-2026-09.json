@@ -1,0 +1,522 @@
+{
+  "slug": "couple-busan-2026-09",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "부산",
+  "citySlug": "busan",
+  "cityId": 17172,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17172",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[연인여행] 부산 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "부산 연인여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 70%로 연인여행 기준 1순위는 <b>에어스카이 호텔</b>입니다 (평점 8.7·리뷰 5,073건·1박 약 10만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 21,
+        "pct": 70
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/654/6543659/6543659_19020410150071989650.jpg?ca=7&ce=1",
+  "heroAlt": "부산 연인여행",
+  "updated": "2026-08-19",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "에어스카이 호텔 (Airsky Hotel)",
+      "agodaUrl": "https://www.agoda.com/airsky-hotel/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/654/6543659/6543659_19020410150071989650.jpg?ca=7&ce=1",
+      "score": 8.7,
+      "reviewCount": 5073,
+      "reviewCountFmt": "5,073건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 1,
+      "refLabel": "서부산유통지구역",
+      "star": 3.5,
+      "blurb": "평점 8.7 · 리뷰 5,073건. 서부산유통지구역 도보 1분, ₩₩ · 약 10만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 5,073건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "모든 종류의 시설을 갖춘 객실 크기가 엄청납니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "디자인은 현대적이며 모든 것이 새롭고 매우 깨끗합니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "매우 깨끗하고 의사소통이 용이하며 버스를 정시에 환승합니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "호텔의 밝고 넓은 객실이 매우 인상적이었습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "방 자체는 훌륭했습니다! 편안한 침대, 매우 깨끗함.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "토요코 인 부산역 1 (Toyoko Inn Busan Station 1)",
+      "agodaUrl": "https://www.agoda.com/toyoko-inn-busan-station-1_8/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4576021/-1/541a573f49867bafa93fa5840b6c1e6c.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 11105,
+      "reviewCountFmt": "11,105건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 1,
+      "refLabel": "부산역",
+      "star": 2,
+      "blurb": "평점 8.9 · 리뷰 11,105건. 부산역 도보 1분, ₩ · 약 6만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 11,105건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "방은 환상적이고 잘 디자인되었으며 실용적입니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "욕실은 욕조가 있는 멋진 표준 일본식 욕실입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "(포함된) 아침 식사는 정말 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "우리 가족은 이 호텔을 좋아했고 누구에게나 추천하고 싶습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "1박당 약 30sgd의 가격대로 제공되는 넓은 객실입니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "신라스테이 부산 해운대 (Shilla Stay Busan Haeundae)",
+      "agodaUrl": "https://www.agoda.com/shilla-stay-haeundae/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1974844/0/f58cb931de14f268c94a883e7b4f10f9.jpg?ce=2",
+      "score": 8.7,
+      "reviewCount": 16988,
+      "reviewCountFmt": "16,988건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 5,
+      "refLabel": "해운대역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 16,988건. 해운대역 도보 5분, ₩₩ · 약 19만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 16,988건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "우리는 숙박을 너무 좋아해서 숙박을 연장하기로 결정했습니다.",
+          "score": "10",
+          "country": "호주",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "방은 넓고 흠 하나 없고 매우 편안했습니다.",
+          "score": "10",
+          "country": "호주",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "요리사는 훌륭한 일을 해냈습니다. 음식은 정말 훌륭했습니다.",
+          "score": "10",
+          "country": "호주",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "우리는 한국에 갈 때마다 항상 신라스테이로 돌아옵니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "교통도 매우 편리합니다.",
+          "score": "10",
+          "country": "호주",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "토요코 인 부산 해운대 2 (Toyoko Inn Busan Haeundae 2)",
+      "agodaUrl": "https://www.agoda.com/toyoko-inn-busan-haeundae-2_6/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/459/4592179/4592179_18022816210062450269.jpg?ca=6&ce=1",
+      "score": 8.8,
+      "reviewCount": 12903,
+      "reviewCountFmt": "12,903건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 6,
+      "refLabel": "해운대역",
+      "star": 2,
+      "blurb": "평점 8.8 · 리뷰 12,903건. 해운대역 도보 6분, ₩ · 약 6만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 12,903건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "이 지역을 방문하는 모든 사람에게 이 호텔을 적극 추천합니다!",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "전반적으로 토요코인 해운대 2는 가격 대비 훌륭한 가치를 제공합니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 깨끗하고 편안하며 잘 관리되어 있습니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "호텔 자체는 깨끗하고 거대하며 시설이 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "나는 정말 즐거운 시간을 보냈으며 꼭 다시 돌아올 것입니다.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "부산 커넥트 오션 호텔 (Busan CONNECT Ocean Hotel)",
+      "agodaUrl": "https://www.agoda.com/h35420065/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/35420065/-1/377e214ddbd81b3bd842d3c7b37b3624.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 6979,
+      "reviewCountFmt": "6,979건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 5,
+      "refLabel": "남포역",
+      "star": 3,
+      "blurb": "평점 8.5 · 리뷰 6,979건. 남포역 도보 5분, ₩ · 약 4만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 6,979건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "우리는 바다 전망이 보이는 방을 얻었는데, 전망이 정말 훌륭했습니다.",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2024.01",
+          "translated": true
+        },
+        {
+          "text": "위치가 완벽하고 부산을 쉽게 둘러볼 수 있습니다.",
+          "score": "8.4",
+          "country": "Ireland",
+          "date": "2024.06",
+          "translated": true
+        },
+        {
+          "text": "내가 호텔에서 쓴 최고의 가치 중 일부입니다",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.01",
+          "translated": true
+        },
+        {
+          "text": "호텔 방은 매우 깨끗하고 컸으며 매우 새 것처럼 보였습니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.04",
+          "translated": true
+        },
+        {
+          "text": "다음 방문 때 꼭 다시 이곳에 묵을 예정입니다!",
+          "score": "10",
+          "country": "Россия",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "아난티 앳 부산 코브 (Ananti at Busan Cove  )",
+      "agodaUrl": "https://www.agoda.com/hilton-busan_2/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2241492/-1/d754409589d56893b5a1ba2d990462a4.png?ca=0&ce=1",
+      "score": 8.8,
+      "reviewCount": 11317,
+      "reviewCountFmt": "11,317건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "walkMin": 22,
+      "refLabel": "오시리아역",
+      "star": 5,
+      "blurb": "평점 8.8 · 리뷰 11,317건. 오시리아역 도보 22분, ₩₩₩ · 약 23만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 11,317건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나는 바다를 바라보며 거대한 욕조에서 호화로운 시간을 보냈습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "작은 마을로 가는 길을 따라 걷는 것을 좋아했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "다음에 부산을 방문한다면 꼭 다시 머물고 싶습니다",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "욕실은 바다 전망이 훌륭했습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": true
+        },
+        {
+          "text": "원활하고 빠른 체크인 절차와 객실은 놀라웠습니다!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.09",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-19T21:19:28.002Z",
+    "source": "agoda citySearch",
+    "daysAhead": 27,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "slug": "kids-busan-2026-09",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "부산",
+  "citySlug": "busan",
+  "cityId": 17172,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17172",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[아이와함께] 부산 - 가족 물놀이하기 좋은 여름 호텔",
+  "metaDescription": "부산 아이와함께 호캉스, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 50%로 아이와함께 호캉스 기준 1순위는 <b>엘모멘토 사상 레지던스</b>입니다 (평점 8.8·리뷰 2,025건·1박 약 5만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 15,
+        "pct": 50
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/63063347/0/7a95b2bebd2895797af172186e15b3a6.jpg?ce=0",
+  "heroAlt": "부산 아이와함께 호캉스",
+  "updated": "2026-08-20",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "엘모멘토 사상 레지던스 (Elmomento Sasang  Residence)",
+      "agodaUrl": "https://www.agoda.com/elmomento-sasang/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63063347/0/7a95b2bebd2895797af172186e15b3a6.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 2025,
+      "reviewCountFmt": "2,025건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 2,
+      "refLabel": "사상역",
+      "star": 5,
+      "blurb": "평점 8.8 · 리뷰 2,025건. 사상역 도보 2분, ₩ · 약 5만원. 아이와함께 호캉스 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,025건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "여기있어! 그만한 가치가 있고 쉬기 좋은 곳입니다!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "침대는 너무 딱딱하지도 않고 너무 푹신하지도 않고 딱 좋아요.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "위치는 사상역에서 도보로 5분정도?",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": true
+        },
+        {
+          "text": "모든 것이 신선하고 깨끗하며 잘 관리되어 있는 것 같았습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
+        },
+        {
+          "text": "청결도, 위치, 서비스 모두 최고 수준이었습니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "파라다이스 호텔 부산 (Paradise Hotel Busan)",
+      "agodaUrl": "https://www.agoda.com/paradise-hotel-busan/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/654/65460/65460_17021507500051032269.jpg?ca=6&ce=1",
+      "score": 9,
+      "reviewCount": 13862,
+      "reviewCountFmt": "13,862건",
+      "priceText": "₩₩₩ · 약 34만원",
+      "walkMin": 9,
+      "refLabel": "해운대역",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 13,862건. 해운대역 도보 9분, ₩₩₩ · 약 34만원. 아이와함께 호캉스 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 13,862건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "호텔 직원은 친절하고 환영받는 느낌을 줍니다.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.08",
+          "translated": true
+        },
+        {
+          "text": "서비스와 전망이 훌륭하고 위치도 훌륭한 호텔입니다.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "객실은 넓고 깨끗하며 위치는 최고입니다.",
+          "score": "10",
+          "country": "Samoa",
+          "date": "2024.10",
+          "translated": true
+        },
+        {
+          "text": "호텔 편의 시설은 매우 높은 수준입니다.",
+          "score": "10",
+          "country": "ארצות הברית",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "어린이가 있는 가족이나 커플에게 적합합니다.",
+          "score": "10",
+          "country": "ארצות הברית",
+          "date": "2025.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "더 솔리드 레지던스 - 엘본 더 스테이 바이 해운대 (The solid residence - Elbon the stay by haeundae)",
+      "agodaUrl": "https://www.agoda.com/the-solid-elbonthestay/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/58638578/-1/0036ac2b27eff3fda1be71047897a377.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 3004,
+      "reviewCountFmt": "3,004건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 3,
+      "refLabel": "해운대역",
+      "star": 4,
+      "blurb": "평점 9.2 · 리뷰 3,004건. 해운대역 도보 3분, ₩ · 약 7만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 3,004건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "나중에 우리가 돌아올 때 당신과 함께 머물고 싶습니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "부산에서의 숙박을 편안하게 해주신 엘본님께 감사드립니다.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "호스트는 체크아웃 후 오후 6시까지 무료 짐 보관 서비스를 제공합니다!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗하고 편안한 숙박으로 탁월한 가치를 제공합니다.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "객실은 깨끗하고 시설이 잘 갖춰져 있으며 매력적입니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "엘모멘토 송도 레지던스 (Elmomento Songdo Residence)",
+      "agodaUrl": "https://www.agoda.com/elmomento-songdo-residencs/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59456426/0/6a554fe036a1478703672f07b0f17390.jpg?ce=2",
+      "score": 8.9,
+      "reviewCount": 5348,
+      "reviewCountFmt": "5,348건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 29,
+      "refLabel": "자갈치역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 5,348건. 자갈치역 도보 29분, ₩ · 약 6만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,348건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "아파트는 발코니와 전망이 정말 훌륭했습니다.",
+          "score": "9.6",
+          "country": "Corée du Sud",
+          "date": "2024.12",
+          "translated": true
+        },
+        {
+          "text": "아름다운 전망",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": true
+        },
+        {
+          "text": "낮과 밤 내내 발코니와 놀라운 전망이 마음에 들었습니다.",
+          "score": "8",
+          "country": "미국",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "숙소에서 멋진 전망을 감상할 수 있는 뛰어난 숙소입니다.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "이 아파트는 훌륭했고 위치도 환상적이었습니다.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "마리쏠 바이 해운대비치 (Marysol by Haeundae Beach)",
+      "agodaUrl": "https://www.agoda.com/marysol-by-haeundaebeach/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/56391618/0/491039a4ee705daca43e06c01366ced2.jpg?ce=2",
+      "score": 8.4,
+      "reviewCount": 3404,
+      "reviewCountFmt": "3,404건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": 5,
+      "refLabel": "해운대역",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 3,404건. 해운대역 도보 5분, ₩₩ · 약 8만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 3,404건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "해운대 해수욕장과 기타 액티비티가 가까이에 위치해 있습니다.",
+          "score": "8.8",
+          "country": "South Korea",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "객실은 바다 전망이고 완벽하며 위치와 모든 것이 마음에 들었습니다.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "다시 부산을 방문한다면 꼭 이곳에 다시 묵을 예정입니다.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2025.05",
+          "translated": true
+        },
+        {
+          "text": "이번 여행에서 가장 저렴하고 좋은 숙소였습니다.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "해운대 해수욕장 근처의 훌륭한 위치와 편안한 숙박",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": true
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "라라비안코 비즈니스 호텔 (Lala Vianco Business Hotel)",
+      "agodaUrl": "https://www.agoda.com/lala-vianco-hotel-h17185049/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/206/20615204/20615204_20121014060093591022.jpg?ca=16&ce=1",
+      "score": 8.8,
+      "reviewCount": 3371,
+      "reviewCountFmt": "3,371건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 5,
+      "refLabel": "서면역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 3,371건. 서면역 도보 5분, ₩ · 약 2만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 3,371건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전반적으로 지금까지 묵어본 호텔 중 단연 최고입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "부산에 다시 온다면 꼭 다시 이곳에 묵고 싶습니다.",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2023.04",
+          "translated": true
+        },
+        {
+          "text": "서비스, ​​편안함, 분위기 모두 완벽합니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": true
+        },
+        {
+          "text": "위치와 편안함에 있어서 가격을 이길 수 없습니다.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.01",
+          "translated": true
+        },
+        {
+          "text": "편리한 위치 - KTX 및 지하철역에서 도보로 5분 거리",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": true
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-20T21:21:27.775Z",
+    "source": "agoda citySearch",
+    "daysAhead": 26,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

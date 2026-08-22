@@ -17,6 +17,7 @@
   <url><loc>https://morestayz.com/page/12</loc><priority>0.5</priority></url>
   <url><loc>https://morestayz.com/page/13</loc><priority>0.5</priority></url>
   <url><loc>https://morestayz.com/page/14</loc><priority>0.5</priority></url>
+  <url><loc>https://morestayz.com/category/domestic</loc><priority>0.6</priority></url>
   <url><loc>https://morestayz.com/category/couple</loc><priority>0.6</priority></url>
   <url><loc>https://morestayz.com/category/couple/2</loc><priority>0.4</priority></url>
   <url><loc>https://morestayz.com/category/couple/3</loc><priority>0.4</priority></url>
@@ -37,6 +38,7 @@
   <url><loc>https://morestayz.com/articles/couple-chiangmai-2026-09</loc><lastmod>2026-08-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://morestayz.com/articles/friends-kaohsiung-2026-09</loc><lastmod>2026-08-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://morestayz.com/articles/solo-kaohsiung-2026-09</loc><lastmod>2026-08-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://morestayz.com/articles/ulleungdo-gianzhang</loc><lastmod>2026-08-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://morestayz.com/articles/couple-kaohsiung-2026-09</loc><lastmod>2026-08-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://morestayz.com/articles/family-kaohsiung-2026-09</loc><lastmod>2026-08-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://morestayz.com/articles/kids-kaohsiung-2026-09</loc><lastmod>2026-08-21</lastmod><priority>0.8</priority></url>

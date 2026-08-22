@@ -8,3 +8,4 @@ articles.json   merge=ours
 /articles/**    merge=ours
 /page/**        merge=ours
 /category/**    merge=ours
+/data/specials/*.hotels.json merge=ours

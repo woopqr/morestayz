@@ -47,6 +47,24 @@
   </section>
   {{/sections}}
 
+  {{#hasHotels}}
+  <section class="sp-sec">
+    <h2>{{hotelHeading}} ({{hotelCount}}곳)</h2>
+    <div class="sp-hotels">
+      {{#hotels}}
+      <a class="sphotel" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">
+        <div class="sph-thumb">{{#img}}<img src="{{img}}" alt="{{name}}" loading="lazy">{{/img}}</div>
+        <div class="sph-body">
+          <span class="sph-name">{{name}}</span>
+          <span class="sph-meta">★ {{score}} · {{reviewCountFmt}}{{#priceText}} · {{priceText}}{{/priceText}}</span>
+          <span class="sph-cta">아고다에서 보기 →</span>
+        </div>
+      </a>
+      {{/hotels}}
+    </div>
+  </section>
+  {{/hasHotels}}
+
   <section class="sp-sec">
     <h2>🏨 울릉도 권역별 숙소 (아고다 어필리에이트)</h2>
     <div class="sp-stays">

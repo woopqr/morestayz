@@ -223,3 +223,14 @@ h2{font-family:var(--serif);font-weight:800;font-size:1.3rem;letter-spacing:-.01
 .sp-faq .faq-item{border-top:1px solid var(--line);padding:16px 0}
 .sp-faq .faq-item h3{font-family:var(--serif);font-weight:800;font-size:1.05rem;color:var(--text);margin-bottom:6px}
 .sp-faq .faq-item p{font-size:.96rem;line-height:1.7;color:var(--muted)}
+
+/* 특별기획 실제 숙소 리스트 */
+.sp-hotels{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
+.sphotel{display:flex;gap:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);transition:transform .2s,box-shadow .2s;color:var(--text)}
+.sphotel:hover{transform:translateY(-3px);box-shadow:var(--shadow-h)}
+.sph-thumb{flex:0 0 94px;background:var(--chip)}
+.sph-thumb img{width:94px;height:100%;object-fit:cover}
+.sph-body{display:flex;flex-direction:column;gap:3px;padding:11px 13px}
+.sph-name{font-family:var(--serif);font-weight:800;font-size:.98rem;line-height:1.35}
+.sph-meta{font-size:.82rem;color:var(--muted)}
+.sph-cta{margin-top:3px;font-size:.82rem;font-weight:800;color:var(--accent-d)}

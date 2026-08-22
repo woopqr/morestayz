@@ -30,7 +30,7 @@ function specialCardImg(region) {
 }
 function specialMetas() {
   if (!fs.existsSync(SPECIALS)) return [];
-  return fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json')).map(f => {
+  return fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).map(f => {
     const d = JSON.parse(fs.readFileSync(path.join(SPECIALS, f), 'utf8'));
     return {
       slug: d.slug, theme: 'domestic', title: d.title,
@@ -207,8 +207,10 @@ function regenSitemap(metas, info) {
 
 function rebuildAll() {
   if (fs.existsSync(ART)) fs.readdirSync(ART).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
-  if (fs.existsSync(SPECIALS)) fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json')).forEach(f => buildSpecial(f.replace(/\.json$/, '')));
-  const metas = [...specialMetas(), ...articleMetas()].sort((a, b) => String(b.updated).localeCompare(String(a.updated)));
+  if (fs.existsSync(SPECIALS)) fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).forEach(f => buildSpecial(f.replace(/\.json$/, '')));
+  // 특별 기획(국내)은 홈 상단에 고정 노출(최신순), 그 아래 자동 큐레이션(최신순)
+  const specials = specialMetas().sort((a, b) => String(b.updated).localeCompare(String(a.updated)));
+  const metas = [...specials, ...articleMetas()];
   const info = regenAll(metas);
   regenSearchIndex(metas);
   regenSitemap(metas, info);

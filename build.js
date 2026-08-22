@@ -161,7 +161,8 @@ function buildOne(slug) {
 
 // ── 국내 특별 기획(에디토리얼) 렌더러 ──
 const AGODA_ULLEUNG = `https://www.agoda.com/ko-kr/city/ulleungdo-kr.html?cid=${agoda.CID}`;
-function buildSpecialContext(data) {
+function buildSpecialContext(data, hotels) {
+  hotels = hotels || [];
   const canonical = `https://${SITE.domain}/articles/${data.slug}`;
   const agodaUrl = data.agodaUrl || AGODA_ULLEUNG;
   const faqLd = (data.faq && data.faq.length) ? {
@@ -190,11 +191,18 @@ function buildSpecialContext(data) {
     nearbyFood: (data.nearby && data.nearby.food) || [],
     nearbyCafe: (data.nearby && data.nearby.cafe) || [],
     faq: data.faq || [],
+    hotels: hotels,
+    hasHotels: hotels.length > 0,
+    hotelCount: hotels.length,
+    hotelHeading: data.hotelHeading || '🏨 실제 숙소 (아고다)',
   };
 }
 function buildSpecial(fileSlug) {
   const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/specials', fileSlug + '.json'), 'utf8'));
-  const html = render(SPECIAL_TPL, [buildSpecialContext(data)]);
+  const sidecar = path.join(ROOT, 'data/specials', fileSlug + '.hotels.json');
+  let hotels = [];
+  if (fs.existsSync(sidecar)) { try { hotels = JSON.parse(fs.readFileSync(sidecar, 'utf8')).hotels || []; } catch (e) {} }
+  const html = render(SPECIAL_TPL, [buildSpecialContext(data, hotels)]);
   fs.mkdirSync(path.join(ROOT, 'articles'), { recursive: true });
   fs.writeFileSync(path.join(ROOT, 'articles', data.slug + '.html'), html);
   console.log('✓ articles/' + data.slug + '.html (특별기획: ' + (data.region || data.slug) + ')');

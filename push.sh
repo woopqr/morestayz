@@ -1,25 +1,26 @@
 #!/bin/bash
-# morestayz 안전 배포 — 충돌 없이 pull → 재빌드 → commit → push
+# morestayz 안전 배포 — 커밋 → pull(충돌 자동해결) → 재빌드 → push
 # 사용법:  bash push.sh "커밋 메시지"
-set -e
-cd "$(dirname "$0")"
+cd "$(dirname "$0")" || exit 1
+MSG="${1:-chore: update}"
 
-# 생성 파일 자동 병합 드라이버(최초 1회만 필요, 반복 실행 무해)
 git config merge.ours.driver true
 
-echo "▶ 최신 변경 가져오는 중(자동 발행 봇 포함)…"
-git pull --rebase
+echo "▶ 사이트 빌드…"
+node build-all.js || { echo "✗ 빌드 실패"; exit 1; }
 
-echo "▶ 사이트 재빌드…"
-node build-all.js
-
+echo "▶ 로컬 변경 커밋…"
 git add -A
-if git commit -m "${1:-chore: update}" ; then
-  echo "▶ 커밋 완료"
-else
-  echo "▶ 커밋할 변경 없음"
-fi
+git commit -m "$MSG" || echo "  (커밋할 변경 없음)"
+
+echo "▶ 최신 변경 가져오기(자동 발행 봇 포함)…"
+git pull --rebase || { echo "✗ pull 충돌 — 알려주세요"; exit 1; }
+
+echo "▶ 봇 변경 반영해 재빌드…"
+node build-all.js || { echo "✗ 재빌드 실패"; exit 1; }
+git add -A
+git commit -m "$MSG (rebuild)" || echo "  (추가 변경 없음)"
 
 echo "▶ 배포(push)…"
-git push
+git push || { echo "✗ push 실패"; exit 1; }
 echo "✓ 완료 — Cloudflare가 곧 재배포합니다."

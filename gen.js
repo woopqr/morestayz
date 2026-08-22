@@ -65,13 +65,26 @@ const shortName = s => String(s).split('(')[0].trim();
   const eligible = props.filter(h => h.name && h.score != null && h.agodaUrl && h.reviewCount >= MIN_REVIEWS);
   if (!eligible.length) throw new Error('조건을 만족하는 호텔이 없습니다.');
 
+  // 어메니티 필터: 테마가 특정 시설을 요구하면 실제 보유 숙소만 선정(부정확한 글 방지)
+  function featureMatch(h, req) {
+    if (req === 'pool') return !!h.hasKidsPool;
+    if (req === 'pet') return (h.featureTitles || []).some(t => /pet|반려|애견|강아지|dog|animal/i.test(String(t)));
+    return true;
+  }
+  let candidates = eligible;
+  if (theme.requireFeature) {
+    const matched = eligible.filter(h => featureMatch(h, theme.requireFeature));
+    if (matched.length < 3) throw new Error(`'${theme.requireFeature}' 보유 숙소 부족(${matched.length}곳) — 건너뜀`);
+    candidates = matched;
+  }
+
   // 테마 적합도(여행자 유형) + 가성비 결합 정렬. 유형 데이터 없으면 가성비로 폴백.
   const score = h => {
     const aff = md.affinityFor(theme.preferType, h.travelerTypes); // 0~100
     const val = (h.valueIndex || 0) * 8; // 0~80 가량
     return aff * 1.0 + val;
   };
-  const picked = eligible.sort((a, b) => score(b) - score(a)).slice(0, N).map((h, i) => ({ ...h, rank: i + 1 }));
+  const picked = candidates.sort((a, b) => score(b) - score(a)).slice(0, N).map((h, i) => ({ ...h, rank: i + 1 }));
 
   // 비한국어 리뷰 번역(무료 구글)
   let tr = 0;
@@ -114,6 +127,8 @@ const shortName = s => String(s).split('(')[0].trim();
     tags.push('📝 리뷰 ' + Number(h.reviewCount).toLocaleString('en-US') + '건');
     if (h.star) tags.push('⭐ ' + h.star + '성급');
     if (tt?.topLabel) tags.push('👥 ' + tt.topLabel + ' 선호');
+    if (theme.requireFeature === 'pool' && h.hasKidsPool) tags.push('🏊 수영장·키즈풀');
+    if (theme.requireFeature === 'pet') tags.push('🐾 반려동물 동반');
     const refLabel = h.refLandmark || '주요 역';
     const typeTxt = tt ? `${theme.audience.replace('여행', '')} 리뷰 비중 ${(tt.distribution.find(d => d.key === theme.preferType) || {}).pct || 0}%` : '';
     const blurb = `평점 ${h.score} · 리뷰 ${Number(h.reviewCount).toLocaleString('en-US')}건. ${refLabel} 도보 ${h.walkMin}분, ${h.priceText}.${typeTxt ? ' ' + typeTxt + '.' : ''}`;

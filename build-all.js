@@ -9,7 +9,7 @@
  */
 const fs = require('fs');
 const path = require('path');
-const { buildOne } = require('./build');
+const { buildOne, buildSpecial } = require('./build');
 
 const ROOT = __dirname;
 const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/site.json'), 'utf8'));
@@ -19,7 +19,27 @@ const PAGE_SIZE = 12;
 const BASE = `https://${SITE.domain}`;
 
 // 카테고리 정의(테마 순서 = 노출 순서). 실제 글이 있는 카테고리만 노출.
-const CATS = THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }));
+// '국내 특별 여행지'(domestic)는 자동 테마가 아닌 에디토리얼 기획 카테고리로 맨 앞에 노출.
+const SPECIALS = path.join(ROOT, 'data/specials');
+const CATS = [{ id: 'domestic', label: '국내 특별 여행지', emoji: '🇰🇷' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
+
+// 특별기획 글은 이미지가 없으므로 지역명 타이포 카드(SVG data-URI)를 썸네일로 사용
+function specialCardImg(region) {
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6f8f67"/><stop offset="1" stop-color="#365a78"/></linearGradient></defs><rect width="600" height="400" fill="url(#g)"/><text x="50%" y="45%" fill="#ffffff" font-family="sans-serif" font-size="66" font-weight="800" text-anchor="middle">${region}</text><text x="50%" y="61%" fill="rgba(255,255,255,0.9)" font-family="sans-serif" font-size="20" font-weight="700" letter-spacing="5" text-anchor="middle">국내 특별 기획</text></svg>`;
+  return 'data:image/svg+xml,' + encodeURIComponent(svg);
+}
+function specialMetas() {
+  if (!fs.existsSync(SPECIALS)) return [];
+  return fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json')).map(f => {
+    const d = JSON.parse(fs.readFileSync(path.join(SPECIALS, f), 'utf8'));
+    return {
+      slug: d.slug, theme: 'domestic', title: d.title,
+      audience: d.categoryLabel || '국내 특별 여행지', emoji: d.emoji || '🇰🇷',
+      city: d.region || '', season: '특별기획', travelMonthLabel: '',
+      heroImg: specialCardImg(d.region || d.slug), updated: d.updated || '',
+    };
+  });
+}
 
 function articleMetas() {
   if (!fs.existsSync(ART)) return [];
@@ -187,7 +207,8 @@ function regenSitemap(metas, info) {
 
 function rebuildAll() {
   if (fs.existsSync(ART)) fs.readdirSync(ART).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
-  const metas = articleMetas();
+  if (fs.existsSync(SPECIALS)) fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json')).forEach(f => buildSpecial(f.replace(/\.json$/, '')));
+  const metas = [...specialMetas(), ...articleMetas()].sort((a, b) => String(b.updated).localeCompare(String(a.updated)));
   const info = regenAll(metas);
   regenSearchIndex(metas);
   regenSitemap(metas, info);

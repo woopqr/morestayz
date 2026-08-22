@@ -13,6 +13,7 @@ const agoda = require('./lib/agoda');
 
 const ROOT = __dirname;
 const TPL = fs.readFileSync(path.join(ROOT, 'templates/article.template.html'), 'utf8');
+const SPECIAL_TPL = fs.existsSync(path.join(ROOT, 'templates/special.template.html')) ? fs.readFileSync(path.join(ROOT, 'templates/special.template.html'), 'utf8') : '';
 const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/site.json'), 'utf8'));
 
 // ── 무의존성 Mustache(부분집합) 렌더러 ──
@@ -158,6 +159,48 @@ function buildOne(slug) {
   console.log('✓ articles/' + slug + '.html (' + data.hotels.length + '곳)');
 }
 
+// ── 국내 특별 기획(에디토리얼) 렌더러 ──
+const AGODA_ULLEUNG = `https://www.agoda.com/ko-kr/city/ulleungdo-kr.html?cid=${agoda.CID}`;
+function buildSpecialContext(data) {
+  const canonical = `https://${SITE.domain}/articles/${data.slug}`;
+  const agodaUrl = data.agodaUrl || AGODA_ULLEUNG;
+  const faqLd = (data.faq && data.faq.length) ? {
+    '@context': 'https://schema.org', '@type': 'FAQPage',
+    mainEntity: data.faq.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  } : null;
+  const artLd = {
+    '@context': 'https://schema.org', '@type': 'Article',
+    headline: data.title, description: data.metaDescription,
+    datePublished: data.updated, dateModified: data.updated,
+    author: { '@type': 'Organization', name: SITE.name },
+    publisher: { '@type': 'Organization', name: SITE.name },
+    mainEntityOfPage: canonical,
+  };
+  const jsonld = JSON.stringify(faqLd ? [artLd, faqLd] : artLd).replace(/</g, '\\u003c');
+  const hero = data.hero || {};
+  return {
+    site: SITE, adsense: SITE.adsense, canonical, jsonld, agodaUrl,
+    slug: data.slug, title: data.title, metaDescription: data.metaDescription,
+    keywordsCsv: (data.keywords || []).join(', '),
+    heroEyebrow: hero.eyebrow || '', heroHeadline: escapeHtml(hero.headline || '').replace(/\n/g, '<br>'), heroSub: hero.sub || '',
+    keywords: data.keywords || [],
+    intro: data.intro || '',
+    sections: data.sections || [],
+    stays: (data.stays || []).map(s => ({ ...s, url: s.url || agodaUrl })),
+    nearbyFood: (data.nearby && data.nearby.food) || [],
+    nearbyCafe: (data.nearby && data.nearby.cafe) || [],
+    faq: data.faq || [],
+  };
+}
+function buildSpecial(fileSlug) {
+  const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/specials', fileSlug + '.json'), 'utf8'));
+  const html = render(SPECIAL_TPL, [buildSpecialContext(data)]);
+  fs.mkdirSync(path.join(ROOT, 'articles'), { recursive: true });
+  fs.writeFileSync(path.join(ROOT, 'articles', data.slug + '.html'), html);
+  console.log('✓ articles/' + data.slug + '.html (특별기획: ' + (data.region || data.slug) + ')');
+  return data;
+}
+
 if (require.main === module) {
   const arg = process.argv[2];
   if (arg) buildOne(arg);
@@ -166,4 +209,4 @@ if (require.main === module) {
     if (fs.existsSync(dir)) fs.readdirSync(dir).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
   }
 }
-module.exports = { buildOne, buildContext, render, aggregateChart, typeBars };
+module.exports = { buildOne, buildSpecial, buildContext, render, aggregateChart, typeBars };

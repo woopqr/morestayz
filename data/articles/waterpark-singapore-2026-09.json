@@ -1,0 +1,552 @@
+{
+  "slug": "waterpark-singapore-2026-09",
+  "theme": "waterpark",
+  "audience": "여름 워터파크 호텔",
+  "emoji": "🏊",
+  "city": "싱가포르",
+  "citySlug": "singapore",
+  "cityId": 4064,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4064",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[여름 물놀이] 싱가포르 - 아이와 물놀이하기 좋은 가성비 호캉스",
+  "metaDescription": "싱가포르 여름 워터파크 호텔, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 여름 워터파크 호텔 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "여름 물놀이 여행의 핵심은 '수영장이 있는 숙소'입니다. 실제로 수영장·키즈풀을 갖춘 곳 중 리뷰가 좋은 가성비 숙소만 골랐습니다.",
+  "viewpoint": "실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 여름 워터파크 호텔 리뷰 비중은 평균 30%로 여름 워터파크 호텔 기준 1순위는 <b>실로소 비치 리조트 센토사</b>입니다 (평점 7.7·리뷰 16,211건·1박 약 17만원). 실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 9,
+        "pct": 30
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/989/98946/98946_16111610410048759639.jpg?ca=6&ce=1",
+  "heroAlt": "싱가포르 여름 워터파크 호텔",
+  "updated": "2026-08-23",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "실로소 비치 리조트 센토사 (Siloso Beach Resort Sentosa)",
+      "agodaUrl": "https://www.agoda.com/siloso-beach-resort-sentosa/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/989/98946/98946_16111610410048759639.jpg?ca=6&ce=1",
+      "score": 7.7,
+      "reviewCount": 16211,
+      "reviewCountFmt": "16,211건",
+      "priceText": "₩₩ · 약 17만원",
+      "walkMin": 8,
+      "refLabel": "Beach",
+      "star": 4,
+      "blurb": "평점 7.7 · 리뷰 16,211건. Beach 도보 8분, ₩₩ · 약 17만원. 여름 워터파크 호텔 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 16,211건",
+        "⭐ 4성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Also the facilities in th hotel are super amazing.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "A small waterfall is also there along with two small slides.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The siloso beach resort is a fantastic choice for families",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Facilities inside room and outside are very good as well.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "We had a great experience even though it was raining.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.02",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "창이 트랜짓 호텔 터미널 1 (Changi Transit Hotel Terminal 1)",
+      "agodaUrl": "https://www.agoda.com/aerotel-transit-hotel-terminal-1_6/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1134511/-1/2acc96e2327bf2916bbdcbe7dd5f4965.jpg?ce=0",
+      "score": 8.3,
+      "reviewCount": 10724,
+      "reviewCountFmt": "10,724건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 7,
+      "refLabel": "MRT 창이공항역",
+      "star": 3,
+      "blurb": "평점 8.3 · 리뷰 10,724건. MRT 창이공항역 도보 7분, ₩₩ · 약 15만원. 여름 워터파크 호텔 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 10,724건",
+        "⭐ 3성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Everything was great especially the complimentary breakfast.",
+          "score": "9.2",
+          "country": "澳洲",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Booked solo room for 24 hrs , it was perfect for layover .",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The staff is friendly and attentive, always ready to assist.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The cleanliness is top notch, ensuring a comfortable stay.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Double room was very large, very clean, very quiet.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Hotel Singapore on Kitchener",
+      "agodaUrl": "https://www.agoda.com/parkroyal-on-kitchener-road-singapore/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1007/-1/4e93b3d72286ca8cfd2cfdf0aa0dda47.jpg?ce=0",
+      "score": 8,
+      "reviewCount": 7494,
+      "reviewCountFmt": "7,494건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 2,
+      "refLabel": "MRT 패러파크역",
+      "star": 4,
+      "blurb": "평점 8 · 리뷰 7,494건. MRT 패러파크역 도보 2분, ₩₩ · 가격 변동. 여름 워터파크 호텔 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 7,494건",
+        "⭐ 4성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Their hospitality truly enhanced the overall experience.",
+          "score": "10",
+          "country": "Brunei Darussalam",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The corner king room is certainly very big, quiet and clean.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Wonderful location, friendly staff and nice facilities.",
+          "score": "8.8",
+          "country": "Bangladesh",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "They even accommodated our request of late check out.",
+          "score": "7.6",
+          "country": "Taiwan",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "Swimming pool - free access to pool which is maintained well",
+          "score": "10",
+          "country": "India",
+          "date": "2023.02",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "마리나 베이 샌즈 (Marina Bay Sands )",
+      "agodaUrl": "https://www.agoda.com/marina-bay-sands/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/185945/-1/8de2060556e5206dc6cfcf632bcad172.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 48878,
+      "reviewCountFmt": "48,878건",
+      "priceText": "₩₩₩ · 약 103만원",
+      "walkMin": 4,
+      "refLabel": "Bayfront",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 48,878건. Bayfront 도보 4분, ₩₩₩ · 약 103만원. 여름 워터파크 호텔 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 103만원",
+        "📝 리뷰 48,878건",
+        "⭐ 5성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The beds were super comfy, the lights are sensor activated.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel provides a comfortable and welcoming environment.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The infinity pool is really fun and the view is superb.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "It feels great to stay at the iconic building of SG.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Everything just amazing . Room, view, pool, hospitality etc.",
+          "score": "10",
+          "country": "Турция",
+          "date": "2024.11",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "콜리우 오차드 – 코-리빙 서비스드 아파트먼트 (Coliwoo Orchard – Co-Living Serviced Apartment)",
+      "agodaUrl": "https://www.agoda.com/coliwoo-orchard-co-living/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41030808/0/35b25697a250f519abddb95924921332.jpeg",
+      "score": 8.4,
+      "reviewCount": 706,
+      "reviewCountFmt": "706건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 7,
+      "refLabel": "MRT 오차드역",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 706건. MRT 오차드역 도보 7분, ₩₩ · 가격 변동. 여름 워터파크 호텔 리뷰 비중 0%.",
+      "metaTags": [
+        "📝 리뷰 706건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The location is good with easy access to shopping areas.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent facilities for solo traveller on short term visits",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Clean room, amenities like pool and gym, self check in.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "I think I found my new favorite spot to book in Singapore!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "And the fitness area is sufficient for daily workouts.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2026.01",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "로버트슨키 호텔 (Robertson Quay Hotel)",
+      "agodaUrl": "https://www.agoda.com/robertson-quay-hotel/hotel/singapore-sg.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/773/77323/77323_13121717150017919666.jpg?ca=2&ce=1",
+      "score": 7,
+      "reviewCount": 19613,
+      "reviewCountFmt": "19,613건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 3,
+      "refLabel": "Fort Canning MRT Station",
+      "star": 3,
+      "blurb": "평점 7 · 리뷰 19,613건. Fort Canning MRT Station 도보 3분, ₩₩ · 약 9만원. 여름 워터파크 호텔 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 19,613건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff are very courteous with taxi services 24/7.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Fort canning underground station 5 minutes walk away",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The hotel is really clean with a nice view.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Always the best place for me for a short staycation",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "We love staying around the Quays, especially Robertson Quay.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-23T21:15:14.517Z",
+    "source": "agoda citySearch",
+    "daysAhead": 23,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

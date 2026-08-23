@@ -1,0 +1,555 @@
+{
+  "slug": "waterpark-bangkok-2026-09",
+  "theme": "waterpark",
+  "audience": "여름 워터파크 호텔",
+  "emoji": "🏊",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[여름 물놀이] 방콕 - 수영장·키즈풀 갖춘 여름 물놀이 호텔",
+  "metaDescription": "방콕 여름 워터파크 호텔, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 여름 워터파크 호텔 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "여름 물놀이 여행의 핵심은 '수영장이 있는 숙소'입니다. 실제로 수영장·키즈풀을 갖춘 곳 중 리뷰가 좋은 가성비 숙소만 골랐습니다.",
+  "viewpoint": "실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 여름 워터파크 호텔 리뷰 비중은 평균 37%로 여름 워터파크 호텔 기준 1순위는 <b>골든 포이어 수완나품 에어포트 호텔</b>입니다 (평점 8.3·리뷰 13,416건·1박 약 4만원). 실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 11,
+        "pct": 37
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4605244/0/f424e8ad59a802a776802484a89184f8.jpeg?ce=2",
+  "heroAlt": "방콕 여름 워터파크 호텔",
+  "updated": "2026-08-23",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "골든 포이어 수완나품 에어포트 호텔 (Golden Foyer Suvarnabhumi Airport Hotel)",
+      "agodaUrl": "https://www.agoda.com/golden-foyer-suvarnabhumi-airport-hotel_3/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4605244/0/f424e8ad59a802a776802484a89184f8.jpeg?ce=2",
+      "score": 8.3,
+      "reviewCount": 13416,
+      "reviewCountFmt": "13,416건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 19,
+      "refLabel": "Hua Takhe",
+      "star": 4,
+      "blurb": "평점 8.3 · 리뷰 13,416건. Hua Takhe 도보 19분, ₩ · 약 4만원. 여름 워터파크 호텔 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 13,416건",
+        "⭐ 4성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Close to the airport and the market out the front is good.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "I have stayed here 3 or 4 times and will stay here again.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Simple and had all the amenities and things that you need.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "We asked for a baby cot and it was without extra charge.",
+          "score": "9.6",
+          "country": "Eesti",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room was actually so much bigger than we expected.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "힐튼 가든 인 방콕 리버사이드 (Hilton Garden Inn Bangkok Riverside)",
+      "agodaUrl": "https://www.agoda.com/hilton-garden-inn-bangkok-riverside/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59351136/0/62cfbbcb685cf414b334b7b14f08406b.jpeg?ce=2",
+      "score": 9.1,
+      "reviewCount": 3137,
+      "reviewCountFmt": "3,137건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 1,
+      "refLabel": "짜른나콘역",
+      "star": 4,
+      "blurb": "평점 9.1 · 리뷰 3,137건. 짜른나콘역 도보 1분, ₩₩ · 약 14만원. 여름 워터파크 호텔 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 3,137건",
+        "⭐ 4성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would definitely stay here again when visiting Bangkok!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Excellent service - staff is super friendly and helpful.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Hotel is interlinked with ICS building, BTS and to ICONSIAM.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Everything was smooth from check-in to check-out.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and the view is spectacular! :)",
+          "score": "9.6",
+          "country": "Guam",
+          "date": "2026.08",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "센터 포인트 플러스 호텔 실롬 (Centre Point Plus Hotel Silom)",
+      "agodaUrl": "https://www.agoda.com/centre-point-silom-river-view-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48490/0/5f32c21c7799db08e3d39c92df786271.jpeg?ce=2",
+      "score": 8.7,
+      "reviewCount": 26538,
+      "reviewCountFmt": "26,538건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 2,
+      "refLabel": "사판탁신역",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 26,538건. 사판탁신역 도보 2분, ₩₩ · 약 10만원. 여름 워터파크 호텔 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 26,538건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "All the rooms are beautifully appointed and comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The tops was very convenient because our room had a kitchen.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Congratulations to the hotel for their recent renovations.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The interior is very clean and rooms are well maintained.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Travelling to city centre or by boat is very convenient.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.02",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "더 블레스 호텔 앤 레지던스 (The Bless Hotel & Residence)",
+      "agodaUrl": "https://www.agoda.com/bless-residence/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/177997/-1/794165056d07deceb10d1f2d79f00e4c.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 12745,
+      "reviewCountFmt": "12,745건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 5,
+      "refLabel": "프롬퐁역",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 12,745건. 프롬퐁역 도보 5분, ₩ · 약 6만원. 여름 워터파크 호텔 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 12,745건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Right in the centre of everything in Bangkok,",
+          "score": "9.6",
+          "country": "Georgia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "And was surprised about the quality of the rooms.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Very enjoy to stay in hotel clean and good location",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The rooms are as spacious as a single bed apartment",
+          "score": "10",
+          "country": "India",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The pool was very lovely, it’s a salt pool, so no chemicals.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "칼튼 호텔 방콕 수쿰빗 (Carlton Hotel Bangkok Sukhumvit)",
+      "agodaUrl": "https://www.agoda.com/carlton-hotel-bangkok-sukhumvit-h10231638/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/26857992/0/107eab2f5429d9809016ee7591971cfc.jpeg?ce=2",
+      "score": 9.2,
+      "reviewCount": 19272,
+      "reviewCountFmt": "19,272건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "walkMin": 6,
+      "refLabel": "수쿰윗역",
+      "star": 5,
+      "blurb": "평점 9.2 · 리뷰 19,272건. 수쿰윗역 도보 6분, ₩₩₩ · 약 23만원. 여름 워터파크 호텔 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 19,272건",
+        "⭐ 5성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One standout experience was the breakfast—simply phenomenal.",
+          "score": "10",
+          "country": "Italy",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "From the moment I arrived, the customer service was superb.",
+          "score": "10",
+          "country": "Italy",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "One of the highlights of my stay was the hotel's amenities.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "This hotel is really high quality with very good location.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "We loved the cleanliness and modern decor of the property.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "파악 호텔 수완나품 (PAAK Hotel Suvarnabhumi)",
+      "agodaUrl": "https://www.agoda.com/paak-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/77648547/0/46eae5b1d930d107c0f93418c6c16157.png?ce=3",
+      "score": 9,
+      "reviewCount": 2882,
+      "reviewCountFmt": "2,882건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 20,
+      "refLabel": "랏끄라방역",
+      "star": 4,
+      "blurb": "평점 9 · 리뷰 2,882건. 랏끄라방역 도보 20분, ₩ · 약 5만원. 여름 워터파크 호텔 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,882건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would highly recommend this hotel to anyone on a layover.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Perfect for overnite stay for an early morning flight!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Very big spacious room with lots of space for our backpacks!",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed the pool, the rooms, and the restaurant.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The food at the restaurant and the breakfast is excellent.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-23T21:14:40.763Z",
+    "source": "agoda citySearch",
+    "daysAhead": 23,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

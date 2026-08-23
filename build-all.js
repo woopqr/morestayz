@@ -187,20 +187,22 @@ function regenSearchIndex(metas) {
 }
 
 function regenSitemap(metas, info) {
+  const today = new Date().toISOString().slice(0, 10);
   const urls = [
-    { loc: BASE + '/', pri: '1.0' },
-    { loc: BASE + '/pages/about.html', pri: '0.4' },
-    { loc: BASE + '/pages/privacy.html', pri: '0.3' },
-    { loc: BASE + '/pages/contact.html', pri: '0.3' },
+    { loc: BASE + '/', pri: '1.0', cf: 'daily' },
+    { loc: BASE + '/pages/about.html', pri: '0.5', cf: 'monthly' },
+    { loc: BASE + '/pages/contact.html', pri: '0.3', cf: 'yearly' },
+    { loc: BASE + '/pages/privacy.html', pri: '0.3', cf: 'yearly' },
   ];
-  for (let p = 2; p <= (info.homePages || 1); p++) urls.push({ loc: `${BASE}/page/${p}`, pri: '0.5' });
+  for (let p = 2; p <= (info.homePages || 1); p++) urls.push({ loc: `${BASE}/page/${p}`, pri: '0.5', cf: 'daily' });
   info.catPageInfo.forEach(c => {
-    urls.push({ loc: `${BASE}/category/${c.id}`, pri: '0.6' });
-    for (let p = 2; p <= c.total; p++) urls.push({ loc: `${BASE}/category/${c.id}/${p}`, pri: '0.4' });
+    urls.push({ loc: `${BASE}/category/${c.id}`, pri: '0.7', cf: 'daily' });
+    for (let p = 2; p <= c.total; p++) urls.push({ loc: `${BASE}/category/${c.id}/${p}`, pri: '0.4', cf: 'weekly' });
   });
-  metas.forEach(m => urls.push({ loc: `${BASE}/articles/${m.slug}`, pri: '0.8', last: m.updated }));
+  // 국내 특별기획(domestic)은 우선순위 상향(트래픽 핵심)
+  metas.forEach(m => urls.push({ loc: `${BASE}/articles/${m.slug}`, pri: m.theme === 'domestic' ? '0.9' : '0.8', cf: 'monthly', last: m.updated }));
   const body = urls.map(u =>
-    `  <url><loc>${u.loc}</loc>${u.last ? `<lastmod>${String(u.last).slice(0, 10)}</lastmod>` : ''}<priority>${u.pri}</priority></url>`).join('\n');
+    `  <url><loc>${u.loc}</loc><lastmod>${String(u.last || today).slice(0, 10)}</lastmod><changefreq>${u.cf}</changefreq><priority>${u.pri}</priority></url>`).join('\n');
   fs.writeFileSync(path.join(ROOT, 'sitemap.xml'),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>\n`);
 }

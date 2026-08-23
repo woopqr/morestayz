@@ -1,0 +1,413 @@
+{
+  "slug": "friends-ulleungdo-2026-09",
+  "theme": "friends",
+  "audience": "친구여행",
+  "emoji": "🧑‍🤝‍🧑",
+  "city": "울릉도",
+  "citySlug": "ulleungdo",
+  "cityId": 182676,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=182676",
+  "season": "여름 휴가",
+  "seasonNote": "울릉도는 객실 수가 한정적이라 성수기·연휴엔 빠르게 마감됩니다. 미리 비교해 두는 것이 좋습니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[친구여행] 울릉도 - 곽튜브가 합류한 기안장 섬, 다 같이 묵기 좋은 숙소",
+  "metaDescription": "BTS 진·곽튜브·지예은이 다녀간 울릉도, 친구들과 함께라면? 대환장 기안장 촬영지를 돌며 묵기 좋은 가성비 숙소 6곳을 아고다 실제 리뷰로 비교했습니다.",
+  "intro": "시즌1 8화에 <b>곽튜브</b>가 임시 직원으로 합류하며 화제가 된 <b>울릉도</b>. 친구들과 함께라면 <b>도동항</b> 근처 숙소가 식당·카페·야경 포인트 접근에 유리합니다. 여럿이 함께 묵기 좋고 평이 좋은 가성비 숙소 6곳을 골랐습니다.",
+  "viewpoint": "여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "verdict": "친구여행 기준 1순위는 <b>울릉 위드Ulleung</b>입니다 (평점 8.8·리뷰 1,002건·1박 약 3만원). 여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 12,
+        "pct": 60
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 7,
+        "pct": 35
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/property/10581767/0/17dddb15057fc445072602230e6e3341.jpg?ca=9&ce=1",
+  "heroAlt": "울릉도 친구여행 · 대환장 기안장",
+  "updated": "2026-08-23",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "울릉 위드Ulleung (Ulleung With Ulleung)",
+      "agodaUrl": "https://www.agoda.com/ulleung-hotel-with-u/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/10581767/0/17dddb15057fc445072602230e6e3341.jpg?ca=9&ce=1",
+      "score": 8.8,
+      "reviewCount": 1002,
+      "reviewCountFmt": "1,002건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 8.8 · 리뷰 1,002건. 주요 역 도보 null분, ₩ · 약 3만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,002건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This hotel has everything you wish for",
+          "score": "10",
+          "country": "Corée du Sud",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "I very much enjoyed my stay in this hostel and on Ulleungdo!",
+          "score": "9.6",
+          "country": "Switzerland",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The room was big with 2 bathroom for 6 beds .",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The bed was super comfortable also bedding .",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Shared area is great you have all you need .",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "JD 호스텔 (Ulleungdo JD Hostel)",
+      "agodaUrl": "https://www.agoda.com/ulleungdo-jd-hostel/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/40281872/0/38080d0ad8441d99864eab85cecea952.jpeg?ce=0",
+      "score": 8.9,
+      "reviewCount": 372,
+      "reviewCountFmt": "372건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 2,
+      "blurb": "평점 8.9 · 리뷰 372건. 주요 역 도보 null분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 372건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would HIGHLY recommend JD Hostel.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended accommodation.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Friendly helpful staff too.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Perfect, relaxing stay",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Great stay in Ulleungdo",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "울릉도 썸앤썸 (Ulleungdo Some and Some)",
+      "agodaUrl": "https://www.agoda.com/e-comfortable-hotel-in-ulleungdo/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63408095/-1/561b6c7bf9639df45e1e99603600ec05.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 139,
+      "reviewCountFmt": "139건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 8.5 · 리뷰 139건. 주요 역 도보 null분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 139건",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 100,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Clean and silent, overall a good experience",
+          "score": "8.4",
+          "country": "대한민국",
+          "date": "2025.09",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "울릉 아라 호텔 (Ulleung Ara Hotel)",
+      "agodaUrl": "https://www.agoda.com/ulleung-ara-hotel/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/50118490/-1/cd380624fce041551e17dec528171ad3.jpg?ce=0",
+      "score": 8.1,
+      "reviewCount": 161,
+      "reviewCountFmt": "161건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 8.1 · 리뷰 161건. 주요 역 도보 null분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 161건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Good place",
+          "score": "8",
+          "country": "South Korea",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Super cheap for the value you get.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Excellent value for money",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "If you are staying in Jeodong this is a great spot.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Clean, tidy and quiet.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2026.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "e편한 호텔 (eCozy Hotel)",
+      "agodaUrl": "https://www.agoda.com/e-h44414837/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44414837/-1/4f59a9556298a5289f11ae4c136aaa1b.jpg?ce=0",
+      "score": 7.8,
+      "reviewCount": 70,
+      "reviewCountFmt": "70건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 2,
+      "blurb": "평점 7.8 · 리뷰 70건. 주요 역 도보 null분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 70건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 100,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very clean.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "울릉 동해장모텔 (Ulleung Donghaejang Motel)",
+      "agodaUrl": "https://www.agoda.com/ulleung-east-sea/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/10581967/0/c2c7e091c73135718443acb76833facb.jpg?ce=0",
+      "score": 7.3,
+      "reviewCount": 36,
+      "reviewCountFmt": "36건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 7.3 · 리뷰 36건. 주요 역 도보 null분, ₩ · 약 5만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 36건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great location, great room",
+          "score": "9.2",
+          "country": "Italy",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Great and tranquil room",
+          "score": "9.2",
+          "country": "Italy",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Warm and welcoming",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.05",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-23T00:53:00.577Z",
+    "source": "agoda citySearch",
+    "daysAhead": 24,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

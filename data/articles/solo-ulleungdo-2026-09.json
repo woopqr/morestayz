@@ -1,0 +1,357 @@
+{
+  "slug": "solo-ulleungdo-2026-09",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "울릉도",
+  "citySlug": "ulleungdo",
+  "cityId": 182676,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=182676",
+  "season": "여름 휴가",
+  "seasonNote": "울릉도는 객실 수가 한정적이라 성수기·연휴엔 빠르게 마감됩니다. 미리 비교해 두는 것이 좋습니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[혼자여행] 울릉도 - 대환장 기안장의 섬, 치안·위치 좋은 1인 가성비 호텔",
+  "metaDescription": "기안84·BTS 진·지예은이 다녀간 울릉도를 혼자 여행한다면? 대환장 기안장 촬영지를 돌아보며 쉬기 좋은 1인 가성비 숙소 6곳을 아고다 리뷰 데이터로 비교했습니다.",
+  "intro": "울릉도는 대중교통이 제한적이라 <b>도동·저동 권역</b>에 숙소를 잡는 것이 혼행 동선의 핵심입니다. <b>'대환장 기안장'</b>으로 알려진 섬을 혼자 둘러볼 때, 1인 여행자 리뷰가 좋고 체크인·위치가 편한 가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>울릉 위드Ulleung</b>입니다 (평점 8.8·리뷰 1,002건·1박 약 3만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 16,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 16,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/property/10581767/0/17dddb15057fc445072602230e6e3341.jpg?va=1&ca=9&ce=1",
+  "heroAlt": "울릉도 혼자여행 · 대환장 기안장",
+  "updated": "2026-08-23",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "울릉 위드Ulleung (Ulleung With Ulleung)",
+      "agodaUrl": "https://www.agoda.com/ulleung-hotel-with-u/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/10581767/0/17dddb15057fc445072602230e6e3341.jpg?va=1&ca=9&ce=1",
+      "score": 8.8,
+      "reviewCount": 1002,
+      "reviewCountFmt": "1,002건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 8.8 · 리뷰 1,002건. 주요 역 도보 null분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 1,002건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This hotel has everything you wish for",
+          "score": "10",
+          "country": "Corée du Sud",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "I very much enjoyed my stay in this hostel and on Ulleungdo!",
+          "score": "9.6",
+          "country": "Switzerland",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The room was big with 2 bathroom for 6 beds .",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The bed was super comfortable also bedding .",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Shared area is great you have all you need .",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "e편한 호텔 (eCozy Hotel)",
+      "agodaUrl": "https://www.agoda.com/e-h44414837/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44414837/-1/4f59a9556298a5289f11ae4c136aaa1b.jpg?va=1&ce=0",
+      "score": 7.8,
+      "reviewCount": 70,
+      "reviewCountFmt": "70건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 2,
+      "blurb": "평점 7.8 · 리뷰 70건. 주요 역 도보 null분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 70건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 100,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very clean.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "울릉 동해장모텔 (Ulleung Donghaejang Motel)",
+      "agodaUrl": "https://www.agoda.com/ulleung-east-sea/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/10581967/0/c2c7e091c73135718443acb76833facb.jpg?va=1&ce=0",
+      "score": 7.3,
+      "reviewCount": 36,
+      "reviewCountFmt": "36건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 7.3 · 리뷰 36건. 주요 역 도보 null분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 36건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great location, great room",
+          "score": "9.2",
+          "country": "Italy",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Great and tranquil room",
+          "score": "9.2",
+          "country": "Italy",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Warm and welcoming",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.05",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "울릉 섬 (Ulleung Island)",
+      "agodaUrl": "https://www.agoda.com/ulleung-island/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/25894151/0/59aa0d5a2f8304b4c54cae0e8274547b.jpg?va=1&ce=0",
+      "score": 8.1,
+      "reviewCount": 43,
+      "reviewCountFmt": "43건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 8.1 · 리뷰 43건. 주요 역 도보 null분, ₩₩ · 가격 변동. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 43건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Will stay again.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Thanks for the kind service e.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.08",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "울릉 황제 호텔 (Ulleung Hwangje Hotel)",
+      "agodaUrl": "https://www.agoda.com/ulleung-emperor-hotel/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/56371621/-1/11a967e5c56c54abde618b697f75f12d.jpg?va=1&ce=0",
+      "score": 8,
+      "reviewCount": 60,
+      "reviewCountFmt": "60건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": null,
+      "blurb": "평점 8 · 리뷰 60건. 주요 역 도보 null분, ₩₩ · 가격 변동. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 60건",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 100,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Wide and comfortable bed.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Clean and spacious rooms.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Very basic but also very clean and tidy.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "해오름 광양 펜션 (Haeoreum Gwangwang Pension)",
+      "agodaUrl": "https://www.agoda.com/ulleung-haeoreum-pension-h32756441/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/44384728/0/cf07013317e8c371b2640bdc263e7358.jpeg?va=1&ce=0",
+      "score": 6,
+      "reviewCount": 50,
+      "reviewCountFmt": "50건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": null,
+      "refLabel": "주요 역",
+      "star": 4,
+      "blurb": "평점 6 · 리뷰 50건. 주요 역 도보 null분, ₩₩ · 약 8만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 50건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 100,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "A great place to stay on Ulleungdo!",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The host was very kind.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.08",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-23T00:52:49.839Z",
+    "source": "agoda citySearch",
+    "daysAhead": 24,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

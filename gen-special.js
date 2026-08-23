@@ -14,7 +14,7 @@ const agoda = require('./lib/agoda');
 
 const ROOT = __dirname;
 const DIR = path.join(ROOT, 'data/specials');
-const MAX = 24;
+const MAX = 40;
 
 async function genOne(file) {
   const d = JSON.parse(fs.readFileSync(path.join(DIR, file), 'utf8'));

@@ -17,18 +17,6 @@
     },
     {
       "rank": 2,
-      "name": "울릉도 썸앤썸 (Ulleungdo Some and Some)",
-      "agodaUrl": "https://www.agoda.com/e-comfortable-hotel-in-ulleungdo/hotel/ulleung-gun-kr.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/63408095/0/ae1615edec9c8ca4d7d8eb8b9f4e13e6.jpeg?ce=3",
-      "score": 8.5,
-      "reviewCountFmt": "139건",
-      "priceText": "₩ · 약 6만원",
-      "star": null,
-      "refLabel": "",
-      "walkMin": null
-    },
-    {
-      "rank": 3,
       "name": "스테이 썸띵 (STAY SOMETHING)",
       "agodaUrl": "https://www.agoda.com/ulleungdo-nari-pension-h50156788/hotel/ulleung-gun-kr.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/87351730/0/4bdf6ad646b903e26e28d03b8389557e.jpeg?ce=3",
@@ -36,6 +24,18 @@
       "reviewCountFmt": "46건",
       "priceText": "₩₩ · 약 10만원",
       "star": 1,
+      "refLabel": "",
+      "walkMin": null
+    },
+    {
+      "rank": 3,
+      "name": "울릉도 썸앤썸 (Ulleungdo Some and Some)",
+      "agodaUrl": "https://www.agoda.com/e-comfortable-hotel-in-ulleungdo/hotel/ulleung-gun-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63408095/0/ae1615edec9c8ca4d7d8eb8b9f4e13e6.jpeg?ce=3",
+      "score": 8.5,
+      "reviewCountFmt": "139건",
+      "priceText": "₩ · 약 6만원",
+      "star": null,
       "refLabel": "",
       "walkMin": null
     },

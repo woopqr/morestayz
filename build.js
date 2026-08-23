@@ -160,7 +160,7 @@ function buildOne(slug) {
 }
 
 // ── 국내 특별 기획(에디토리얼) 렌더러 ──
-const AGODA_ULLEUNG = `https://www.agoda.com/ko-kr/city/ulleungdo-kr.html?cid=${agoda.CID}`;
+const AGODA_ULLEUNG = agoda.citySearchById(182676);
 function buildSpecialContext(data, hotels) {
   hotels = hotels || [];
   const canonical = `https://${SITE.domain}/articles/${data.slug}`;

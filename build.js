@@ -179,6 +179,7 @@ function buildSpecialContext(data, hotels) {
   };
   const jsonld = JSON.stringify(faqLd ? [artLd, faqLd] : artLd).replace(/</g, '\\u003c');
   const hero = data.hero || {};
+  const region = data.region || '여행지';
   return {
     site: SITE, adsense: SITE.adsense, canonical, jsonld, agodaUrl,
     slug: data.slug, title: data.title, metaDescription: data.metaDescription,
@@ -194,7 +195,13 @@ function buildSpecialContext(data, hotels) {
     hotels: hotels,
     hasHotels: hotels.length > 0,
     hotelCount: hotels.length,
-    hotelHeading: data.hotelHeading || '🏨 실제 숙소 (아고다)',
+    hotelHeading: data.hotelHeading || `🏨 ${region} 실제 숙소`,
+    topCtaText: data.topCtaText || `🏨 ${region} 숙소 최저가 비교하기 →`,
+    staysHeading: data.staysHeading || `🏨 ${region} 권역별 숙소`,
+    nearbyHeading: data.nearbyHeading || `🍽️ ${region} 대표 맛집 & 카페`,
+    faqHeading: data.faqHeading || `❓ 자주 묻는 질문 (${region} 여행 Q&A)`,
+    bottomCtaText: data.bottomCtaText || `🏨 지금 ${region} 숙소 미리 예약하기 →`,
+    disc: data.disc || '일부 링크는 제휴 링크이며 구매 시 수수료를 받을 수 있습니다. 방송·명소·시설 정보는 공개된 자료를 바탕으로 정리했으며 방문 시점에 따라 달라질 수 있습니다.',
   };
 }
 function buildSpecial(fileSlug) {

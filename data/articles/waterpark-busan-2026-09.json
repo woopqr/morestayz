@@ -1,0 +1,385 @@
+{
+  "slug": "waterpark-busan-2026-09",
+  "theme": "waterpark",
+  "audience": "여름 워터파크 호텔",
+  "emoji": "🏊",
+  "city": "부산",
+  "citySlug": "busan",
+  "cityId": 17172,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=17172",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[여름 물놀이] 부산 - 아이와 물놀이하기 좋은 가성비 호캉스",
+  "metaDescription": "부산 여름 워터파크 호텔, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 여름 워터파크 호텔 선호 가성비 숙소 4곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "여름 물놀이 여행의 핵심은 '수영장이 있는 숙소'입니다. 실제로 수영장·키즈풀을 갖춘 곳 중 리뷰가 좋은 가성비 숙소만 골랐습니다.",
+  "viewpoint": "실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 여름 워터파크 호텔 리뷰 비중은 평균 50%로 여름 워터파크 호텔 기준 1순위는 <b>파라다이스 호텔 부산</b>입니다 (평점 9·리뷰 13,892건·1박 약 25만원). 실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 10,
+        "pct": 50
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 5,
+        "pct": 25
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 15
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 10
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/92178378.jpg?k=1e078805baff53cfdccd89f6792c1748aaf8cb1bd9646c86761f842985eee950&o=",
+  "heroAlt": "부산 여름 워터파크 호텔",
+  "updated": "2026-08-24",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "파라다이스 호텔 부산 (Paradise Hotel Busan)",
+      "agodaUrl": "https://www.agoda.com/paradise-hotel-busan/hotel/busan-kr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/92178378.jpg?k=1e078805baff53cfdccd89f6792c1748aaf8cb1bd9646c86761f842985eee950&o=",
+      "score": 9,
+      "reviewCount": 13892,
+      "reviewCountFmt": "13,892건",
+      "priceText": "₩₩₩ · 약 25만원",
+      "walkMin": 9,
+      "refLabel": "해운대역",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 13,892건. 해운대역 도보 9분, ₩₩₩ · 약 25만원. 여름 워터파크 호텔 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 25만원",
+        "📝 리뷰 13,892건",
+        "⭐ 5성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel staff is friendly and makes you feel welcomed.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Hotel with service and view, also in an amazing location.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The rooms are spacious and clean and the location is superb.",
+          "score": "10",
+          "country": "Samoa",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The hotel amenities are very high quality.",
+          "score": "10",
+          "country": "ארצות הברית",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Great for families with kids or couples",
+          "score": "10",
+          "country": "ארצות הברית",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "그랜드 조선 부산 (Grand Josun Busan)",
+      "agodaUrl": "https://www.agoda.com/novotel-ambassador-busan_8/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/16933389/0/c6c345db2a9bfcb307b96810a3ffcb02.jpg?va=1&ce=2",
+      "score": 9.1,
+      "reviewCount": 11089,
+      "reviewCountFmt": "11,089건",
+      "priceText": "₩₩₩ · 약 34만원",
+      "walkMin": 7,
+      "refLabel": "해운대역",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 11,089건. 해운대역 도보 7분, ₩₩₩ · 약 34만원. 여름 워터파크 호텔 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 34만원",
+        "📝 리뷰 11,089건",
+        "⭐ 5성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Right by the beach and best prime spot for local attractions",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel is very well placed and its located on the beach.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and nicely decorated and has a nice view.",
+          "score": "10",
+          "country": "Germany",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Will definitely book again next time we are back in Busan.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "It was one of the best family hotel experiences we've had.",
+          "score": "8.4",
+          "country": "Norge",
+          "date": "2026.08",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "호텔 티티 구포 (Hotel tt Gupo)",
+      "agodaUrl": "https://www.agoda.com/h35296754/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/35296754/586424803/9bd3c9462e442673ff3c28db48317841.jpg?va=1&ce=0",
+      "score": 8.7,
+      "reviewCount": 4209,
+      "reviewCountFmt": "4,209건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 2,
+      "refLabel": "구포",
+      "star": 3,
+      "blurb": "평점 8.7 · 리뷰 4,209건. 구포 도보 2분, ₩ · 약 2만원. 여름 워터파크 호텔 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 4,209건",
+        "⭐ 3성급",
+        "👥 혼행 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This place is a perfect place to stay when in Busan!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "You need place to stay overnight definitely the right place.",
+          "score": "8",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Hote TT Gupo is a great place to stay when you are in Busan.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "My family didn't want to leave the hotel, they loved it!!!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "The rooms are clean and the staff are very friendly.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "롯데 호텔 부산 (Lotte Hotel Busan)",
+      "agodaUrl": "https://www.agoda.com/lotte-hotel-busan/hotel/busan-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42958/-1/d27cce73a8bb16b3467b73945bad38eb.jpg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 18103,
+      "reviewCountFmt": "18,103건",
+      "priceText": "₩₩₩ · 약 24만원",
+      "walkMin": 5,
+      "refLabel": "서면역",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 18,103건. 서면역 도보 5분, ₩₩₩ · 약 24만원. 여름 워터파크 호텔 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 24만원",
+        "📝 리뷰 18,103건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We're given the exact room we require/desire.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "It has a heated pool and jacuzzi for winter swimming.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Service was always quick and seamless, amazing facilities.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Room was large and had good view of the city surroundings.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Staffs are attentive and accomodating.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-24T21:22:07.527Z",
+    "source": "agoda citySearch",
+    "daysAhead": 22,
+    "targetMonth": "2026-09",
+    "count": 4
+  }
+}

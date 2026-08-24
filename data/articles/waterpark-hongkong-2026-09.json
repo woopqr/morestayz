@@ -1,0 +1,561 @@
+{
+  "slug": "waterpark-hongkong-2026-09",
+  "theme": "waterpark",
+  "audience": "여름 워터파크 호텔",
+  "emoji": "🏊",
+  "city": "홍콩",
+  "citySlug": "hongkong",
+  "cityId": 16808,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16808",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[여름 물놀이] 홍콩 - 아이와 물놀이하기 좋은 가성비 호캉스",
+  "metaDescription": "홍콩 여름 워터파크 호텔, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 여름 워터파크 호텔 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "여름 물놀이 여행의 핵심은 '수영장이 있는 숙소'입니다. 실제로 수영장·키즈풀을 갖춘 곳 중 리뷰가 좋은 가성비 숙소만 골랐습니다.",
+  "viewpoint": "실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 여름 워터파크 호텔 리뷰 비중은 평균 43%로 여름 워터파크 호텔 기준 1순위는 <b>디즈니 익스플로러스 로지</b>입니다 (평점 9·리뷰 29,249건·1박 약 27만원). 실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 11,
+        "pct": 37
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/298458156.jpg?k=a6c917b466ce30246e92be73217265d02ebe82596c8024fad81ed0c46f007b44&o=",
+  "heroAlt": "홍콩 여름 워터파크 호텔",
+  "updated": "2026-08-24",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "디즈니 익스플로러스 로지 (Disney Explorers Lodge)",
+      "agodaUrl": "https://www.agoda.com/disney-explorers-lodge_2/hotel/all/hong-kong-hk.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/298458156.jpg?k=a6c917b466ce30246e92be73217265d02ebe82596c8024fad81ed0c46f007b44&o=",
+      "score": 9,
+      "reviewCount": 29249,
+      "reviewCountFmt": "29,249건",
+      "priceText": "₩₩₩ · 약 27만원",
+      "walkMin": 7,
+      "refLabel": "幻想世界 Fantasyland",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 29,249건. 幻想世界 Fantasyland 도보 7분, ₩₩₩ · 약 27만원. 여름 워터파크 호텔 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 27만원",
+        "📝 리뷰 29,249건",
+        "⭐ 5성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Rooms are spacious with all facilities, staff are too good.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The rooms are spacious enough for my family and complete.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Disney hotels are always the best family hotels for me.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The shuttle bus service to Disneyland was super convenient.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "This HOTEL, DISNEY EXPLORER, in Disneyland SAVED OUR DAY.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더 솔즈베리 - YMCA 오브 홍콩 (The Salisbury - YMCA of Hong Kong)",
+      "agodaUrl": "https://www.agoda.com/the-salisbury-ymca-of-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2067/-1/7f3e57c1938d5d2220698890838f2602.jpg?va=1&ca=18&ce=1",
+      "score": 8.7,
+      "reviewCount": 22620,
+      "reviewCountFmt": "22,620건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 4,
+      "refLabel": "East Tsim Sha Tsui MTR Station",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 22,620건. East Tsim Sha Tsui MTR Station 도보 4분, ₩₩ · 약 18만원. 여름 워터파크 호텔 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 22,620건",
+        "⭐ 4성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Definitely the best place to stay for first time tourists.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The Salisbury YMCA offers a premium experience with a heart.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, comfortable, modern and well maintained.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "My room is clean, tidy, and has everything I need.",
+          "score": "9.2",
+          "country": "Sverige",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Beyond the view, the room itself exceeded our expectations:",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "디즈니스 할리우드 호텔 (Disney's Hollywood Hotel)",
+      "agodaUrl": "https://www.agoda.com/disney-s-hollywood-hotel_2/hotel/all/hong-kong-hk.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/79551954.jpg?k=198688db80223ea8107e8703ccc5da87a1d26860d82f02ff01402f12b9734d61&o=",
+      "score": 9,
+      "reviewCount": 18063,
+      "reviewCountFmt": "18,063건",
+      "priceText": "₩₩₩ · 약 22만원",
+      "walkMin": 5,
+      "refLabel": "幻想世界 Fantasyland",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 18,063건. 幻想世界 Fantasyland 도보 5분, ₩₩₩ · 약 22만원. 여름 워터파크 호텔 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 18,063건",
+        "⭐ 5성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Friendly staff , great breakfast and huge rooms and pool.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "I will stay here again when I come to Hong Kong.",
+          "score": "10",
+          "country": "日本",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful facilities that add to the holiday atmosphere.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "This hotel surpasses all the others I've stayed at.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "We love the place! So Disneyland! Everyone is accommodating.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "하버 그랜드 홍콩 호텔 (Harbour Grand Hong Kong Hotel)",
+      "agodaUrl": "https://www.agoda.com/harbour-grand-hong-kong-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/149/149143/149143_15071317090032200302.jpg?va=1&ca=4&ce=1",
+      "score": 8.5,
+      "reviewCount": 28226,
+      "reviewCountFmt": "28,226건",
+      "priceText": "₩₩₩ · 약 32만원",
+      "walkMin": 3,
+      "refLabel": "MTR 포트리스힐역",
+      "star": 5,
+      "blurb": "평점 8.5 · 리뷰 28,226건. MTR 포트리스힐역 도보 3분, ₩₩₩ · 약 32만원. 여름 워터파크 호텔 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 32만원",
+        "📝 리뷰 28,226건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was a perfect stay well worth the price.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "We have been staying at this hotel for 15 years each year.",
+          "score": "9.2",
+          "country": "Hong Kong",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Housekeeping is very polite and clean the room everyday",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "And it featured an incredible 270-degree harbour view.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Great hotel with great views and even better staff.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "하버 프라자 8도 (Harbour Plaza 8 Degrees)",
+      "agodaUrl": "https://www.agoda.com/harbour-plaza-8-degrees/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4894796/0/9478664aca361a1cb892349eed773b99.jpeg?va=1&ce=3",
+      "score": 7.9,
+      "reviewCount": 28654,
+      "reviewCountFmt": "28,654건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 4,
+      "refLabel": "Sung Wong Toi MTR Station",
+      "star": 4,
+      "blurb": "평점 7.9 · 리뷰 28,654건. Sung Wong Toi MTR Station 도보 4분, ₩₩ · 약 10만원. 여름 워터파크 호텔 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 28,654건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room was clean, comfortable, and well-equipped.",
+          "score": "9.6",
+          "country": "中国香港",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Buffet breakfast with egg station is excellent as well.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Room was clean, WiFi good . shower pressure very strong.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "She was more than willing to assist me with every need.",
+          "score": "10",
+          "country": "中國",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Staff were very accommodating with a last day late checkout.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "램블러 가든 호텔 (Rambler Garden Hotel)",
+      "agodaUrl": "https://www.agoda.com/rambler-garden-hotel/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/68122/-1/f5d75f930c6a3e38060783c4b8b60dbb.jpg?va=1&ca=9&ce=1",
+      "score": 7.1,
+      "reviewCount": 10218,
+      "reviewCountFmt": "10,218건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 21,
+      "refLabel": "MTR 라이킹역",
+      "star": 3,
+      "blurb": "평점 7.1 · 리뷰 10,218건. MTR 라이킹역 도보 21분, ₩ · 약 6만원. 여름 워터파크 호텔 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 10,218건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Life is beautiful when I’m staying at Rambler Garden Hotel.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "It's also near attractions like Disneyland and the airport.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "You can request an iron and a weighing scale if needed.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "You can request daily cleaning, and the view is nice.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean, well-maintained, and comfortable.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.02",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-24T21:21:54.002Z",
+    "source": "agoda citySearch",
+    "daysAhead": 22,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

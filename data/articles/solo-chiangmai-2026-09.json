@@ -1,0 +1,528 @@
+{
+  "slug": "solo-chiangmai-2026-09",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "치앙마이",
+  "citySlug": "chiangmai",
+  "cityId": 7401,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=7401",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[혼자여행] 치앙마이 - 나를 위한 온전한 하루를 주는 곳",
+  "metaDescription": "치앙마이 혼자여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 70%로 혼자여행 기준 1순위는 <b>더 커먼 호스텔</b>입니다 (평점 9.1·리뷰 4,856건·1박 약 1만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 21,
+        "pct": 70
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/1402656/-1/8af78f0ce3dcbfee2534c12f5b663d05.jpg?va=1&ca=25&ce=0",
+  "heroAlt": "치앙마이 혼자여행",
+  "updated": "2026-08-27",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 커먼 호스텔 (성인 전용) (The Common Hostel (Adult Only))",
+      "agodaUrl": "https://www.agoda.com/hostel-by-bed/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1402656/-1/8af78f0ce3dcbfee2534c12f5b663d05.jpg?va=1&ca=25&ce=0",
+      "score": 9.1,
+      "reviewCount": 4856,
+      "reviewCountFmt": "4,856건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 42,
+      "refLabel": "도이수텝행 버스 정류장",
+      "star": 2.5,
+      "blurb": "평점 9.1 · 리뷰 4,856건. 도이수텝행 버스 정류장 도보 42분, ₩ · 약 1만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 4,856건",
+        "⭐ 2.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "THE ROOM with 10 People is very quiet, cold and comfortable.",
+          "score": "7.6",
+          "country": "Thailand",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Comfy and clean bed with more than enough space for 1pax",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "It was incredibly comfortable and soothing to sleep on.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Rooms, beds, bathrooms and also all spaces very clean.",
+          "score": "10",
+          "country": "Argentina",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Beds were great and facilities well taken care of.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "이비스 스타일 치앙마이 (ibis Styles Chiang Mai)",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-chiang-mai-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/267499/0/c2ca8a2d87db219c8ae0905a89b42a52.jpg?va=1&ce=3",
+      "score": 8.4,
+      "reviewCount": 6606,
+      "reviewCountFmt": "6,606건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 9,
+      "refLabel": "도이수텝행 버스 정류장",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 6,606건. 도이수텝행 버스 정류장 도보 9분, ₩ · 약 3만원. 혼자 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 6,606건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Location is the best,you can walk to Marin martket or Maya.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The room is very clean & water pressure is high.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Staff are helpful and professional in customer service.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The bed is very comfortable and staff is SUPER helpful,",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "600m from Malin night market & 800m from Maya shopping mall.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "리조트 호시하나 (resort hoshihana)",
+      "agodaUrl": "https://www.agoda.com/resort-hoshihana/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/47483067/0/eeff5aa561d0022a38c6efaff848286d.jpg?va=1&ce=2",
+      "score": 9,
+      "reviewCount": 386,
+      "reviewCountFmt": "386건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 75,
+      "refLabel": "치앙마이 나이트 사파리",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 386건. 치앙마이 나이트 사파리 도보 75분, ₩ · 약 7만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 386건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "From the moment I arrived, Hoshihana felt like a hidden gem.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "I felt completely safe and at ease throughout my visit.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "What stood out most was the genuine care shown by the staff.",
+          "score": "8.8",
+          "country": "South Korea",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "There is massage, swimming pool and restaurant.",
+          "score": "10",
+          "country": "Portugal",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The decoration and environment are stylish yet natural.",
+          "score": "9.6",
+          "country": "台灣",
+          "date": "2024.03",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "마라야 호텔 (Maraya Hotel)",
+      "agodaUrl": "https://www.agoda.com/maraya-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/757592/0/1440992e41e5be8ba4eac73889772de4.jpeg?va=1",
+      "score": 8.8,
+      "reviewCount": 913,
+      "reviewCountFmt": "913건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 50,
+      "refLabel": "치앙마이역",
+      "star": 4,
+      "blurb": "평점 8.8 · 리뷰 913건. 치앙마이역 도보 50분, ₩ · 약 6만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 913건",
+        "⭐ 4성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "There is everything you need here, you never have to leave.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Beautiful rooms, very friendly personell, Good breakfast.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "This is one of the best resorts I've stayed yet",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Super friendly staff ready to help you with all your needs.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, spacious and very well equipped.",
+          "score": "9.2",
+          "country": "Ireland",
+          "date": "2024.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "웰니스 치앙마이 호텔 (Wellness Chiangmai Hotel)",
+      "agodaUrl": "https://www.agoda.com/wellness-residence-chiangmai/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4656582/-1/521a88870ae589455ba0a030a2bf6af7.jpg?va=1&ca=17&ce=1",
+      "score": 8.6,
+      "reviewCount": 1133,
+      "reviewCountFmt": "1,133건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 59,
+      "refLabel": "치앙마이역",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 1,133건. 치앙마이역 도보 59분, ₩ · 약 4만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 1,133건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I enjoyed my stay at Wellness Chiangmai Hotel very much.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "I would definitely stay at this hotel again.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The rooms are great, very comfortable beds.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The bed and towels we had was so soft and luxurious!",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Staff were lovely, pool and room were very nice!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "BP 치앙마이 시티 호텔 올드 타운 (BP Chiang Mai City Hotel Old Town)",
+      "agodaUrl": "https://www.agoda.com/bp-chiang-mai-city-hotel/hotel/chiang-mai-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/448/44858/44858_15071312050032160116.jpg?va=1&ca=4&ce=1",
+      "score": 7.2,
+      "reviewCount": 3240,
+      "reviewCountFmt": "3,240건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 45,
+      "refLabel": "치앙마이역",
+      "star": 3,
+      "blurb": "평점 7.2 · 리뷰 3,240건. 치앙마이역 도보 45분, ₩ · 약 3만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 3,240건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Clean,friendly staff, great location and great price !",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The hotel is located in the heart of Chiang Mai's Old City.",
+          "score": "10",
+          "country": "Italia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "PERFECT LOCATION AND PERFECT PLACE TO STAY IN CHIANG MAI",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The staffs are very friendly and approachable as well.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The price, location and ambience were all perfect.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.07",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-27T00:22:54.607Z",
+    "source": "agoda citySearch",
+    "daysAhead": 20,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

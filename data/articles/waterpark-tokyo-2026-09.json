@@ -1,0 +1,320 @@
+{
+  "slug": "waterpark-tokyo-2026-09",
+  "theme": "waterpark",
+  "audience": "여름 워터파크 호텔",
+  "emoji": "🏊",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[여름 물놀이] 도쿄 - 더위 식히기 좋은 수영장 있는 숙소",
+  "metaDescription": "도쿄 여름 워터파크 호텔, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 여름 워터파크 호텔 선호 가성비 숙소 3곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "여름 물놀이 여행의 핵심은 '수영장이 있는 숙소'입니다. 실제로 수영장·키즈풀을 갖춘 곳 중 리뷰가 좋은 가성비 숙소만 골랐습니다.",
+  "viewpoint": "실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 여름 워터파크 호텔 리뷰 비중은 평균 40%로 여름 워터파크 호텔 기준 1순위는 <b>쉐라톤 그랜드 도쿄 베이 호텔</b>입니다 (평점 8.7·리뷰 8,541건·1박 약 23만원). 실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 15,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 6,
+        "pct": 40
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 5,
+        "pct": 33
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/50094/0/e6f577ff5128c014e8075f59109013af.jpg?ca=7&ce=1",
+  "heroAlt": "도쿄 여름 워터파크 호텔",
+  "updated": "2026-08-28",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "쉐라톤 그랜드 도쿄 베이 호텔 (Sheraton Grande Tokyo Bay Hotel)",
+      "agodaUrl": "https://www.agoda.com/sheraton-grande-tokyo-bay-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/50094/0/e6f577ff5128c014e8075f59109013af.jpg?ca=7&ce=1",
+      "score": 8.7,
+      "reviewCount": 8541,
+      "reviewCountFmt": "8,541건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "walkMin": 3,
+      "refLabel": "베이사이드역",
+      "star": 4.5,
+      "blurb": "평점 8.7 · 리뷰 8,541건. 베이사이드역 도보 3분, ₩₩₩ · 약 23만원. 여름 워터파크 호텔 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 8,541건",
+        "⭐ 4.5성급",
+        "👥 가족 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The decor is beautiful and the room are clean and spacious",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The room has children's bunk beds and two medium-sized beds.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Everything during our stay was wonderful and well organized.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "• VIEW! - We had an amazing ocean view, and loved it.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "It’s one of great hotel to stay at Disneyland Tokyo.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "시나가와 프린스 호텔 (Shinagawa Prince Hotel)",
+      "agodaUrl": "https://www.agoda.com/shinagawa-prince-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9358/0/8d1131e167910cca8578073f49953ca2.jpg?ce=3",
+      "score": 8.2,
+      "reviewCount": 34706,
+      "reviewCountFmt": "34,706건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 3,
+      "refLabel": "시나가와역",
+      "star": 4,
+      "blurb": "평점 8.2 · 리뷰 34,706건. 시나가와역 도보 3분, ₩₩ · 약 11만원. 여름 워터파크 호텔 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 34,706건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Fantastic location, but small room as other japanese hotel.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Overall good value, good location, highly recommended.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Options for breakfast either buffet style or set till 11am.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and located near JR / Train to airport.",
+          "score": "9.2",
+          "country": "ไทย",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "So convenient and smooth check in and check out service.",
+          "score": "8",
+          "country": "Guam",
+          "date": "2025.01",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "게이오 플라자 호텔 도쿄 (Keio Plaza Hotel Tokyo)",
+      "agodaUrl": "https://www.agoda.com/keio-plaza-hotel-tokyo_3/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9084768/0/5dcda4256cbeded3ec0f9bb75b5596fd.jpeg?ce=0",
+      "score": 8.8,
+      "reviewCount": 26849,
+      "reviewCountFmt": "26,849건",
+      "priceText": "₩₩₩ · 약 39만원",
+      "walkMin": 2,
+      "refLabel": "도초마에역",
+      "star": 5,
+      "blurb": "평점 8.8 · 리뷰 26,849건. 도초마에역 도보 2분, ₩₩₩ · 약 39만원. 여름 워터파크 호텔 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 39만원",
+        "📝 리뷰 26,849건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room was spacious and clean, with excellent amenities.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "They offer many amenities including multiple restaurants.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Breakfast is very good and the restaurants are good too.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "It is near an extensive public transportation center.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Great location and easy access to trains and buses.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.11",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-28T05:02:47.125Z",
+    "source": "agoda citySearch",
+    "daysAhead": 19,
+    "targetMonth": "2026-09",
+    "count": 3
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "slug": "waterpark-taipei-2026-09",
+  "theme": "waterpark",
+  "audience": "여름 워터파크 호텔",
+  "emoji": "🏊",
+  "city": "타이베이",
+  "citySlug": "taipei",
+  "cityId": 4951,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4951",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[여름 물놀이] 타이베이 - 수영장·키즈풀 갖춘 여름 물놀이 호텔",
+  "metaDescription": "타이베이 여름 워터파크 호텔, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 여름 워터파크 호텔 선호 가성비 숙소 3곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "여름 물놀이 여행의 핵심은 '수영장이 있는 숙소'입니다. 실제로 수영장·키즈풀을 갖춘 곳 중 리뷰가 좋은 가성비 숙소만 골랐습니다.",
+  "viewpoint": "실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 여름 워터파크 호텔 리뷰 비중은 평균 20%로 여름 워터파크 호텔 기준 1순위는 <b>더 오쿠라 프리스티지 타이베이 호텔</b>입니다 (평점 9.1·리뷰 10,809건·1박 가격 변동). 실제 수영장·키즈풀 보유 여부와 가족 편의·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 15,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 9,
+        "pct": 60
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 3,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/400142/-1/aaf168df04168009d8f009688eea63b3.jpg?ca=17&ce=1",
+  "heroAlt": "타이베이 여름 워터파크 호텔",
+  "updated": "2026-08-28",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 오쿠라 프리스티지 타이베이 호텔 (The Okura Prestige Taipei Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-okura-prestige-taipei-hotel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/400142/-1/aaf168df04168009d8f009688eea63b3.jpg?ca=17&ce=1",
+      "score": 9.1,
+      "reviewCount": 10809,
+      "reviewCountFmt": "10,809건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "Zhongshan Metro Station",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 10,809건. Zhongshan Metro Station 도보 4분, ₩₩ · 가격 변동. 여름 워터파크 호텔 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 10,809건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Excellent service in every way from individual we met.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "+ spacious and very comfortable room with modern amenities",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "We were also pleased with the cleanliness of the property.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Location , Service, Staff Attitude, Calmness , Cleanness.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "The Staff has been trained to a high standard.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더 하워드 플라자 호텔 타이베이 (The Howard Plaza Hotel Taipei)",
+      "agodaUrl": "https://www.agoda.com/the-howard-plaza-hotel-taipei/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3174/0/12e9da10f9875736f8bd181fdd831612.png?ce=3",
+      "score": 8.6,
+      "reviewCount": 14002,
+      "reviewCountFmt": "14,002건",
+      "priceText": "₩₩ · 약 18만원",
+      "walkMin": 6,
+      "refLabel": "중샤오푸싱역",
+      "star": 5,
+      "blurb": "평점 8.6 · 리뷰 14,002건. 중샤오푸싱역 도보 6분, ₩₩ · 약 18만원. 여름 워터파크 호텔 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 18만원",
+        "📝 리뷰 14,002건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "High quality hotel well located with excellent service.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "I always stay at the Howard Plaza when returning to Taipei.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Hotel bintang 5 dengan standar pelayanan yang oke banget.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Nothing is too much for the service from staff.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Everything was exceptional down to the hotel bathrooms .",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "그랜드 호텔 (Grand Hotel)",
+      "agodaUrl": "https://www.agoda.com/grand-hotel/hotel/taipei-tw.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1885/0/e949115f34b1e9b3c6eb7af6d538c94b.png?ce=3",
+      "score": 8.9,
+      "reviewCount": 18158,
+      "reviewCountFmt": "18,158건",
+      "priceText": "₩₩ · 약 16만원",
+      "walkMin": 8,
+      "refLabel": "젠탄역",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 18,158건. 젠탄역 도보 8분, ₩₩ · 약 16만원. 여름 워터파크 호텔 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 16만원",
+        "📝 리뷰 18,158건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호",
+        "🏊 수영장·키즈풀"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff are very professional and treated me so well.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "This is one of the best places I have stayed in the world.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Excellent hotel, 100% recommend. Swimming pool is outdoor.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay here again if I come back to Taipei.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Im gonna stay here again whenever i will go taiwan again.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-28T05:03:05.479Z",
+    "source": "agoda citySearch",
+    "daysAhead": 19,
+    "targetMonth": "2026-09",
+    "count": 3
+  }
+}

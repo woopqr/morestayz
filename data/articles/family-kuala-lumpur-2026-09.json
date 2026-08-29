@@ -1,0 +1,513 @@
+{
+  "slug": "family-kuala-lumpur-2026-09",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "쿠알라룸푸르",
+  "citySlug": "kuala-lumpur",
+  "cityId": 14524,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14524",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[가족여행] 쿠알라룸푸르 - 아이도 부모도 만족한 가족 호텔",
+  "metaDescription": "쿠알라룸푸르 가족여행, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 80%로 가족여행 기준 1순위는 <b>호텔 말루리</b>입니다 (평점 8.6·리뷰 10,217건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/542132857.jpg?k=19d9ead22f60abe1afe6564f6fa94a3e40490bfa4028b3f97d8f48303d06f17d&o=",
+  "heroAlt": "쿠알라룸푸르 가족여행",
+  "updated": "2026-08-29",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 말루리  (Hotel Maluri)",
+      "agodaUrl": "https://www.agoda.com/hotel-maluri/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/542132857.jpg?k=19d9ead22f60abe1afe6564f6fa94a3e40490bfa4028b3f97d8f48303d06f17d&o=",
+      "score": 8.6,
+      "reviewCount": 10217,
+      "reviewCountFmt": "10,217건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 7,
+      "refLabel": "Maluri MRT Station",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 10,217건. Maluri MRT Station 도보 7분, ₩₩ · 가격 변동. 가족 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 10,217건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, my stay at Hotel Maluri exceeded my expectations.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Most importantly our room was quiet and we had a good rest.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "My favourite hotel,the location is good Near MRT station.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The hotel’s location is a walking distance to Aeon mall.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Overall, Hotel Maluri exceeded my expectations in every way.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더블트리 바이 힐튼 쿠알라룸푸르 (DoubleTree by Hilton Kuala Lumpur)",
+      "agodaUrl": "https://www.agoda.com/doubletree-by-hilton-hotel-kuala-lumpur_3/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/230600/0/850e5782e859f75f459a9c76e455bbeb.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 23724,
+      "reviewCountFmt": "23,724건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 2,
+      "refLabel": "Ampang Park MRT Station",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 23,724건. Ampang Park MRT Station 도보 2분, ₩₩ · 약 11만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 23,724건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel was very clean and offered great convenience.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "My kids were overjoyed with the variety of games available.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "I'd especially like to commend Mr. Faliq at the front desk.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "I will definitely return on my next visit to Kuala Lumpur.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "We also enjoyed the pool with a view of Petronas Tower.",
+          "score": "10",
+          "country": "Filipinas",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "선웨이 피라미드 호텔 (Sunway Pyramid Hotel)",
+      "agodaUrl": "https://www.agoda.com/sunway-pyramid-hotel/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/186028/-1/b4758628df289cb44c6795457591e436.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 32557,
+      "reviewCountFmt": "32,557건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 16,
+      "refLabel": "KTM Train Station - Setia Jaya",
+      "star": 4,
+      "blurb": "평점 8.5 · 리뷰 32,557건. KTM Train Station - Setia Jaya 도보 16분, ₩₩ · 약 13만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 32,557건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Loved coming back to a clean room after being out all day.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious, clean, and beautifully decorated.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Breakfast was amazing, big variety of food choices.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The front office and coffee house staff are very friendly.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Love the one stop facilities, hotel, mall and convention.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "사마 사마 호텔 쿠알라룸푸르 국제공항 (Sama-Sama Hotel Kuala Lumpur International Airport)",
+      "agodaUrl": "https://www.agoda.com/sama-sama-hotel-kuala-lumpur-international-airport/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63308/-1/4a610dee33002ab2bfe3e40919b5c291.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 24441,
+      "reviewCountFmt": "24,441건",
+      "priceText": "₩₩ · 약 20만원",
+      "walkMin": 3,
+      "refLabel": "Stesen Bas Bus Station",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 24,441건. Stesen Bas Bus Station 도보 3분, ₩₩ · 약 20만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 24,441건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, I would stay again before moving to the main city.",
+          "score": "8.8",
+          "country": "Brunei Darussalam",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Breakfast was superb with a lot of choices.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "Great hospitality, and very convenient..",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Very nice place with great facilities and helpful staffs!!",
+          "score": "10",
+          "country": "Brunei Darussalam",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The accommodation here is very exclusive and comfortable.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "스타 스위트 KLCC (Star Suites KLCC)",
+      "agodaUrl": "https://www.agoda.com/star-suites-klcc/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/18106332/-1/a29beed88eb5da799218fd672fdd9af1.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 3641,
+      "reviewCountFmt": "3,641건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 4,
+      "refLabel": "KLCC LRT Station",
+      "star": 5,
+      "blurb": "평점 9 · 리뷰 3,641건. KLCC LRT Station 도보 4분, ₩₩ · 약 12만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 3,641건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This is a great place to stay with great malls n food arnd.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "We booked room with super king size bed and twin tower view.",
+          "score": "10",
+          "country": "Slovakia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Great location, spacious for a family, clean & comfortable.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Nice pool overseeing the Petronas Tower, good ambience.",
+          "score": "9.2",
+          "country": "Bangladesh",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "My room was elegant, clean, and had breathtaking views.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.03",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "벨 스위트 바이 살람 스위트, 세팡 (Bell Suites by Salaam Suites, Sepang)",
+      "agodaUrl": "https://www.agoda.com/urban-escapes-bell-suites-sepang-with-open-pool-access/hotel/sepang-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/79387538/0/0e9b4ded423d7858dd87864166050aa5.jpeg?ce=3",
+      "score": 8.4,
+      "reviewCount": 1119,
+      "reviewCountFmt": "1,119건",
+      "priceText": "₩₩₩ · 약 29만원",
+      "walkMin": 10,
+      "refLabel": "살락 팅기역",
+      "star": 5,
+      "blurb": "평점 8.4 · 리뷰 1,119건. 살락 팅기역 도보 10분, ₩₩₩ · 약 29만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 1,119건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 8.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Salaam's appartment are the best, clean and helpful stuff.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Great location for a late arrival or late departure.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The staff was really helpful and responded fast to requests.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Booked suite room for 5 person, room are clean and spacious.",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The property was well-maintained and comfortable.",
+          "score": "7.6",
+          "country": "New Zealand",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-29T22:57:43.310Z",
+    "source": "agoda citySearch",
+    "daysAhead": 17,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

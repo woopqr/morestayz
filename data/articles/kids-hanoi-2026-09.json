@@ -1,0 +1,569 @@
+{
+  "slug": "kids-hanoi-2026-09",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "하노이",
+  "citySlug": "hanoi",
+  "cityId": 2758,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=2758",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[아이와함께] 하노이 - 키즈 친화 시설 좋은 가성비 숙소",
+  "metaDescription": "하노이 아이와함께 호캉스, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 33%로 아이와함께 호캉스 기준 1순위는 <b>마델리스 팰리스 호텔 앤 스파</b>입니다 (평점 8.4·리뷰 3,329건·1박 약 3만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/36144486/-1/e6362f55ace173c9c95425bbf34923be.jpg?ce=0",
+  "heroAlt": "하노이 아이와함께 호캉스",
+  "updated": "2026-08-29",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "마델리스 팰리스 호텔 앤 스파 (Madelise Palace Hotel & Spa)",
+      "agodaUrl": "https://www.agoda.com/the-maxwell-hotel/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36144486/-1/e6362f55ace173c9c95425bbf34923be.jpg?ce=0",
+      "score": 8.4,
+      "reviewCount": 3329,
+      "reviewCountFmt": "3,329건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 20,
+      "refLabel": "하노이역",
+      "star": 4,
+      "blurb": "평점 8.4 · 리뷰 3,329건. 하노이역 도보 20분, ₩ · 약 3만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 3,329건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel itself is a beautiful blend of luxury and comfort.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "And the room was very comfortable with a large, cozy bed.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Our room was tastefully designed, clean and spacious!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Great stay in the heart of the Old Quarter.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The room was very spacious and the best were the pillows.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "망고 호텔 - 르 두안 (Mango Hotel - Le Duan)",
+      "agodaUrl": "https://www.agoda.com/mango-hotel-le-duan/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/302780/0/9910d97489300f0a5d1134d0bce307bb.jpeg?ce=0",
+      "score": 7.6,
+      "reviewCount": 705,
+      "reviewCountFmt": "705건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 1,
+      "refLabel": "하노이역",
+      "star": 1.5,
+      "blurb": "평점 7.6 · 리뷰 705건. 하노이역 도보 1분, ₩ · 약 4만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 705건",
+        "⭐ 1.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great location if you plan to take the train.",
+          "score": "7.6",
+          "country": "Brunei Darussalam",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Surprisingly, my room had bathtub which was huge and clean.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Clean and great location next to train stations",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel is just right next to Hanoi train station.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious, clean, bathroom is clean too.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "그랜드 K 호텔 스위트 하노이 (Grand K Hotel Suites Hanoi)",
+      "agodaUrl": "https://www.agoda.com/grand-k-hotel-suites-hanoi/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/36931819/-1/3f76125ac6d67ed82581fa12489122ad.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 1161,
+      "reviewCountFmt": "1,161건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 66,
+      "refLabel": "하노이역",
+      "star": 5,
+      "blurb": "평점 8.6 · 리뷰 1,161건. 하노이역 도보 66분, ₩₩ · 약 10만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 1,161건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very clean and full equipped room with excellent breadfast.",
+          "score": "10",
+          "country": "越南",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The Hotel Makes you feel that you are on top of the world",
+          "score": "9.2",
+          "country": "India",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Breakfast was delicious with a good variety of options.",
+          "score": "10",
+          "country": "Oman",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The staff alone make it worth every penny.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious, clean, and very comfortable.",
+          "score": "10",
+          "country": "Oman",
+          "date": "2026.07",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "하노이 본셀라 호텔 (Hanoi Bonsella Hotel)",
+      "agodaUrl": "https://www.agoda.com/hanoi-bonsella-hotel/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/217/2172363/2172363_17042013120052506467.jpg?ca=13&ce=1",
+      "score": 9.2,
+      "reviewCount": 3871,
+      "reviewCountFmt": "3,871건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 15,
+      "refLabel": "하노이역",
+      "star": 3.5,
+      "blurb": "평점 9.2 · 리뷰 3,871건. 하노이역 도보 15분, ₩ · 약 8만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 3,871건",
+        "⭐ 3.5성급",
+        "👥 그룹·단체 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "그룹·단체",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "They changed the bed sheet and refilled amenities every day.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Will definitely be staying here when we are in Hanoi again.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Room is clean & breakfast has great food & fresh fruits!!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The room is surprisingly spacious for a hotel in Old Town.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The room was kept clean and replenished with water daily.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "더 라피스 호텔 (The Lapis Hotel)",
+      "agodaUrl": "https://www.agoda.com/the-lapis-hotel/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1804917/-1/77506c3b238363a44e9935c7e4afd381.jpg?ce=0",
+      "score": 8.7,
+      "reviewCount": 1905,
+      "reviewCountFmt": "1,905건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 20,
+      "refLabel": "하노이역",
+      "star": 4.5,
+      "blurb": "평점 8.7 · 리뷰 1,905건. 하노이역 도보 20분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "📝 리뷰 1,905건",
+        "⭐ 4.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "You can use Jacuzzi, Sauna, Swimming pool and gym for free.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "I loved the location of the Lapis near the French Quarter.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "As a regular visitor I will certainly use this hotel again",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "Our recent stay at The Lapis hotel was absolutely fantastic.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Excellent location - lots of things in walking distance.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "하노이 피에스타 그랜드 호텔 앤 스파 (Hanoi Fiesta Grand Hotel and Spa)",
+      "agodaUrl": "https://www.agoda.com/hanoi-fiesta-grand-hotel-and-spa/hotel/hanoi-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/35957908/-1/5f086c7258f43371ac5000b147bbbb29.png?ce=0",
+      "score": 8.9,
+      "reviewCount": 2846,
+      "reviewCountFmt": "2,846건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 20,
+      "refLabel": "하노이역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 2,846건. 하노이역 도보 20분, ₩ · 약 5만원. 아이와함께 호캉스 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,846건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This hotel is the best I have ever stayed in Vietnam.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "They always greet you with a smile and are very pleasant.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "They are beyond amazing especially the receptionist.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Customer service is very good and the best is the location.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "What truly made our experience memorable was the staff.",
+          "score": "9.6",
+          "country": "Oman",
+          "date": "2025.06",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-29T02:59:36.896Z",
+    "source": "agoda citySearch",
+    "daysAhead": 18,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

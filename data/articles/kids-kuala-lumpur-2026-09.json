@@ -1,0 +1,513 @@
+{
+  "slug": "kids-kuala-lumpur-2026-09",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "쿠알라룸푸르",
+  "citySlug": "kuala-lumpur",
+  "cityId": 14524,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=14524",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 9월",
+  "title": "[아이와함께] 쿠알라룸푸르 - 가족 물놀이하기 좋은 여름 호텔",
+  "metaDescription": "쿠알라룸푸르 아이와함께 호캉스, 2026년 9월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "아이와 함께하는 여름 호캉스는 '물놀이와 편한 잠자리'가 절반입니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 73%로 아이와함께 호캉스 기준 1순위는 <b>호텔 말루리</b>입니다 (평점 8.6·리뷰 10,208건·1박 가격 변동). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 22,
+        "pct": 73
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/149000/-1/81e05c779b858c80bf205ff6894007d8.jpg?ce=0",
+  "heroAlt": "쿠알라룸푸르 아이와함께 호캉스",
+  "updated": "2026-08-30",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 말루리  (Hotel Maluri)",
+      "agodaUrl": "https://www.agoda.com/hotel-maluri/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/149000/-1/81e05c779b858c80bf205ff6894007d8.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 10208,
+      "reviewCountFmt": "10,208건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 7,
+      "refLabel": "Maluri MRT Station",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 10,208건. Maluri MRT Station 도보 7분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 10,208건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, my stay at Hotel Maluri exceeded my expectations.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Most importantly our room was quiet and we had a good rest.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "My favourite hotel,the location is good Near MRT station.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The hotel’s location is a walking distance to Aeon mall.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Overall, Hotel Maluri exceeded my expectations in every way.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "더블트리 바이 힐튼 쿠알라룸푸르 (DoubleTree by Hilton Kuala Lumpur)",
+      "agodaUrl": "https://www.agoda.com/doubletree-by-hilton-hotel-kuala-lumpur_3/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/230600/0/850e5782e859f75f459a9c76e455bbeb.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 23717,
+      "reviewCountFmt": "23,717건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 2,
+      "refLabel": "Ampang Park MRT Station",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 23,717건. Ampang Park MRT Station 도보 2분, ₩₩ · 약 11만원. 아이와함께 호캉스 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 23,717건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel was very clean and offered great convenience.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "My kids were overjoyed with the variety of games available.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "I'd especially like to commend Mr. Faliq at the front desk.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "I will definitely return on my next visit to Kuala Lumpur.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "We also enjoyed the pool with a view of Petronas Tower.",
+          "score": "10",
+          "country": "Filipinas",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "M 월드 호텔 (M World Hotel  )",
+      "agodaUrl": "https://www.agoda.com/avante-hotel-sdn-bhd/hotel/petaling-jaya-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28254664/-1/50292f3a80ff884d11152441cfe6f4ab.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 20785,
+      "reviewCountFmt": "20,785건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 2,
+      "refLabel": "Bandar Utama MRT Station",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 20,785건. Bandar Utama MRT Station 도보 2분, ₩₩ · 약 12만원. 아이와함께 호캉스 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 20,785건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Room is clean and spacious, staffs are helpful and friendly.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Room is clean and comfortable had a really great stay there!",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Was definitely unforgettable for him which means alot to us.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "And the feeling, the atmosphere, and the vibes are so good,",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Hotel is linked to MRT and One Utama via a link way bridge.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "이비스 스타일 세팡 KLIA (ibis Styles Sepang KLIA)",
+      "agodaUrl": "https://www.agoda.com/concorde-inn-kuala-lumpur-international-airport-hotel_2/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/50046447/0/ac89b8faae55cbd732e55f39d40e7fb3.jpg?ce=0",
+      "score": 8.7,
+      "reviewCount": 11410,
+      "reviewCountFmt": "11,410건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 20,
+      "refLabel": "Stesen Bas Bus Station",
+      "star": 4,
+      "blurb": "평점 8.7 · 리뷰 11,410건. Stesen Bas Bus Station 도보 20분, ₩₩ · 약 12만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 11,410건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This Ibis was a perfect place to rest on our way through KL.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The room is spacious with a separate living room.",
+          "score": "9.6",
+          "country": "Macau SAR, China",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The hotel is the best hospitality ever with new management.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel has a great pool, where you can relax.",
+          "score": "10",
+          "country": "Nederland",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The staff were friendly, professional, and very attentive.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "트레이더스 호텔 쿠알라 룸푸르 (Traders Hotel, Kuala Lumpur)",
+      "agodaUrl": "https://www.agoda.com/traders-hotel-kuala-lumpur_5/hotel/all/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/602814529.jpg?k=174d331257975ded8d5b7375af3c6c1e7639526ccb728d947d9b1a94fc8dfb9a&o=",
+      "score": 9.1,
+      "reviewCount": 14955,
+      "reviewCountFmt": "14,955건",
+      "priceText": "₩₩ · 약 20만원",
+      "walkMin": 5,
+      "refLabel": "Conlay–Kompleks Kraf MRT Station",
+      "star": 5,
+      "blurb": "평점 9.1 · 리뷰 14,955건. Conlay–Kompleks Kraf MRT Station 도보 5분, ₩₩ · 약 20만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 14,955건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Dpt upgrade room dg view twins tower....really nice 😍😍😍🤗🤗",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The klcc view is so amazing during night time from the room.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, spacious and comfortable for all of us.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The location of the hotel, at the heart of KLCC is perfect.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "It is very accessible to the Twin Towers and Bukit Bintang.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "원 월드 호텔 (One World Hotel)",
+      "agodaUrl": "https://www.agoda.com/one-world-hotel/hotel/kuala-lumpur-my.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/898/89811/89811_17041915500052476992.jpg?ca=6&ce=1",
+      "score": 8.9,
+      "reviewCount": 31932,
+      "reviewCountFmt": "31,932건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 2,
+      "refLabel": "Bandar Utama MRT Station",
+      "star": 5,
+      "blurb": "평점 8.9 · 리뷰 31,932건. Bandar Utama MRT Station 도보 2분, ₩₩ · 약 19만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 31,932건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I’ve been staying here for as long as I could think of.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "One world hotel is always my choice of accommodation.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The room was impeccably designed and offered utmost comfort,",
+          "score": "10",
+          "country": "China",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Every yr, I will chose the same hotel in KL again and again.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "One world is the only hotel I will stay whenever I am in KL.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-08-30T23:03:13.536Z",
+    "source": "agoda citySearch",
+    "daysAhead": 16,
+    "targetMonth": "2026-09",
+    "count": 6
+  }
+}

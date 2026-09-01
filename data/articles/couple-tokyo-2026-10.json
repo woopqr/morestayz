@@ -1,0 +1,515 @@
+{
+  "slug": "couple-tokyo-2026-10",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 10월",
+  "title": "[연인여행] 도쿄 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "도쿄 연인여행, 2026년 10월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 77%로 연인여행 기준 1순위는 <b>신주쿠 워싱턴 호텔 - 본관</b>입니다 (평점 8·리뷰 49,481건·1박 약 17만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 23,
+        "pct": 77
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/property/31505094/1326473194/ec07a01c6a99d2a2860ae1a583e8d248.jpeg?ce=3",
+  "heroAlt": "도쿄 연인여행",
+  "updated": "2026-09-01",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "신주쿠 워싱턴 호텔 - 본관 (Shinjuku Washington Hotel - Main Building)",
+      "agodaUrl": "https://www.agoda.com/shinjuku-washington-hotel-main-building/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/31505094/1326473194/ec07a01c6a99d2a2860ae1a583e8d248.jpeg?ce=3",
+      "score": 8,
+      "reviewCount": 49481,
+      "reviewCountFmt": "49,481건",
+      "priceText": "₩₩ · 약 17만원",
+      "walkMin": 2,
+      "refLabel": "Toei Subway",
+      "star": 4,
+      "blurb": "평점 8 · 리뷰 49,481건. Toei Subway 도보 2분, ₩₩ · 약 17만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 17만원",
+        "📝 리뷰 49,481건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The best thing about this hotel was its location.",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Very convenient to the action in Shinjuku.",
+          "score": "8.4",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The staff went above and beyond to make our stay memorable.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "There is a self-service laundry room at the first floor.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The staff were friendly and helpful throughout our stay.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "칸데오 호텔 우에노코엔 (CANDEO HOTELS Ueno Koen)",
+      "agodaUrl": "https://www.agoda.com/candeo-hotels-ueno-koen/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/615986285.jpg?k=33f525eebd7b9cff81ae1022e1754bea38de3d6baab69d13eac3732080fdb4c0&o=",
+      "score": 8,
+      "reviewCount": 13844,
+      "reviewCountFmt": "13,844건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 2,
+      "refLabel": "우구이스다니역",
+      "star": 3,
+      "blurb": "평점 8 · 리뷰 13,844건. 우구이스다니역 도보 2분, ₩₩ · 약 11만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 13,844건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Breakfast, staff, amenities and location was chef kiss",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Overall experience was nice and great value for money. :)",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The breakfast was awesome, mix of Japanese and Western food.",
+          "score": "8",
+          "country": "Japan",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "For the hotel itself if great and will recommend to others.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Overall, this hotel is very good in every aspect.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "호텔 빌라 폰테누 그랜드 하네다 에어포트 (Hotel Villa Fontaine Grand Haneda Airport)",
+      "agodaUrl": "https://www.agoda.com/hotel-villa-fontaine-grand-haneda-airport/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/399317932.jpg?k=6073e59300d3e4df31ecd1d414bc35108f2c8dfde33b8e9e74d6bd88ce5d09b1&o=",
+      "score": 8.9,
+      "reviewCount": 70556,
+      "reviewCountFmt": "70,556건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 3,
+      "refLabel": "하네다공항 제3터미널역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 70,556건. 하네다공항 제3터미널역 도보 3분, ₩₩ · 약 19만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 70,556건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooms were nice and comfortable with all the amenities.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The facilities were clean, serene, and beautifully designed.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Clean, comfortable and 2 minute walk to departure terminals.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "This is the perfect place to stay for an overnight layover.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Staff were wonderful assisting with check-in, even at 1am.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "호텔 리브맥스 시오도메 (HOTEL LiVEMAX Shiodome)",
+      "agodaUrl": "https://www.agoda.com/hotel-livemax-shiodome/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/73165915/1154663115/cbdf5220999ca3214bdd889516f31192.jpg?ce=2",
+      "score": 7.6,
+      "reviewCount": 1185,
+      "reviewCountFmt": "1,185건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 3,
+      "refLabel": "유리카모메시오도메역",
+      "star": 3,
+      "blurb": "평점 7.6 · 리뷰 1,185건. 유리카모메시오도메역 도보 3분, ₩₩ · 약 11만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 1,185건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great location, one of the best in the city.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent location and lots of restaurants nearby",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Also, the bed was wider than expected and comfortable.",
+          "score": "10",
+          "country": "Slovenija",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Everything was well kept and the staff was friendly.",
+          "score": "9.2",
+          "country": "Brazil",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and staff was friendly.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.07",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "랜드어바웃 도쿄 (LANDABOUT TOKYO)",
+      "agodaUrl": "https://www.agoda.com/landabout-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/237242950.jpg?k=843d8854194efa928d3da06172971f6a0d8feb820fa8077a889d955cb55a60a2&o=",
+      "score": 8.9,
+      "reviewCount": 18920,
+      "reviewCountFmt": "18,920건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 2,
+      "refLabel": "우구이스다니역",
+      "star": 3,
+      "blurb": "평점 8.9 · 리뷰 18,920건. 우구이스다니역 도보 2분, ₩₩ · 약 13만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 18,920건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room itself was spacious, clean, and well-appointed.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel itself was very clean and had everything I needed.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "What we wanted is a clean and quiet room and near stations.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and more spacious than most hotels.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "The property’s cleanliness and staff were exceptional.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "게이큐 엑스 인 히가시-긴자 - 도쿄 긴자 츠키지 (KEIKYU EX INN Higashi-Ginza -Tokyo Ginza Tsukiji)",
+      "agodaUrl": "https://www.agoda.com/keikyu-ex-inn-higashi-ginza-tokyo-ginza-tsukiji/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/30139873/0/44046e0b3e380e621ab1d38d95eaf5ec.jpeg?ce=2",
+      "score": 8.8,
+      "reviewCount": 3981,
+      "reviewCountFmt": "3,981건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 3,
+      "refLabel": "쓰키지역",
+      "star": 3,
+      "blurb": "평점 8.8 · 리뷰 3,981건. 쓰키지역 도보 3분, ₩₩ · 약 15만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 3,981건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "二楼洗衣房、微波炉、制冰机、咖啡机等一应俱全，洗护用品自助拿取区东西齐全，水乳、卸妆油、棉签、梳子等应有尽有，非常方便。",
+          "score": "10",
+          "country": "China",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Cannot ask for more for such great price during golden week.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The view was spectacular facing the brigdes and the sea.",
+          "score": "9.2",
+          "country": "Brunei Darussalam",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Walking distance to Tsukiji fish market and train station.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "This hotel location is good for Narita and Haneda airport.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.05",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-01T22:56:04.357Z",
+    "source": "agoda citySearch",
+    "daysAhead": 44,
+    "targetMonth": "2026-10",
+    "count": 6
+  }
+}

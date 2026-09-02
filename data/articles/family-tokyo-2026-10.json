@@ -1,0 +1,539 @@
+{
+  "slug": "family-tokyo-2026-10",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 10월",
+  "title": "[가족여행] 도쿄 - 짐 많은 가족여행에 똑똑한 선택",
+  "metaDescription": "도쿄 가족여행, 2026년 10월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 57%로 가족여행 기준 1순위는 <b>더블트리 바이 힐튼 도쿄 아리아케</b>입니다 (평점 8.9·리뷰 1,927건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 17,
+        "pct": 57
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4836732/0/03e3826727efab014ef5e362fca8393d.jpg?va=1&ce=0",
+  "heroAlt": "도쿄 가족여행",
+  "updated": "2026-09-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더블트리 바이 힐튼 도쿄 아리아케 (DoubleTree by Hilton Tokyo Ariake)",
+      "agodaUrl": "https://www.agoda.com/doubletree-by-hilton-tokyo-ariake/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4836732/0/03e3826727efab014ef5e362fca8393d.jpg?va=1&ce=0",
+      "score": 8.9,
+      "reviewCount": 1927,
+      "reviewCountFmt": "1,927건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 1,
+      "refLabel": "고쿠사이텐지조역",
+      "star": 4,
+      "blurb": "평점 8.9 · 리뷰 1,927건. 고쿠사이텐지조역 도보 1분, ₩₩ · 가격 변동. 가족 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 1,927건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "First time staying at this hotel and it did not disappoint.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "This fantastic location is perfect for families with kids!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Location is great with 2 stations near by.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Staff were kind and accommodating to every request.",
+          "score": "8",
+          "country": "Northern Mariana Islands",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We had a fantastic stay at DoubleTree Hilton Ariake Tokyo.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "호텔 라이브맥스 도쿄 신토미초 (HOTEL LiVEMAX Tokyo Shintomi-cho)",
+      "agodaUrl": "https://www.agoda.com/hotel-livemax-tokyo-shintomicho/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8820726/0/c2a97e0fd2e0d9b3ab4b41b31bf69907.jpeg?va=1&ce=0",
+      "score": 7.3,
+      "reviewCount": 5240,
+      "reviewCountFmt": "5,240건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 3,
+      "refLabel": "신토미초역",
+      "star": 2,
+      "blurb": "평점 7.3 · 리뷰 5,240건. 신토미초역 도보 3분, ₩₩ · 약 13만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 5,240건",
+        "⭐ 2성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Would highly recommend booking and we can't wait to be back!",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The lady at the reception was very nice and accommodating.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and the staff are very accommodating.",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "15 min walk to fish markets, Tokyo station or Ginza.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "I commend the lady staff for being calmed and understanding.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "카미나리 인 (Kaminari INN)",
+      "agodaUrl": "https://www.agoda.com/kaminari-inn-h83946300/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/84787525/1317703138/cda9d6903417ee402196ea40f92886e8.jpg?va=1&ce=3",
+      "score": 8.4,
+      "reviewCount": 40,
+      "reviewCountFmt": "40건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "구라마에역",
+      "star": 3,
+      "blurb": "평점 8.4 · 리뷰 40건. 구라마에역 도보 4분, ₩₩ · 가격 변동. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 40건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Cuz after check out, hotel kept our luggage for free",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Overall, we were satisfied this hotel",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Not far from Asakusa and Tokyo Sky Tree, Odaiba.",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Only 1 km to Okachimachi Station,",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Very convenient location, clean and well equipped",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "하네다 엑셀 호텔 도큐 하네다 에어포트 터미널 2 (Haneda Excel Hotel Tokyu Haneda Airport Terminal 2 )",
+      "agodaUrl": "https://www.agoda.com/haneda-excel-hotel-tokyu/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51461/23143273/6c937b803807a97912112512e3a3f76b.jpg?va=1&ce=3",
+      "score": 8.6,
+      "reviewCount": 16038,
+      "reviewCountFmt": "16,038건",
+      "priceText": "₩₩₩ · 약 22만원",
+      "walkMin": 4,
+      "refLabel": "하네다공항 제2터미널역",
+      "star": 4,
+      "blurb": "평점 8.6 · 리뷰 16,038건. 하네다공항 제2터미널역 도보 4분, ₩₩₩ · 약 22만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 16,038건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Perfect for getting more sleep the night before traveling.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Overall, the staff was very professional and helpful.",
+          "score": "8.8",
+          "country": "日本",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Water pressure from the shower head was really powerful.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "All round great staff and accommodation for staying in",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Hotel is just few minutes walk to domestic check in counter.",
+          "score": "8.4",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "그리드 도쿄 우에노 호텔앤호스텔 (Grids Tokyo Ueno Hotel&Hostel)",
+      "agodaUrl": "https://www.agoda.com/grids-tokyo-ueno-hotel-hostel_2/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7093893/0/d0ebc74ac09baaf9ad7b0bc9e854f7b7.jpg?va=1&ce=2",
+      "score": 8.6,
+      "reviewCount": 3701,
+      "reviewCountFmt": "3,701건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 3,
+      "refLabel": "우에노역",
+      "star": 2,
+      "blurb": "평점 8.6 · 리뷰 3,701건. 우에노역 도보 3분, ₩ · 약 5만원. 가족 리뷰 비중 20%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 3,701건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I'm so willing to visit here again when I come back to Tokyo",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Everything I could need and more, kept immaculately clean.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Extremely convenient location as Ueno is awesome!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The hotel has everything a traveler (solo or family) needs.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Next time I visit Japan, I will definitely stay here again.",
+          "score": "7.6",
+          "country": "ไทย",
+          "date": "2026.03",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "시나가와 프린스 호텔 (Shinagawa Prince Hotel)",
+      "agodaUrl": "https://www.agoda.com/shinagawa-prince-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9358/-1/aaf972ad6bb695148e9202d858de19a5.jpg?va=1&ce=0",
+      "score": 8.2,
+      "reviewCount": 34763,
+      "reviewCountFmt": "34,763건",
+      "priceText": "₩₩ · 약 20만원",
+      "walkMin": 3,
+      "refLabel": "시나가와역",
+      "star": 4,
+      "blurb": "평점 8.2 · 리뷰 34,763건. 시나가와역 도보 3분, ₩₩ · 약 20만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 20만원",
+        "📝 리뷰 34,763건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Fantastic location, but small room as other japanese hotel.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Overall good value, good location, highly recommended.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Options for breakfast either buffet style or set till 11am.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The room is clean and located near JR / Train to airport.",
+          "score": "9.2",
+          "country": "ไทย",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "So convenient and smooth check in and check out service.",
+          "score": "8",
+          "country": "Guam",
+          "date": "2025.01",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-02T22:56:40.127Z",
+    "source": "agoda citySearch",
+    "daysAhead": 43,
+    "targetMonth": "2026-10",
+    "count": 6
+  }
+}

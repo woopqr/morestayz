@@ -1,0 +1,461 @@
+{
+  "slug": "solo-tokyo-2026-10",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "추석 연휴",
+  "seasonNote": "연휴엔 인기 숙소가 빠르게 마감되니 선점이 중요합니다.",
+  "travelMonthLabel": "2026년 10월",
+  "title": "[혼자여행] 도쿄 - 역세권 1인 여행 베이스캠프",
+  "metaDescription": "도쿄 혼자여행, 2026년 10월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>와 호스텔</b>입니다 (평점 9.1·리뷰 457건·1박 약 5만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?va=1&ce=3",
+  "heroAlt": "도쿄 혼자여행",
+  "updated": "2026-09-02",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "와 호스텔 (Wa Hostel)",
+      "agodaUrl": "https://www.agoda.com/wa-hostel/hotel/taito-ku-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/83534561/0/eefbaf0ccf2eac257cfbc05176128418.jpg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 457,
+      "reviewCountFmt": "457건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 3,
+      "refLabel": "구라마에역",
+      "star": 3,
+      "blurb": "평점 9.1 · 리뷰 457건. 구라마에역 도보 3분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 457건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "All thanks to the staff, thank you for making my stay great.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Overall I'm happy I found this place while I was travelling.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Comfortable and Friendly",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Facilities were clean, 1 shower and 2 toilets per floor.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "You can tell they’ve thought of every detail.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.06",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "안신 오야도 도쿄 맨 신주쿠 (Anshin Oyado Tokyo Man Shinjuku)",
+      "agodaUrl": "https://www.agoda.com/capsule-hotel-anshin-oyado-premier-tokyo-shinjuku-station/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/762741/0/3ac0b7e82dfb46f15bdcda6ee0ce8558.jpg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 5666,
+      "reviewCountFmt": "5,666건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 3,
+      "refLabel": "신주쿠역",
+      "star": 1.5,
+      "blurb": "평점 8.9 · 리뷰 5,666건. 신주쿠역 도보 3분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,666건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "These thoughtful extras really made the stay feel special.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "I would definately stay there again if I am back here.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Excellent location right on the metro and surrounding shops,",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "And I was very surprised when I saw such a great service.",
+          "score": "10",
+          "country": "Израиль",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "And the capsule itself was pretty comfy in my opinion.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "글랜시트 아키하바라 컴포트 캡슐 호텔 (GLANSIT AKIHABARA COMFORT CAPUSULE HOTEL)",
+      "agodaUrl": "https://www.agoda.com/glansit-akihabara-comfort-capusule-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2891306/0/f1d65365c8ef8ed33e2cdd569d9869eb.jpg?va=1&ce=2",
+      "score": 8.8,
+      "reviewCount": 7552,
+      "reviewCountFmt": "7,552건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "스에히로초역",
+      "star": 2,
+      "blurb": "평점 8.8 · 리뷰 7,552건. 스에히로초역 도보 2분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 7,552건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Pretty nice service and great location",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "They have a lounge area with free coffee, tea, and water.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel is very clean, and the staff is very accomodating.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Not a social place to stay, perfect to rest alone in peace.",
+          "score": "9.6",
+          "country": "France",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "I feel very satisfied with service and comfort in hotel.",
+          "score": "9.2",
+          "country": "Việt Nam",
+          "date": "2025.08",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "9h 나인아워즈 닌교초 (9h nine hours Ningyocho)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-ningyocho/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34334296/-1/65da2559f8c23e9a4c55ff8740266d13.jpg?va=1&ce=0",
+      "score": 8.6,
+      "reviewCount": 8618,
+      "reviewCountFmt": "8,618건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "닌교초역",
+      "star": 1.5,
+      "blurb": "평점 8.6 · 리뷰 8,618건. 닌교초역 도보 2분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 8,618건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The facilities are clean, modern, and well-organized.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The bathroom was spacious, comfortable, and spotless.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The place was spotless and very well maintained.",
+          "score": "9.2",
+          "country": "Portugal",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "My stay at 9h nine hours Ningyocho was a great experience!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Staff was super helpful and friendly with all my queries.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "퍼스트 캐빈 아카사카 (First Cabin Akasaka)",
+      "agodaUrl": "https://www.agoda.com/first-cabin-akasaka/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/116/1162051/1162051_16062118050043907103.jpg?va=1&ca=6&ce=1",
+      "score": 8.5,
+      "reviewCount": 2975,
+      "reviewCountFmt": "2,975건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 1,
+      "refLabel": "아카사카역",
+      "star": 1.5,
+      "blurb": "평점 8.5 · 리뷰 2,975건. 아카사카역 도보 1분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 2,975건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "So far the best cabin hotel i have ever experienced.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Friendly staffs, nice cafe, onsen hot pool at basement.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The place is very clean and the staff very helpful.",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "And onsen was awesome after a day exploring the sites.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The staff were friendly and the facilities top-notch.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.01",
+          "translated": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "북 티 베드 시부야 (Book Tea Bed SHIBUYA)",
+      "agodaUrl": "https://www.agoda.com/bookteabed-shibuya/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55140165/-1/867bbed5ffe030ce21adcbdf8b1b20e8.jpg?va=1&ce=0",
+      "score": 8.6,
+      "reviewCount": 5312,
+      "reviewCountFmt": "5,312건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 4,
+      "refLabel": "신센역",
+      "star": 3,
+      "blurb": "평점 8.6 · 리뷰 5,312건. 신센역 도보 4분, ₩ · 약 6만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,312건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Best hostel while I was stayed in the Tokyo one of them",
+          "score": "9.2",
+          "country": "대한민국",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Close to everything, shops, restaurants and metro station.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "And you are in the middle of the party, Shibuya city!",
+          "score": "9.6",
+          "country": "Romania",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Clubs, bars, supermarkets. Everything is very close.",
+          "score": "9.6",
+          "country": "Romania",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The staff cleaned everyday and you get fresh towels daily.",
+          "score": "7.6",
+          "country": "Canada",
+          "date": "2026.01",
+          "translated": false
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "fetchedAt": "2026-09-02T22:57:14.327Z",
+    "source": "agoda citySearch",
+    "daysAhead": 43,
+    "targetMonth": "2026-10",
+    "count": 6
+  }
+}

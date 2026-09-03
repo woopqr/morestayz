@@ -9,7 +9,7 @@
  */
 const fs = require('fs');
 const path = require('path');
-const { buildOne, buildSpecial } = require('./build');
+const { buildOne, buildSpecial, editorialTitle, editorialDescription, isCurrentOrFuture } = require('./build');
 
 const ROOT = __dirname;
 const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/site.json'), 'utf8'));
@@ -46,9 +46,9 @@ function articleMetas() {
   return fs.readdirSync(ART).filter(f => f.endsWith('.json')).map(f => {
     const d = JSON.parse(fs.readFileSync(path.join(ART, f), 'utf8'));
     return {
-      slug: d.slug, theme: d.theme, title: d.title, audience: d.audience, emoji: d.emoji,
+      slug: d.slug, theme: d.theme, title: editorialTitle(d), description: editorialDescription(d), audience: d.audience, emoji: d.emoji,
       city: d.city, season: d.season || '', travelMonthLabel: d.travelMonthLabel || '',
-      heroImg: d.heroImg || '', updated: d.updated || (d._meta && d._meta.fetchedAt) || '',
+      heroImg: d.heroImg || '', updated: d.updated || (d._meta && d._meta.fetchedAt) || '', indexable: isCurrentOrFuture(d),
     };
   }).sort((a, b) => String(b.updated).localeCompare(String(a.updated)));
 }
@@ -181,7 +181,7 @@ function regenAll(metas) {
 function regenSearchIndex(metas) {
   const data = metas.map(m => ({
     slug: m.slug, title: m.title, audience: m.audience, emoji: m.emoji,
-    city: m.city, season: m.season, month: m.travelMonthLabel, img: m.heroImg,
+    city: m.city, season: m.season, month: m.travelMonthLabel, img: m.heroImg, description: m.description || '',
   }));
   fs.writeFileSync(path.join(ROOT, 'articles.json'), JSON.stringify(data));
 }
@@ -193,6 +193,9 @@ function regenSitemap(metas, info) {
     { loc: BASE + '/pages/about.html', pri: '0.5', cf: 'monthly' },
     { loc: BASE + '/pages/contact.html', pri: '0.3', cf: 'yearly' },
     { loc: BASE + '/pages/privacy.html', pri: '0.3', cf: 'yearly' },
+    { loc: BASE + '/pages/methodology.html', pri: '0.6', cf: 'monthly' },
+    { loc: BASE + '/pages/editorial-policy.html', pri: '0.5', cf: 'monthly' },
+    { loc: BASE + '/pages/price-observatory.html', pri: '0.7', cf: 'daily' },
   ];
   for (let p = 2; p <= (info.homePages || 1); p++) urls.push({ loc: `${BASE}/page/${p}`, pri: '0.5', cf: 'daily' });
   info.catPageInfo.forEach(c => {
@@ -200,7 +203,7 @@ function regenSitemap(metas, info) {
     for (let p = 2; p <= c.total; p++) urls.push({ loc: `${BASE}/category/${c.id}/${p}`, pri: '0.4', cf: 'weekly' });
   });
   // 국내 특별기획(domestic)은 우선순위 상향(트래픽 핵심)
-  metas.forEach(m => urls.push({ loc: `${BASE}/articles/${m.slug}`, pri: m.theme === 'domestic' ? '0.9' : '0.8', cf: 'monthly', last: m.updated }));
+  metas.filter(m => m.theme === 'domestic' || m.indexable !== false).forEach(m => urls.push({ loc: `${BASE}/articles/${m.slug}`, pri: m.theme === 'domestic' ? '0.9' : '0.8', cf: 'monthly', last: m.updated }));
   const body = urls.map(u =>
     `  <url><loc>${u.loc}</loc><lastmod>${String(u.last || today).slice(0, 10)}</lastmod><changefreq>${u.cf}</changefreq><priority>${u.pri}</priority></url>`).join('\n');
   fs.writeFileSync(path.join(ROOT, 'sitemap.xml'),

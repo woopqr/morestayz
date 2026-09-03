@@ -20,7 +20,15 @@ const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/site.json'), 'utf8
 function escapeHtml(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
 function lookup(stack, key) {
   if (key === '.') return stack[stack.length - 1];
-  for (let i = stack.length - 1; i >= 0; i--) { const c = stack[i]; if (c && typeof c === 'object' && key in c) return c[key]; }
+  const parts = key.split('.');
+  for (let i = stack.length - 1; i >= 0; i--) {
+    let value = stack[i], found = true;
+    for (const part of parts) {
+      if (!value || typeof value !== 'object' || !(part in value)) { found = false; break; }
+      value = value[part];
+    }
+    if (found) return value;
+  }
   return undefined;
 }
 function findClose(tpl, from, name) {
@@ -118,6 +126,26 @@ function uniqueIntro(data) {
   return s;
 }
 
+// 기존 홍보형 제목을 검색 의도와 비교 대상을 바로 설명하는 제목으로 정규화한다.
+function editorialTitle(data) {
+  const city = data.city || '';
+  const audience = data.audience || '여행';
+  const month = data.travelMonthLabel ? ` ${data.travelMonthLabel}` : '';
+  return `${city} ${audience} 숙소 실제 비교${month} | 평점·가격·위치 분석`;
+}
+
+function editorialDescription(data) {
+  const count = (data.hotels || []).length;
+  return `${data.city} ${data.audience} 숙소 ${count}곳을 ${data.travelMonthLabel || '조회 시점'} 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.`;
+}
+
+function isCurrentOrFuture(data, now = new Date()) {
+  const ym = data._meta?.targetMonth || /^(\d{4})-(\d{2})/.exec(String(data.slug || '').match(/\d{4}-\d{2}$/)?.[0] || '')?.[0];
+  if (!ym) return true;
+  const [y, m] = ym.split('-').map(Number);
+  return y * 12 + m >= now.getUTCFullYear() * 12 + now.getUTCMonth() + 1;
+}
+
 function buildContext(data) {
   const themeKey = data.theme;
   const hotels = data.hotels.map(h => ({
@@ -129,23 +157,42 @@ function buildContext(data) {
     hasTypes: !!(h.travelerTypes && h.travelerTypes.distribution && h.travelerTypes.distribution.length),
     typeBarsHtml: typeBars(h.travelerTypes, themeKey),
     img: h.img || data.heroImg,
+    hasPrice: !!h.priceKRW || !/가격 변동|확인 불가/.test(h.priceText || ''),
+    priceStatus: h.priceStatus || (/가격 변동/.test(h.priceText || '') ? '조회 시점 가격 확인 불가' : '조회됨'),
+    locationStatus: h.locationStatus || (h.walkMin && h.refLabel ? '조회됨' : '위치 상세 확인 필요'),
+    sampleCount: h.travelerTypes?.total || (h.travelerTypes?.distribution || []).reduce((n, d) => n + (d.count || 0), 0),
   }));
   const canonical = `https://${SITE.domain}/articles/${data.slug}`;
+  const fetchedAt = data.methodology?.fetchedAt || data._meta?.fetchedAt || data.updated;
+  const sampleTotal = data.aggregate?.total || 0;
+  const title = editorialTitle(data);
+  const metaDescription = editorialDescription(data);
   return {
-    ...data, site: SITE, hotels,
+    ...data, title, metaDescription, site: SITE, hotels,
     intro: uniqueIntro(data),
     hasAggregate: !!data.aggregate,
     aggregateChartHtml: aggregateChart(data.aggregate, themeKey),
     canonical,
     ogImage: data.heroImg || '',
     adsense: SITE.adsense,
+    sourceName: data.methodology?.source || 'Agoda citySearch 검색 응답',
+    fetchedAtLabel: fetchedAt ? new Date(fetchedAt).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) : '',
+    searchCondition: data.methodology?.searchCondition || `${data.travelMonthLabel || ''} 조회 조건`,
+    sampleTotal,
+    sampleReliability: sampleTotal >= 50 ? '참고 가능한 표본' : '소표본·방향성 참고',
+    sampleNotice: data.methodology?.sampleNotice || '여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다.',
+    robotsContent: isCurrentOrFuture(data) ? 'index,follow,max-image-preview:large' : 'noindex,follow',
+    authorName: 'morestayz 데이터 편집팀',
+    updatedLabel: data.updated || String(fetchedAt || '').slice(0, 10),
     jsonld: JSON.stringify({
       '@context': 'https://schema.org', '@type': 'Article',
-      headline: data.title, description: data.metaDescription,
+      headline: title, description: metaDescription,
       datePublished: data.updated, dateModified: data.updated,
       image: data.heroImg || undefined,
-      author: { '@type': 'Organization', name: SITE.name },
-      publisher: { '@type': 'Organization', name: SITE.name },
+      author: { '@type': 'Organization', name: 'morestayz 데이터 편집팀', url: `https://${SITE.domain}/pages/about.html` },
+      publisher: { '@type': 'Organization', name: SITE.name, url: `https://${SITE.domain}/` },
+      about: [{ '@type': 'Thing', name: data.city }, { '@type': 'Thing', name: data.audience }],
+      isPartOf: { '@type': 'WebSite', name: SITE.name, url: `https://${SITE.domain}/` },
       mainEntityOfPage: canonical,
     }).replace(/</g, '\\u003c'),
   };
@@ -224,4 +271,4 @@ if (require.main === module) {
     if (fs.existsSync(dir)) fs.readdirSync(dir).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
   }
 }
-module.exports = { buildOne, buildSpecial, buildContext, render, aggregateChart, typeBars };
+module.exports = { buildOne, buildSpecial, buildContext, render, aggregateChart, typeBars, editorialTitle, editorialDescription, isCurrentOrFuture };

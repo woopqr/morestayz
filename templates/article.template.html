@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{title}} | {{site.name}}</title>
 <meta name="description" content="{{metaDescription}}">
+<meta name="robots" content="{{robotsContent}}">
 <link rel="canonical" href="{{canonical}}">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{title}}">
@@ -28,6 +29,7 @@
 
 <article class="post">
   <a class="backbar" href="/">← {{site.name}} 홈</a>
+  <nav class="crumb" aria-label="현재 위치"><a href="/">홈</a> <span>›</span> <a href="/category/{{theme}}">{{audience}}</a> <span>›</span> <span>{{city}} 숙소 비교</span></nav>
 
   <!-- 매거진 히어로 -->
   <div class="hero">
@@ -36,10 +38,22 @@
       <div class="kicker"><span class="tag">{{emoji}} {{audience}}</span>{{#season}}<span class="ssn">{{season}}</span>{{/season}}<span class="mon">{{travelMonthLabel}} 여행 준비</span></div>
       <h1>{{title}}</h1>
       <p class="lede">{{intro}}</p>
+      <p class="byline">{{authorName}} · 최종 수정 {{updatedLabel}} · <a href="/pages/methodology.html">분석 방법</a></p>
     </div>
   </div>
 
   <div class="callout verdict"><span class="vlabel">한 줄 결론</span>{{{verdict}}}</div>
+
+  <section class="databox evidence-box">
+    <h2>분석 기준과 데이터 범위</h2>
+    <dl class="evidence-list">
+      <div><dt>데이터 출처</dt><dd>{{sourceName}}</dd></div>
+      <div><dt>조회 시각</dt><dd>{{fetchedAtLabel}}</dd></div>
+      <div><dt>검색 조건</dt><dd>{{searchCondition}}</dd></div>
+      <div><dt>유형 분석 표본</dt><dd>{{sampleTotal}}건 · {{sampleReliability}}</dd></div>
+    </dl>
+    <p class="dsub">{{sampleNotice}} 가격·재고·시설 정보는 조회 시점 이후 달라질 수 있으며, 확인되지 않은 값은 추정하지 않고 별도로 표시합니다.</p>
+  </section>
 
   {{#seasonNote}}<p class="ssnnote">🗓️ {{travelMonthLabel}} · {{season}} 팁: {{seasonNote}}</p>{{/seasonNote}}
 
@@ -47,7 +61,7 @@
   {{#hasAggregate}}
   <section class="databox">
     <h2>📊 이 숙소들은 어떤 여행자에게 인기일까</h2>
-    <p class="dsub">{{city}} {{audience}}로 고른 숙소들의 실제 리뷰를 여행자 유형별로 집계했습니다. (성별이 아닌, 아고다가 제공하는 동행 유형 기준)</p>
+    <p class="dsub">{{city}} {{audience}} 후보 숙소의 검색 응답에 포함된 리뷰 스니펫을 동행 유형별로 집계했습니다. 전체 리뷰 구성을 뜻하지 않으며, 표본의 방향성을 비교하는 보조 지표입니다.</p>
     {{{aggregateChartHtml}}}
   </section>
   {{/hasAggregate}}
@@ -67,6 +81,7 @@
     </div>
     <div class="bd">
       <p class="blurb">{{blurb}}</p>
+      <p class="field-status">가격: {{priceStatus}} · 위치: {{locationStatus}} · 유형 표본: {{sampleCount}}건</p>
       <div class="meta">{{#metaTags}}<span>{{.}}</span>{{/metaTags}}</div>
       {{#hasTypes}}{{{typeBarsHtml}}}{{/hasTypes}}
       {{#hasReviews}}
@@ -82,12 +97,12 @@
 
   <div class="callout basis">
     <p class="bt">🔎 어떻게 골랐나</p>
-    <p>{{audience}} 투숙객 리뷰 비중과 평점이 높은 숙소를 우선 선별하고, 가격 대비 만족도(가성비)로 보정했습니다. 평점은 아고다 실제 투숙객 리뷰 기준이며 리뷰 수가 적은 숙소는 베이지안 보정을 적용합니다. 여행자 유형 분포는 리뷰의 동행 유형 태그를 집계한 것으로, 성별 정보는 사용하지 않습니다. 가격·여유는 수집 시점({{travelMonthLabel}} 기준 조회) 값이며 실시간 가격은 예약창에서 확인하세요.</p>
+    <p>아고다 검색 응답의 누적 평점·전체 리뷰 수, 조회 가격, 교통 거리를 사용했습니다. 평점은 리뷰 수에 따른 베이지안 보정 후 가격 구간과 결합하며, 여행자 유형 적합도는 검색 응답에 포함된 스니펫 표본으로만 계산합니다. 누락된 가격·시설·위치는 추정하지 않습니다. 이 순위는 위 조회 조건에서의 비교 결과이며 실시간 가격과 재고는 예약창에서 다시 확인해야 합니다.</p>
   </div>
 
   <div class="outro">
     <h2>🌙 {{city}}, {{travelMonthLabel}} 여행이라면</h2>
-    <p>위 숙소들은 {{audience}} 관점에서 데이터로 검증한 곳입니다. 날짜가 정해졌다면 아고다에서 {{city}} 전체 숙소를 한 번에 비교해보세요.</p>
+    <p>위 결과는 {{audience}} 관점에서 동일한 기준으로 비교한 참고 자료입니다. 날짜가 정해졌다면 현재 가격과 객실 조건을 다시 확인해 {{city}} 숙소를 비교해보세요.</p>
     <a class="bigcta" href="{{cityUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 {{city}} 전체 숙소 최저가 검색</a>
   </div>
 
@@ -95,7 +110,7 @@
 
   <nav class="pagenav">
     <a href="/">← 다른 여행 큐레이션 보기</a>
-    <span><a href="/pages/about.html">소개</a> · <a href="/pages/privacy.html">개인정보처리방침</a> · <a href="/pages/contact.html">문의</a></span>
+    <span><a href="/pages/methodology.html">분석 방법</a> · <a href="/pages/editorial-policy.html">편집 정책</a> · <a href="/pages/privacy.html">개인정보처리방침</a> · <a href="/pages/contact.html">문의</a></span>
   </nav>
 </article>
 

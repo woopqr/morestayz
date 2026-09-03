@@ -30,6 +30,7 @@ function combos() {
 }
 
 function refill({ count = 3 } = {}) {
+  if (count <= 0) { console.log('✓ refill: 신규 발행 없음(가격 관찰 모드)'); return 0; }
   if (!fs.existsSync(ART)) fs.mkdirSync(ART, { recursive: true });
   let made = 0;
   for (const k of combos()) {

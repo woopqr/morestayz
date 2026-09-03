@@ -6,7 +6,7 @@
       "audience": "연인여행",
       "emoji": "💑",
       "preferType": "couple",
-      "titlePattern": "[연인여행] {city} - {hook}",
+      "titlePattern": "{city} 연인여행 숙소 선택 분석 - {hook}",
       "hooks": [
         "센스있는 연인의 탁월한 선택",
         "둘만의 시간을 빛내줄 숙소",
@@ -22,7 +22,7 @@
       "audience": "가족여행",
       "emoji": "👨‍👩‍👧",
       "preferType": "family",
-      "titlePattern": "[가족여행] {city} - {hook}",
+      "titlePattern": "{city} 가족여행 숙소 선택 분석 - {hook}",
       "hooks": [
         "최고의 남편이 선택하는 가성비 숙소",
         "아이도 부모도 만족한 가족 호텔",
@@ -38,7 +38,7 @@
       "audience": "아이와함께 호캉스",
       "emoji": "🧒",
       "preferType": "family",
-      "titlePattern": "[아이와함께] {city} - {hook}",
+      "titlePattern": "{city} 아이동반 숙소 실제 비교 - {hook}",
       "hooks": [
         "아이가 신나는 여름 물놀이 호캉스",
         "가족 물놀이하기 좋은 여름 호텔",
@@ -55,7 +55,7 @@
       "emoji": "🏊",
       "preferType": "family",
       "requireFeature": "pool",
-      "titlePattern": "[여름 물놀이] {city} - {hook}",
+      "titlePattern": "{city} 수영장 호텔 시설 비교 - {hook}",
       "hooks": [
         "수영장·키즈풀 갖춘 여름 물놀이 호텔",
         "아이와 물놀이하기 좋은 가성비 호캉스",
@@ -72,7 +72,7 @@
       "emoji": "🐶",
       "preferType": "couple",
       "requireFeature": "pet",
-      "titlePattern": "[반려견 동반] {city} - {hook}",
+      "titlePattern": "{city} 반려견 동반 숙소 선택 가이드 - {hook}",
       "hooks": [
         "반려견과 함께 묵기 좋은 힐링 숙소",
         "반려동물 동반 가능한 가성비 호텔",
@@ -88,7 +88,7 @@
       "audience": "혼자여행",
       "emoji": "🧳",
       "preferType": "solo",
-      "titlePattern": "[혼자여행] {city} - {hook}",
+      "titlePattern": "{city} 혼자여행 숙소 선택 분석 - {hook}",
       "hooks": [
         "혼행자가 조용히 쉬어가는 숙소",
         "치안·위치 좋은 1인 가성비 호텔",
@@ -104,7 +104,7 @@
       "audience": "친구여행",
       "emoji": "🧑‍🤝‍🧑",
       "preferType": "friends",
-      "titlePattern": "[친구여행] {city} - {hook}",
+      "titlePattern": "{city} 친구여행 숙소 실제 비교 - {hook}",
       "hooks": [
         "우정 여행을 살려줄 가성비 숙소",
         "다 같이 묵기 좋은 넓은 호텔",

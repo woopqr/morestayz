@@ -11,13 +11,16 @@ const { execSync } = require('child_process');
 const { refill } = require('./auto-fetch');
 const { rebuildAll } = require('./build-all');
 
-const BATCH = Number(process.env.BATCH) || 3;
+const parsedBatch = Number(process.env.BATCH);
+const BATCH = Number.isFinite(parsedBatch) ? Math.max(0, parsedBatch) : 0;
 
-(function main() {
+(async function main() {
   const made = refill({ count: BATCH });
+  try { await require('./observe-prices').observe(); }
+  catch (e) { console.error('가격 관찰 실패(기존 데이터 유지): ' + String(e.message).slice(0, 160)); }
   // 특별기획(국내) 숙소 실시간 수집 — cityId 있는 특별글만, 실패해도 계속
   try { execSync('node gen-special.js', { cwd: __dirname, stdio: 'inherit', timeout: 180000 }); }
   catch (e) { console.error('특별기획 수집 실패(건너뜀): ' + String(e.message).slice(0, 120)); }
   const metas = rebuildAll();
   console.log(`✓ publish 완료: 신규 ${made}개 · 전체 ${metas.length}개`);
-})();
+})().catch(e => { console.error(e); process.exit(1); });

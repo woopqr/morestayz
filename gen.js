@@ -14,6 +14,7 @@ const path = require('path');
 const af = require('./lib/agoda-fetch');
 const md = require('./lib/morestaz-data');
 const agoda = require('./lib/agoda');
+const { qualityForHotel, validateArticle } = require('./lib/content-quality');
 
 const ROOT = __dirname;
 const THEMES = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/themes.json'), 'utf8'));
@@ -132,13 +133,19 @@ const shortName = s => String(s).split('(')[0].trim();
     const refLabel = h.refLandmark || '주요 역';
     const typeTxt = tt ? `${theme.audience.replace('여행', '')} 리뷰 비중 ${(tt.distribution.find(d => d.key === theme.preferType) || {}).pct || 0}%` : '';
     const blurb = `평점 ${h.score} · 리뷰 ${Number(h.reviewCount).toLocaleString('en-US')}건. ${refLabel} 도보 ${h.walkMin}분, ${h.priceText}.${typeTxt ? ' ' + typeTxt + '.' : ''}`;
-    return {
+    const hotel = {
       rank: h.rank, name: h.name, agodaUrl: h.agodaUrl,
       img: h.img ? 'https:' + h.img.replace(/^https?:/, '') : '',
       score: h.score, reviewCount: h.reviewCount,
       reviewCountFmt: Number(h.reviewCount).toLocaleString('en-US') + '건',
       priceText: h.priceText, walkMin: h.walkMin, refLabel,
       star: h.star || null,
+      propertyId: h.propertyId,
+      priceKRW: h.priceKRW || null,
+      priceStatus: h.priceKRW ? '조회됨' : '조회 시점 가격 확인 불가',
+      distanceM: h.distanceM ?? null,
+      locationStatus: h.distanceM != null && h.refLandmark ? '조회됨' : '위치 상세 확인 필요',
+      facilities: h.featureTitles || [],
       blurb, metaTags: tags,
       travelerTypes: tt ? { topLabel: tt.topLabel, topPct: tt.topPct, distribution: tt.distribution } : null,
       reviews: (h.reviews || []).map(r => ({
@@ -146,6 +153,8 @@ const shortName = s => String(s).split('(')[0].trim();
         country: r.country || '', date: r.date || '', translated: !!r.translated,
       })),
     };
+    hotel.quality = qualityForHotel(hotel);
+    return hotel;
   });
 
   const heroImg = hotels[0].img || '';
@@ -163,8 +172,18 @@ const shortName = s => String(s).split('(')[0].trim();
     heroImg, heroAlt: `${city} ${theme.audience}`,
     updated: new Date().toISOString().slice(0, 10),
     hotels,
+    methodology: {
+      source: 'Agoda citySearch 검색 응답',
+      fetchedAt: new Date().toISOString(),
+      searchCondition: `성인 1명·객실 1개·1박·KRW·${travelMonthLabel} 중순 기준`,
+      sampleNotice: '여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다.',
+    },
     _meta: { fetchedAt: new Date().toISOString(), source: 'agoda citySearch', daysAhead, targetMonth: `${tm.y}-${pad(tm.m)}`, count: hotels.length },
   };
+
+  const validation = validateArticle(data);
+  data._meta.quality = validation;
+  if (!validation.ok) throw new Error('품질 검증 실패: ' + validation.errors.join(' / '));
 
   const outPath = path.join(ROOT, 'data/articles', slug + '.json');
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2));

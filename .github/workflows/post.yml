@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       batch:
-        description: '이번 실행 발행 수'
+        description: '수동 신규 발행 수(기본 0, 검수 후 지정)'
         required: false
-        default: '3'
+        default: '0'
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
 
       - name: Generate + build (batched)
         env:
-          BATCH: ${{ github.event.inputs.batch || '3' }}
+          BATCH: ${{ github.event.inputs.batch || '0' }}
         run: node publish.js
 
       - name: Commit & push if changed

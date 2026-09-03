@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "cursor": 1,
+  "observations": [
+    {
+      "city": "발리",
+      "citySlug": "bali",
+      "cityId": 17193,
+      "observedAt": "2026-09-03T22:55:08.327Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "920599",
+          "name": "암나야 리조트 쿠타 (Amnaya Resort Kuta)",
+          "priceKRW": 186600,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/amnaya-resort-kuta/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "1251",
+          "name": "프라임 플라자 호텔 사누르 - 발리 (Prime Plaza Hotel Sanur - Bali)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/prime-plaza-hotel-sanur-bali_2/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "7227653",
+          "name": "테갈 사리 어코모데이션 (Tegal Sari Accomodation)",
+          "priceKRW": 94051,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/tegal-sari-accomodation/hotel/bali-id.html?cid=1925461"
+        }
+      ]
+    }
+  ]
+}

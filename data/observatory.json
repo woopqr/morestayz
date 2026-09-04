@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 1,
+  "cursor": 2,
   "observations": [
     {
       "city": "발리",
@@ -30,6 +30,142 @@
           "priceKRW": 94051,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/tegal-sari-accomodation/hotel/bali-id.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "방콕",
+      "citySlug": "bangkok",
+      "cityId": 9395,
+      "observedAt": "2026-09-04T22:41:42.467Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "34244664",
+          "name": "오리올 레지던스 (Oriole Residence)",
+          "priceKRW": 50359,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/oriole-residence/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "32841636",
+          "name": "그랜드 BS 에어포트 호텔 수완나품 (Grand BS Airport Hotel Suvarnabhumi)",
+          "priceKRW": 51125,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-bs-airport-hotel-suvarnabhumi/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "77648547",
+          "name": "파악 호텔 수완나품 (PAAK Hotel Suvarnabhumi)",
+          "priceKRW": 61353,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/paak-hotel-bangkok/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "290437",
+          "name": "루암칫 플라자 호텔 (Ruamchitt Plaza Hotel)",
+          "priceKRW": 54914,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/oyo-108-ruamchitt-plaza-hotel/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "8166708",
+          "name": "컬리지 하우스. (College Haus.)",
+          "priceKRW": 47003,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/college-haus-rangnam/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "85868190",
+          "name": "팔레트 방콕 에어포트 호텔 (Palette Bangkok Airport Hotel)",
+          "priceKRW": 19222,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/palette-bangkok-airport-hotel/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "79564196",
+          "name": "GO Hotel Bangkok Suvarnabhumi Airport",
+          "priceKRW": 52580,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/go-hotel-bangok-suvarnabhumi-airport/hotel/all/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "32901818",
+          "name": "12 더 레지던스 호텔 (12 The Residence Hotel)",
+          "priceKRW": 35876,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/12-the-residence-hotel-apartment/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "296153",
+          "name": "W 21 호텔 방콕 (W 21 HOTEL Bangkok)",
+          "priceKRW": 36020,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/serene-asoke-suites/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "10247530",
+          "name": "이비스 방콕 수쿰빗 24 (Ibis Bangkok Sukhumvit 24)",
+          "priceKRW": 108314,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ibis-bangkok-sukhumvit-24/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "38029253",
+          "name": "코지 블루 수완나품 (Cozy Blu Suvarnabhumi)",
+          "priceKRW": 35193,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h37891464/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "1269836",
+          "name": "수완나품 빌 에어포트 호텔 (Suvarnabhumi Ville Airport Hotel)",
+          "priceKRW": 53696,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/suvarnabhumi-ville-airport-hotel_2/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "4497893",
+          "name": "더 쿼터 랏프라오 바이 UHG (The Quarter Ladprao by UHG)",
+          "priceKRW": 65508,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-quarter-ladprao-by-uhg/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "59351136",
+          "name": "힐튼 가든 인 방콕 리버사이드 (Hilton Garden Inn Bangkok Riverside)",
+          "priceKRW": 210177,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hilton-garden-inn-bangkok-riverside/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "7451105",
+          "name": "디발럭스 리조트 앤 스파 방콕 수완나품 에어포트 (Divalux Resort and Spa Bangkok Suvarnabhumi Airport)",
+          "priceKRW": 60306,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/divalux-resort-spa-bangkok-by-compass-hospitality/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "2203",
+          "name": "맨해튼 호텔 (Manhattan Hotel)",
+          "priceKRW": 66433,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/manhattan-hotel/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "10653",
+          "name": "아바니 라차다 방콕 호텔 (Avani Ratchada Bangkok Hotel)",
+          "priceKRW": 127875,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-mercure-fortune_6/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "68793035",
+          "name": "돈므앙 호텔 근처 (Near Don Mueang Hotel)",
+          "priceKRW": 53985,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/near-don-mueang-hotel/hotel/bangkok-th.html?cid=1925461"
         }
       ]
     }

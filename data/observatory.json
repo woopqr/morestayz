@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 2,
+  "cursor": 3,
   "observations": [
     {
       "city": "발리",
@@ -166,6 +166,51 @@
           "priceKRW": 53985,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/near-don-mueang-hotel/hotel/bangkok-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "보라카이",
+      "citySlug": "boracay",
+      "cityId": 15903,
+      "observedAt": "2026-09-05T22:32:52.348Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "185928",
+          "name": "아샤 프리미어 스위트 (Asya Premier Suites)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/asya-premier-suites/hotel/boracay-island-ph.html?cid=1925461"
+        },
+        {
+          "key": "176889",
+          "name": "헤난 라군 리조트 (Henann Lagoon Resort)",
+          "priceKRW": 75002,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/henann-lagoon-resort/hotel/boracay-island-ph.html?cid=1925461"
+        },
+        {
+          "key": "36382196",
+          "name": "캐니언 호텔 앤 리조트 보라카이 (Canyon Hotels & Resorts Boracay)",
+          "priceKRW": 40190,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/canyon-hotels-resorts-boracay/hotel/boracay-island-ph.html?cid=1925461"
+        },
+        {
+          "key": "266869",
+          "name": "레반틴 보라카이 리조트 (Levantin Boracay Resort)",
+          "priceKRW": 48588,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/levantin-boracay-resort/hotel/boracay-island-ph.html?cid=1925461"
+        },
+        {
+          "key": "68719206",
+          "name": "럭키티토 다이버스 보라카이 아일랜드 리조트 (LuckyTito Divers Boracay Island Resorts )",
+          "priceKRW": 67336,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/luckytito-divers-boracay-island-resorts/hotel/boracay-island-ph.html?cid=1925461"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 4,
+  "cursor": 5,
   "observations": [
     {
       "city": "발리",
@@ -347,6 +347,44 @@
           "priceKRW": 45000,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/travelight/hotel/busan-kr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "세부",
+      "citySlug": "cebu",
+      "cityId": 4001,
+      "observedAt": "2026-09-07T23:13:24.205Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "4859796",
+          "name": "애플턴 부티크 호텔 세부 (Appleton Boutique Hotel Cebu)",
+          "priceKRW": 36641,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/appleton-boutique-hotel-cebu/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "12462797",
+          "name": "세다 센트럴 블록 세부 시티 (Seda Central Bloc Cebu City)",
+          "priceKRW": 115998,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/seda-central-bloc-cebu/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "4913538",
+          "name": "원 센트럴 호텔 (One Central Hotel)",
+          "priceKRW": 46366,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/one-central-hotel/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "1265222",
+          "name": "C스위트 앳 8 뉴타운 막탄 세부 (CSuites at 8 Newtown Mactan Cebu)",
+          "priceKRW": 51260,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/csuites-at-8-newtown-mactan-cebu/hotel/cebu-ph.html?cid=1925461"
         }
       ]
     }

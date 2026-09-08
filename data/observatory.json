@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 5,
+  "cursor": 6,
   "observations": [
     {
       "city": "발리",
@@ -385,6 +385,163 @@
           "priceKRW": 51260,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/csuites-at-8-newtown-mactan-cebu/hotel/cebu-ph.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "치앙마이",
+      "citySlug": "chiangmai",
+      "cityId": 7401,
+      "observedAt": "2026-09-08T23:05:53.190Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "215793",
+          "name": "디 에어포트 그리너리 호텔 (The Airport Greenery Hotel)",
+          "priceKRW": 24743,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/airport-greenery-hotel-serviced-apartment/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "23388650",
+          "name": "말리 호텔 (MALEE HOTEL)",
+          "priceKRW": 20000,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/malee-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "128842",
+          "name": "선데이 레인포레스트 치앙마이 호텔 (Sunday Rainforest Chiangmai Hotel )",
+          "priceKRW": 20848,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rainforest-boutique-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "16351177",
+          "name": "람푸 하우스 치앙마이 (Lamphu House Chiang Mai)",
+          "priceKRW": 47917,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/lamphu-house-chiang-mai_2/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "1402656",
+          "name": "더 커먼 호스텔 (성인 전용) (The Common Hostel (Adult Only))",
+          "priceKRW": 15587,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hostel-by-bed/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "36955001",
+          "name": "아미리 플레이스 호텔 (AMIRI PLACE HOTEL )",
+          "priceKRW": 62975,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/amiri-place-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "757592",
+          "name": "마라야 호텔 (Maraya Hotel)",
+          "priceKRW": 61450,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/maraya-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "4849836",
+          "name": "호텔 마유 치앙마이 (Hotel MAYU Chiang Mai)",
+          "priceKRW": 108865,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-mayu_2/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "2543107",
+          "name": "알렉사 님만 호스텔 (ALEXA Nimman Hostel)",
+          "priceKRW": 16804,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/alexa-hostel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "947252",
+          "name": "크로스 바이브 치앙마이 디셈 님만 호텔 (Cross Vibe Chiang Mai Decem Nimman Hotel)",
+          "priceKRW": 46657,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/x2-vibe-chiang-mai-decem-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "573144",
+          "name": "그린 타이거 하우스 (Green Tiger House)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/green-tiger-house_2/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "13579740",
+          "name": "노른 님만13 부티크 호텔 치앙마이 (NORN Nimman13 Boutique Hotel Chiangmai)",
+          "priceKRW": 80517,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/norn-boutique-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "1155923",
+          "name": "문드래곤 호텔 치앙마이 (Moondragon Hotel Chiang Mai)",
+          "priceKRW": 65981,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/moondragon-hotel-chiang-mai/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "81440672",
+          "name": "토프 호텔 (Taupe Hotel)",
+          "priceKRW": 66843,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/taupe-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "267499",
+          "name": "이비스 스타일 치앙마이 (ibis Styles Chiang Mai)",
+          "priceKRW": 41364,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ibis-styles-chiang-mai-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "80466449",
+          "name": "나린트라 헤리티지 (Narinthra Heritage)",
+          "priceKRW": 167030,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/narinthra-heritage/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "47483067",
+          "name": "리조트 호시하나 (resort hoshihana)",
+          "priceKRW": 77439,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/resort-hoshihana/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "48944",
+          "name": "두앙타완 호텔 (Duangtawan Hotel)",
+          "priceKRW": 58314,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/duangtawan-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "32200215",
+          "name": "키리 호텔 치앙마이 (KIRI Hotel Chiang Mai)",
+          "priceKRW": 118487,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kiri-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "10754",
+          "name": "두짓 프린세스 치앙마이 (Dusit Princess Chiang Mai)",
+          "priceKRW": 128689,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/dusit-princess-chiang-mai-hotel/hotel/chiang-mai-th.html?cid=1925461"
+        },
+        {
+          "key": "868158",
+          "name": "솜왕 부티크 하우스 (Somwang Boutique House)",
+          "priceKRW": 69205,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/somwang-boutique-house/hotel/chiang-mai-th.html?cid=1925461"
         }
       ]
     }

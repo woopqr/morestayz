@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 6,
+  "cursor": 7,
   "observations": [
     {
       "city": "발리",
@@ -542,6 +542,44 @@
           "priceKRW": 69205,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/somwang-boutique-house/hotel/chiang-mai-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "대구",
+      "citySlug": "daegu",
+      "cityId": 17232,
+      "observedAt": "2026-09-09T22:51:24.694Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "55855679",
+          "name": "대구 대구공항 보잉 호텔 (Daegu Airport Boing Hotel)",
+          "priceKRW": 59622,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/daegu-daegu-airport-boing-hotel/hotel/daegu-kr.html?cid=1925461"
+        },
+        {
+          "key": "77637834",
+          "name": "크리스탈 호텔 (Crystal Hotel)",
+          "priceKRW": 97728,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h77637834/hotel/daegu-kr.html?cid=1925461"
+        },
+        {
+          "key": "928895",
+          "name": "호텔 탑 대구 (Hotel Top Daegu)",
+          "priceKRW": 59609,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-top-daegu/hotel/daegu-kr.html?cid=1925461"
+        },
+        {
+          "key": "9828151",
+          "name": "노블스테이 호텔 (Noblestay Hotel)",
+          "priceKRW": 161641,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/noblestay/hotel/daegu-kr.html?cid=1925461"
         }
       ]
     }

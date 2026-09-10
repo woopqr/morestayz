@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 7,
+  "cursor": 8,
   "observations": [
     {
       "city": "발리",
@@ -580,6 +580,23 @@
           "priceKRW": 161641,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/noblestay/hotel/daegu-kr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "달랏",
+      "citySlug": "dalat",
+      "cityId": 15932,
+      "observedAt": "2026-09-10T22:52:35.531Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "41455514",
+          "name": "골디엔트 부티크 호텔 (Goldient Boutique Hotel)",
+          "priceKRW": 80007,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/goldient-boutique-hotel/hotel/dalat-vn.html?cid=1925461"
         }
       ]
     }

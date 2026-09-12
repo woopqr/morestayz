@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 9,
+  "cursor": 10,
   "observations": [
     {
       "city": "발리",
@@ -782,6 +782,121 @@
           "priceKRW": 65807,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/tan-phuong-nam-galaxy/hotel/da-nang-vn.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "후쿠오카",
+      "citySlug": "fukuoka",
+      "cityId": 16527,
+      "observedAt": "2026-09-12T22:44:45.847Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "16143404",
+          "name": "9h 나인아워즈 하카타 스테이션 (9h nine hours Hakata station)",
+          "priceKRW": 32025,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nine-hours-hakata-station/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "6947589",
+          "name": "9h 나인아워즈 나카스카와바타 스테이션 (9h nine hours Nakasukawabata Station)",
+          "priceKRW": 33972,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nine-hours-nakasukawabata-station/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "7616486",
+          "name": "더 밀레니얼스 후쿠오카 (The Millennials Fukuoka)",
+          "priceKRW": 46455,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-millennials-fukuoka_3/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "37767651",
+          "name": "웰캐빈 텐진 - 남성 전용 (WELLCABIN TENJIN - Male Only)",
+          "priceKRW": 26688,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/wellcabin-tenjin/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "72126314",
+          "name": "퀸테사 호텔 후쿠오카와타나베도오리 코믹 앤 북스 (Quintessa Hotel Fukuokawatanabedouri Comic&Books)",
+          "priceKRW": 36965,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/comic-cabin/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "28237483",
+          "name": "APA 호텔 하카타 기온 에키마에 (APA Hotel Hakata Gion Ekimae)",
+          "priceKRW": 70529,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-hakata-gion-ekimae-h28237483/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "410788",
+          "name": "호텔 포르자 하카타에키 치쿠시-구치 I (Hotel Forza Hakataeki Chikushi-Guchi I)",
+          "priceKRW": 105947,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-forza-hakataeki-chikushi-guchi-i/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "18174541",
+          "name": "호텔 라이브맥스 후쿠오카 텐진 웨스트 (HOTEL LiVEMAX Fukuoka Tenjin WEST)",
+          "priceKRW": 59606,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-livemax-fukuoka-tenjin-west/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "633546",
+          "name": "퍼스트 캐빈 하카타 (First Cabin Hakata)",
+          "priceKRW": 47161,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/first-cabin-hakata/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "20445641",
+          "name": "APA Hotel & Resort Hakata Ekihigashi",
+          "priceKRW": 70889,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-and-resort-hakata-ekihigashi/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "13428918",
+          "name": "그랜드 케빈 텐진 미나미 (Grand Cabin Tenjin Minami)",
+          "priceKRW": 61135,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-cabin-tenjin-minami/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "193769",
+          "name": "베셀 인 하카타 나카스 (Vessel Inn Hakata Nakasu)",
+          "priceKRW": 91341,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/vessel-inn-hakata-nakasu/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "2613173",
+          "name": "몬탄 하카타 (montan HAKATA)",
+          "priceKRW": 38671,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/montan-hakata-hostel/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "65747029",
+          "name": "후쿠오카 게스트하우스 짓카 (Fukuoka Guest House Jikka)",
+          "priceKRW": 27973,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/fukuoka-guest-house-jikka-h16344768/hotel/fukuoka-jp.html?cid=1925461"
+        },
+        {
+          "key": "65782",
+          "name": "도요호텔 (TOYOHOTEL)",
+          "priceKRW": 61545,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/toyo-hotel-fukuoka-hakata/hotel/fukuoka-jp.html?cid=1925461"
         }
       ]
     }

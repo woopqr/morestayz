@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 10,
+  "cursor": 11,
   "observations": [
     {
       "city": "발리",
@@ -897,6 +897,128 @@
           "priceKRW": 61545,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/toyo-hotel-fukuoka-hakata/hotel/fukuoka-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "하노이",
+      "citySlug": "hanoi",
+      "cityId": 2758,
+      "observedAt": "2026-09-13T22:45:24.922Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "78428713",
+          "name": "하노이 레일웨이 캡슐 (Hanoi Railway Capsule)",
+          "priceKRW": 9137,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hanoi-railway-capsule/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "48616211",
+          "name": "모토고 호스텔 (MOTOGO  Hostel)",
+          "priceKRW": 12614,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/motogo-hostel/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "10960",
+          "name": "하노이 대우 호텔 (Hanoi Daewoo Hotel)",
+          "priceKRW": 112185,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hanoi-daewoo-hotel/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "23696503",
+          "name": "카리용 부티크 호텔 (Carillon Boutique Hotel)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/carillon-boutique-hotel/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "36144486",
+          "name": "마델리스 팰리스 호텔 앤 스파 (Madelise Palace Hotel & Spa)",
+          "priceKRW": 39605,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-maxwell-hotel/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "59315710",
+          "name": "하노이 르 샤토 호텔 앤 스파 (Hanoi Le Chateau Hotel & Spa)",
+          "priceKRW": 115107,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hanoi-le-chateau-hotel/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "84364738",
+          "name": "하노이 캡슐 스테이션 호스텔 (Hanoi Capsule Station Hostel)",
+          "priceKRW": 8385,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hanoi-capsule-station-hostel/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "74741100",
+          "name": "벨빌라 웨스트 레이크 하노이 근처, 쭉박 레이크 구 르 그랜드 - 더 센트럴 파크 (Belvilla near West Lake Hanoi, Truc Bach Lake formerly Le Grand - The Central Park)",
+          "priceKRW": 31991,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/belvilla-le-grand-the-central-park/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "3552431",
+          "name": "벤데시르 호텔 앤 스파 (Bendecir Hotel & Spa)",
+          "priceKRW": 52953,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hanoi-babylon-garden-hotel-spa_2/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "665815",
+          "name": "롯데 호텔 하노이 (Lotte Hotel Hanoi)",
+          "priceKRW": 263894,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/lotte-hotel-hanoi/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "302780",
+          "name": "망고 호텔 - 르 두안 (Mango Hotel - Le Duan)",
+          "priceKRW": 46628,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mango-hotel-le-duan/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "86465845",
+          "name": "슈퍼 호텔 하노이 - 그랜드 오프닝 인 17 마치 2026 (SUPER HOTEL HANOI - Grand Opening in 17 March 2026)",
+          "priceKRW": 96139,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/super-hotel-hanoi/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "75622659",
+          "name": "블루 스카이 노이바이 호텔 앤 풀 (BLUE SKY NOI BAI HOTEL AND POOL)",
+          "priceKRW": 53737,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/blue-sky-noi-bai-hotel-and-pool/hotel/dong-anh-vn.html?cid=1925461"
+        },
+        {
+          "key": "74577572",
+          "name": "제이드메이 에어포트 호텔 (Jademay Airport Hotel)",
+          "priceKRW": 37104,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jademay-airport-hotel/hotel/giai-lac-vn.html?cid=1925461"
+        },
+        {
+          "key": "37842612",
+          "name": "위코지 노이 미에우 - 셀프 체크인, 디 올드 쿼터 (WECOZY Noi Mieu - Self Check-in, The Old Quarter)",
+          "priceKRW": 41894,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/wecozy-noi-mieu/hotel/hanoi-vn.html?cid=1925461"
+        },
+        {
+          "key": "38583105",
+          "name": "L7 웨스트 레이크 하노이 바이 롯데 호텔 (L7 WEST LAKE HANOI by LOTTE HOTELS)",
+          "priceKRW": 222581,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/l7-west-lake-hanoi/hotel/hanoi-vn.html?cid=1925461"
         }
       ]
     }

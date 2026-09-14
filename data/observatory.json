@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 11,
+  "cursor": 12,
   "observations": [
     {
       "city": "발리",
@@ -1019,6 +1019,142 @@
           "priceKRW": 222581,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/l7-west-lake-hanoi/hotel/hanoi-vn.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "홍콩",
+      "citySlug": "hongkong",
+      "cityId": 16808,
+      "observedAt": "2026-09-14T23:38:39.840Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "32199969",
+          "name": "레갈라 스카이시티 호텔 바이 리갈 호텔스 (Regala Skycity Hotel by Regal Hotels)",
+          "priceKRW": 112464,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/regala-skycity-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "2067",
+          "name": "더 솔즈베리 - YMCA 오브 홍콩 (The Salisbury - YMCA of Hong Kong)",
+          "priceKRW": 215405,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-salisbury-ymca-of-hong-kong/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "400843",
+          "name": "라마다 그랜드 침사추이 (Ramada Grand Tsim Sha Tsui)",
+          "priceKRW": 107426,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/best-western-grand-hotel-hong-kong_3/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "296139",
+          "name": "미니 센트럴 (Mini Central)",
+          "priceKRW": 99410,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mini-hotel-central/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "338497",
+          "name": "이비스 홍콩 센트럴 앤 셩완 호텔 (Ibis Hong Kong Central & Sheung Wan Hotel)",
+          "priceKRW": 165156,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ibis-hong-kong-central-sheung-wan-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "1660970",
+          "name": "디즈니스 할리우드 호텔 (Disney's Hollywood Hotel)",
+          "priceKRW": 245261,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/disney-s-hollywood-hotel_2/hotel/all/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "633676",
+          "name": "아이클럽 셩완 호텔 (iclub Sheung Wan Hotel)",
+          "priceKRW": 192292,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/iclub-sheung-wan-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "36820409",
+          "name": "우디 하우스 (Woody House )",
+          "priceKRW": 96209,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/china-rich-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "7406638",
+          "name": "하이 백패커스 (홍콩 호스텔 그룹) (Hi Backpackers (Hong Kong Hostel Group))",
+          "priceKRW": 37744,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hi-backpackers-hong-kong-hostel-group/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "8073",
+          "name": "B P 인터내셔널 (B P International)",
+          "priceKRW": 176034,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/b-p-international/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "2078870",
+          "name": "디즈니 익스플로러스 로지 (Disney Explorers Lodge)",
+          "priceKRW": 282048,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/disney-explorers-lodge_2/hotel/all/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "1267109",
+          "name": "타임하우스 (홍콩 호스텔) (Timehouse (Hong Kong Hostel))",
+          "priceKRW": 42153,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/timehouse-hong-kong-hostel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "4915153",
+          "name": "더 오토 호텔 (The OTTO Hotel)",
+          "priceKRW": 174169,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-otto-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "546860",
+          "name": "YHA 메이 호 하우스 유스 호스텔 (샴 수이 포) (YHA Mei Ho House Youth Hostel (Sham Shui Po))",
+          "priceKRW": 30232,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/yha-mei-ho-house-youth-hostel-sham-shui-po/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "7437",
+          "name": "로얄 가든 호텔 (Royal Garden Hotel)",
+          "priceKRW": 281786,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/royal-garden-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "68122",
+          "name": "램블러 가든 호텔 (Rambler Garden Hotel)",
+          "priceKRW": 71459,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rambler-garden-hotel/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "9829023",
+          "name": "홉 인 (Hop Inn)",
+          "priceKRW": 35689,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hop-inn-on-mody/hotel/hong-kong-hk.html?cid=1925461"
+        },
+        {
+          "key": "861918",
+          "name": "더 마종 부티크 호스텔 (The Mahjong Boutique Hostel)",
+          "priceKRW": 49462,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-mahjong-boutique-hostel/hotel/hong-kong-hk.html?cid=1925461"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 12,
+  "cursor": 13,
   "observations": [
     {
       "city": "발리",
@@ -1155,6 +1155,30 @@
           "priceKRW": 49462,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/the-mahjong-boutique-hostel/hotel/hong-kong-hk.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "인천",
+      "citySlug": "incheon",
+      "cityId": 17234,
+      "observedAt": "2026-09-15T23:20:33.004Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "2070028",
+          "name": "파라다이스 시티 (Paradise City                                                                               )",
+          "priceKRW": 364650,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/paradise-hotel-resort-paradise-city/hotel/incheon-kr.html?cid=1925461"
+        },
+        {
+          "key": "49124",
+          "name": "베스트웨스턴 프리미어 인천 에어포트 (Best Western Premier Incheon Airport)",
+          "priceKRW": 295690,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/best-western-premier-incheon-airport_10/hotel/incheon-kr.html?cid=1925461"
         }
       ]
     }

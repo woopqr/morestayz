@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 13,
+  "cursor": 14,
   "observations": [
     {
       "city": "발리",
@@ -1179,6 +1179,44 @@
           "priceKRW": 295690,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/best-western-premier-incheon-airport_10/hotel/incheon-kr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "자카르타",
+      "citySlug": "jakarta",
+      "cityId": 8691,
+      "observedAt": "2026-09-16T23:27:52.627Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "4264",
+          "name": "그랜드 하얏트 자카르타 (Grand Hyatt Jakarta)",
+          "priceKRW": 297847,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-hyatt-jakarta/hotel/jakarta-id.html?cid=1925461"
+        },
+        {
+          "key": "80234888",
+          "name": "와이네스 호텔 에어포트 (Wyneth Hotel Airport)",
+          "priceKRW": 16377,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/wyneth-hotel-h80234888/hotel/tangerang-id.html?cid=1925461"
+        },
+        {
+          "key": "44091046",
+          "name": "페어필드 바이 메리어트 자카르타 수카르노-하타 에어포트 (Fairfield by Marriott Jakarta Soekarno-Hatta Airport)",
+          "priceKRW": 99315,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/fairfield-by-marriott-jakarta-soekarno-hatta-airport/hotel/tangerang-id.html?cid=1925461"
+        },
+        {
+          "key": "16342033",
+          "name": "스위소텔 자카르타 픽 애비뉴 (Swissotel Jakarta PIK Avenue)",
+          "priceKRW": 206874,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/swissotel-jakarta-pik-avenue/hotel/jakarta-id.html?cid=1925461"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 14,
+  "cursor": 15,
   "observations": [
     {
       "city": "발리",
@@ -1217,6 +1217,44 @@
           "priceKRW": 206874,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/swissotel-jakarta-pik-avenue/hotel/jakarta-id.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "제주",
+      "citySlug": "jeju",
+      "cityId": 16901,
+      "observedAt": "2026-09-17T23:18:10.508Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "31611941",
+          "name": "호텔 화인 제주 (Hotel Fine Jeju )",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/h31611941/hotel/jeju-island-kr.html?cid=1925461"
+        },
+        {
+          "key": "1636492",
+          "name": "코업 시티 호텔 성산 (Co-op City Hotel Seongsan)",
+          "priceKRW": 73400,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/co-op-city-hotel-seongsan/hotel/jeju-island-kr.html?cid=1925461"
+        },
+        {
+          "key": "60927713",
+          "name": "맹그로브 제주시티 (Mangrove Jeju City)",
+          "priceKRW": 76561,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mangrove-jeju-city/hotel/jeju-kr.html?cid=1925461"
+        },
+        {
+          "key": "178557",
+          "name": "오션스위츠 제주호텔 (Ocean Suites Jeju Hotel)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/ocean-suites-jeju-hotel/hotel/jeju-island-kr.html?cid=1925461"
         }
       ]
     }

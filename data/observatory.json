@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 15,
+  "cursor": 16,
   "observations": [
     {
       "city": "발리",
@@ -1255,6 +1255,219 @@
           "priceKRW": null,
           "priceStatus": "unavailable",
           "url": "https://www.agoda.com/ocean-suites-jeju-hotel/hotel/jeju-island-kr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "가오슝",
+      "citySlug": "kaohsiung",
+      "cityId": 756,
+      "observedAt": "2026-09-18T22:56:42.064Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "52287125",
+          "name": "리버 트리스 호텔 (River Trees Hotel)",
+          "priceKRW": 97112,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/river-trees-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "2985159",
+          "name": "스카이원 호텔 (Skyone Hotel)",
+          "priceKRW": 39335,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/skyone-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "487878",
+          "name": "인 호텔 (inns hotel)",
+          "priceKRW": 128295,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jia-s-inn-liouhe-branch/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "13610074",
+          "name": "리버 인 스테이션 (River inn Station)",
+          "priceKRW": 72384,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jia-s-inn-station/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "36805427",
+          "name": "카오슝 아일랜드 하트 (Kaohsiung Island Heart)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/hotel-leisure-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "2086565",
+          "name": "싱글 인 - 카오슝 스테이션 (Single Inn - Kaohsiung Station)",
+          "priceKRW": 30082,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/single-inn-kaohsiung-station_2/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "670643",
+          "name": "카인드니스 호텔 - 카오슝 메인 스테이션 (Kindness Hotel - Kaohsiung Main Station)",
+          "priceKRW": 96758,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kindness-hotel-kaohsiung-main-station_7/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "3843",
+          "name": "그랜드 하이 - 라이 호텔 (Grand Hi-Lai Hotel)",
+          "priceKRW": 185405,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-hi-lai-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "666",
+          "name": "한 센 인터내셔널 호텔 (Han Hsien International Hotel)",
+          "priceKRW": 91922,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/han-hsien-international-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "296361",
+          "name": "싱글 인 - 린센 (Single Inn - Linsen)",
+          "priceKRW": 15137,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/single-inn-kaohsiung-linsen_2/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "1504829",
+          "name": "렛츠 호스텔 (Let's Hostel )",
+          "priceKRW": 19519,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/light-hostel-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "81555538",
+          "name": "트와일라잇 보야지 (Twilight Voyage)",
+          "priceKRW": 90073,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/twilight-voyage/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "295765",
+          "name": "호텔 두아 (Hotel Dua)",
+          "priceKRW": 169938,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-dua/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "866860",
+          "name": "우노 백패커스 인 (Uno Backpackers Inn)",
+          "priceKRW": 18380,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/backpackers-inn-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "237969",
+          "name": "카인드네스 종젱 호텔 (Kindness Hotel Jhong Jheng)",
+          "priceKRW": 72418,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kindness-hotel-jhong-jheng/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "478592",
+          "name": "더 클라우드 호텔 (The Cloud Hotel)",
+          "priceKRW": 79628,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-cloud-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "292851",
+          "name": "써니사이드 호텔 (Sunnyside Hotel)",
+          "priceKRW": 58604,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sunnyside-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "60395",
+          "name": "로얄 리스 호텔 (The Lees Hotel)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/the-lees-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "255325",
+          "name": "쿵 샹 디자인 호텔 (Kung Shang Design Hotel)",
+          "priceKRW": 123778,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kung-shang-design-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "34124512",
+          "name": "타이 어반 리조트 (TAI Urban Resort)",
+          "priceKRW": 233889,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h34124512/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "67801",
+          "name": "샤또 드 치네 호텔 가오슝 (Chateau de Chine Hotel Kaohsiung)",
+          "priceKRW": 124676,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/chateau-de-chine-hotel-kaohsiung/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "83567920",
+          "name": "하위 인스 (河寓 HOYU INN'S)",
+          "priceKRW": 94668,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hoyu-inn-s/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "798620",
+          "name": "O 하우스 호텔 (O House Hotel)",
+          "priceKRW": 67532,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/o-house-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "1951504",
+          "name": "포르모사 블러바드 스테이션 가든 호텔 (Formosa Boulevard Station Garden Hotel)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/formosa-boulevard-mrt-garden-b-b/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "4635",
+          "name": "하워드 프라자 호텔 (Howard Plaza Hotel)",
+          "priceKRW": 142349,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/howard-plaza-hotel/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "2108910",
+          "name": "플라이인 호스텔 (Flyinn Hostel)",
+          "priceKRW": 19469,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/flyinn-hostel_3/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "1270823",
+          "name": "레전드 호텔 피어 2 (Legend Hotel Pier 2)",
+          "priceKRW": 65384,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/legend-hotel-pier-2/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "1637138",
+          "name": "호텔 미드타운 리처드슨 - 카오슝 보 아이 (Hotel Midtown Richardson - Kaohsiung Bo Ai)",
+          "priceKRW": 74574,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-midtown-richardson-kaohsiung-bo-ai/hotel/kaohsiung-tw.html?cid=1925461"
+        },
+        {
+          "key": "433031",
+          "name": "카인드니스 호텔-잔동 지우루 브랜치 (Kindness Hotel-Jhandong Jiuru Branch)",
+          "priceKRW": 66966,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kindness-hotel-houyi-jiuru/hotel/kaohsiung-tw.html?cid=1925461"
         }
       ]
     }

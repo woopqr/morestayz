@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 16,
+  "cursor": 17,
   "observations": [
     {
       "city": "발리",
@@ -1468,6 +1468,114 @@
           "priceKRW": 66966,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/kindness-hotel-houyi-jiuru/hotel/kaohsiung-tw.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "쿠알라룸푸르",
+      "citySlug": "kuala-lumpur",
+      "cityId": 14524,
+      "observedAt": "2026-09-19T22:36:13.534Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "46809433",
+          "name": "디 액손 스위트 부킷 빈탕 (The Axon Suites Bukit Bintang )",
+          "priceKRW": 49312,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/axon-suites-bintang-kuala-lumpur/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "625831",
+          "name": "캡슐트랜짓 랜드사이드, 에어포트 호텔 - 퍼블릭 지역 - 게이트웨이 KLIA T2, 레벨 1 (CapsuleTransit Landside, Airport Hotel - Public Area - Gateway KLIA T2, Lvl 1)",
+          "priceKRW": 59330,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/capsule-transit-airport-transit-hotel-klia2_2/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "89811",
+          "name": "원 월드 호텔 (One World Hotel)",
+          "priceKRW": 214715,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/one-world-hotel/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "36992327",
+          "name": "슬리핑 라이온 스위트 (Sleeping Lion Suites)",
+          "priceKRW": 69371,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sleeping-lion-suites/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "186028",
+          "name": "선웨이 피라미드 호텔 (Sunway Pyramid Hotel)",
+          "priceKRW": 130161,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sunway-pyramid-hotel/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "2486100",
+          "name": "시티 센트럴 호텔 @ KL 센트럴 (City Central Hotel @ KL Sentral)",
+          "priceKRW": 29851,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/city-central-hotel-kl-sentral/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "42168931",
+          "name": "더 베드 부킷 빈탕 (The Bed Bukit Bintang)",
+          "priceKRW": 23078,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-bed-bukit-bintang/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "923078",
+          "name": "이지 호텔 @ KL-센트럴 (EASSY HOTEL @ KL-Sentral)",
+          "priceKRW": 41414,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/easy-hotel-kl-sentral/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "60140518",
+          "name": "브릴리언트 호텔 앤 스파 (Brilliant Hotel & Spa)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/brilliant-hotel-spa/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "50046447",
+          "name": "이비스 스타일 세팡 KLIA (ibis Styles Sepang KLIA)",
+          "priceKRW": 124430,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/concorde-inn-kuala-lumpur-international-airport-hotel_2/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "2239459",
+          "name": "더 베드 KLCC (The Bed KLCC)",
+          "priceKRW": 22645,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-bed-klcc/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "10567155",
+          "name": "캡슐트랜짓 에어사이드 KLIA T2 에어포트 호텔 - 인터내셔널 디파처 / 트랜짓 홀, 게이트 Q (CapsuleTransit Airside KLIA T2 Airport Hotel - International Departure / Transit Hall, Gate Q)",
+          "priceKRW": 51171,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/capsule-transit-hotel-airside/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "59008897",
+          "name": "스페이스 호텔 앳 KL 센트럴 (Space Hotel @ KL Sentral)",
+          "priceKRW": 23233,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/space-hotel-kl-sentral/hotel/kuala-lumpur-my.html?cid=1925461"
+        },
+        {
+          "key": "230600",
+          "name": "더블트리 바이 힐튼 쿠알라룸푸르 (DoubleTree by Hilton Kuala Lumpur)",
+          "priceKRW": 120566,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/doubletree-by-hilton-hotel-kuala-lumpur_3/hotel/kuala-lumpur-my.html?cid=1925461"
         }
       ]
     }

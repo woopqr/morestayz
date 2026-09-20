@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 17,
+  "cursor": 18,
   "observations": [
     {
       "city": "발리",
@@ -1576,6 +1576,149 @@
           "priceKRW": 120566,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/doubletree-by-hilton-hotel-kuala-lumpur_3/hotel/kuala-lumpur-my.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "교토",
+      "citySlug": "kyoto",
+      "cityId": 1784,
+      "observedAt": "2026-09-20T22:51:03.263Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "336533",
+          "name": "알몬트 호텔 교토 (Almont Hotel Kyoto)",
+          "priceKRW": 201630,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/almont-hotel-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "5000760",
+          "name": "글랜짓 교토 카와라마치 (GLANSIT KYOTO KAWARAMACHI)",
+          "priceKRW": 70114,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/glansit-kyoto-kawaramachi/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "2996868",
+          "name": "호텔 엘시엔트 교토 하치조구치 (Hotel Elcient Kyoto Hachijoguchi)",
+          "priceKRW": 173264,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-elcient-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "51412",
+          "name": "교토 타워 호텔 (Kyoto Tower Hotel)",
+          "priceKRW": 211817,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kyoto-tower-hotel/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "8090510",
+          "name": "퍼스트캐빈 교토 니조조 (FIRSTCABIN Kyoto Nijojo)",
+          "priceKRW": 75599,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/firstcabin-kyoto-nijojo/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "6853744",
+          "name": "츠키미 호텔 (TSUKIMI HOTEL)",
+          "priceKRW": 55281,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/tsukimi-hotel_3/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "62160556",
+          "name": "칸세이 교토 하치조 (KANSEI Kyoto Hachijo)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/kansei/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "16210564",
+          "name": "REF Kyoto Hachijoguchi BY VESSEL HOTELS",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/ref-kyoto-hachijoguchi-by-vessel-hotels/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "13870758",
+          "name": "더 포켓 호텔 교토-가라스마고조 (THE POCKET HOTEL Kyoto-Karasumagojo)",
+          "priceKRW": 112278,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-pocket-hotel-kyoto-karasumagojo-private-rooms/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "1618496",
+          "name": "소테츠 프레사 인 교토-하치조구치 (Sotetsu Fresa Inn Kyoto-Hachijoguchi)",
+          "priceKRW": 181969,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sotetsu-fresa-inn-kyoto-hachijoguchi/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "489829",
+          "name": "피스 호스텔 교토 (Piece Hostel Kyoto)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/piece-hostel-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "240282",
+          "name": "APA 호텔 교토-에키-호리카와도리 (APA Hotel Kyoto-Eki-Horikawadori)",
+          "priceKRW": 200126,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-kyoto-eki-horikawadori/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "10303980",
+          "name": "호텔 라이브맥스 교토 데라마치도리 (Hotel LiVEMAX Kyoto Teramachidori)",
+          "priceKRW": 105709,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h10540759/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "6692502",
+          "name": "리치몬드 호텔 프리미어 교토 에키마에 (Richmond Hotel Premier Kyoto Ekimae)",
+          "priceKRW": 413074,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/richmond-hotel-premier-kyoto-ekimae/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "36108527",
+          "name": "교토 우메코지 카덴쇼 - 프라이빗 배스 퍼실리티 - 교리츠 리조트 (Kyoto Umekoji Kadensho - Private bath facility -Kyoritsu Resort)",
+          "priceKRW": 234629,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kyoto-umekoji-kadensho-private-bath-facility-kyoritsu-resort-h36108527/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "263680",
+          "name": "미야코 호텔 교토 하치조 (Miyako Hotel Kyoto Hachijo)",
+          "priceKRW": 209325,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/miyako-hotel-kyoto-hachijo/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "2401153",
+          "name": "더 밀레니얼스 교토 (The Millennials Kyoto)",
+          "priceKRW": 146632,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-millennials-kyoto/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "867655",
+          "name": "사쿠라 테라스 더 갤러리 -성인 전용- (Sakura Terrace The Gallery -Adult Only-)",
+          "priceKRW": 310745,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sakura-terrace-the-gallery/hotel/kyoto-jp.html?cid=1925461"
+        },
+        {
+          "key": "26066736",
+          "name": "호텔 수이 교토 기요미즈 (Hotel SUI Kyoto Kiyomizu)",
+          "priceKRW": 196624,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h26078519/hotel/osaka-jp.html?cid=1925461"
         }
       ]
     }

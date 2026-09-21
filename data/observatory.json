@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 18,
+  "cursor": 19,
   "observations": [
     {
       "city": "발리",
@@ -1719,6 +1719,23 @@
           "priceKRW": 196624,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/h26078519/hotel/osaka-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "마닐라",
+      "citySlug": "manila",
+      "cityId": 1622,
+      "observedAt": "2026-09-21T23:44:54.744Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "41042753",
+          "name": "호텔101 - 포트 (Hotel101 - Fort)",
+          "priceKRW": 50590,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel101-fort/hotel/manila-ph.html?cid=1925461"
         }
       ]
     }

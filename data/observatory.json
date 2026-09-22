@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 19,
+  "cursor": 20,
   "observations": [
     {
       "city": "발리",
@@ -1736,6 +1736,163 @@
           "priceKRW": 50590,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/hotel101-fort/hotel/manila-ph.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "나고야",
+      "citySlug": "nagoya",
+      "cityId": 13740,
+      "observedAt": "2026-09-22T23:24:01.481Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "9775301",
+          "name": "9h 나인아워즈 나고야 스테이션 (9h nine hours Nagoya station)",
+          "priceKRW": 35254,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nine-hours-nagoya-station/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "3018239",
+          "name": "프린세스 가든 호텔 (Princess Garden Hotel)",
+          "priceKRW": 160798,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/princess-garden-hotel_4/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "34660890",
+          "name": "내추럴 핫 스프링 호텔 라이브맥스 프리미엄 나고야 마루노우치 (Natural Hot Spring Hotel LiVEMAX PREMIUM Nagoya Marunouchi)",
+          "priceKRW": 115589,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nature-onsen-hotel-livemax-premium-nagoya-marunouchi/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "4942325",
+          "name": "베셀 인 사카에 스테이션 (Vessel Inn Sakae Station)",
+          "priceKRW": 201241,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/vessel-inn-sakae-ekimae/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "16519027",
+          "name": "R&B 호텔 나고야에키마에 (R&B Hotel Nagoyaekimae)",
+          "priceKRW": 155066,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/randbhotel-nagoyaekimae/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "42981",
+          "name": "메이테츠 그랜드 호텔 (Meitetsu Grand Hotel)",
+          "priceKRW": 142465,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/meitetsu-grand-hotel/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "474414",
+          "name": "뉴 쇼치쿠바이 호텔 (New Shochikubai Hotel)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/new-shochikubai-hotel/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "46431429",
+          "name": "Hotel Abc Nagoya Eki Shinkansenguchi",
+          "priceKRW": 163681,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-abc-h9776557/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "937265",
+          "name": "호스텔 와사비 나고야 에키마에 (Hostel Wasabi Nagoya Ekimae)",
+          "priceKRW": 26922,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hostel-wasabi-nagoya-ekimae/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "3821308",
+          "name": "산코 인 나고야 신칸센구치 아넥스 (Sanco Inn Nagoya Shinkansenguchi Annex)",
+          "priceKRW": 136936,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sanco-inn-nagoya-shinkansenguchi-annex_2/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "18759565",
+          "name": "이비스 스타일 나고야 (ibis Styles Nagoya)",
+          "priceKRW": 196770,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ibis-styles-nagoya-h18759565/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "55013297",
+          "name": "ウォーターゲート蟹江 レジャーホテル (ウォーターゲート蟹江 レジャーホテル)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/hotel/hotel/all/aichi-jp.html?cid=1925461"
+        },
+        {
+          "key": "25764569",
+          "name": "소테츠 프레사 인 나고야 신칸센구치 (Sotetsu Fresa Inn Nagoya Shinkansenguchi)",
+          "priceKRW": 173097,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sotetsu-fresa-inn-nagoya-shinkansenguchi/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "10681746",
+          "name": "2025 리뉴얼 오픈 - 안신 오야도 나고야 맨 / 우먼 사카에 스테이션 (2025 Renewal Open - Anshin Oyado Nagoya Man / Woman Sakae Station)",
+          "priceKRW": 60711,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/capsule-hotel-anshin-oyado-premium-nagoya-sakae/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "64171597",
+          "name": "베이스 레이어 호텔 나고야 니시키 (BASE LAYER HOTEL NAGOYA NISHIKI)",
+          "priceKRW": 190390,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/base-layer-hotel-nagoya/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "40685786",
+          "name": "Sakae Guesthouse",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/2023-6/hotel/all/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "6271960",
+          "name": "트립 앤 슬립 호스텔 (Trip & Sleep Hostel)",
+          "priceKRW": 30029,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/trip-sleep-hostel/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "96261",
+          "name": "나고야 사카에 와신톤 호텔 플라자 (Nagoya Sakae Washington Hotel Plaza)",
+          "priceKRW": 146676,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nagoya-sakae-washington-hotel-plaza/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "86074389",
+          "name": "쿠레타케 인 프리미엄 메이에키미나미 (Kuretake Inn Premium Meiekiminami)",
+          "priceKRW": 199064,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h18169699/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "187074",
+          "name": "스파 리조트 - 나고야 카사데라 호텔 (SPA RESORT - Nagoya Kasadera Hotel)",
+          "priceKRW": 134252,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nagoya-kasadera-washington-hotel-plaza_3/hotel/nagoya-jp.html?cid=1925461"
+        },
+        {
+          "key": "5348355",
+          "name": "니시테츠 호텔 C룸 나고야 (Nishitetsu Hotel Croom Nagoya)",
+          "priceKRW": 185611,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nishitetsu-hotel-croom-nagoya/hotel/nagoya-jp.html?cid=1925461"
         }
       ]
     }

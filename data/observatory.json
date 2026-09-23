@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 20,
+  "cursor": 21,
   "observations": [
     {
       "city": "발리",
@@ -1893,6 +1893,44 @@
           "priceKRW": 185611,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/nishitetsu-hotel-croom-nagoya/hotel/nagoya-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "나트랑",
+      "citySlug": "nha-trang",
+      "cityId": 2679,
+      "observedAt": "2026-09-23T23:22:56.422Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "6253467",
+          "name": "사타 호텔 (Sata Hotel)",
+          "priceKRW": 28951,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sata-hotel_2/hotel/nha-trang-vn.html?cid=1925461"
+        },
+        {
+          "key": "67349925",
+          "name": "시사이드 부티크 호텔 나트랑 비치 (Seaside Boutique Hotel Nha Trang Beach)",
+          "priceKRW": 36643,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/seaside-boutique-hotel-nha-trang-beach/hotel/nha-trang-vn.html?cid=1925461"
+        },
+        {
+          "key": "1162080",
+          "name": "다이아몬드 베이 호텔 (Diamond Bay Hotel)",
+          "priceKRW": 61620,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/diamond-bay-hotel/hotel/nha-trang-vn.html?cid=1925461"
+        },
+        {
+          "key": "908244",
+          "name": "퓨전 리조트 깜라인 - 올 스파 인클루시브 (Fusion Resort Cam Ranh - All Spa Inclusive)",
+          "priceKRW": 312800,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/fusion-resort-cam-ranh-all-spa-inclusive_2/hotel/nha-trang-vn.html?cid=1925461"
         }
       ]
     }

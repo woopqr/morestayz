@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 21,
+  "cursor": 22,
   "observations": [
     {
       "city": "발리",
@@ -1931,6 +1931,163 @@
           "priceKRW": 312800,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/fusion-resort-cam-ranh-all-spa-inclusive_2/hotel/nha-trang-vn.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "오사카",
+      "citySlug": "osaka-namba",
+      "cityId": 9590,
+      "observedAt": "2026-09-24T23:42:20.467Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "48925496",
+          "name": "칸데오 호텔 오사카 더 타워 (CANDEO HOTELS Osaka The Tower)",
+          "priceKRW": 394763,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/candeo-hotels-osaka-the-tower/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "31656492",
+          "name": "신사이바시 아티 인 (Shinsaibashi Arty Inn)",
+          "priceKRW": 100738,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h30799875/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "55268476",
+          "name": "APA 호텔 앤 리조트 오사카 난바 에키마에 타워 (APA HOTEL＆RESORT OSAKA NAMBA EKIMAE TOWER )",
+          "priceKRW": 206394,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-resort-osaka-namba-ekimae-tower/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "33494376",
+          "name": "APA 호텔 앤 리조트 오사카 우메다 에키 타워 (APA Hotel & Resort Osaka Umeda Eki Tower)",
+          "priceKRW": 184006,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-resort-osaka-umeda-eki-tower/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "51920",
+          "name": "아크 호텔 오사카 신사이바시 (Ark Hotel Osaka Shinsaibashi)",
+          "priceKRW": 166575,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ark-hotel-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "2011879",
+          "name": "Y's 캐빈 오사카 난바 (Y's Cabin Osaka Namba)",
+          "priceKRW": 86977,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/y-s-cabin-osaka-namba_3/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "6405135",
+          "name": "그랜드 호스텔 엘디케이 오사카 신사이바시 (GRAND HOSTEL LDK OSAKA SHINSAIBASHI)",
+          "priceKRW": 112501,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-stay-osaka-shinsaibashi/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "1723671",
+          "name": "APA 호텔 난바-에키 히가시 (APA Hotel Namba-Eki Higashi)",
+          "priceKRW": 190940,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-namba-eki-higashi/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "399186",
+          "name": "캡슐 인 오사카 - 남성 전용 (Capsule Inn Osaka - Men Only)",
+          "priceKRW": 48404,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/capsule-inn-osaka-men-only/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "284535",
+          "name": "퍼스트 캐빈 미도스지 난바 (First Cabin Midosuji-Namba)",
+          "priceKRW": 139203,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/first-cabin-midosuji-namba/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "6404",
+          "name": "리가 플레이스 히고바시 (RIHGA Place Higobashi)",
+          "priceKRW": 147190,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rihga-nakanoshima-inn_27/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "10110226",
+          "name": "내추럴 핫 스프링 호텔 라이브맥스 프리미엄 우메다 이스트 (Natural Hot Spring Hotel LiVEMAX PREMIUM Umeda EAST)",
+          "priceKRW": 147996,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-livemax-premium-umeda-east/hotel/default-city-km.html?cid=1925461"
+        },
+        {
+          "key": "2681766",
+          "name": "호텔 카고 신사이바시 (Hotel Cargo Shinsaibashi)",
+          "priceKRW": 69066,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-cargo-shinsaibashi_3/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "75905037",
+          "name": "브래킷츠 호텔 오사카 혼마치 ( BRACKETS HOTEL Osaka Hommachi)",
+          "priceKRW": 150401,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/unizo-inn-express-osaka-minamihommachi-h28381707/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "69291",
+          "name": "호텔 뉴 한큐 오사카 아넥스 (Hotel new Hankyu Osaka Annex)",
+          "priceKRW": 346228,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-new-hankyu-osaka-annex/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "22995346",
+          "name": "APA 호텔 난바 신사이바시 니시 (APA Hotel Namba Shinsaibashi Nishi)",
+          "priceKRW": 157419,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-namba-shinsaibashi-nishi/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "7616470",
+          "name": "APA 호텔 앤 리조트 미도스지 혼마치 에키마에 타워 (APA Hotel and Resort Midosuji Hommachi Ekimae Tower)",
+          "priceKRW": 174911,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-resort-midosuji-hommachi-eki-tower/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "32616473",
+          "name": "호텔 더 원 신이마미야 (Hotel The One Shin-imamiya)",
+          "priceKRW": 115981,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-the-one-shinimamiya/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "88132740",
+          "name": "호텔 리브맥스 남바 웨스트 (HOTEL LiVEMAX Namba WEST)",
+          "priceKRW": 154594,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-livemax-namba-west/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "161804",
+          "name": "하톤 호텔 니시 우메다 (Hearton Hotel Nishi Umeda)",
+          "priceKRW": 240215,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hearton-hotel-nishi-umeda/hotel/osaka-jp.html?cid=1925461"
+        },
+        {
+          "key": "1899389",
+          "name": "칸데오 호텔 오사카 난바 (CANDEO HOTELS Osaka Namba)",
+          "priceKRW": 289584,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/candeo-hotels-osaka-namba/hotel/osaka-jp.html?cid=1925461"
         }
       ]
     }

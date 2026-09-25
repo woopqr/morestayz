@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 22,
+  "cursor": 23,
   "observations": [
     {
       "city": "발리",
@@ -2088,6 +2088,30 @@
           "priceKRW": 289584,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/candeo-hotels-osaka-namba/hotel/osaka-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "파타야",
+      "citySlug": "pattaya",
+      "cityId": 8584,
+      "observedAt": "2026-09-25T23:44:37.216Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "49650148",
+          "name": "아카라 호텔 파타야 (Akara Hotel Pattaya)",
+          "priceKRW": 155344,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/akara-hotel-pattaya/hotel/pattaya-th.html?cid=1925461"
+        },
+        {
+          "key": "863180",
+          "name": "발리하이 베이 레지던스 (Balihai Bay Residence)",
+          "priceKRW": 47393,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/balihai-bay-residence/hotel/pattaya-th.html?cid=1925461"
         }
       ]
     }

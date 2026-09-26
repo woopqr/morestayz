@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 23,
+  "cursor": 24,
   "observations": [
     {
       "city": "발리",
@@ -2112,6 +2112,51 @@
           "priceKRW": 47393,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/balihai-bay-residence/hotel/pattaya-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "푸켓",
+      "citySlug": "phuket",
+      "cityId": 16056,
+      "observedAt": "2026-09-26T23:18:23.114Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "1157049",
+          "name": "더 식스틴트 나이양 비치 호텔 - 프리 스케줄 에어포트 셔틀 (The Sixteenth Naiyang Beach Hotel  - Free Schedule Airport Shuttle)",
+          "priceKRW": 30993,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-sixteenth-naiyang-beach-hotel/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10919",
+          "name": "펄 호텔 푸켓 (Pearl Hotel Phuket)",
+          "priceKRW": 57064,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/pearl-hotel/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "89340",
+          "name": "푸켓 에어포트 호텔 (Phuket Airport Hotel)",
+          "priceKRW": 57042,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/phuket-airport-hotel/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "14874647",
+          "name": "나이양 파크 리조트 (Naiyang Park Resort)",
+          "priceKRW": 53756,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/naiyang-park-resort/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "568961",
+          "name": "그랜드 머큐어 푸켓 파통 (Grand Mercure Phuket Patong)",
+          "priceKRW": 178174,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-mercure-phuket-patong/hotel/phuket-th.html?cid=1925461"
         }
       ]
     }

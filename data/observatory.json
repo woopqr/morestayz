@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 24,
+  "cursor": 25,
   "observations": [
     {
       "city": "발리",
@@ -2157,6 +2157,30 @@
           "priceKRW": 178174,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/grand-mercure-phuket-patong/hotel/phuket-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "삿포로",
+      "citySlug": "sapporo",
+      "cityId": 3435,
+      "observedAt": "2026-09-27T23:31:28.836Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "33795846",
+          "name": "소테츠 프레사 인 삿포로-스스키노 (Sotetsu Fresa Inn Sapporo-Susukino)",
+          "priceKRW": 91259,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sotetsu-fresa-inn-sapporo-susukino/hotel/sapporo-jp.html?cid=1925461"
+        },
+        {
+          "key": "65806",
+          "name": "JR 타워 호텔 닛코 삿포로 (JR Tower Hotel Nikko Sapporo)",
+          "priceKRW": 267148,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jr-tower-hotel-nikko-sapporo/hotel/sapporo-jp.html?cid=1925461"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 25,
+  "cursor": 26,
   "observations": [
     {
       "city": "발리",
@@ -2181,6 +2181,100 @@
           "priceKRW": 267148,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/jr-tower-hotel-nikko-sapporo/hotel/sapporo-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "서울",
+      "citySlug": "seoul",
+      "cityId": 14690,
+      "observedAt": "2026-09-29T00:45:57.221Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "73592762",
+          "name": "홍대 거리 - 마마스 앤 파파스 - 여성 전용 (Hongdae Street - Mamas n Papas - Female Only)",
+          "priceKRW": 25110,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hongdae-mamas-n-papas/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "289180",
+          "name": "롯데시티호텔 김포공항 (LOTTE CITY HOTEL GIMPO AIRPORT)",
+          "priceKRW": 287903,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/lotte-city-hotel-gimpo-airport/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "75205622",
+          "name": "고유인 앤 캐빈즈 (GOYOO INN & CABINS)",
+          "priceKRW": 55544,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/goyoo-inn-homes/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "2408290",
+          "name": "서울앤호텔 동대문 (Seoul N Hotel Dongdaemun)",
+          "priceKRW": 35700,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/seoul-n-hotel-dongdaemun/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "35655571",
+          "name": "H 호스텔 (H HOSTEL Itaewon)",
+          "priceKRW": 45702,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h-hostel-itaewon/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "75290892",
+          "name": "슬립박스 (SLEEP BOX)",
+          "priceKRW": 59471,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sleep-box/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "34563804",
+          "name": "맹그로브 동대문 (Mangrove Dongdaemun)",
+          "priceKRW": 43074,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mangrove-dongdaemun/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "51931909",
+          "name": "한옥 호텔 담 서울 (Hanok Hotel Daam)",
+          "priceKRW": 96856,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jongno-aubeson-h10577062/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "64625176",
+          "name": "디에이엘 프리미엄 캡슐호텔 (D.A.L Premium Capsule Hotel)",
+          "priceKRW": 49529,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/d-a-l-premium-capsule-hotel/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "37484633",
+          "name": "브라운 스위트 호텔 신촌 센트럴 (Brown Suites Hotel sinchon central)",
+          "priceKRW": 118483,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/brown-suites-hotel-sinchon-central/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "82158222",
+          "name": "기와 호스텔 (Kiwa Hostel)",
+          "priceKRW": 47307,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h80243003/hotel/seoul-kr.html?cid=1925461"
+        },
+        {
+          "key": "59123585",
+          "name": "호텔 드립앤드롭 명동 (HOTEL DRIP&DROP Myeongdong)",
+          "priceKRW": 49888,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-drip-drop-h59123585/hotel/seoul-kr.html?cid=1925461"
         }
       ]
     }

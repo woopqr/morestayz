@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 26,
+  "cursor": 27,
   "observations": [
     {
       "city": "발리",
@@ -2275,6 +2275,177 @@
           "priceKRW": 49888,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/hotel-drip-drop-h59123585/hotel/seoul-kr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "싱가포르",
+      "citySlug": "singapore",
+      "cityId": 4064,
+      "observedAt": "2026-09-30T00:01:02.183Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "1134511",
+          "name": "창이 트랜짓 호텔 터미널 1 (Changi Transit Hotel Terminal 1)",
+          "priceKRW": 158153,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/aerotel-transit-hotel-terminal-1_6/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "87793189",
+          "name": "개더 하우스 온 65 사우스 브리지 로드 (Gather House on 65 South Bridge Road)",
+          "priceKRW": 47398,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/gather-house-on-65-south-bridge-road/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "1105091",
+          "name": "호텔 보스 (SG Clean 인증) (Hotel Boss)",
+          "priceKRW": 151323,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-boss/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "85989250",
+          "name": "Wink 앳 잘란 브사르 (Wink @ Jalan Besar)",
+          "priceKRW": 41557,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/wink-jalan-besar/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "80008139",
+          "name": "비트. 1932 호스텔 앳 차이나타운 (BEAT. 1932 Hostel @ Chinatown)",
+          "priceKRW": 42453,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/beat-1932-hostel-chinatown/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "1409848",
+          "name": "헴렛 에센셜스 클라크 키 (Hmlet Essentials Clarke Quay)",
+          "priceKRW": 156743,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/champion-hotel-city/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "185945",
+          "name": "마리나 베이 샌즈 (Marina Bay Sands )",
+          "priceKRW": 1256184,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/marina-bay-sands/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "47219106",
+          "name": "큐브 소셜 부티크 캡슐 호텔 앳 보트 키 (Cube Social Boutique Capsule Hotel @ Boat Quay)",
+          "priceKRW": 97827,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cube-social-boat-quay/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "28877161",
+          "name": "킨 캡슐: HER 스페이스 (여성 전용) (KINN Capsule: HER Space (Female Only))",
+          "priceKRW": 64927,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kinn/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "66355609",
+          "name": "위브 스위트 - 힐사이드 (Weave Suites - Hillside)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/weave-suites-hillside/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "7910172",
+          "name": "캡슐팟@알주니드 (CapsulePod@Aljunied)",
+          "priceKRW": 38516,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/capsulepod-aljunied/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "75934536",
+          "name": "앰배서더 트랜짓 라운지 터미널 3 (Ambassador Transit Lounge Terminal 3)",
+          "priceKRW": 59650,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ambassador-transit-hotel-terminal-3_3/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "108593",
+          "name": "크라운 플라자 창이 에어포트 바이 IHG (Crowne Plaza Changi Airport By IHG)",
+          "priceKRW": 443427,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/crowne-plaza-changi-airport/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "289410",
+          "name": "파크 애비뉴 로체스터 호텔 (Park Avenue Rochester Hotel)",
+          "priceKRW": 174217,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/park-avenue-rochester-hotel/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "479243",
+          "name": "더 팟 앳 비치 로드 부티크 캡슐 호텔 (The Pod @ Beach Road Boutique Capsule Hotel)",
+          "priceKRW": 64735,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-pod-beach-road-boutique-capsule-hotel/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "62161593",
+          "name": "킨 해비탯 (KINN Habitat)",
+          "priceKRW": 50070,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kinn-habitat/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "98946",
+          "name": "실로소 비치 리조트 센토사 (Siloso Beach Resort Sentosa)",
+          "priceKRW": 204484,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/siloso-beach-resort-sentosa/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "42250441",
+          "name": "호텔 미 로코르 (Hotel Mi Rochor)",
+          "priceKRW": 160331,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-mi-rochor/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "296332",
+          "name": "트레블로지 하버프론트 싱가포르 (Travelodge Harbourfront Singapore)",
+          "priceKRW": 147221,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/bay-hotel-singapore/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "254056",
+          "name": "V 호텔 라벤더 (SG Clean 인증) (V Hotel Lavender)",
+          "priceKRW": 160331,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/v-hotel-lavender/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "10587",
+          "name": "윈덤 싱가포르 호텔 (Wyndham Singapore Hotel)",
+          "priceKRW": 274561,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/peninsula-excelsior-hotel/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "3123799",
+          "name": "더 키 호텔 (The Quay Hotel)",
+          "priceKRW": 153763,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-quay-hotel_2/hotel/singapore-sg.html?cid=1925461"
+        },
+        {
+          "key": "2256959",
+          "name": "요텔 싱가포르 오차드 로드 (YOTEL Singapore Orchard Road)",
+          "priceKRW": 160157,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/yotel-singapore-orchard-road/hotel/singapore-sg.html?cid=1925461"
         }
       ]
     }

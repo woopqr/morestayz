@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 27,
+  "cursor": 28,
   "observations": [
     {
       "city": "발리",
@@ -2446,6 +2446,44 @@
           "priceKRW": 160157,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/yotel-singapore-orchard-road/hotel/singapore-sg.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "타이중",
+      "citySlug": "taichung",
+      "cityId": 12080,
+      "observedAt": "2026-10-01T00:17:57.862Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "81213815",
+          "name": "丰森호텔 (丰森酒店 Fosen Hotel)",
+          "priceKRW": 163957,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/fosen-hotel/hotel/taichung-tw.html?cid=1925461"
+        },
+        {
+          "key": "246346",
+          "name": "호텔 내셔널 (Hotel National)",
+          "priceKRW": 110570,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-national/hotel/taichung-tw.html?cid=1925461"
+        },
+        {
+          "key": "1179332",
+          "name": "1969 블루스카이 체크인 (BlueSky Hotel)",
+          "priceKRW": 178263,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/1969-blue-sky-hotel_3/hotel/taichung-tw.html?cid=1925461"
+        },
+        {
+          "key": "773214",
+          "name": "라 비다 호텔 (La Vida Hotel)",
+          "priceKRW": 145763,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/la-vida-hotel/hotel/taichung-tw.html?cid=1925461"
         }
       ]
     }

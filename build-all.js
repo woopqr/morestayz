@@ -28,6 +28,14 @@ function specialCardImg(region, sub = '국내 특별 기획', from = '#6f8f67', 
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${from}"/><stop offset="1" stop-color="${to}"/></linearGradient></defs><rect width="600" height="400" fill="url(#g)"/><text x="50%" y="45%" fill="#ffffff" font-family="sans-serif" font-size="66" font-weight="800" text-anchor="middle">${region}</text><text x="50%" y="61%" fill="rgba(255,255,255,0.9)" font-family="sans-serif" font-size="20" font-weight="700" letter-spacing="5" text-anchor="middle">${sub}</text></svg>`;
   return 'data:image/svg+xml,' + encodeURIComponent(svg);
 }
+// 특별기획 카드 썸네일: d.cardImg(직접 지정) → 자기 사이드카 호텔 사진 → cardImgFrom 사이드카 → 타이포 SVG
+function sidecarImg(file, idx = 0, match = '') {
+  const p = path.join(SPECIALS, file.replace(/\.json$/, '') + '.hotels.json');
+  if (!fs.existsSync(p)) return '';
+  try { const hs = (JSON.parse(fs.readFileSync(p, 'utf8')).hotels || []).filter(h => h.img);
+    const hit = match ? hs.find(h => new RegExp(match, 'i').test(h.name)) : null;
+    return (hit || hs[idx] || hs[0] || {}).img || ''; } catch (e) { return ''; }
+}
 function specialMetas() {
   if (!fs.existsSync(SPECIALS)) return [];
   return fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).map(f => {
@@ -36,7 +44,9 @@ function specialMetas() {
       slug: d.slug, theme: d.category || 'domestic', title: d.title, special: true,
       audience: d.categoryLabel || '국내 특별 여행지', emoji: d.emoji || '🇰🇷',
       city: d.region || '', season: '특별기획', travelMonthLabel: '',
-      heroImg: specialCardImg(d.region || d.slug, ...(d.card ? [d.card.sub, d.card.from, d.card.to] : [])), updated: d.updated || '',
+      heroImg: d.cardImg || sidecarImg(f, d.cardImgIndex || 0, d.cardImgMatch) || (d.cardImgFrom ? sidecarImg(d.cardImgFrom, d.cardImgIndex || 0, d.cardImgMatch) : '')
+        || specialCardImg(d.region || d.slug, ...(d.card ? [d.card.sub, d.card.from, d.card.to] : [])),
+      chip: d.region || '', chipSub: (d.card && d.card.sub) || '국내 특별 기획', updated: d.updated || '',
     };
   });
 }
@@ -55,7 +65,7 @@ function articleMetas() {
 
 function cardHtml(m) {
   return `      <a class="card" href="/articles/${m.slug}">
-        <div class="cthumb"><img src="${m.heroImg}" alt="${String(m.title || '').replace(/"/g, '&quot;')}" loading="lazy"><span class="ctag">${m.emoji} ${m.audience}</span></div>
+        <div class="cthumb"><img src="${m.heroImg}" alt="${String(m.title || '').replace(/"/g, '&quot;')}" loading="lazy">${m.chip ? `<span class="cchipx"><b>${m.chip}</b><small>${m.chipSub}</small></span>` : ''}<span class="ctag">${m.emoji} ${m.audience}</span></div>
         <div class="cbody"><span class="cmeta">${[m.season, m.travelMonthLabel].filter(Boolean).join(' · ')}</span><h2>${m.title}</h2></div>
       </a>`;
 }

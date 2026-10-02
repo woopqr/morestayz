@@ -148,5 +148,9 @@
   ],
   "relatedMatch": "대관령|평창|강릉|기안장",
   "cardImgFrom": "pyeongchang-gianzhang2-luxury",
-  "cardImgMatch": "Mona Yongpyong"
+  "cardImgMatch": "Mona Yongpyong",
+  "country": "한국",
+  "facetCities": [
+    "대관령·평창"
+  ]
 }

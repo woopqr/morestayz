@@ -21,6 +21,9 @@ const BASE = `https://${SITE.domain}`;
 // 카테고리 정의(테마 순서 = 노출 순서). 실제 글이 있는 카테고리만 노출.
 // '국내 특별 여행지'(domestic)는 자동 테마가 아닌 에디토리얼 기획 카테고리로 맨 앞에 노출.
 const SPECIALS = path.join(ROOT, 'data/specials');
+// 패싯 필터(국가→도시)용: 도시 슬러그 → 국가
+const CITY_COUNTRY = Object.fromEntries(JSON.parse(fs.readFileSync(path.join(ROOT, 'data/cities.json'), 'utf8')).map(c => [c.slug, c.country]));
+const COUNTRY_FLAG = { '한국': '🇰🇷', '일본': '🇯🇵', '대만': '🇹🇼', '태국': '🇹🇭', '베트남': '🇻🇳', '싱가포르': '🇸🇬', '홍콩': '🇭🇰', '말레이시아': '🇲🇾', '인도네시아': '🇮🇩', '필리핀': '🇵🇭' };
 const CATS = [{ id: 'domestic', label: '국내 특별 여행지', emoji: '🇰🇷' }, { id: 'tv-luxury', label: '방송 속 럭셔리 호텔', emoji: '📺' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
 
 // 특별기획 글은 이미지가 없으므로 지역명 타이포 카드(SVG data-URI)를 썸네일로 사용
@@ -46,6 +49,7 @@ function specialMetas() {
       city: d.region || '', season: '특별기획', travelMonthLabel: '',
       heroImg: d.cardImg || sidecarImg(f, d.cardImgIndex || 0, d.cardImgMatch) || (d.cardImgFrom ? sidecarImg(d.cardImgFrom, d.cardImgIndex || 0, d.cardImgMatch) : '')
         || specialCardImg(d.region || d.slug, ...(d.card ? [d.card.sub, d.card.from, d.card.to] : [])),
+      country: d.country || '한국', cities: d.facetCities || [d.region || ''],
       chip: d.region || '', chipSub: (d.card && d.card.sub) || '국내 특별 기획', updated: d.updated || '',
     };
   });
@@ -57,7 +61,7 @@ function articleMetas() {
     const d = JSON.parse(fs.readFileSync(path.join(ART, f), 'utf8'));
     return {
       slug: d.slug, theme: d.theme, title: editorialTitle(d), description: editorialDescription(d), audience: d.audience, emoji: d.emoji,
-      city: d.city, season: d.season || '', travelMonthLabel: d.travelMonthLabel || '',
+      city: d.city, country: CITY_COUNTRY[d.citySlug] || '', cities: [d.city], season: d.season || '', travelMonthLabel: d.travelMonthLabel || '',
       heroImg: d.heroImg || '', updated: d.updated || (d._meta && d._meta.fetchedAt) || '', indexable: isCurrentOrFuture(d),
     };
   }).sort((a, b) => String(b.updated).localeCompare(String(a.updated)));
@@ -107,12 +111,32 @@ function catnavHtml(activeCats, currentId) {
   return html;
 }
 
+// 국가 칩(서버 렌더) + 국가별 도시 목록(data-cities, JS가 2단 칩으로 렌더). 기본은 '전체'(최신순 피드 그대로)
+function facetsHtml(ctx) {
+  const byCountry = {};
+  ctx.metas.forEach(m => {
+    if (!m.country) return;
+    const c = byCountry[m.country] = byCountry[m.country] || { n: 0, cities: {} };
+    c.n++;
+    (m.cities || []).filter(Boolean).forEach(ct => { c.cities[ct] = (c.cities[ct] || 0) + 1; });
+  });
+  const countries = Object.keys(byCountry).sort((a, b) => byCountry[b].n - byCountry[a].n);
+  if (countries.length < 2) return '';
+  const cityMap = {};
+  countries.forEach(c => { cityMap[c] = Object.entries(byCountry[c].cities).sort((a, b) => b[1] - a[1]); });
+  const chip = (c) => `<button type="button" class="fchip" data-country="${c}">${COUNTRY_FLAG[c] || '📍'} ${c} <em>${byCountry[c].n}</em></button>`;
+  return `<div class="facets" id="facets" data-cat="${ctx.kind === 'home' ? 'all' : ctx.id}" data-cities='${JSON.stringify(cityMap).replace(/'/g, '&#39;')}'>`
+    + `<div class="frow" id="fcountry"><button type="button" class="fchip on" data-country="">전체 <em>${ctx.metas.length}</em></button>${countries.map(chip).join('')}</div>`
+    + `<div class="frow sub" id="fcity" hidden></div></div>`;
+}
+
 function applyShell(shell, opts) {
   // opts: { cards, pager, catnav, canon, title, seclabel }
   let html = shell
     .replace(/<!--ARTICLES_START-->[\s\S]*?<!--ARTICLES_END-->/, `<!--ARTICLES_START-->\n${opts.cards}\n      <!--ARTICLES_END-->`)
     .replace(/<!--PAGER_START-->[\s\S]*?<!--PAGER_END-->/, `<!--PAGER_START-->${opts.pager}<!--PAGER_END-->`)
     .replace(/<!--CATNAV_START-->[\s\S]*?<!--CATNAV_END-->/, `<!--CATNAV_START-->${opts.catnav}<!--CATNAV_END-->`)
+    .replace(/<!--FACETS_START-->[\s\S]*?<!--FACETS_END-->/, `<!--FACETS_START-->${opts.facets || ''}<!--FACETS_END-->`)
     .replace(/<link rel="canonical" href="[^"]*">/, `<link rel="canonical" href="${opts.canon}">`)
     .replace(/(<meta property="og:url" content=")[^"]*(">)/, `$1${opts.canon}$2`);
   if (opts.title) html = html.replace(/<title>[^<]*<\/title>/, `<title>${opts.title}</title>`);
@@ -135,6 +159,7 @@ function writePages(shell, ctx, activeCats) {
       pager: pagerHtml(ctx.base, p, total),
       catnav: catnavHtml(activeCats, ctx.kind === 'home' ? 'all' : ctx.id),
       canon,
+      facets: facetsHtml(ctx),
     };
     if (ctx.kind === 'category') {
       opts.seclabel = `${ctx.label}`;
@@ -191,6 +216,7 @@ function regenAll(metas) {
 function regenSearchIndex(metas) {
   const data = metas.map(m => ({
     slug: m.slug, title: m.title, audience: m.audience, emoji: m.emoji,
+    theme: m.theme, country: m.country || '', cities: m.cities || [],
     city: m.city, season: m.season, month: m.travelMonthLabel, img: m.heroImg, description: m.description || '',
   }));
   fs.writeFileSync(path.join(ROOT, 'articles.json'), JSON.stringify(data));

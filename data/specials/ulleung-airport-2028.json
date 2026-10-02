@@ -268,5 +268,9 @@
   ],
   "disc": "일부 링크는 제휴 링크이며 예약 시 수수료를 받을 수 있습니다. 공항 정보는 2026년 10월 2일까지 공개된 보도를 근거로 정리했으며, 개항 일정·노선·운임은 정부·항공사 공식 발표에 따라 달라질 수 있습니다. 방송 정보는 각 회차 보도 기준입니다.",
   "cardImgFrom": "ulleungdo-gianzhang-2026",
-  "cardImgMatch": "Daea Ulleung"
+  "cardImgMatch": "Daea Ulleung",
+  "country": "한국",
+  "facetCities": [
+    "울릉도"
+  ]
 }

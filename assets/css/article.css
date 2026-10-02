@@ -153,6 +153,15 @@ h2{font-family:var(--serif);font-weight:800;font-size:1.3rem;letter-spacing:-.01
 .cchipx{position:absolute;left:12px;top:12px;display:inline-flex;align-items:baseline;gap:7px;padding:7px 13px;border-radius:999px;background:rgba(20,28,36,.62);color:#fff;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);box-shadow:0 4px 14px rgba(0,0,0,.22);font-family:var(--sans);line-height:1}
 .cchipx b{font-size:.95rem;font-weight:800;letter-spacing:-.01em}
 .cchipx small{font-size:.68rem;font-weight:700;opacity:.85;letter-spacing:.04em}
+.facets{display:flex;flex-direction:column;gap:8px;margin:-4px 0 18px}
+.frow{display:flex;flex-wrap:wrap;justify-content:center;gap:7px;padding:2px 1px 4px}
+.frow.sub{padding-top:9px;border-top:1px dashed var(--line);margin:0 auto;max-width:760px}
+.fchip{flex:0 0 auto;font:700 .8rem/1 var(--sans);color:var(--muted);background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:7px 12px;cursor:pointer;transition:background .15s,color .15s,border-color .15s}
+.fchip em{font-style:normal;font-weight:600;opacity:.6;margin-left:2px}
+.fchip:hover{border-color:var(--accent);color:var(--text)}
+.fchip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.fchip.on em{opacity:.85}
+.frow.sub .fchip{font-size:.76rem;padding:6px 11px}
 .cbody{padding:14px 2px 0}
 .cmeta{font-family:var(--sans);font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent-d);font-weight:700}
 .card h2{font-family:var(--serif);font-size:1.12rem;font-weight:800;line-height:1.4;margin-top:7px;color:var(--text);transition:color .15s}

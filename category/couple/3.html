@@ -39,6 +39,7 @@
   </div>
 
   <nav class="catnav" id="catnav" aria-label="카테고리"><!--CATNAV_START--><a class="cchip" href="/">전체</a><a class="cchip" href="/category/domestic">🇰🇷 국내 특별 여행지</a><a class="cchip" href="/category/tv-luxury">📺 방송 속 럭셔리 호텔</a><a class="cchip on" href="/category/couple">💑 연인여행</a><a class="cchip" href="/category/family">👨‍👩‍👧 가족여행</a><a class="cchip" href="/category/kids">🧒 아이와함께 호캉스</a><a class="cchip" href="/category/waterpark">🏊 여름 워터파크 호텔</a><a class="cchip" href="/category/solo">🧳 혼자여행</a><a class="cchip" href="/category/friends">🧑‍🤝‍🧑 친구여행</a><!--CATNAV_END--></nav>
+  <!--FACETS_START--><div class="facets" id="facets" data-cat="couple" data-cities='{"일본":[["오사카",4],["도쿄",4],["후쿠오카",3],["교토",3],["나고야",2],["요코하마",1],["삿포로",1]],"한국":[["서울",3],["부산",2],["울릉도",1],["대구",1],["인천",1],["제주",1]],"베트남":[["다낭",3],["하노이",2],["달랏",1],["나트랑",1]],"태국":[["방콕",3],["치앙마이",2],["파타야",1],["푸켓",1]],"대만":[["타이베이",3],["가오슝",2],["타이난",1],["타이중",1]],"싱가포르":[["싱가포르",3]],"필리핀":[["보라카이",1],["세부",1],["마닐라",1]],"말레이시아":[["쿠알라룸푸르",2]],"홍콩":[["홍콩",2]],"인도네시아":[["자카르타",1],["발리",1]]}'><div class="frow" id="fcountry"><button type="button" class="fchip on" data-country="">전체 <em>60</em></button><button type="button" class="fchip" data-country="일본">🇯🇵 일본 <em>18</em></button><button type="button" class="fchip" data-country="한국">🇰🇷 한국 <em>9</em></button><button type="button" class="fchip" data-country="베트남">🇻🇳 베트남 <em>7</em></button><button type="button" class="fchip" data-country="태국">🇹🇭 태국 <em>7</em></button><button type="button" class="fchip" data-country="대만">🇹🇼 대만 <em>7</em></button><button type="button" class="fchip" data-country="싱가포르">🇸🇬 싱가포르 <em>3</em></button><button type="button" class="fchip" data-country="필리핀">🇵🇭 필리핀 <em>3</em></button><button type="button" class="fchip" data-country="말레이시아">🇲🇾 말레이시아 <em>2</em></button><button type="button" class="fchip" data-country="홍콩">🇭🇰 홍콩 <em>2</em></button><button type="button" class="fchip" data-country="인도네시아">🇮🇩 인도네시아 <em>2</em></button></div><div class="frow sub" id="fcity" hidden></div></div><!--FACETS_END-->
 
   <div class="seclabel" id="seclabel"><h2>💑 연인여행</h2><span class="ln"></span></div>
 
@@ -142,6 +143,45 @@
       fetch('/articles.json').then(function(r){return r.json();}).then(function(d){idx=d;showResults(v);}).catch(function(){});
     }
     if(q)q.addEventListener('input',function(){clearTimeout(timer);var v=q.value.trim();timer=setTimeout(function(){run(v);},120);});
+    // 패싯 필터: 국가 → 도시 칩. 기본은 '전체'(최신순 피드), 칩을 누를 때만 이 카테고리 전체 글에서 걸러 보여줌
+    var fx=document.getElementById('facets');
+    if(fx){
+      var cat=fx.getAttribute('data-cat'), cmap={};
+      try{cmap=JSON.parse(fx.getAttribute('data-cities')||'{}');}catch(e){}
+      var fc=document.getElementById('fcountry'), fy=document.getElementById('fcity');
+      var st={country:'',city:''};
+      function mark(row,attr,val){[].forEach.call(row.querySelectorAll('.fchip'),function(b){b.classList.toggle('on',b.getAttribute(attr)===val);});}
+      function cityRow(){
+        var cs=cmap[st.country]||[];
+        if(!st.country||cs.length<2){fy.hidden=true;fy.innerHTML='';return;}
+        fy.innerHTML='<button type="button" class="fchip" data-city="">'+esc(st.country)+' 전체</button>'+cs.map(function(c){return '<button type="button" class="fchip" data-city="'+esc(c[0])+'">'+esc(c[0])+' <em>'+c[1]+'</em></button>';}).join('');
+        fy.hidden=false;mark(fy,'data-city',st.city);
+      }
+      function sync(){
+        var u=new URL(location.href);u.searchParams.delete('country');u.searchParams.delete('city');
+        if(st.country)u.searchParams.set('country',st.country);if(st.city)u.searchParams.set('city',st.city);
+        history.replaceState(null,'',u.pathname+u.search+u.hash);
+      }
+      function apply(){
+        mark(fc,'data-country',st.country);cityRow();sync();
+        if(!st.country){showBrowse();return;}
+        function go(){
+          var hits=idx.filter(function(a){
+            if(cat!=='all'&&a.theme!==cat)return false;
+            if(a.country!==st.country)return false;
+            return !st.city||(a.cities||[]).indexOf(st.city)>=0;
+          });
+          sr.innerHTML=hits.map(cardHTML).join('');
+          list.style.display='none';if(pager)pager.style.display='none';if(seclabel)seclabel.style.display='none';
+          sr.style.display='';nr.style.display=hits.length?'none':'block';
+        }
+        if(idx)go();else fetch('/articles.json').then(function(r){return r.json();}).then(function(d){idx=d;go();}).catch(function(){});
+      }
+      fc.addEventListener('click',function(e){var b=e.target.closest('.fchip');if(!b)return;st.country=b.getAttribute('data-country');st.city='';if(q)q.value='';apply();});
+      fy.addEventListener('click',function(e){var b=e.target.closest('.fchip');if(!b)return;st.city=b.getAttribute('data-city');apply();});
+      var p0=new URLSearchParams(location.search);
+      if(p0.get('country')){st.country=p0.get('country');st.city=p0.get('city')||'';apply();}
+    }
   })();
 </script>
 </body>

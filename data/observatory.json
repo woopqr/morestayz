@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 28,
+  "cursor": 29,
   "observations": [
     {
       "city": "발리",
@@ -2484,6 +2484,44 @@
           "priceKRW": 145763,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/la-vida-hotel/hotel/taichung-tw.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "타이난",
+      "citySlug": "tainan",
+      "cityId": 18347,
+      "observedAt": "2026-10-02T00:23:55.771Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "83091040",
+          "name": "야오시 호텔 - 타이난 신메이 파빌리온 (耀西文旅-台南新美館)",
+          "priceKRW": 38988,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/yoshi-hotel-tainan-sinmei-branch-h64533718/hotel/tainan-tw.html?cid=1925461"
+        },
+        {
+          "key": "16534687",
+          "name": "샹그릴라 파 이스턴 플라자 타이난 (Shangri-La Far Eastern Plaza, Tainan)",
+          "priceKRW": 186930,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/shangri-la-s-far-eastern-plaza-hotel-tainan-h9182148/hotel/tainan-tw.html?cid=1925461"
+        },
+        {
+          "key": "706323",
+          "name": "카인드니스 호텔 타이난 치칸 타워 (Kindness Hotel Tainan Chihkan Tower)",
+          "priceKRW": 84629,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kindness-hotel-tainan-chihkan-tower/hotel/tainan-tw.html?cid=1925461"
+        },
+        {
+          "key": "83011944",
+          "name": "보 추안 호텔 (Bo Chuan Hotel)",
+          "priceKRW": 34390,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h21790081/hotel/chiayi-tw.html?cid=1925461"
         }
       ]
     }

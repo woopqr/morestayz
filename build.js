@@ -270,7 +270,8 @@ function relatedFor(data) {
     const d = JSON.parse(fs.readFileSync(path.join(artDir, f), 'utf8'));
     if (re.test(d.city || '')) out.push({ slug: d.slug, title: editorialTitle(d), tag: `${d.emoji || ''} ${d.city} ${d.audience} 숙소 비교`.trim(), order: 1 });
   });
-  return out.sort((a, b) => a.order - b.order).slice(0, data.relatedMax || 12).map(({ order, ...r }) => r);
+  const ym = r => (String(r.slug).match(/(\d{4}-\d{2})$/) || [, '9999'])[1];
+  return out.sort((a, b) => (a.order - b.order) || ym(b).localeCompare(ym(a))).slice(0, data.relatedMax || 12).map(({ order, ...r }) => r);
 }
 function buildSpecial(fileSlug) {
   const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/specials', fileSlug + '.json'), 'utf8'));

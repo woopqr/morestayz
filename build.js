@@ -189,7 +189,7 @@ function buildContext(data) {
       headline: title, description: metaDescription,
       datePublished: data.updated, dateModified: data.updated,
       image: data.heroImg || undefined,
-      author: { '@type': 'Organization', name: 'morestayz 데이터 편집팀', url: `https://${SITE.domain}/pages/about.html` },
+      author: { '@type': 'Organization', name: 'morestayz 데이터 편집팀', url: `https://${SITE.domain}/pages/about` },
       publisher: { '@type': 'Organization', name: SITE.name, url: `https://${SITE.domain}/` },
       about: [{ '@type': 'Thing', name: data.city }, { '@type': 'Thing', name: data.audience }],
       isPartOf: { '@type': 'WebSite', name: SITE.name, url: `https://${SITE.domain}/` },

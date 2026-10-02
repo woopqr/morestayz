@@ -225,12 +225,12 @@ function regenSitemap(metas, info) {
   const today = new Date().toISOString().slice(0, 10);
   const urls = [
     { loc: BASE + '/', pri: '1.0', cf: 'daily' },
-    { loc: BASE + '/pages/about.html', pri: '0.5', cf: 'monthly' },
-    { loc: BASE + '/pages/contact.html', pri: '0.3', cf: 'yearly' },
-    { loc: BASE + '/pages/privacy.html', pri: '0.3', cf: 'yearly' },
-    { loc: BASE + '/pages/methodology.html', pri: '0.6', cf: 'monthly' },
-    { loc: BASE + '/pages/editorial-policy.html', pri: '0.5', cf: 'monthly' },
-    { loc: BASE + '/pages/price-observatory.html', pri: '0.7', cf: 'daily' },
+    { loc: BASE + '/pages/about', pri: '0.5', cf: 'monthly' },
+    { loc: BASE + '/pages/contact', pri: '0.3', cf: 'yearly' },
+    { loc: BASE + '/pages/privacy', pri: '0.3', cf: 'yearly' },
+    { loc: BASE + '/pages/methodology', pri: '0.6', cf: 'monthly' },
+    { loc: BASE + '/pages/editorial-policy', pri: '0.5', cf: 'monthly' },
+    { loc: BASE + '/pages/price-observatory', pri: '0.7', cf: 'daily' },
   ];
   for (let p = 2; p <= (info.homePages || 1); p++) urls.push({ loc: `${BASE}/page/${p}`, pri: '0.5', cf: 'daily' });
   info.catPageInfo.forEach(c => {

@@ -1,1 +1,4 @@
 # Cloudflare Pages는 /articles/slug.html 을 /articles/slug 로 자동 서빙
+
+# 사이트맵 별칭 (네이버·구글 제출 시 확장자 누락 대비)
+/sitemap  /sitemap.xml  301

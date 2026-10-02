@@ -254,9 +254,9 @@ function stampAssets() {
     return [new RegExp('/' + a.replace(/[.]/g, '\\.') + '(\\?v=[0-9a-f]+)?(?=")', 'g'), `/${a}?v=${v}`];
   });
   const walk = d => fs.existsSync(d) ? fs.readdirSync(d).flatMap(f => { const full = path.join(d, f); return fs.statSync(full).isDirectory() ? walk(full) : (f.endsWith('.html') ? [full] : []); }) : [];
-  const files = [path.join(ROOT, 'index.html'), ...['templates', 'pages', 'articles', 'category', 'page'].flatMap(d => walk(path.join(ROOT, d)))];
+  const files = [path.join(ROOT, 'index.html'), path.join(ROOT, '404.html'), ...['templates', 'pages', 'articles', 'category', 'page'].flatMap(d => walk(path.join(ROOT, d)))];
   let n = 0;
-  files.forEach(f => {
+  files.filter(f => fs.existsSync(f)).forEach(f => {
     const src = fs.readFileSync(f, 'utf8');
     const out = subs.reduce((t, [re, rep]) => t.replace(re, rep), src);
     if (out !== src) { fs.writeFileSync(f, out); n++; }

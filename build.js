@@ -240,6 +240,9 @@ function buildSpecialContext(data, hotels) {
     nearbyFood: (data.nearby && data.nearby.food) || [],
     nearbyCafe: (data.nearby && data.nearby.cafe) || [],
     faq: data.faq || [],
+    sources: data.sources || [],
+    hasSources: !!(data.sources && data.sources.length),
+    relatedHeading: data.relatedHeading || `🔗 ${region} 더 알아보기 — 숙소·여행 연관 글`,
     hotels: hotels,
     hasHotels: hotels.length > 0,
     hotelCount: hotels.length,
@@ -252,12 +255,32 @@ function buildSpecialContext(data, hotels) {
     disc: data.disc || '일부 링크는 제휴 링크이며 구매 시 수수료를 받을 수 있습니다. 방송·명소·시설 정보는 공개된 자료를 바탕으로 정리했으며 방문 시점에 따라 달라질 수 있습니다.',
   };
 }
+// 연관 글(내부 링크): relatedMatch(정규식)와 도시·지역·제목이 맞는 자동 큐레이션 글 + 다른 특별기획
+function relatedFor(data) {
+  if (!data.relatedMatch) return [];
+  const re = new RegExp(data.relatedMatch, 'i');
+  const out = [];
+  const spDir = path.join(ROOT, 'data/specials');
+  if (fs.existsSync(spDir)) fs.readdirSync(spDir).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).forEach(f => {
+    const d = JSON.parse(fs.readFileSync(path.join(spDir, f), 'utf8'));
+    if (d.slug !== data.slug && (re.test(d.region || '') || re.test(d.title || ''))) out.push({ slug: d.slug, title: d.title, tag: `${d.emoji || '📌'} ${d.kicker || '특별 기획'}`, order: 0 });
+  });
+  const artDir = path.join(ROOT, 'data/articles');
+  if (fs.existsSync(artDir)) fs.readdirSync(artDir).filter(f => f.endsWith('.json')).forEach(f => {
+    const d = JSON.parse(fs.readFileSync(path.join(artDir, f), 'utf8'));
+    if (re.test(d.city || '')) out.push({ slug: d.slug, title: editorialTitle(d), tag: `${d.emoji || ''} ${d.city} ${d.audience} 숙소 비교`.trim(), order: 1 });
+  });
+  return out.sort((a, b) => a.order - b.order).slice(0, data.relatedMax || 12).map(({ order, ...r }) => r);
+}
 function buildSpecial(fileSlug) {
   const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/specials', fileSlug + '.json'), 'utf8'));
   const sidecar = path.join(ROOT, 'data/specials', fileSlug + '.hotels.json');
   let hotels = [];
   if (fs.existsSync(sidecar)) { try { hotels = JSON.parse(fs.readFileSync(sidecar, 'utf8')).hotels || []; } catch (e) {} }
-  const html = render(SPECIAL_TPL, [buildSpecialContext(data, hotels)]);
+  const ctx = buildSpecialContext(data, hotels);
+  ctx.related = relatedFor(data);
+  ctx.hasRelated = ctx.related.length > 0;
+  const html = render(SPECIAL_TPL, [ctx]);
   fs.mkdirSync(path.join(ROOT, 'articles'), { recursive: true });
   fs.writeFileSync(path.join(ROOT, 'articles', data.slug + '.html'), html);
   console.log('✓ articles/' + data.slug + '.html (특별기획: ' + (data.region || data.slug) + ')');

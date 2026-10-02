@@ -97,6 +97,24 @@
     {{/faq}}
   </section>
 
+  {{#hasSources}}
+  <section class="sp-sec sp-sources">
+    <h2>📚 근거·출처</h2>
+    <ol>
+      {{#sources}}<li><a href="{{url}}" target="_blank" rel="noopener nofollow">{{label}}</a> <span class="src-meta">{{pub}} · {{date}}</span></li>{{/sources}}
+    </ol>
+  </section>
+  {{/hasSources}}
+
+  {{#hasRelated}}
+  <section class="sp-sec sp-related">
+    <h2>{{relatedHeading}}</h2>
+    <div class="sp-rel">
+      {{#related}}<a class="relcard" href="/articles/{{slug}}"><span class="rl-tag">{{tag}}</span><b>{{title}}</b></a>{{/related}}
+    </div>
+  </section>
+  {{/hasRelated}}
+
   <div class="cta sp-cta big"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">{{bottomCtaText}}</a></div>
 
   <p class="disc">{{disc}}</p>

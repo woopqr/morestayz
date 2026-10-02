@@ -234,6 +234,16 @@ h2{font-family:var(--serif);font-weight:800;font-size:1.3rem;letter-spacing:-.01
 .sph-name{font-family:var(--serif);font-weight:800;font-size:.98rem;line-height:1.35}
 .sph-meta{font-size:.82rem;color:var(--muted)}
 .sph-badge{align-self:flex-start;font-size:.72rem;font-weight:800;color:var(--rose);letter-spacing:.02em}
+.sp-sources ol{margin:0;padding-left:1.3em;display:flex;flex-direction:column;gap:7px;font-size:.9rem;line-height:1.55}
+.sp-sources a{color:var(--accent-d);text-decoration:underline;text-underline-offset:2px}
+.src-meta{color:var(--muted);font-size:.8rem}
+.sp-rel{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(240px,1fr))}
+.relcard{display:flex;flex-direction:column;gap:6px;padding:14px 16px;background:var(--surface);border:1px solid var(--line);border-radius:14px;color:var(--text);transition:transform .2s,box-shadow .2s}
+.relcard:hover{transform:translateY(-2px);box-shadow:var(--shadow-h)}
+.relcard .rl-tag{font-size:.72rem;font-weight:800;color:var(--rose)}
+.relcard b{font-family:var(--serif);font-size:.96rem;line-height:1.4}
+.sp-body table{font-size:.9rem;display:block;overflow-x:auto;max-width:100%}
+.sp-body th,.sp-body td{white-space:normal;vertical-align:top;min-width:5.5em}
 .sph-cta{margin-top:3px;font-size:.82rem;font-weight:800;color:var(--accent-d)}
 /* GEO 근거 카드: 출처·조건·표본·누락 상태를 본문 가까이에 표시 */
 .evidence-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:12px 0}.evidence-list div{padding:10px;border:1px solid var(--line);border-radius:10px}.evidence-list dt{font-size:12px;color:var(--muted);font-weight:700}.evidence-list dd{margin:4px 0 0;font-weight:700}.field-status{font-size:12px;color:var(--muted);padding:8px 10px;background:var(--soft);border-radius:8px}table{width:100%;border-collapse:collapse;margin:18px 0}th,td{text-align:left;padding:10px;border-bottom:1px solid var(--line);white-space:nowrap}@media(max-width:640px){.evidence-list{grid-template-columns:1fr}}

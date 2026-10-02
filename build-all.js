@@ -23,7 +23,6 @@ const BASE = `https://${SITE.domain}`;
 const SPECIALS = path.join(ROOT, 'data/specials');
 // 패싯 필터(국가→도시)용: 도시 슬러그 → 국가
 const CITY_COUNTRY = Object.fromEntries(JSON.parse(fs.readFileSync(path.join(ROOT, 'data/cities.json'), 'utf8')).map(c => [c.slug, c.country]));
-const COUNTRY_FLAG = { '한국': '🇰🇷', '일본': '🇯🇵', '대만': '🇹🇼', '태국': '🇹🇭', '베트남': '🇻🇳', '싱가포르': '🇸🇬', '홍콩': '🇭🇰', '말레이시아': '🇲🇾', '인도네시아': '🇮🇩', '필리핀': '🇵🇭' };
 const CATS = [{ id: 'domestic', label: '국내 특별 여행지', emoji: '🇰🇷' }, { id: 'tv-luxury', label: '방송 속 럭셔리 호텔', emoji: '📺' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
 
 // 특별기획 글은 이미지가 없으므로 지역명 타이포 카드(SVG data-URI)를 썸네일로 사용
@@ -124,10 +123,10 @@ function facetsHtml(ctx) {
   if (countries.length < 2) return '';
   const cityMap = {};
   countries.forEach(c => { cityMap[c] = Object.entries(byCountry[c].cities).sort((a, b) => b[1] - a[1]); });
-  const chip = (c) => `<button type="button" class="fchip" data-country="${c}">${COUNTRY_FLAG[c] || '📍'} ${c} <em>${byCountry[c].n}</em></button>`;
+  const chip = (c) => `<button type="button" class="fchip" data-country="${c}">${c}<sup>${byCountry[c].n}</sup></button>`;
   return `<div class="facets" id="facets" data-cat="${ctx.kind === 'home' ? 'all' : ctx.id}" data-cities='${JSON.stringify(cityMap).replace(/'/g, '&#39;')}'>`
-    + `<div class="frow" id="fcountry"><button type="button" class="fchip on" data-country="">전체 <em>${ctx.metas.length}</em></button>${countries.map(chip).join('')}</div>`
-    + `<div class="frow sub" id="fcity" hidden></div></div>`;
+    + `<div class="frow"><span class="flabel">Country</span><div class="ftrack" id="fcountry"><button type="button" class="fchip on" data-country="">전체<sup>${ctx.metas.length}</sup></button>${countries.map(chip).join('')}</div></div>`
+    + `<div class="frow sub" id="fcityrow" hidden><span class="flabel">City</span><div class="ftrack" id="fcity"></div></div></div>`;
 }
 
 function applyShell(shell, opts) {

@@ -39,7 +39,7 @@
   </div>
 
   <nav class="catnav" id="catnav" aria-label="카테고리"><!--CATNAV_START--><a class="cchip" href="/">전체</a><a class="cchip" href="/category/domestic">🇰🇷 국내 특별 여행지</a><a class="cchip on" href="/category/tv-luxury">📺 방송 속 럭셔리 호텔</a><a class="cchip" href="/category/couple">💑 연인여행</a><a class="cchip" href="/category/family">👨‍👩‍👧 가족여행</a><a class="cchip" href="/category/kids">🧒 아이와함께 호캉스</a><a class="cchip" href="/category/waterpark">🏊 여름 워터파크 호텔</a><a class="cchip" href="/category/solo">🧳 혼자여행</a><a class="cchip" href="/category/friends">🧑‍🤝‍🧑 친구여행</a><!--CATNAV_END--></nav>
-  <!--FACETS_START--><div class="facets" id="facets" data-cat="tv-luxury" data-cities='{"한국":[["대관령·평창",1],["강릉",1],["통영",1],["거제",1],["여수",1]],"대만":[["타이베이",1],["타이중",1],["가오슝",1]]}'><div class="frow" id="fcountry"><button type="button" class="fchip on" data-country="">전체 <em>3</em></button><button type="button" class="fchip" data-country="한국">🇰🇷 한국 <em>2</em></button><button type="button" class="fchip" data-country="대만">🇹🇼 대만 <em>1</em></button></div><div class="frow sub" id="fcity" hidden></div></div><!--FACETS_END-->
+  <!--FACETS_START--><div class="facets" id="facets" data-cat="tv-luxury" data-cities='{"한국":[["대관령·평창",1],["강릉",1],["통영",1],["거제",1],["여수",1]],"대만":[["타이베이",1],["타이중",1],["가오슝",1]]}'><div class="frow"><span class="flabel">Country</span><div class="ftrack" id="fcountry"><button type="button" class="fchip on" data-country="">전체<sup>3</sup></button><button type="button" class="fchip" data-country="한국">한국<sup>2</sup></button><button type="button" class="fchip" data-country="대만">대만<sup>1</sup></button></div></div><div class="frow sub" id="fcityrow" hidden><span class="flabel">City</span><div class="ftrack" id="fcity"></div></div></div><!--FACETS_END-->
 
   <div class="seclabel" id="seclabel"><h2>📺 방송 속 럭셔리 호텔</h2><span class="ln"></span></div>
 
@@ -112,14 +112,14 @@
     if(fx){
       var cat=fx.getAttribute('data-cat'), cmap={};
       try{cmap=JSON.parse(fx.getAttribute('data-cities')||'{}');}catch(e){}
-      var fc=document.getElementById('fcountry'), fy=document.getElementById('fcity');
+      var fc=document.getElementById('fcountry'), fy=document.getElementById('fcity'), fyr=document.getElementById('fcityrow');
       var st={country:'',city:''};
       function mark(row,attr,val){[].forEach.call(row.querySelectorAll('.fchip'),function(b){b.classList.toggle('on',b.getAttribute(attr)===val);});}
       function cityRow(){
         var cs=cmap[st.country]||[];
-        if(!st.country||cs.length<2){fy.hidden=true;fy.innerHTML='';return;}
-        fy.innerHTML='<button type="button" class="fchip" data-city="">'+esc(st.country)+' 전체</button>'+cs.map(function(c){return '<button type="button" class="fchip" data-city="'+esc(c[0])+'">'+esc(c[0])+' <em>'+c[1]+'</em></button>';}).join('');
-        fy.hidden=false;mark(fy,'data-city',st.city);
+        if(!st.country||cs.length<2){fyr.hidden=true;fy.innerHTML='';return;}
+        fy.innerHTML='<button type="button" class="fchip" data-city="">'+esc(st.country)+' 전체</button>'+cs.map(function(c){return '<button type="button" class="fchip" data-city="'+esc(c[0])+'">'+esc(c[0])+'<sup>'+c[1]+'</sup></button>';}).join('');
+        fyr.hidden=false;mark(fy,'data-city',st.city);
       }
       function sync(){
         var u=new URL(location.href);u.searchParams.delete('country');u.searchParams.delete('city');
@@ -143,8 +143,13 @@
       }
       fc.addEventListener('click',function(e){var b=e.target.closest('.fchip');if(!b)return;st.country=b.getAttribute('data-country');st.city='';if(q)q.value='';apply();});
       fy.addEventListener('click',function(e){var b=e.target.closest('.fchip');if(!b)return;st.city=b.getAttribute('data-city');apply();});
+      function ovf(){[fc,fy].forEach(function(t){t.classList.toggle('ovf',t.scrollWidth>t.clientWidth+2&&t.scrollLeft+t.clientWidth<t.scrollWidth-2);});}
+      [fc,fy].forEach(function(t){t.addEventListener('scroll',ovf,{passive:true});});
+      window.addEventListener('resize',ovf);
+      fx.addEventListener('click',function(){setTimeout(ovf,0);});
       var p0=new URLSearchParams(location.search);
       if(p0.get('country')){st.country=p0.get('country');st.city=p0.get('city')||'';apply();}
+      ovf();
     }
   })();
 </script>

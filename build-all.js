@@ -245,6 +245,25 @@ function regenSitemap(metas, info) {
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>\n`);
 }
 
+// 정적 자산 캐시 무효화: CSS/JS 내용 해시를 ?v= 로 붙여 Cloudflare/브라우저가 새 파일을 받게 함
+const ASSETS = ['assets/css/article.css', 'assets/consent.js'];
+function stampAssets() {
+  const crypto = require('crypto');
+  const subs = ASSETS.filter(a => fs.existsSync(path.join(ROOT, a))).map(a => {
+    const v = crypto.createHash('md5').update(fs.readFileSync(path.join(ROOT, a))).digest('hex').slice(0, 8);
+    return [new RegExp('/' + a.replace(/[.]/g, '\\.') + '(\\?v=[0-9a-f]+)?(?=")', 'g'), `/${a}?v=${v}`];
+  });
+  const walk = d => fs.existsSync(d) ? fs.readdirSync(d).flatMap(f => { const full = path.join(d, f); return fs.statSync(full).isDirectory() ? walk(full) : (f.endsWith('.html') ? [full] : []); }) : [];
+  const files = [path.join(ROOT, 'index.html'), ...['templates', 'pages', 'articles', 'category', 'page'].flatMap(d => walk(path.join(ROOT, d)))];
+  let n = 0;
+  files.forEach(f => {
+    const src = fs.readFileSync(f, 'utf8');
+    const out = subs.reduce((t, [re, rep]) => t.replace(re, rep), src);
+    if (out !== src) { fs.writeFileSync(f, out); n++; }
+  });
+  return n;
+}
+
 function rebuildAll() {
   if (fs.existsSync(ART)) fs.readdirSync(ART).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
   if (fs.existsSync(SPECIALS)) fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).forEach(f => buildSpecial(f.replace(/\.json$/, '')));
@@ -254,9 +273,10 @@ function rebuildAll() {
   const info = regenAll(metas);
   regenSearchIndex(metas);
   regenSitemap(metas, info);
+  const stamped = stampAssets();
   console.log(`✓ rebuildAll: ${metas.length}개 글 · 홈 ${info.homePages}p · 카테고리 ${info.activeCats.length}개 · articles.json/sitemap 갱신`);
   return metas;
 }
 
-if (require.main === module) rebuildAll();
-module.exports = { rebuildAll, articleMetas };
+if (require.main === module) { if (process.argv.includes('--stamp')) console.log(`✓ stampAssets: ${stampAssets()}개 파일`); else rebuildAll(); }
+module.exports = { rebuildAll, articleMetas, stampAssets };

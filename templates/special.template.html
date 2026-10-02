@@ -27,7 +27,7 @@
 </button>
 
 <article class="post special">
-  <a class="backbar" href="/category/domestic">← 국내 특별 여행지</a>
+  <a class="backbar" href="/category/{{categoryId}}">← {{categoryLabel}}</a>
 
   <header class="sp-hero">
     <span class="sp-eyebrow">{{heroEyebrow}}</span>
@@ -55,7 +55,7 @@
       <a class="sphotel" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">
         <div class="sph-thumb">{{#img}}<img src="{{img}}" alt="{{name}}" loading="lazy">{{/img}}</div>
         <div class="sph-body">
-          <span class="sph-name">{{name}}</span>
+          {{#badge}}<span class="sph-badge">{{badge}}</span>{{/badge}}<span class="sph-name">{{name}}</span>
           <span class="sph-meta">★ {{score}} · {{reviewCountFmt}}{{#priceText}} · {{priceText}}{{/priceText}}</span>
           <span class="sph-cta">아고다에서 보기 →</span>
         </div>
@@ -102,7 +102,7 @@
   <p class="disc">{{disc}}</p>
 
   <nav class="pagenav">
-    <a href="/category/domestic">← 국내 특별 여행지 더 보기</a>
+    <a href="/category/{{categoryId}}">← {{categoryLabel}} 더 보기</a>
     <span><a href="/pages/about.html">소개</a> · <a href="/pages/privacy.html">개인정보처리방침</a> · <a href="/pages/contact.html">문의</a></span>
   </nav>
 </article>

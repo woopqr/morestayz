@@ -233,7 +233,20 @@ h2{font-family:var(--serif);font-weight:800;font-size:1.3rem;letter-spacing:-.01
 .sph-body{display:flex;flex-direction:column;gap:3px;padding:11px 13px}
 .sph-name{font-family:var(--serif);font-weight:800;font-size:.98rem;line-height:1.35}
 .sph-meta{font-size:.82rem;color:var(--muted)}
+.sph-badge{align-self:flex-start;font-size:.72rem;font-weight:800;color:var(--rose);letter-spacing:.02em}
 .sph-cta{margin-top:3px;font-size:.82rem;font-weight:800;color:var(--accent-d)}
 /* GEO 근거 카드: 출처·조건·표본·누락 상태를 본문 가까이에 표시 */
 .evidence-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:12px 0}.evidence-list div{padding:10px;border:1px solid var(--line);border-radius:10px}.evidence-list dt{font-size:12px;color:var(--muted);font-weight:700}.evidence-list dd{margin:4px 0 0;font-weight:700}.field-status{font-size:12px;color:var(--muted);padding:8px 10px;background:var(--soft);border-radius:8px}table{width:100%;border-collapse:collapse;margin:18px 0}th,td{text-align:left;padding:10px;border-bottom:1px solid var(--line);white-space:nowrap}@media(max-width:640px){.evidence-list{grid-template-columns:1fr}}
 .crumb,.byline{font-size:12px;color:var(--muted)}.crumb{display:flex;gap:7px;flex-wrap:wrap;margin:12px 0}.byline a,.crumb a{color:inherit;text-decoration:underline}.trustnav{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin:14px auto 4px}.trustnav a{border:1px solid var(--line);border-radius:999px;padding:7px 11px;font-size:12px}.site-purpose{max-width:900px;margin:18px auto 28px;padding:18px;border:1px solid var(--line);border-radius:16px;background:var(--card)}.site-purpose h2{margin:0 0 8px;font-size:1.15rem}.site-purpose p{margin:6px 0;color:var(--muted);line-height:1.65}
+
+/* 리치 footer (홈·카테고리·페이지) */
+footer{max-width:1120px;margin:56px auto 0;padding:34px 20px;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;text-align:left;line-height:1.6}
+.foot-grid{display:grid;gap:28px;grid-template-columns:1.5fr 1fr 1fr}
+.foot-brand{font-family:var(--serif);font-weight:800;font-size:1.3rem;color:var(--text)}
+.foot-desc{margin-top:8px;line-height:1.6;max-width:34ch}
+.foot-col h4{font-family:var(--sans);font-size:.78rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--text);margin-bottom:10px}
+.foot-col a{display:block;color:var(--muted);padding:3px 0;margin:0;transition:color .15s}
+.foot-col a:hover{color:var(--accent-d)}
+.foot-disc{margin-top:26px;padding-top:18px;border-top:1px solid var(--line);line-height:1.6;font-size:.8rem}
+.foot-copy{margin-top:8px;font-size:.8rem;color:var(--muted)}
+@media(max-width:640px){.foot-grid{grid-template-columns:1fr 1fr}}

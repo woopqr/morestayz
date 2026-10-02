@@ -230,6 +230,7 @@ function buildSpecialContext(data, hotels) {
   return {
     site: SITE, adsense: SITE.adsense, canonical, jsonld, agodaUrl,
     slug: data.slug, title: data.title, metaDescription: data.metaDescription,
+    categoryId: data.category || 'domestic', categoryLabel: data.categoryLabel || '국내 특별 여행지',
     keywordsCsv: (data.keywords || []).join(', '),
     heroEyebrow: hero.eyebrow || '', heroHeadline: escapeHtml(hero.headline || '').replace(/\n/g, '<br>'), heroSub: hero.sub || '',
     keywords: data.keywords || [],

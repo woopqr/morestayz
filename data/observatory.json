@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 29,
+  "cursor": 30,
   "observations": [
     {
       "city": "발리",
@@ -2522,6 +2522,170 @@
           "priceKRW": 34390,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/h21790081/hotel/chiayi-tw.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "타이베이",
+      "citySlug": "taipei",
+      "cityId": 4951,
+      "observedAt": "2026-10-03T00:05:22.701Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "59425219",
+          "name": "원더타임 타이베이 스테이션-한커우 레이디스 호스텔 (Wondertime Taipei Station-Hankou Ladies Hostel)",
+          "priceKRW": 24788,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/wondertime-taipei-station-branch-iii/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "2089511",
+          "name": "시저 파크 호텔 반차오 (Caesar Park Hotel Banqiao)",
+          "priceKRW": 181609,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/caesar-park-hotel-banqiao/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "41662304",
+          "name": "스타 호스텔 타이베이 메인 스테이션 (Star Hostel Taipei Main Station)",
+          "priceKRW": 41999,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/star-hostel-taipei-main-station_3/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "914412",
+          "name": "워크 인 TPE (WORK INN TPE)",
+          "priceKRW": 16935,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/work-inn-tpe/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "6425856",
+          "name": "어퍼즈 인 (Apause Inn)",
+          "priceKRW": 56274,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apause-inn/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "50637463",
+          "name": "트윈 스타 인 (TWIN STAR INN)",
+          "priceKRW": 40333,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/twin-star-inn/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "1023680",
+          "name": "타이페이 디스커버 호스텔 (Taipei Discover Hostel)",
+          "priceKRW": 25062,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/taipei-discover-hostel/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "2150639",
+          "name": "시저 메트로 타이베이 (Caesar Metro Taipei)",
+          "priceKRW": 126484,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/caesar-metro-taipei/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "400142",
+          "name": "더 오쿠라 프리스티지 타이베이 호텔 (The Okura Prestige Taipei Hotel)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/the-okura-prestige-taipei-hotel/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "1620123",
+          "name": "타이완 유스 호스텔 (Taiwan Youth Hostel & Capsule Hotel)",
+          "priceKRW": 36107,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/taiwan-youth-hostel-capsule-hotel/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "34350772",
+          "name": "호텔 클라우드 아레나-다안 (Hotel Cloud Arena-Daan)",
+          "priceKRW": 68453,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cloud-hotel-arena/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "36796961",
+          "name": "부테크 지안탄 호텔 (Boutech Jiantan Hotel)",
+          "priceKRW": 92796,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/boutech-meet-jiantan-hotel/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "9377130",
+          "name": "마예르 인 (Mayer Inn)",
+          "priceKRW": 69147,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mayer-inn/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "1176659",
+          "name": "이 수 호텔 - 타이베이 닝샤 (YI SU HOTEL – TAIPEI NINGXIA)",
+          "priceKRW": 53971,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/yi-su-hotel-taipei-ningxia/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "36862237",
+          "name": "워크 인 101 (Work Inn 101)",
+          "priceKRW": 18197,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/work-inn-at-taipei-101/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "45462950",
+          "name": "저스트 라이브 호스텔 (Just Live Hostel)",
+          "priceKRW": 25185,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/just-live-hostel/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "1507446",
+          "name": "호텔 릴렉스 5 (Hotel Relax 5                                                                )",
+          "priceKRW": 91726,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-relax-v/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "870083",
+          "name": "위 컴 호스텔 (We Come Hostel)",
+          "priceKRW": 23085,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/we-come-hostel/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "1885",
+          "name": "그랜드 호텔 (Grand Hotel)",
+          "priceKRW": 179587,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-hotel/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "828224",
+          "name": "싱글 인 타이베이 (Single Inn Taipei)",
+          "priceKRW": 27018,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/single-inn-taipei/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "4413",
+          "name": "코스모스 호텔 타이베이 메인 스테이션 (Cosmos Hotel Taipei Main Station)",
+          "priceKRW": 179217,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cosmos-hotel-taipei/hotel/taipei-tw.html?cid=1925461"
+        },
+        {
+          "key": "1083288",
+          "name": "포쉬패커 호텔 (Poshpacker Hotel)",
+          "priceKRW": 47389,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/poshpacker-hotel/hotel/taipei-tw.html?cid=1925461"
         }
       ]
     }

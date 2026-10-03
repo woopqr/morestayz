@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 30,
+  "cursor": 31,
   "observations": [
     {
       "city": "발리",
@@ -2686,6 +2686,149 @@
           "priceKRW": 47389,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/poshpacker-hotel/hotel/taipei-tw.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "도쿄",
+      "citySlug": "tokyo",
+      "cityId": 5085,
+      "observedAt": "2026-10-03T23:27:20.297Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "9358",
+          "name": "시나가와 프린스 호텔 (Shinagawa Prince Hotel)",
+          "priceKRW": 184296,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/shinagawa-prince-hotel/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "10953850",
+          "name": "호텔 빌라 폰테누 그랜드 하네다 에어포트 (Hotel Villa Fontaine Grand Haneda Airport)",
+          "priceKRW": 249501,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-villa-fontaine-grand-haneda-airport/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "86321172",
+          "name": "호텔 코토토이 이스트 (Hotel Kototoi East)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/hotel-kototoi-east/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "14662307",
+          "name": "플라트 호스텔 케이큐 하네다 홈 (plat hostel keikyu haneda home)",
+          "priceKRW": 28285,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/plat-hostel-keikyu-haneda-home/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "45606",
+          "name": "신주쿠 워싱턴 호텔 - 본관 (Shinjuku Washington Hotel - Main Building)",
+          "priceKRW": 138213,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/shinjuku-washington-hotel-main-building/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "680568",
+          "name": "호텔 마이스테이 하네다 (HOTEL MYSTAYS Haneda)",
+          "priceKRW": 91321,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-mystays-haneda/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "918249",
+          "name": "호텔 마이스테이 고탄다 스테이션 (HOTEL MYSTAYS Gotanda Station)",
+          "priceKRW": 78868,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-mystays-gotanda-station/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "2347544",
+          "name": "호텔 아울 (HOTEL OWL)",
+          "priceKRW": 19074,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-owl/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "43320",
+          "name": "도쿄 베이 아리아케 워싱톤 호텔 (Tokyo Bay Ariake Washington Hotel)",
+          "priceKRW": 96029,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/tokyo-bay-ariake-washington-hotel/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "12455521",
+          "name": "케이큐 EX 인 하네다 이노베이션 시티 투미니츠 워크 프롬 하이시티 엑싯 오브 텐쿠바시 스테이션 (KEIKYU EX INN Haneda Innovation City 2 minutes walk from HICity Exit of Tenkubashi Station)",
+          "priceKRW": 115506,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/keikyu-ex-inn-haneda-innovation-city/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "83534561",
+          "name": "와 호스텔 (Wa Hostel)",
+          "priceKRW": 50527,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/wa-hostel/hotel/taito-ku-jp.html?cid=1925461"
+        },
+        {
+          "key": "33576877",
+          "name": "APA 호텔 앤 리조트 롯폰기 에키히가시 (APA Hotel & Resort Roppongi Ekihigashi)",
+          "priceKRW": 112874,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-resort-roppongi-ekihigashi/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "55140165",
+          "name": "북 티 베드 시부야 (Book Tea Bed SHIBUYA)",
+          "priceKRW": 54343,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/bookteabed-shibuya/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "43321",
+          "name": "도쿄 돔 호텔 (Tokyo Dome Hotel)",
+          "priceKRW": 236939,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/tokyo-dome-hotel/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "30673582",
+          "name": "나인아워즈 우먼 신주쿠 (9h nine hours woman Shinjuku)",
+          "priceKRW": 33659,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nine-hours-woman-shinjuku/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "34334296",
+          "name": "9h 나인아워즈 닌교초 (9h nine hours Ningyocho)",
+          "priceKRW": 26449,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nine-hours-ningyocho/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "234458",
+          "name": "니시테츠 호텔 신주쿠 (Nishitetsu Inn Shinjuku)",
+          "priceKRW": 164611,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nishitetsu-inn-shinjuku/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "1145700",
+          "name": "APA 호텔 게이세이 우에노-에키마에 (APA Hotel Keisei Ueno-Ekimae)",
+          "priceKRW": 123783,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/apa-hotel-keisei-ueno-ekimae/hotel/tokyo-jp.html?cid=1925461"
+        },
+        {
+          "key": "51461",
+          "name": "하네다 엑셀 호텔 도큐 하네다 에어포트 터미널 2 (Haneda Excel Hotel Tokyu Haneda Airport Terminal 2 )",
+          "priceKRW": 215860,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/haneda-excel-hotel-tokyu/hotel/tokyo-jp.html?cid=1925461"
         }
       ]
     }

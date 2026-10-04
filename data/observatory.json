@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 31,
+  "cursor": 32,
   "observations": [
     {
       "city": "발리",
@@ -2829,6 +2829,107 @@
           "priceKRW": 215860,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/haneda-excel-hotel-tokyu/hotel/tokyo-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "울릉도",
+      "citySlug": "ulleungdo",
+      "cityId": 182676,
+      "observedAt": "2026-10-04T23:45:14.814Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "10581767",
+          "name": "울릉 위드Ulleung (Ulleung With Ulleung)",
+          "priceKRW": 37196,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ulleung-hotel-with-u/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "63408095",
+          "name": "울릉도 썸앤썸 (Ulleungdo Some and Some)",
+          "priceKRW": 69440,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/e-comfortable-hotel-in-ulleungdo/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "45932753",
+          "name": "울릉도 다온프라임 호텔 (Ulleungdo Daon Prime Hotel)",
+          "priceKRW": 145912,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ulleungdo-daon-prime-hotel/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "29382005",
+          "name": "부티크 아우라 (Aura Butik)",
+          "priceKRW": 399766,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/aura-butik/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "40281872",
+          "name": "JD 호스텔 (Ulleungdo JD Hostel)",
+          "priceKRW": 66320,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ulleungdo-jd-hostel/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "44414837",
+          "name": "e편한 호텔 (eCozy Hotel)",
+          "priceKRW": 77000,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/e-h44414837/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "50118490",
+          "name": "울릉 아라 호텔 (Ulleung Ara Hotel)",
+          "priceKRW": 68237,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ulleung-ara-hotel/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "56371621",
+          "name": "울릉 황제 호텔 (Ulleung Hwangje Hotel)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/ulleung-emperor-hotel/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "44384728",
+          "name": "해오름 광양 펜션 (Haeoreum Gwangwang Pension)",
+          "priceKRW": 87594,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ulleung-haeoreum-pension-h32756441/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "25894151",
+          "name": "울릉 섬 (Ulleung Island)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/ulleung-island/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "34411254",
+          "name": "울릉도 명가펜션 (Ulleungdo Myeongga Pension)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/ulleungdo-myeongga-pension/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "10575939",
+          "name": "울릉도 윤아농원펜션 (Ulleungdo Yuna Nongwon Pension)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/ulleungdo-yuna-nongwon-pension/hotel/ulleung-gun-kr.html?cid=1925461"
+        },
+        {
+          "key": "10581967",
+          "name": "울릉 동해장모텔 (Ulleung Donghaejang Motel)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/ulleung-east-sea/hotel/ulleung-gun-kr.html?cid=1925461"
         }
       ]
     }

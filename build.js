@@ -37,6 +37,32 @@ function findClose(tpl, from, name) {
   while ((m = re.exec(tpl))) { if (m[1] === '#') depth++; else if (--depth === 0) return { start: m.index, end: re.lastIndex }; }
   throw new Error('unclosed section: ' + name);
 }
+// ── AdSense 수동 광고 단위(로더는 <head>에 이미 있음 → <ins>+push만 삽입) ──
+// 제휴 CTA 버튼과 붙지 않도록 .adslot 여백·'광고' 라벨로 분리(무효 클릭 정책)
+const ADS = (() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'data/ads.json'), 'utf8')); } catch (e) { return {}; } })();
+function adInArticleHtml() {
+  const a = ADS;
+  if (!a.inArticle) return '';
+  return `<aside class="adslot" aria-label="광고"><ins class="adsbygoogle" style="display:block;text-align:center" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="${SITE.adsense}" data-ad-slot="${a.inArticle}"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></aside>`;
+}
+function adMultiplexHtml() {
+  const a = ADS;
+  if (!a.multiplex) return '';
+  return `<aside class="adslot admulti" aria-label="광고"><ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="${SITE.adsense}" data-ad-slot="${a.multiplex}"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></aside>`;
+}
+function adInFeedHtml() {
+  const a = ADS;
+  if (!a.inFeed) return '';
+  return `<aside class="card adcard" aria-label="광고"><ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="${a.inFeedLayoutKey}" data-ad-client="${SITE.adsense}" data-ad-slot="${a.inFeed}"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></aside>`;
+}
+
+// 실행 환경(로캘/ICU)과 무관하게 같은 문자열: '2026. 8. 29. 오전 11:59:36' (KST)
+function kstLabel(iso) {
+  const d = new Date(new Date(iso).getTime() + 9 * 3600 * 1000);
+  const h = d.getUTCHours(), h12 = h % 12 || 12, p2 = n => String(n).padStart(2, '0');
+  return `${d.getUTCFullYear()}. ${d.getUTCMonth() + 1}. ${d.getUTCDate()}. ${h < 12 ? '오전' : '오후'} ${h12}:${p2(d.getUTCMinutes())}:${p2(d.getUTCSeconds())}`;
+}
+
 function render(tpl, stack) {
   const re = /\{\{([#\/]?)(\{?)\s*([\w.]+)\s*\}?\}\}/g;
   let out = '', last = 0, m;
@@ -168,7 +194,9 @@ function buildContext(data) {
   const title = editorialTitle(data);
   const metaDescription = editorialDescription(data);
   return {
-    ...data, title, metaDescription, site: SITE, hotels,
+    ...data, title, metaDescription, site: SITE,
+    hotels: hotels.map((h, i) => ({ ...h, adAfter: i === 2 && hotels.length >= 5 })),
+    adInArticle: adInArticleHtml(), adMultiplex: adMultiplexHtml(),
     intro: uniqueIntro(data),
     hasAggregate: !!data.aggregate,
     aggregateChartHtml: aggregateChart(data.aggregate, themeKey),
@@ -176,7 +204,7 @@ function buildContext(data) {
     ogImage: data.heroImg || '',
     adsense: SITE.adsense,
     sourceName: data.methodology?.source || 'Agoda citySearch 검색 응답',
-    fetchedAtLabel: fetchedAt ? new Date(fetchedAt).toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' }) : '',
+    fetchedAtLabel: fetchedAt ? kstLabel(fetchedAt) : '',
     searchCondition: data.methodology?.searchCondition || `${data.travelMonthLabel || ''} 조회 조건`,
     sampleTotal,
     sampleReliability: sampleTotal >= 50 ? '참고 가능한 표본' : '소표본·방향성 참고',
@@ -235,7 +263,9 @@ function buildSpecialContext(data, hotels) {
     heroEyebrow: hero.eyebrow || '', heroHeadline: escapeHtml(hero.headline || '').replace(/\n/g, '<br>'), heroSub: hero.sub || '',
     keywords: data.keywords || [],
     intro: data.intro || '',
-    sections: data.sections || [],
+    sections: (data.sections || []).map((x, i, arr) => ({ ...x, adAfter: i === 1 && arr.length >= 4 })),
+    adInArticle: adInArticleHtml(),
+    adMultiplex: adMultiplexHtml(),
     stays: (data.stays || []).map(s => ({ ...s, url: s.url || agodaUrl })),
     nearbyFood: (data.nearby && data.nearby.food) || [],
     nearbyCafe: (data.nearby && data.nearby.cafe) || [],
@@ -296,4 +326,4 @@ if (require.main === module) {
     if (fs.existsSync(dir)) fs.readdirSync(dir).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
   }
 }
-module.exports = { buildOne, buildSpecial, buildContext, render, aggregateChart, typeBars, editorialTitle, editorialDescription, isCurrentOrFuture };
+module.exports = { adInFeedHtml, buildOne, buildSpecial, buildContext, render, aggregateChart, typeBars, editorialTitle, editorialDescription, isCurrentOrFuture };

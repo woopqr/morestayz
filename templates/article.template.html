@@ -19,7 +19,7 @@
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
 <script defer src="/assets/consent.js?v=099156a9"></script>
-<link rel="stylesheet" href="/assets/css/article.css?v=222f7158">
+<link rel="stylesheet" href="/assets/css/article.css?v=0ac85809">
 <script type="application/ld+json">{{{jsonld}}}</script>
 </head>
 <body>
@@ -66,6 +66,8 @@
   </section>
   {{/hasAggregate}}
 
+  {{{adInArticle}}}
+
   <!-- 호텔 에디토리얼 카드 -->
   <h2 class="sechd">🏨 {{audience}}에 어울리는 숙소 {{travelMonthLabel}} 추천</h2>
   {{#hotels}}
@@ -93,12 +95,15 @@
       <div class="cta"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 {{travelMonthLabel}} 날짜로 최저가 보기 →</a></div>
     </div>
   </section>
+  {{#adAfter}}{{{adInArticle}}}{{/adAfter}}
   {{/hotels}}
 
   <div class="callout basis">
     <p class="bt">🔎 어떻게 골랐나</p>
     <p>아고다 검색 응답의 누적 평점·전체 리뷰 수, 조회 가격, 교통 거리를 사용했습니다. 평점은 리뷰 수에 따른 베이지안 보정 후 가격 구간과 결합하며, 여행자 유형 적합도는 검색 응답에 포함된 스니펫 표본으로만 계산합니다. 누락된 가격·시설·위치는 추정하지 않습니다. 이 순위는 위 조회 조건에서의 비교 결과이며 실시간 가격과 재고는 예약창에서 다시 확인해야 합니다.</p>
   </div>
+
+  {{{adInArticle}}}
 
   <div class="outro">
     <h2>🌙 {{city}}, {{travelMonthLabel}} 여행이라면</h2>
@@ -107,6 +112,8 @@
   </div>
 
   <p class="disc">이 글에는 아고다 제휴 링크가 포함되어 있습니다. 링크를 통해 예약 시 운영자가 수수료를 받을 수 있으며, 이용자에게 추가 비용은 없습니다. 숙소 선택·평가는 실제 데이터에 근거해 독립적으로 작성했습니다.</p>
+
+  {{{adMultiplex}}}
 
   <nav class="pagenav">
     <a href="/">← 다른 여행 큐레이션 보기</a>

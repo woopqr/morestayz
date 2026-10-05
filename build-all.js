@@ -9,7 +9,7 @@
  */
 const fs = require('fs');
 const path = require('path');
-const { buildOne, buildSpecial, editorialTitle, editorialDescription, isCurrentOrFuture } = require('./build');
+const { adInFeedHtml, buildOne, buildSpecial, editorialTitle, editorialDescription, isCurrentOrFuture } = require('./build');
 
 const ROOT = __dirname;
 const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/site.json'), 'utf8'));
@@ -152,7 +152,9 @@ function writePages(shell, ctx, activeCats) {
     const p = i + 1;
     const url = pageUrl(ctx.base, p);
     const canon = BASE + (url === '/' ? '/' : url);
-    const cards = chunkMetas.map(cardHtml).join('\n');
+    const cardList = chunkMetas.map(cardHtml);
+    if (cardList.length > 6) cardList.splice(6, 0, adInFeedHtml());
+    const cards = cardList.join('\n');
     const opts = {
       cards,
       pager: pagerHtml(ctx.base, p, total),

@@ -278,3 +278,10 @@ footer{max-width:1120px;margin:56px auto 0;padding:34px 20px;border-top:1px soli
 .foot-disc{margin-top:26px;padding-top:18px;border-top:1px solid var(--line);line-height:1.6;font-size:.8rem}
 .foot-copy{margin-top:8px;font-size:.8rem;color:var(--muted)}
 @media(max-width:640px){.foot-grid{grid-template-columns:1fr 1fr}}
+
+/* 광고 슬롯: 본문과 구분되는 헤어라인 + 소형 대문자 '광고' 라벨, 제휴 CTA와 충분한 간격, 로딩 전 자리 확보(CLS 완화) */
+.adslot{margin:44px 0;padding:14px 0 6px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);min-height:150px;clear:both}
+.adslot::before{content:"광고";display:block;margin-bottom:8px;font:700 .64rem/1 var(--sans);letter-spacing:.18em;color:var(--muted);text-align:center}
+.adslot.admulti{min-height:280px;margin-top:36px}
+.adcard{display:flex;flex-direction:column;justify-content:center;min-height:240px;padding:12px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+.adcard::before{content:"광고";display:block;margin-bottom:8px;font:700 .64rem/1 var(--sans);letter-spacing:.18em;color:var(--muted)}

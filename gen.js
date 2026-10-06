@@ -167,7 +167,7 @@ const shortName = s => String(s).split('(')[0].trim();
     travelMonthLabel,
     title,
     metaDescription: `${city} ${theme.audience}, ${travelMonthLabel}을 앞두고 아고다 실제 리뷰 데이터로 고른 ${theme.audience.replace('여행', '')} 선호 가성비 숙소 ${hotels.length}곳. 여행자 유형 분포·평점까지 비교.`,
-    intro: theme.intro, viewpoint: theme.viewpoint, verdict,
+    intro: (theme.introBySeason && season && theme.introBySeason[season.id]) || theme.intro, viewpoint: theme.viewpoint, verdict,
     aggregate,
     heroImg, heroAlt: `${city} ${theme.audience}`,
     updated: new Date().toISOString().slice(0, 10),

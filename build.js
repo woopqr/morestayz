@@ -260,6 +260,9 @@ function buildSpecialContext(data, hotels) {
     slug: data.slug, title: data.title, metaDescription: data.metaDescription,
     categoryId: data.category || 'domestic', categoryLabel: data.categoryLabel || '국내 특별 여행지',
     keywordsCsv: (data.keywords || []).join(', '),
+    heroImgUrl: (data.heroImg && data.heroImg.url) || (hotels[0] && hotels[0].img) || '',
+    heroCredit: data.heroImg ? `사진: ${escapeHtml(data.heroImg.caption || '')} · ${escapeHtml(data.heroImg.credit || '')} / <a href="${escapeHtml(data.heroImg.source || '')}" target="_blank" rel="noopener nofollow">${escapeHtml(data.heroImg.license || '')}</a> (Wikimedia Commons)`
+      : (hotels[0] && hotels[0].img ? `사진: ${escapeHtml(hotels[0].name)} (아고다)` : ''),
     heroEyebrow: hero.eyebrow || '', heroHeadline: escapeHtml(hero.headline || '').replace(/\n/g, '<br>'), heroSub: hero.sub || '',
     keywords: data.keywords || [],
     intro: data.intro || '',

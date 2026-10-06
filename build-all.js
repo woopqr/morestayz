@@ -46,7 +46,7 @@ function specialMetas() {
       slug: d.slug, theme: d.category || 'domestic', title: d.title, special: true, description: d.metaDescription || '',
       audience: d.categoryLabel || '국내 특별 여행지', emoji: d.emoji || '🇰🇷',
       city: d.region || '', season: '특별기획', travelMonthLabel: '',
-      heroImg: d.cardImg || sidecarImg(f, d.cardImgIndex || 0, d.cardImgMatch) || (d.cardImgFrom ? sidecarImg(d.cardImgFrom, d.cardImgIndex || 0, d.cardImgMatch) : '')
+      heroImg: d.cardImg || (d.heroImg && d.heroImg.url) || sidecarImg(f, d.cardImgIndex || 0, d.cardImgMatch) || (d.cardImgFrom ? sidecarImg(d.cardImgFrom, d.cardImgIndex || 0, d.cardImgMatch) : '')
         || specialCardImg(d.region || d.slug, ...(d.card ? [d.card.sub, d.card.from, d.card.to] : [])),
       country: d.country || '한국', cities: d.facetCities || [d.region || ''],
       chip: d.region || '', chipSub: (d.card && d.card.sub) || '국내 특별 기획', updated: d.updated || '',

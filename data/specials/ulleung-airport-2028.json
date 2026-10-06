@@ -272,5 +272,12 @@
   "country": "한국",
   "facetCities": [
     "울릉도"
-  ]
+  ],
+  "heroImg": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/KOCIS_Ulleungdo%2C_or_Ulleung_Island_%284925987614%29.jpg/1280px-KOCIS_Ulleungdo%2C_or_Ulleung_Island_%284925987614%29.jpg",
+    "caption": "울릉도",
+    "credit": "Korea.net / 해외문화홍보원",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:KOCIS_Ulleungdo,_or_Ulleung_Island_(4925987614).jpg"
+  }
 }

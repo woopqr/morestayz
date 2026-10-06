@@ -18,7 +18,7 @@
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
 <script defer src="/assets/consent.js?v=099156a9"></script>
-<link rel="stylesheet" href="/assets/css/article.css?v=7cf2fcff">
+<link rel="stylesheet" href="/assets/css/article.css?v=c38f3f84">
 <script type="application/ld+json">{{{jsonld}}}</script>
 </head>
 <body>
@@ -29,12 +29,13 @@
 <article class="post special">
   <a class="backbar" href="/category/{{categoryId}}">← {{categoryLabel}}</a>
 
-  <header class="sp-hero">
+  <header class="sp-hero{{#heroImgUrl}} has-img{{/heroImgUrl}}"{{#heroImgUrl}} style="--hero-img:url('{{heroImgUrl}}')"{{/heroImgUrl}}>
     <span class="sp-eyebrow">{{heroEyebrow}}</span>
     <h1 class="sp-title">{{{heroHeadline}}}</h1>
     <p class="sp-sub">{{heroSub}}</p>
     <div class="sp-kws">{{#keywords}}<span class="kw">{{.}}</span>{{/keywords}}</div>
   </header>
+  {{#heroCredit}}<p class="sp-credit">{{{heroCredit}}}</p>{{/heroCredit}}
 
   <p class="lede sp-intro">{{{intro}}}</p>
 
@@ -43,6 +44,7 @@
   {{#sections}}
   <section class="sp-sec">
     <h2>{{h2}}</h2>
+    {{#img}}<figure class="sp-fig"><img src="{{url}}" alt="{{caption}}" loading="lazy"><figcaption>{{caption}} <span>사진 {{credit}} · <a href="{{source}}" target="_blank" rel="noopener nofollow">{{license}}</a> (Wikimedia Commons)</span></figcaption></figure>{{/img}}
     <div class="sp-body">{{{body}}}</div>
   </section>
   {{#adAfter}}{{{adInArticle}}}{{/adAfter}}

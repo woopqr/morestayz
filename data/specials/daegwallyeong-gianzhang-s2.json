@@ -152,5 +152,12 @@
   "country": "한국",
   "facetCities": [
     "대관령·평창"
-  ]
+  ],
+  "heroImg": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Daegwallyeong_Snow_Festival_02_%2832636659541%29.jpg/1280px-Daegwallyeong_Snow_Festival_02_%2832636659541%29.jpg",
+    "caption": "대관령 눈꽃축제",
+    "credit": "Republic of Korea (Flickr)",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Daegwallyeong_Snow_Festival_02_(32636659541).jpg"
+  }
 }

@@ -311,3 +311,13 @@ footer{max-width:1120px;margin:56px auto 0;padding:34px 20px;border-top:1px soli
 .sg-sep{display:inline-block;width:18px}
 .sg-soon{color:var(--muted);font-size:.82rem}
 .sg-avoid h2{font-size:1.15rem;border-bottom-color:var(--line);color:var(--muted)}
+
+/* 특집 히어로 사진 + 사진 출처(무료 라이선스: 위키미디어 커먼즈·아고다) */
+.sp-hero.has-img{background:linear-gradient(180deg,rgba(14,16,20,.45) 0%,rgba(14,16,20,.72) 100%),var(--hero-img) center/cover no-repeat;min-height:340px;display:flex;flex-direction:column;justify-content:center;align-items:center}
+.sp-hero.has-img .sp-sub{color:#fff;text-shadow:0 1px 12px rgba(0,0,0,.5)}
+.sp-credit{margin:8px 4px 0;text-align:right;font-size:.72rem;color:var(--muted)}
+.sp-credit a,.sp-fig figcaption a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.sp-fig{margin:4px 0 18px}
+.sp-fig img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;display:block;background:var(--chip)}
+.sp-fig figcaption{margin-top:7px;font-size:.8rem;color:var(--text);font-weight:600}
+.sp-fig figcaption span{font-weight:400;color:var(--muted);margin-left:6px}

@@ -60,7 +60,7 @@ function articleMetas() {
     const d = JSON.parse(fs.readFileSync(path.join(ART, f), 'utf8'));
     return {
       slug: d.slug, theme: d.theme, title: editorialTitle(d), description: editorialDescription(d), audience: d.audience, emoji: d.emoji,
-      city: d.city, country: CITY_COUNTRY[d.citySlug] || '', cities: [d.city], season: d.season || '', travelMonthLabel: d.travelMonthLabel || '',
+      city: d.city, citySlug: d.citySlug, ym: (String(d.slug).match(/(\d{4}-\d{2})$/) || [])[1] || '', country: CITY_COUNTRY[d.citySlug] || '', cities: [d.city], season: d.season || '', travelMonthLabel: d.travelMonthLabel || '',
       heroImg: d.heroImg || '', updated: d.updated || (d._meta && d._meta.fetchedAt) || '', indexable: isCurrentOrFuture(d),
     };
   }).sort((a, b) => String(b.updated).localeCompare(String(a.updated)));
@@ -106,6 +106,7 @@ function pagerHtml(base, cur, total) {
 function catnavHtml(activeCats, currentId) {
   const chip = (href, label, on) => `<a class="cchip${on ? ' on' : ''}" href="${href}">${label}</a>`;
   let html = chip('/', '전체', currentId === 'all');
+  seasonGuideList().forEach(g => { html += chip(`/season/${g.id}`, `${g.emoji} ${g.label} 여행지`, currentId === 'season-' + g.id); });
   activeCats.forEach(c => { html += chip(`/category/${c.id}`, `${c.emoji} ${c.label}`, currentId === c.id); });
   return html;
 }
@@ -234,6 +235,7 @@ function regenSitemap(metas, info) {
     { loc: BASE + '/pages/editorial-policy', pri: '0.5', cf: 'monthly' },
     { loc: BASE + '/pages/price-observatory', pri: '0.7', cf: 'daily' },
   ];
+  seasonGuideList().forEach(g => urls.push({ loc: `${BASE}/season/${g.id}`, pri: '0.9', cf: 'weekly' }));
   for (let p = 2; p <= (info.homePages || 1); p++) urls.push({ loc: `${BASE}/page/${p}`, pri: '0.5', cf: 'daily' });
   info.catPageInfo.forEach(c => {
     urls.push({ loc: `${BASE}/category/${c.id}`, pri: '0.7', cf: 'daily' });
@@ -256,7 +258,7 @@ function stampAssets() {
     return [new RegExp('/' + a.replace(/[.]/g, '\\.') + '(\\?v=[0-9a-f]+)?(?=")', 'g'), `/${a}?v=${v}`];
   });
   const walk = d => fs.existsSync(d) ? fs.readdirSync(d).flatMap(f => { const full = path.join(d, f); return fs.statSync(full).isDirectory() ? walk(full) : (f.endsWith('.html') ? [full] : []); }) : [];
-  const files = [path.join(ROOT, 'index.html'), path.join(ROOT, '404.html'), ...['templates', 'pages', 'articles', 'category', 'page'].flatMap(d => walk(path.join(ROOT, d)))];
+  const files = [path.join(ROOT, 'index.html'), path.join(ROOT, '404.html'), ...['templates', 'pages', 'articles', 'category', 'page', 'season'].flatMap(d => walk(path.join(ROOT, d)))];
   let n = 0;
   files.filter(f => fs.existsSync(f)).forEach(f => {
     const src = fs.readFileSync(f, 'utf8');
@@ -296,6 +298,92 @@ ${items}
   fs.writeFileSync(path.join(ROOT, 'rss.xml'), xml);
 }
 
+// ── 계절별 여행지 안내(/season/<id>): data/season-fit.json → 나라별 도시 적합도 + 해당 시즌 글 링크 ──
+const SEASON_GUIDE_FILE = path.join(ROOT, 'data/season-fit.json');
+function seasonGuideList() {
+  if (!fs.existsSync(SEASON_GUIDE_FILE)) return [];
+  const g = JSON.parse(fs.readFileSync(SEASON_GUIDE_FILE, 'utf8'));
+  return Object.entries(g.seasons || {}).filter(([, v]) => v.cities && Object.keys(v.cities).length).map(([id, v]) => ({ id, ...v, countryOrder: g.countryOrder || [] }));
+}
+const CITY_INFO = Object.fromEntries(JSON.parse(fs.readFileSync(path.join(ROOT, 'data/cities.json'), 'utf8')).map(c => [c.slug, c]));
+const THEME_SHORT = { couple: '연인', family: '가족', kids: '아이와', solo: '혼자', friends: '친구', waterpark: '수영장', pet: '반려견' };
+function regenSeasonPages(metas) {
+  const dir = path.join(ROOT, 'season');
+  const guides = seasonGuideList();
+  if (!guides.length) return;
+  fs.mkdirSync(dir, { recursive: true });
+  const { adMultiplexHtml } = require('./build');
+  const esc = t => String(t || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const FIT = { best: '최적', good: '추천', avoid: '비추천' };
+  guides.forEach(g => {
+    const canon = `${BASE}/season/${g.id}`;
+    const monthsTxt = g.months.length > 1 ? `${g.months[0]}~${g.months[g.months.length - 1]}월` : `${g.months[0]}월`;
+    // 해당 시즌 월의 자동 큐레이션 글 (도시별)
+    const byCity = {};
+    metas.filter(m => m.citySlug && m.ym && g.months.includes(Number(m.ym.slice(5)))).forEach(m => {
+      (byCity[m.citySlug] = byCity[m.citySlug] || []).push(m);
+    });
+    const rows = Object.entries(g.cities).map(([slug, v]) => ({ slug, ...v, info: CITY_INFO[slug] || { name: slug, country: '' } }));
+    const order = c => { const i = g.countryOrder.indexOf(c); return i < 0 ? 99 : i; };
+    const countries = [...new Set(rows.filter(r => r.fit !== 'avoid').map(r => r.info.country))].sort((a, b) => order(a) - order(b));
+    const fitOrder = { best: 0, good: 1 };
+    const linksFor = slug => {
+      const list = (byCity[slug] || []).sort((a, b) => a.ym.localeCompare(b.ym));
+      if (!list.length) return '<span class="sg-soon">숙소 비교 글 준비 중</span>';
+      const byYm = {};
+      list.forEach(m => { (byYm[m.ym] = byYm[m.ym] || []).push(m); });
+      return Object.entries(byYm).map(([ym, ms]) => `<span class="sg-ym">${Number(ym.slice(5))}월</span> ` +
+        ms.map(m => `<a href="/articles/${m.slug}">${THEME_SHORT[m.theme] || m.audience}</a>`).join('<i>·</i>')).join('<span class="sg-sep"></span>');
+    };
+    const rowHtml = r => `<div class="sg-row"><div class="sg-city"><b>${esc(r.info.name)}</b><span class="fit ${r.fit}">${FIT[r.fit]}</span></div>`
+      + `<p class="sg-note">${esc(r.note)}</p>` + (r.fit === 'avoid' ? '' : `<div class="sg-links">${linksFor(r.slug)}</div>`) + `</div>`;
+    const sections = countries.map(c => {
+      const rs = rows.filter(r => r.info.country === c && r.fit !== 'avoid').sort((a, b) => fitOrder[a.fit] - fitOrder[b.fit]);
+      return `<section class="sg-country" id="${esc(c)}"><h2>${esc(c)}<sup>${rs.length}</sup></h2>${rs.map(rowHtml).join('')}</section>`;
+    }).join('\n');
+    const avoid = rows.filter(r => r.fit === 'avoid');
+    const avoidHtml = avoid.length ? `<section class="sg-country sg-avoid"><h2>이번 ${esc(g.label)}엔 다시 생각해 볼 곳</h2>${avoid.map(r => `<div class="sg-row"><div class="sg-city"><b>${esc(r.info.name)}</b><span class="fit avoid">${esc(r.info.country)} · 비추천</span></div><p class="sg-note">${esc(r.note)}</p></div>`).join('')}</section>` : '';
+    const title = `${g.emoji} ${g.title} (${monthsTxt}) | ${SITE.name}`;
+    const desc = `${monthsTxt} ${g.label} 여행지를 나라별로 정리했습니다. ${countries.slice(0, 5).join('·')} 도시별 ${g.label} 적합도와 이유, 숙소 비교 글까지 한 번에.`;
+    const ld = JSON.stringify({ '@context': 'https://schema.org', '@type': 'Article', headline: `${g.title} (${monthsTxt})`, description: desc, mainEntityOfPage: canon, dateModified: new Date().toISOString().slice(0, 10), author: { '@type': 'Organization', name: 'morestayz 데이터 편집팀', url: `${BASE}/pages/about` }, publisher: { '@type': 'Organization', name: SITE.name } }).replace(/</g, '\\u003c');
+    const html = `<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>${esc(title)}</title>
+<meta name="description" content="${esc(desc)}">
+<link rel="canonical" href="${canon}">
+<meta property="og:title" content="${esc(g.title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${canon}"><meta property="og:type" content="article">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<script>(function(){try{var t=localStorage.getItem('mz-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsense}" crossorigin="anonymous"></script>
+<script defer src="/assets/consent.js"></script>
+<link rel="stylesheet" href="/assets/css/article.css">
+<script type="application/ld+json">${ld}</script>
+</head>
+<body>
+<article class="post season-guide">
+  <a class="backbar" href="/">← morestayz 홈</a>
+  <p class="sg-kicker">Season guide · ${monthsTxt}</p>
+  <h1>${g.emoji} ${esc(g.title)}</h1>
+  <p class="lede">${esc(g.intro)}</p>
+  <nav class="sg-toc" aria-label="나라 바로가기">${countries.map(c => `<a href="#${esc(c)}">${esc(c)}</a>`).join('')}</nav>
+  <p class="sg-legend"><span class="fit best">최적</span> 이 시기에 가장 좋은 곳 <span class="fit good">추천</span> 무난하게 좋은 곳 <span class="fit avoid">비추천</span> 우기·결항 등으로 피하는 게 나은 곳</p>
+${sections}
+${avoidHtml}
+  <p class="disc">날씨·축제 정보는 일반적인 기후 경향을 바탕으로 정리했으며 해마다 달라질 수 있습니다. 숙소 비교 글의 일부 링크는 제휴 링크입니다.</p>
+  ${adMultiplexHtml()}
+  <nav class="pagenav"><a href="/">← 다른 여행 큐레이션 보기</a><span><a href="/pages/methodology">분석 방법</a> · <a href="/pages/about">소개</a></span></nav>
+</article>
+</body>
+</html>
+`;
+    fs.writeFileSync(path.join(dir, `${g.id}.html`), html);
+  });
+}
+
 function rebuildAll() {
   if (fs.existsSync(ART)) fs.readdirSync(ART).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
   if (fs.existsSync(SPECIALS)) fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).forEach(f => buildSpecial(f.replace(/\.json$/, '')));
@@ -306,6 +394,7 @@ function rebuildAll() {
   regenSearchIndex(metas);
   regenSitemap(metas, info);
   regenRss(metas);
+  regenSeasonPages(metas);
   const stamped = stampAssets();
   console.log(`✓ rebuildAll: ${metas.length}개 글 · 홈 ${info.homePages}p · 카테고리 ${info.activeCats.length}개 · articles.json/sitemap 갱신`);
   return metas;

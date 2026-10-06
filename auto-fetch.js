@@ -12,6 +12,9 @@ const ROOT = __dirname;
 const THEMES = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/themes.json'), 'utf8'));
 const CITIES = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/cities.json'), 'utf8'));
 const ART = path.join(ROOT, 'data/articles');
+// 나라·도시별 계절 적합도(best/good/avoid) — 시즌 월엔 best→good 순, avoid 도시는 생성하지 않음
+const GUIDE = (() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'data/season-fit.json'), 'utf8')); } catch (e) { return { seasons: {} }; } })();
+function seasonGuideFor(m) { return Object.values(GUIDE.seasons || {}).find(s => (s.months || []).includes(m)) || null; }
 const pad = n => String(n).padStart(2, '0');
 
 function targetMonths() {
@@ -23,10 +26,15 @@ function targetMonths() {
   return list.sort((x, y) => (pri.includes(y.m) - pri.includes(x.m)) || (x.a - y.a));
 }
 
-function orderedCities() {
+function orderedCities(m) {
   const pri = (THEMES.calendar && THEMES.calendar.priorityCities) || [];
-  const rank = c => { const i = pri.indexOf(c.slug); return i < 0 ? pri.length + CITIES.indexOf(c) : i; };
-  return [...CITIES].sort((a, b) => rank(a) - rank(b));
+  const g = seasonGuideFor(m);
+  const FIT = { best: 0, good: 1 };
+  const fitRank = c => { const f = g && g.cities && g.cities[c.slug] && g.cities[c.slug].fit; return f in FIT ? FIT[f] : 2; };
+  const rank = c => { const i = pri.indexOf(c.slug); return i < 0 ? pri.length : i; };
+  return CITIES
+    .filter(c => !(g && g.cities && g.cities[c.slug] && g.cities[c.slug].fit === 'avoid'))
+    .sort((a, b) => (rank(a) - rank(b)) || (fitRank(a) - fitRank(b)));
 }
 
 // 생성 우선순위: 시즌 집중 월 → 우선 도시 → 테마(도시별로 테마를 번갈아 → 카테고리 다양성 확보)
@@ -34,7 +42,7 @@ function orderedCities() {
 function combos() {
   const out = [];
   for (const tm of targetMonths())
-    for (const c of orderedCities())
+    for (const c of orderedCities(tm.m))
       for (const t of THEMES.themes) {
         if (t.autoPublish === false) continue;
         if (Array.isArray(t.months) && !t.months.includes(tm.m)) continue;

@@ -292,7 +292,7 @@
     }
   ],
   "calendar": {
-    "_comment": "선행발행: 현재 월 + monthsAhead 를 대상으로, priorityMonths(시즌 집중 월)를 가까운 순으로 먼저, priorityCities 순으로 생성. 시즌이 바뀌면 priorityMonths/priorityCities만 교체.",
+    "_comment": "선행발행: 현재 월 + monthsAhead 대상. priorityMonths(시즌 집중 월) 먼저 → 도시는 priorityCities(검색 수요) 순 → 그다음 data/season-fit.json 적합도(best→good), avoid 도시는 그 시즌에 생성 안 함.",
     "monthsAhead": [
       1,
       2,
@@ -309,20 +309,22 @@
       "fukuoka",
       "osaka-namba",
       "tokyo",
-      "kyoto",
-      "taipei",
-      "danang",
-      "nha-trang",
-      "cebu",
       "bangkok",
+      "cebu",
+      "taipei",
       "hongkong",
-      "jeju",
-      "phuket",
-      "bali",
-      "singapore",
       "kaohsiung",
+      "chiangmai",
+      "phuket",
+      "kyoto",
+      "jeju",
+      "boracay",
+      "dalat",
+      "tainan",
+      "penang",
+      "pattaya",
       "naha",
-      "chiangmai"
+      "singapore"
     ]
   }
 }

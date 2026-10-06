@@ -285,3 +285,29 @@ footer{max-width:1120px;margin:56px auto 0;padding:34px 20px;border-top:1px soli
 .adslot.admulti{min-height:280px;margin-top:36px}
 .adcard{display:flex;flex-direction:column;justify-content:center;min-height:240px;padding:12px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
 .adcard::before{content:"광고";display:block;margin-bottom:8px;font:700 .64rem/1 var(--sans);letter-spacing:.18em;color:var(--muted)}
+
+/* 계절별 여행지 안내(/season/*) — 매거진 톤: 소형 대문자 라벨, 헤어라인, 텍스트형 적합도 표시 */
+.season-guide .sg-kicker{font:700 .72rem/1 var(--sans);letter-spacing:.18em;text-transform:uppercase;color:var(--accent-d);margin:18px 0 10px}
+.sg-toc{display:flex;flex-wrap:wrap;gap:6px 18px;margin:18px 0 6px;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.sg-toc a{font:600 .9rem/1.2 var(--sans);color:var(--text)}
+.sg-toc a:hover{color:var(--accent-d)}
+.sg-legend{font-size:.82rem;color:var(--muted);margin:10px 0 8px;display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline}
+.sg-country{margin-top:38px}
+.sg-country h2{font-family:var(--serif);font-size:1.45rem;padding-bottom:10px;border-bottom:1px solid var(--text)}
+.sg-country h2 sup{font:700 .7rem/1 var(--sans);color:var(--accent-d);margin-left:4px}
+.sg-row{padding:16px 0;border-bottom:1px solid var(--line)}
+.sg-city{display:flex;align-items:baseline;gap:10px}
+.sg-city b{font-family:var(--serif);font-size:1.12rem}
+.fit{font:800 .66rem/1 var(--sans);letter-spacing:.14em;text-transform:uppercase}
+.fit.best{color:var(--accent-d)}
+.fit.good{color:var(--muted)}
+.fit.avoid{color:var(--rose)}
+.sg-note{margin:6px 0 8px;color:var(--muted);font-size:.93rem;line-height:1.65}
+.sg-links{font-size:.86rem;line-height:1.9}
+.sg-links a{color:var(--text);border-bottom:1px solid var(--line)}
+.sg-links a:hover{color:var(--accent-d);border-color:var(--accent)}
+.sg-links i{font-style:normal;color:var(--line);margin:0 6px}
+.sg-ym{font:700 .7rem/1 var(--sans);letter-spacing:.1em;color:var(--accent-d);margin-right:4px}
+.sg-sep{display:inline-block;width:18px}
+.sg-soon{color:var(--muted);font-size:.82rem}
+.sg-avoid h2{font-size:1.15rem;border-bottom-color:var(--line);color:var(--muted)}

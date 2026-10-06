@@ -1,0 +1,608 @@
+{
+  "slug": "solo-sapporo-2026-12",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "삿포로",
+  "citySlug": "sapporo",
+  "cityId": 3435,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=3435",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "삿포로 혼자여행 숙소 선택 분석 - 역세권 1인 여행 베이스캠프",
+  "metaDescription": "삿포로 혼자여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>헬리오 호스텔 삿포로</b>입니다 (평점 8.6·리뷰 4,312건·1박 약 3만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/38499000/0/68534ab0f7007e77e1c270b04b829515.jpeg?va=1&ce=3",
+  "heroAlt": "삿포로 혼자여행",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "헬리오 호스텔 삿포로 (HELIO HOSTEL SAPPORO)",
+      "agodaUrl": "https://www.agoda.com/goen-lounge-stay-sapporo-hostel-h14421100/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/38499000/0/68534ab0f7007e77e1c270b04b829515.jpeg?va=1&ce=3",
+      "score": 8.6,
+      "reviewCount": 4312,
+      "reviewCountFmt": "4,312건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "니시 4초메역",
+      "star": 2,
+      "propertyId": 38499000,
+      "priceKRW": 33374,
+      "priceStatus": "조회됨",
+      "distanceM": 139.19,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "모이와산",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 4,312건. 니시 4초메역 도보 2분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 4,312건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "配套一应具全，吹风机、牙刷、眼罩、耳塞、烤箱、微波炉、冰箱、各种厨具……还有付费洗衣房。",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The beds are comfy, and everything feels well-maintained.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Excellent services and location for my last days in Japan.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "They have everything a solo female traveler like me needs.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel is well-designed for comfort and functionality.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "더 센츄리온 사우나 레스트 앤 스테이 삿포로 남성 전용 (The Centurion Sauna Rest & Stay Sapporo Male Only)",
+      "agodaUrl": "https://www.agoda.com/the-centurion-sauna-rest-stay-sapporo/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/58934931/0/d8ad306033354dfa84ca112016d05013.jpeg?va=1&ce=2",
+      "score": 8.4,
+      "reviewCount": 6603,
+      "reviewCountFmt": "6,603건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 1,
+      "refLabel": "시세이칸초등학교역",
+      "star": 3,
+      "propertyId": 58934931,
+      "priceKRW": 37850,
+      "priceStatus": "조회됨",
+      "distanceM": 49.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "모이와산",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.4 · 리뷰 6,603건. 시세이칸초등학교역 도보 1분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 6,603건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It is a treat to have the sauna each long day of wandering.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "If you love going to Onsen, this would be perfect!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Excellent choice for a few days’ stay.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The staff is supportive and cleanliness is superb.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Was a great stay staff was nice and facilities was amazing.",
+          "score": "10",
+          "country": "Danmark",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "호텔 플러스 호스텔 삿포로 (Hotel Plus Hostel SAPPORO)",
+      "agodaUrl": "https://www.agoda.com/hotel-hostel-sapporo/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37872024/0/5a3e5eaef89b91f0c9d7ac642537a3dd.jpeg?va=1&ce=2",
+      "score": 8.3,
+      "reviewCount": 6951,
+      "reviewCountFmt": "6,951건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 3,
+      "refLabel": "니시 4초메역",
+      "star": 2,
+      "propertyId": 37872024,
+      "priceKRW": 29032,
+      "priceStatus": "조회됨",
+      "distanceM": 228.87,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "모이와산",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 6,951건. 니시 4초메역 도보 3분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 6,951건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The location is amazin, it is just right on the city center.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The staff were friendly, and check-in was quick and easy.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Location is very near to shopping restaurants and many more.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Staffs are welcoming and approachable . Very accommodationg.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "• Lots of food & convenience stores within walking distance",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "워싱턴 R&B 호텔 삿포로 키타3니시2 (Washington R&B Hotel Sapporo Kita3Nishi2)",
+      "agodaUrl": "https://www.agoda.com/r-b-hotel-sapporo-kitasannishini/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/255692/0/edcae048f1868124e155bf8d82f05fe8.jpeg?va=1",
+      "score": 8.1,
+      "reviewCount": 3782,
+      "reviewCountFmt": "3,782건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 6,
+      "refLabel": "삿포로 추오 버스터미널",
+      "star": 3,
+      "propertyId": 255692,
+      "priceKRW": 76391,
+      "priceStatus": "조회됨",
+      "distanceM": 450.3,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "마루야마 동물원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.1 · 리뷰 3,782건. 삿포로 추오 버스터미널 도보 6분, ₩ · 약 8만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 3,782건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel’s rate is commensurate to the quality of the room.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious and clean, with a great view.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Room is cozy, clean and has everything you need.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The staff are nice and the room is clean, Recommended.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Great location between Odori park and Sapporo station.",
+          "score": "8",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "텐 투 텐 호스텔 (Ten to Ten Hostel)",
+      "agodaUrl": "https://www.agoda.com/ten-to-ten-sapporo-station/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1994728/0/03ef0857bf606bc8163556d3d285c35f.jpg?va=1&ce=3",
+      "score": 8.2,
+      "reviewCount": 2467,
+      "reviewCountFmt": "2,467건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 8,
+      "refLabel": "삿포로역",
+      "star": 1,
+      "propertyId": 1994728,
+      "priceKRW": 36499,
+      "priceStatus": "조회됨",
+      "distanceM": 604.44,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "마루야마 동물원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.2 · 리뷰 2,467건. 삿포로역 도보 8분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 2,467건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The cleanliness is on point, the staff is nice and helpful.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Just near Sapporo Station, many restaurants around.",
+          "score": "8.8",
+          "country": "日本",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "I liked the location, a 10 minute walk from Sapporo Station.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "It was an easy and seamless check-in also when checking out.",
+          "score": "8",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Good Experience staff are also co operative 10/10",
+          "score": "9.6",
+          "country": "Pakistan",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "JR 인 삿포로 기타 2 조 (JR Inn Sapporo Kita 2 Jo)",
+      "agodaUrl": "https://www.agoda.com/jr-inn-sapporo-kita-2/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/12170145/0/510473eecb2bf86a376e3fd4149d8115.jpeg?va=1&ce=2",
+      "score": 8.8,
+      "reviewCount": 6967,
+      "reviewCountFmt": "6,967건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 4,
+      "refLabel": "삿포로 추오 버스터미널",
+      "star": 3.5,
+      "propertyId": 12170145,
+      "priceKRW": 99286,
+      "priceStatus": "조회됨",
+      "distanceM": 326.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "마루야마 동물원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 6,967건. 삿포로 추오 버스터미널 도보 4분, ₩₩ · 약 10만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 6,967건",
+        "⭐ 3.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Perfect location for exploring Sapporo and taking day trips.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The room was clean and perfectly fit for a single traveler.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Public onsen is wonderful to relax after a tough day.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Room functions are perfect, window is wide to light.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "And the bus stop to Niseiko is right in front of the hotel!",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T04:30:18.425Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T04:30:18.425Z",
+    "source": "agoda citySearch",
+    "daysAhead": 71,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

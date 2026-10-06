@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 0,
+  "cursor": 1,
   "observations": [
     {
       "city": "발리",
@@ -2954,6 +2954,23 @@
           "priceKRW": 107871,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/hotel-mystays-yokohama-kannai/hotel/yokohama-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "발리",
+      "citySlug": "bali",
+      "cityId": 17193,
+      "observedAt": "2026-10-06T04:31:04.680Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "920599",
+          "name": "암나야 리조트 쿠타 (Amnaya Resort Kuta)",
+          "priceKRW": 105689,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/amnaya-resort-kuta/hotel/bali-id.html?cid=1925461"
         }
       ]
     }

@@ -1,0 +1,680 @@
+{
+  "slug": "family-fukuoka-2026-12",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "후쿠오카",
+  "citySlug": "fukuoka",
+  "cityId": 16527,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16527",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "후쿠오카 가족여행 숙소 선택 분석 - 짐 많은 가족여행에 똑똑한 선택",
+  "metaDescription": "후쿠오카 가족여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 61%로 가족여행 기준 1순위는 <b>로프 호텔 텐진 사우스 후쿠오카</b>입니다 (평점 9·리뷰 39건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 28,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 17,
+        "pct": 61
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 6,
+        "pct": 21
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/87901051/0/2f7a4c9ed47ee319e170cc35b08b1f4c.jpg?va=1&ce=3",
+  "heroAlt": "후쿠오카 가족여행",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "로프 호텔 텐진 사우스 후쿠오카 (LOF HOTEL Tenjin South Fukuoka)",
+      "agodaUrl": "https://www.agoda.com/lof-hotel-tenjin-south-fukuoka/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87901051/0/2f7a4c9ed47ee319e170cc35b08b1f4c.jpg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 39,
+      "reviewCountFmt": "39건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 6,
+      "refLabel": "구시다신사역",
+      "star": 4,
+      "propertyId": 87901051,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 485.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 39건. 구시다신사역 도보 6분, ₩₩ · 가격 변동. 가족 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 39건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel was so clean and well maintained.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The room was very comfortable and clean!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Great location with parking across the road.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "JR 큐슈 호텔 블로섬 하카타 센트럴 (JR Kyushu Hotel Blossom Hakata Central)",
+      "agodaUrl": "https://www.agoda.com/jr-kyushu-hotel-blossom-hakata-central_2/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3008386/0/f222a872876fded225fcc7be55d3b791.jpeg?va=1&ce=2",
+      "score": 8.9,
+      "reviewCount": 15873,
+      "reviewCountFmt": "15,873건",
+      "priceText": "₩₩₩ · 약 22만원",
+      "walkMin": 1,
+      "refLabel": "Fukuoka City Subway",
+      "star": 4,
+      "propertyId": 3008386,
+      "priceKRW": 216355,
+      "priceStatus": "조회됨",
+      "distanceM": 101.83,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터"
+      ],
+      "blurb": "평점 8.9 · 리뷰 15,873건. Fukuoka City Subway 도보 1분, ₩₩₩ · 약 22만원. 가족 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 15,873건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was just a atones throw awY fromthe hakata train station.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The hotel in general had one of the best locations.",
+          "score": "8.4",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "All I need to say is this place keeps me genki all the time!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Hotel’s location is perfect, just across the Hakata station.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The hotel located in good location, very close to subway.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 이사 호텔 텐진 (THE ISA HOTEL TENJIN)",
+      "agodaUrl": "https://www.agoda.com/the-isa-hotel-tenjin/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/88894000/0/ee965b99f2debdb5c8a8e1565dbec55e.jpeg?va=1&ce=3",
+      "score": 8.6,
+      "reviewCount": 338,
+      "reviewCountFmt": "338건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 3,
+      "refLabel": "아카사카역",
+      "star": 4,
+      "propertyId": 88894000,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 233.79,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 338건. 아카사카역 도보 3분, ₩₩ · 가격 변동. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 338건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very clean brand new hotel in Tenjin",
+          "score": "8.4",
+          "country": "대한민국",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "It was definitely a joy to stay in the hotel.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The accommodation is clean and comfortable.",
+          "score": "10",
+          "country": "China",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The staff crew is helpful and responsive.",
+          "score": "9.6",
+          "country": "中國香港",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "This place is highly recommended.",
+          "score": "10",
+          "country": "China",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "세븐 x 세븐 이토시마 (seven x seven Itoshima)",
+      "agodaUrl": "https://www.agoda.com/fav-hotel-itoshima/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/40279041/0/2f84760e3b57c8c6fd1819a1551e98b8.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 3198,
+      "reviewCountFmt": "3,198건",
+      "priceText": "₩₩₩ · 약 29만원",
+      "walkMin": 111,
+      "refLabel": "Kyūdai-Gakkentoshi",
+      "star": 4,
+      "propertyId": 40279041,
+      "priceKRW": 287236,
+      "priceStatus": "조회됨",
+      "distanceM": 8887.25,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "사우나",
+        "주방",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 3,198건. Kyūdai-Gakkentoshi 도보 111분, ₩₩₩ · 약 29만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 29만원",
+        "📝 리뷰 3,198건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was really friendly, clean, spacious and comfortable.",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "I would genuinely and highly recommend this hotel.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The room has a bar table, kitchen, and a huge balcony.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Very spacious room with full Seaview.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The staff are lovely and provide excellent service.",
+          "score": "9.6",
+          "country": "ไทย",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "호텔 라이브맥스 후쿠오카 텐진 웨스트 (HOTEL LiVEMAX Fukuoka Tenjin WEST)",
+      "agodaUrl": "https://www.agoda.com/hotel-livemax-fukuoka-tenjin-west/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/18174541/0/6ba51965316b0a9f26f0a1f17eac8070.jpeg?va=1",
+      "score": 7.6,
+      "reviewCount": 2993,
+      "reviewCountFmt": "2,993건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 1,
+      "refLabel": "아카사카역",
+      "star": 3,
+      "propertyId": 18174541,
+      "priceKRW": 59101,
+      "priceStatus": "조회됨",
+      "distanceM": 111.14,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 7.6 · 리뷰 2,993건. 아카사카역 도보 1분, ₩ · 약 6만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 2,993건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff are courteous and the location is excellent.",
+          "score": "7.6",
+          "country": "South Korea",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Location, cleanliness and staff, I am always satisfied.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The staff are very accommodating and professional.",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "It’s also conveniently located for going to the airport.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Everytime we are in Japan, this hotel is our priority.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "호텔 라이브맥스 하카타에키-미나미 (HOTEL LiVEMAX HAKATAEKI-MINAMI)",
+      "agodaUrl": "https://www.agoda.com/hotel-livemax-hakataeki-minami/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9119142/0/50052ca2e232f59401f2c8af6b2be63f.jpeg?va=1&ce=2",
+      "score": 7.1,
+      "reviewCount": 5926,
+      "reviewCountFmt": "5,926건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 11,
+      "refLabel": "하카타역",
+      "star": 2,
+      "propertyId": 9119142,
+      "priceKRW": 50008,
+      "priceStatus": "조회됨",
+      "distanceM": 875.51,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 7.1 · 리뷰 5,926건. 하카타역 도보 11분, ₩ · 약 5만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 5,926건",
+        "⭐ 2성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Room is a big one compare to other 3 stars business hotel.",
+          "score": "8.8",
+          "country": "香港",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "This hotel provided the perfect shelter from the cold.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Everything is close by, and parking is right next door.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Great to have a room to accommodate 3 ppl in Japan hotel.",
+          "score": "7.2",
+          "country": "中國香港",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "You will get a clean hotel at affordable price.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T04:31:03.085Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T04:31:03.085Z",
+    "source": "agoda citySearch",
+    "daysAhead": 71,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "로프 호텔 텐진 사우스 후쿠오카 (LOF HOTEL Tenjin South Fukuoka): price",
+        "더 이사 호텔 텐진 (THE ISA HOTEL TENJIN): price"
+      ]
+    }
+  }
+}

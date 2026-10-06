@@ -1,0 +1,668 @@
+{
+  "slug": "couple-fukuoka-2026-12",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "후쿠오카",
+  "citySlug": "fukuoka",
+  "cityId": 16527,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16527",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "후쿠오카 연인여행 숙소 선택 분석 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "후쿠오카 연인여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 80%로 연인여행 기준 1순위는 <b>호텔 솔</b>입니다 (평점 8.1·리뷰 2,451건·1박 가격 변동). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/61033742/0/14cf03d11bd42b30eca79b4cbe71f846.jpeg?ce=2",
+  "heroAlt": "후쿠오카 연인여행",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "호텔 솔 (HOTEL SOL)",
+      "agodaUrl": "https://www.agoda.com/hotel-sol-adult-only/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/61033742/0/14cf03d11bd42b30eca79b4cbe71f846.jpeg?ce=2",
+      "score": 8.1,
+      "reviewCount": 2451,
+      "reviewCountFmt": "2,451건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 18,
+      "refLabel": "덴진역",
+      "star": 3,
+      "propertyId": 61033742,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 1401.9,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.1 · 리뷰 2,451건. 덴진역 도보 18분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 2,451건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We enjoyed our stay at this nicely decorated accommodation.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "A Great Deal for a cheap accommodation in Fukuoka",
+          "score": "8.4",
+          "country": "中國香港",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "They offer a breakfast to your room everyday.",
+          "score": "8.4",
+          "country": "中國香港",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "The staff was very kind and very helpful.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Spacious room with a massage chair and a slot machine.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "마스 가든 호텔 하카타 (Mars Garden Hotel Hakata)",
+      "agodaUrl": "https://www.agoda.com/mars-garden-hotel-hakata/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59161/0/9b2187fa2c77d38ea9d11d2da1ce6423.jpeg?ce=2",
+      "score": 8.8,
+      "reviewCount": 6723,
+      "reviewCountFmt": "6,723건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 2,
+      "refLabel": "하카타 버스터미널",
+      "star": 3.5,
+      "propertyId": 59161,
+      "priceKRW": 105451,
+      "priceStatus": "조회됨",
+      "distanceM": 197.92,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 6,723건. 하카타 버스터미널 도보 2분, ₩₩ · 약 11만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 6,723건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Its less than 5 mins from one of the exit if this station.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Very convenient if you want to stay near Hakata location.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Hotel was great in terms of the room, location and staff.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Hotel is very clean and comfort, beyond their price tag.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The rooms are spotless and well stocked with amenities.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "글로컬 호텔 이토시마 (Glocal Hotel Itoshima)",
+      "agodaUrl": "https://www.agoda.com/settle-glocal-hotel-itoshima-h27658433/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/85781954/0/73087c16affd32bbe3e7f9c4a57c6994.jpeg?ce=3",
+      "score": 8.8,
+      "reviewCount": 1103,
+      "reviewCountFmt": "1,103건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 32,
+      "refLabel": "하타에역",
+      "star": 3,
+      "propertyId": 85781954,
+      "priceKRW": 94340,
+      "priceStatus": "조회됨",
+      "distanceM": 2522.48,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 1,103건. 하타에역 도보 32분, ₩₩ · 약 9만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 1,103건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Clean room, nice staff, great breakfast, and good amenities.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Relax spa and breakfast n dinner buffet are good",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Good mood for relax when stay in hotel, feel comfortable.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The room is big enough to open the luggage.",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Plenty of parking space and free of charge.",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "듀크스 호텔 하카타 (Dukes Hotel Hakata)",
+      "agodaUrl": "https://www.agoda.com/dukes-hotel-hakata/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/178117/0/3c795ceb260eefdde64160ff7efef999.jpeg?ce=3",
+      "score": 8.2,
+      "reviewCount": 4153,
+      "reviewCountFmt": "4,153건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 1,
+      "refLabel": "JR Kyushu",
+      "star": 3,
+      "propertyId": 178117,
+      "priceKRW": 97995,
+      "priceStatus": "조회됨",
+      "distanceM": 57.37,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.2 · 리뷰 4,153건. JR Kyushu 도보 1분, ₩₩ · 약 10만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 4,153건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great location, delicious breakfast and warm staffs….",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "I would definitely stay here again in the future.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Hotel location is just a few minutes walk to Hakata Station.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "I am sure to stay there again when im back to Fukuoka.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Easy to find!!! Walking distance from Hakata Station",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "호텔 포르자 하카타에키 치쿠시-구치 I (Hotel Forza Hakataeki Chikushi-Guchi I)",
+      "agodaUrl": "https://www.agoda.com/hotel-forza-hakataeki-chikushi-guchi-i/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/410788/0/7d502a9da26bd3a274ee8a23339ed674.jpeg?ce=2",
+      "score": 8.5,
+      "reviewCount": 22630,
+      "reviewCountFmt": "22,630건",
+      "priceText": "₩₩ · 약 14만원",
+      "walkMin": 2,
+      "refLabel": "Nishitetsu Bus",
+      "star": 3.5,
+      "propertyId": 410788,
+      "priceKRW": 137041,
+      "priceStatus": "조회됨",
+      "distanceM": 182.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 22,630건. Nishitetsu Bus 도보 2분, ₩₩ · 약 14만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 14만원",
+        "📝 리뷰 22,630건",
+        "⭐ 3.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room is clean and tidy and everything is good.",
+          "score": "10",
+          "country": "日本",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "It is the ideal location to visit Fukuoka city.",
+          "score": "10",
+          "country": "日本",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "However, the location is so great, just next to jr station.",
+          "score": "8",
+          "country": "中國香港",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "A convenient store is just right at the back of the hotel.",
+          "score": "8.8",
+          "country": "ไทย",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Best location, value for money, lots of eateries nearby.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "엔 호텔 하카타 (EN HOTEL Hakata)",
+      "agodaUrl": "https://www.agoda.com/court-hotel-hakataekimae/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/185040/0/c29ccd50161320b8fcbc59aceba8a9f0.jpeg?ce=3",
+      "score": 8.3,
+      "reviewCount": 13791,
+      "reviewCountFmt": "13,791건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 4,
+      "refLabel": "구시다신사역",
+      "star": 3,
+      "propertyId": 185040,
+      "priceKRW": 72526,
+      "priceStatus": "조회됨",
+      "distanceM": 298.92,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 13,791건. 구시다신사역 도보 4분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 13,791건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Near train station, shopping mall, 7-11 and many restaurant.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "There’s also 711, Matsuya, Starbucks just beside the hotel.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Hotel staff are so courteous and accommodating.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "The room is good for a small family with 4 beds available.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The service was awesome and the place was super clean.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T04:30:48.944Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T04:30:48.944Z",
+    "source": "agoda citySearch",
+    "daysAhead": 71,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "호텔 솔 (HOTEL SOL): price"
+      ]
+    }
+  }
+}

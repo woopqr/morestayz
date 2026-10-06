@@ -43,7 +43,7 @@ function specialMetas() {
   return fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).map(f => {
     const d = JSON.parse(fs.readFileSync(path.join(SPECIALS, f), 'utf8'));
     return {
-      slug: d.slug, theme: d.category || 'domestic', title: d.title, special: true,
+      slug: d.slug, theme: d.category || 'domestic', title: d.title, special: true, description: d.metaDescription || '',
       audience: d.categoryLabel || '국내 특별 여행지', emoji: d.emoji || '🇰🇷',
       city: d.region || '', season: '특별기획', travelMonthLabel: '',
       heroImg: d.cardImg || sidecarImg(f, d.cardImgIndex || 0, d.cardImgMatch) || (d.cardImgFrom ? sidecarImg(d.cardImgFrom, d.cardImgIndex || 0, d.cardImgMatch) : '')
@@ -266,6 +266,36 @@ function stampAssets() {
   return n;
 }
 
+// RSS 2.0 피드(네이버 서치어드바이저 'RSS 제출'용): 특집 + 색인 대상 글 중 최신 30개
+function regenRss(metas) {
+  const esc = t => String(t || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const rfc822 = d => { const t = new Date(String(d || '').slice(0, 10) + 'T06:00:00+09:00'); return isNaN(t) ? new Date().toUTCString() : t.toUTCString(); };
+  const items = metas.filter(m => m.special || m.indexable !== false)
+    .sort((a, b) => String(b.updated).localeCompare(String(a.updated))).slice(0, 30)
+    .map(m => `    <item>
+      <title>${esc(m.title)}</title>
+      <link>${BASE}/articles/${m.slug}</link>
+      <guid isPermaLink="true">${BASE}/articles/${m.slug}</guid>
+      <description>${esc(m.description || m.title)}</description>
+      <category>${esc(m.audience || '')}</category>
+      <pubDate>${rfc822(m.updated)}</pubDate>
+    </item>`).join('\n');
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>${esc(SITE.name)} — ${esc(SITE.tagline)}</title>
+    <link>${BASE}/</link>
+    <description>${esc(SITE.description)}</description>
+    <language>ko</language>
+    <atom:link href="${BASE}/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+${items}
+  </channel>
+</rss>
+`;
+  fs.writeFileSync(path.join(ROOT, 'rss.xml'), xml);
+}
+
 function rebuildAll() {
   if (fs.existsSync(ART)) fs.readdirSync(ART).filter(f => f.endsWith('.json')).forEach(f => buildOne(f.replace(/\.json$/, '')));
   if (fs.existsSync(SPECIALS)) fs.readdirSync(SPECIALS).filter(f => f.endsWith('.json') && !f.endsWith('.hotels.json')).forEach(f => buildSpecial(f.replace(/\.json$/, '')));
@@ -275,6 +305,7 @@ function rebuildAll() {
   const info = regenAll(metas);
   regenSearchIndex(metas);
   regenSitemap(metas, info);
+  regenRss(metas);
   const stamped = stampAssets();
   console.log(`✓ rebuildAll: ${metas.length}개 글 · 홈 ${info.homePages}p · 카테고리 ${info.activeCats.length}개 · articles.json/sitemap 갱신`);
   return metas;

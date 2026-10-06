@@ -22,5 +22,8 @@ const BATCH = Number.isFinite(parsedBatch) ? Math.max(0, parsedBatch) : 0;
   try { execSync('node gen-special.js', { cwd: __dirname, stdio: 'inherit', timeout: 360000 }); }
   catch (e) { console.error('특별기획 수집 실패(건너뜀): ' + String(e.message).slice(0, 120)); }
   const metas = rebuildAll();
+  // 새·변경 URL을 네이버/IndexNow에 즉시 알림(실패해도 발행은 계속)
+  try { await require('./indexnow').notify(); }
+  catch (e) { console.error('IndexNow 알림 실패(건너뜀): ' + String(e.message).slice(0, 120)); }
   console.log(`✓ publish 완료: 신규 ${made}개 · 전체 ${metas.length}개`);
 })().catch(e => { console.error(e); process.exit(1); });

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 32,
+  "cursor": 0,
   "observations": [
     {
       "city": "발리",
@@ -2930,6 +2930,30 @@
           "priceKRW": null,
           "priceStatus": "unavailable",
           "url": "https://www.agoda.com/ulleung-east-sea/hotel/ulleung-gun-kr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "요코하마",
+      "citySlug": "yokohama",
+      "cityId": 4590,
+      "observedAt": "2026-10-06T01:37:10.793Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "60485535",
+          "name": "호텔 로이 - 성인 전용 (HOTEL ROY - Adult Only)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/hotel-roy-adult-only/hotel/yokohama-jp.html?cid=1925461"
+        },
+        {
+          "key": "1258213",
+          "name": "호텔 마이스테이 요코하마 칸나이 (HOTEL MYSTAYS Yokohama Kannai)",
+          "priceKRW": 107871,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-mystays-yokohama-kannai/hotel/yokohama-jp.html?cid=1925461"
         }
       ]
     }

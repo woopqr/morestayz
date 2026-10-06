@@ -23,7 +23,7 @@ const BASE = `https://${SITE.domain}`;
 const SPECIALS = path.join(ROOT, 'data/specials');
 // 패싯 필터(국가→도시)용: 도시 슬러그 → 국가
 const CITY_COUNTRY = Object.fromEntries(JSON.parse(fs.readFileSync(path.join(ROOT, 'data/cities.json'), 'utf8')).map(c => [c.slug, c.country]));
-const CATS = [{ id: 'domestic', label: '국내 특별 여행지', emoji: '🇰🇷' }, { id: 'tv-luxury', label: '방송 속 럭셔리 호텔', emoji: '📺' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
+const CATS = [{ id: 'domestic', label: '국내 특별 여행지', emoji: '🇰🇷' }, { id: 'tv-luxury', label: '방송 속 럭셔리 호텔', emoji: '📺' }, { id: 'tv-trip', label: '방송·셀럽 여행', emoji: '🎬' }, ...THEMES.themes.map(t => ({ id: t.id, label: t.audience, emoji: t.emoji }))];
 
 // 특별기획 글은 이미지가 없으므로 지역명 타이포 카드(SVG data-URI)를 썸네일로 사용
 function specialCardImg(region, sub = '국내 특별 기획', from = '#6f8f67', to = '#365a78') {

@@ -43,3 +43,13 @@ jobs:
           else
             echo "변경 없음 — 스킵"
           fi
+
+      - name: IndexNow (after deploy is live)
+        run: |
+          node indexnow.js --wait || true
+          if [ -n "$(git status --porcelain data/indexnow-state.json)" ]; then
+            git add data/indexnow-state.json
+            git commit -m "chore: IndexNow $(date -u +%Y-%m-%d)"
+            git pull --rebase -X ours origin main || true
+            git push
+          fi

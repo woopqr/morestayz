@@ -7,6 +7,7 @@
  *  node indexnow.js           # 변경분만 전송
  *  node indexnow.js --all     # 전체 재전송
  *  node indexnow.js --dry     # 전송 없이 대상만 출력
+ *  node indexnow.js --wait    # 대상 URL이 실제로 200이 될 때까지(최대 10분) 기다린 뒤 전송 — 배포 직후용
  */
 const fs = require('fs');
 const path = require('path');
@@ -27,13 +28,32 @@ function sitemapEntries() {
   return out;
 }
 
-async function notify({ all = false, dry = false } = {}) {
+async function waitLive(urls, maxMs = 10 * 60 * 1000) {
+  const t0 = Date.now();
+  let pending = urls.slice();
+  while (pending.length && Date.now() - t0 < maxMs) {
+    const res = await Promise.all(pending.map(u => fetch(u, { method: 'GET', redirect: 'manual', signal: AbortSignal.timeout(15000) }).then(r => r.status).catch(() => 0)));
+    pending = pending.filter((u, i) => res[i] !== 200);
+    if (pending.length) await new Promise(r => setTimeout(r, 15000));
+  }
+  return pending; // 아직 200이 아닌 URL
+}
+
+async function notify({ all = false, dry = false, wait = false } = {}) {
   const now = sitemapEntries();
   const prev = fs.existsSync(STATE) ? JSON.parse(fs.readFileSync(STATE, 'utf8')) : {};
   const urls = Object.keys(now).filter(u => all || prev[u] !== now[u]);
   if (!urls.length) { console.log('✓ IndexNow: 변경된 URL 없음'); return { sent: 0 }; }
   console.log(`▶ IndexNow: ${urls.length}개 URL ${dry ? '(dry-run)' : '전송'}`);
   if (dry) { urls.forEach(u => console.log('  ' + u)); return { sent: 0 }; }
+  if (wait) {
+    const notLive = await waitLive(urls);
+    if (notLive.length) {
+      console.log(`  ⚠ 아직 배포 안 된 URL ${notLive.length}개는 다음 실행으로 미룸`);
+      notLive.forEach(u => { const i = urls.indexOf(u); if (i >= 0) urls.splice(i, 1); });
+      if (!urls.length) return { sent: 0 };
+    }
+  }
   const body = JSON.stringify({ host: SITE.domain, key: KEY, keyLocation: `https://${SITE.domain}/${KEY}.txt`, urlList: urls.slice(0, 10000) });
   let ok = false;
   for (const ep of ENDPOINTS) {
@@ -51,5 +71,5 @@ async function notify({ all = false, dry = false } = {}) {
   return { sent: ok ? urls.length : 0 };
 }
 
-if (require.main === module) notify({ all: process.argv.includes('--all'), dry: process.argv.includes('--dry') }).catch(e => { console.error(e); process.exit(1); });
+if (require.main === module) notify({ all: process.argv.includes('--all'), dry: process.argv.includes('--dry'), wait: process.argv.includes('--wait') }).catch(e => { console.error(e); process.exit(1); });
 module.exports = { notify };

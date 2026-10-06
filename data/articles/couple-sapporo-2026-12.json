@@ -1,0 +1,637 @@
+{
+  "slug": "couple-sapporo-2026-12",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "삿포로",
+  "citySlug": "sapporo",
+  "cityId": 3435,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=3435",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "삿포로 연인여행 숙소 선택 분석 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "삿포로 연인여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 86%로 연인여행 기준 1순위는 <b>그랜드 호스텔 LDK 삿포로</b>입니다 (평점 8.2·리뷰 5,816건·1박 약 2만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 28,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 24,
+        "pct": 86
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 4
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/866031/0/f282fe9e39be7160a9fef47a2bf71d72.jpg?ce=2",
+  "heroAlt": "삿포로 연인여행",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "그랜드 호스텔 LDK 삿포로 (GRAND HOSTEL LDK SAPPORO)",
+      "agodaUrl": "https://www.agoda.com/the-stay-sapporo-hostel/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/866031/0/f282fe9e39be7160a9fef47a2bf71d72.jpg?ce=2",
+      "score": 8.2,
+      "reviewCount": 5816,
+      "reviewCountFmt": "5,816건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 4,
+      "refLabel": "시세이칸초등학교역",
+      "star": 2,
+      "propertyId": 866031,
+      "priceKRW": 24542,
+      "priceStatus": "조회됨",
+      "distanceM": 325.87,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "모이와산",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.2 · 리뷰 5,816건. 시세이칸초등학교역 도보 4분, ₩ · 약 2만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 5,816건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooms were very nice as the reception and lounge area.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "It has two kitchens and offer some private rooms as well.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "We stayed in the private one and it was quite nice.",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "If u need budget n comfy place this is what re u looking for",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The staff were very friendly and gave great recommendations.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "스마일 호텔 프리미엄 삿포로 스스키노 (Smile Hotel Premium Sapporo Susukino)",
+      "agodaUrl": "https://www.agoda.com/smile-hotel-premium-sapporo-susukino/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3038338/0/8531090d44bda5049c6abcc0221634ba.jpg?ce=3",
+      "score": 8.7,
+      "reviewCount": 10421,
+      "reviewCountFmt": "10,421건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 2,
+      "refLabel": "호스이스스키노역",
+      "star": 3,
+      "propertyId": 3038338,
+      "priceKRW": 59710,
+      "priceStatus": "조회됨",
+      "distanceM": 163.19,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "모이와산",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 10,421건. 호스이스스키노역 도보 2분, ₩ · 약 6만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 10,421건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Very comfort and clean hotel in the heart of sapporo city...",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Overall, the hotel provided everything we needed and more.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Great base for exploring Susukino and Tanuki Koji.",
+          "score": "8",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Will book again in this hotel in my future trip to Sapporo",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "We will definitely stay there again when we come back soon.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "신카 호텔 스스키노 (Shinka Hotel Susukino)",
+      "agodaUrl": "https://www.agoda.com/shinka-hotel-susukino/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/93907104/0/2e8f28c24b18e6c2230a383d2fd23d92.jpg?ce=3",
+      "score": 8.3,
+      "reviewCount": 114,
+      "reviewCountFmt": "114건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 5,
+      "refLabel": "시세이칸초등학교역",
+      "star": 4,
+      "propertyId": 93907104,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 382.42,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "모이와산"
+      ],
+      "blurb": "평점 8.3 · 리뷰 114건. 시세이칸초등학교역 도보 5분, ₩₩ · 가격 변동. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 114건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "But inside was very nice and spacious.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "A great location.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Great location",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "호텔 혹케 클럽 삿포로 (Hotel Hokke Club Sapporo)",
+      "agodaUrl": "https://www.agoda.com/hotel-hokke-club-sapporo/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/267811/-1/95546ceae897867af84c50bb12d8b08c.jpg?ca=7&ce=1",
+      "score": 8.6,
+      "reviewCount": 8575,
+      "reviewCountFmt": "8,575건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": 5,
+      "refLabel": "오도리역",
+      "star": 3,
+      "propertyId": 267811,
+      "priceKRW": 80717,
+      "priceStatus": "조회됨",
+      "distanceM": 439.1,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "마루야마 동물원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 8,575건. 오도리역 도보 5분, ₩₩ · 약 8만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 8,575건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Rooms and facilities are very clean especially the onsen.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Great hotel location and wonderful bath pool service.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The room and facilities were top-notch and clean.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "I really didn’t expect this hotel would be this perfect 😭.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Their receptions was very friendly and helpful.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "삿포로 그랜드 호텔 (Sapporo Grand Hotel)",
+      "agodaUrl": "https://www.agoda.com/sapporo-grand-hotel/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/8580/0/91ed95e4599faa686ee4de4b8176aecd.jpg?ce=2",
+      "score": 8.8,
+      "reviewCount": 17021,
+      "reviewCountFmt": "17,021건",
+      "priceText": "₩₩ · 약 15만원",
+      "walkMin": 4,
+      "refLabel": "오도리역",
+      "star": 5,
+      "propertyId": 8580,
+      "priceKRW": 150710,
+      "priceStatus": "조회됨",
+      "distanceM": 359.45,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "마루야마 동물원",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 17,021건. 오도리역 도보 4분, ₩₩ · 약 15만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 15만원",
+        "📝 리뷰 17,021건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "You have to stay here if you find yourself in Sapporo!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The room was spacious and there was a tub with bubble bath.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Staff is so helpful and the rooms impeccably clean!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Rooms were clean and reception spoke great English.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Breakfast from Northern Terrace Diner is absolutely Perfect!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "삿포로 스트림 호텔 (SAPPORO STREAM HOTEL)",
+      "agodaUrl": "https://www.agoda.com/sapporo-stream-hotel/hotel/sapporo-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/541123774.jpg?k=70721e65e7c723c749367a4f1c2e33cf6ebd1d185f792f106d05361c25d94a2f&o=",
+      "score": 9.2,
+      "reviewCount": 13941,
+      "reviewCountFmt": "13,941건",
+      "priceText": "₩₩₩ · 약 22만원",
+      "walkMin": 1,
+      "refLabel": "스스키노역",
+      "star": 4,
+      "propertyId": 41328415,
+      "priceKRW": 224343,
+      "priceStatus": "조회됨",
+      "distanceM": 34.22,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "대중교통 이용 편리",
+        "모이와산",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 13,941건. 스스키노역 도보 1분, ₩₩₩ · 약 22만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 22만원",
+        "📝 리뷰 13,941건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Save this hotel for your stay in Sapporo and Thank me later!",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Strategic location inside the same building of the mall.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "City center and good location and Convenient transportation",
+          "score": "8.8",
+          "country": "中国",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The room is very clean and the service staff very polite.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Excellent location, very clean, modern and quiet hotel",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-06T04:28:44.234Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T04:28:44.234Z",
+    "source": "agoda citySearch",
+    "daysAhead": 71,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "신카 호텔 스스키노 (Shinka Hotel Susukino): price"
+      ]
+    }
+  }
+}

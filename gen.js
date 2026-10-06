@@ -112,7 +112,7 @@ const shortName = s => String(s).split('(')[0].trim();
   } : null;
 
   // 제목/메타/본문
-  const hook = pick(theme.hooks, Number(cityId) + tm.m);
+  const hook = pick((theme.hooksBySeason && season && theme.hooksBySeason[season.id]) || theme.hooks, Number(cityId) + tm.m);
   const title = theme.titlePattern.replace('{city}', city).replace('{hook}', hook);
   const top = picked[0];
   const topPrice = (top.priceText.split('·')[1] || '').trim();

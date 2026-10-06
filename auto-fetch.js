@@ -15,17 +15,31 @@ const ART = path.join(ROOT, 'data/articles');
 const pad = n => String(n).padStart(2, '0');
 
 function targetMonths() {
-  const ahead = THEMES.calendar.monthsAhead || [1, 2];
-  return ahead.map(a => { const d = new Date(); d.setMonth(d.getMonth() + a); return { y: d.getFullYear(), m: d.getMonth() + 1 }; });
+  const cal = THEMES.calendar || {};
+  const ahead = cal.monthsAhead || [1, 2];
+  const pri = cal.priorityMonths || [];
+  const list = ahead.map(a => { const d = new Date(); d.setDate(1); d.setMonth(d.getMonth() + a); return { y: d.getFullYear(), m: d.getMonth() + 1, a }; });
+  // 시즌 집중 월(priorityMonths)을 가까운 순으로 먼저, 나머지는 그 뒤
+  return list.sort((x, y) => (pri.includes(y.m) - pri.includes(x.m)) || (x.a - y.a));
 }
 
-// 생성 우선순위: 가까운 달 → 도시 → 테마(도시별로 테마를 번갈아 → 카테고리 다양성 확보)
+function orderedCities() {
+  const pri = (THEMES.calendar && THEMES.calendar.priorityCities) || [];
+  const rank = c => { const i = pri.indexOf(c.slug); return i < 0 ? pri.length + CITIES.indexOf(c) : i; };
+  return [...CITIES].sort((a, b) => rank(a) - rank(b));
+}
+
+// 생성 우선순위: 시즌 집중 월 → 우선 도시 → 테마(도시별로 테마를 번갈아 → 카테고리 다양성 확보)
+// 테마에 months가 있으면 해당 월에만 생성(예: 워터파크는 5~9월)
 function combos() {
   const out = [];
   for (const tm of targetMonths())
-    for (const c of CITIES)
-      for (const t of THEMES.themes)
+    for (const c of orderedCities())
+      for (const t of THEMES.themes) {
+        if (t.autoPublish === false) continue;
+        if (Array.isArray(t.months) && !t.months.includes(tm.m)) continue;
         out.push({ theme: t.id, city: c, ym: `${tm.y}-${pad(tm.m)}`, slug: `${t.id}-${c.slug}-${tm.y}-${pad(tm.m)}` });
+      }
   return out;
 }
 

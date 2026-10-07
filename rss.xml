@@ -6,7 +6,7 @@
     <description>다가오는 계절·연휴에 맞춰 아고다 실제 리뷰 데이터를 분석해 연인·가족·혼행 여행자별로 어울리는 가성비 숙소를 미리 큐레이션합니다.</description>
     <language>ko</language>
     <atom:link href="https://morestayz.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Oct 2026 23:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:35:10 GMT</lastBuildDate>
     <item>
       <title>2026 일본 단풍 시기 — 올해는 늦다: 도쿄 11월 29일·교토 12월 11일, 도시별 절정 예상과 숙소 잡는 법</title>
       <link>https://morestayz.com/articles/japan-autumn-foliage-2026</link>
@@ -20,6 +20,14 @@
       <link>https://morestayz.com/articles/korea-autumn-foliage-2026</link>
       <guid isPermaLink="true">https://morestayz.com/articles/korea-autumn-foliage-2026</guid>
       <description>산림청 '2026 한반도 단풍 절정 예측지도' 기준 산별 단풍 절정일: 설악산 10/20, 점봉산 10/21, 광덕산 10/22, 속리산 10/28, 계룡산 11/1, 내장산 11/4, 한라산 11/6. 절정 직후 주말 일정, 산별 숙소 거점(속초·보은·공주·정읍·제주)과 속초 호텔 비교까지.</description>
+      <category>계절 여행 정보</category>
+      <pubDate>Wed, 07 Oct 2026 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>국내 단풍놀이 성지 13곳 — 내장산·백양사 애기단풍부터 설악산·피아골·화담숲까지, 2026 절정 시기와 코스</title>
+      <link>https://morestayz.com/articles/korea-foliage-best-spots-2026</link>
+      <guid isPermaLink="true">https://morestayz.com/articles/korea-foliage-best-spots-2026</guid>
+      <description>'단풍의 성지' 내장산과 백양사 애기단풍, 설악산 천불동, 오대산 선재길, 지리산 피아골, 주왕산, 속리산, 한라산부터 화담숲·홍천 은행나무숲·담양 관방제림·경주 불국사까지. 2026 절정 예상(산림청·민간 예보 구분), 대표 코스, 축제 일정, 숙소 거점을 정리했습니다.</description>
       <category>계절 여행 정보</category>
       <pubDate>Wed, 07 Oct 2026 21:00:00 GMT</pubDate>
     </item>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://morestayz.com/articles/family-osaka-namba-2026-10</guid>
       <description>오사카 가족여행 숙소 6곳을 2026년 10월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
       <category>가족여행</category>
-      <pubDate>Mon, 31 Aug 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>오사카 친구여행 숙소 실제 비교 2026년 10월 | 평점·가격·위치 분석</title>
-      <link>https://morestayz.com/articles/friends-osaka-namba-2026-10</link>
-      <guid isPermaLink="true">https://morestayz.com/articles/friends-osaka-namba-2026-10</guid>
-      <description>오사카 친구여행 숙소 6곳을 2026년 10월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
-      <category>친구여행</category>
       <pubDate>Mon, 31 Aug 2026 21:00:00 GMT</pubDate>
     </item>
   </channel>

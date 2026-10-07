@@ -252,6 +252,20 @@ function buildSpecialContext(data, hotels) {
     publisher: { '@type': 'Organization', name: SITE.name },
     mainEntityOfPage: canonical,
   };
+  // 화면의 '이 글은 여기서 가져왔어요' 목록 = JSON-LD citation (같은 사실, 표현만 다름)
+  const isoDate = t => { const m = String(t || '').match(/^(\d{4})\.(\d{2})(?:\.(\d{2}))?/); return m ? [m[1], m[2], m[3]].filter(Boolean).join('-') : undefined; };
+  if (data.sources && data.sources.length) {
+    artLd.citation = data.sources.map(x => ({ '@type': 'CreativeWork', name: x.label, url: x.url,
+      publisher: x.pub ? { '@type': 'Organization', name: x.pub } : undefined, datePublished: isoDate(x.date) }));
+  }
+  // 화면의 사진 크레딧 = JSON-LD image (저작자·라이선스)
+  if (data.heroImg && data.heroImg.url) {
+    artLd.image = { '@type': 'ImageObject', url: data.heroImg.url, caption: data.heroImg.caption,
+      creditText: data.heroImg.credit, author: { '@type': 'Person', name: data.heroImg.credit },
+      license: data.heroImg.source, acquireLicensePage: data.heroImg.source };
+  } else if (hotels[0] && hotels[0].img) {
+    artLd.image = hotels[0].img;
+  }
   const jsonld = JSON.stringify(faqLd ? [artLd, faqLd] : artLd).replace(/</g, '\\u003c');
   const hero = data.hero || {};
   const region = data.region || '여행지';

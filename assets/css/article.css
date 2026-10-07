@@ -321,3 +321,5 @@ footer{max-width:1120px;margin:56px auto 0;padding:34px 20px;border-top:1px soli
 .sp-fig img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;display:block;background:var(--chip)}
 .sp-fig figcaption{margin-top:7px;font-size:.8rem;color:var(--text);font-weight:600}
 .sp-fig figcaption span{font-weight:400;color:var(--muted);margin-left:6px}
+
+.src-lead{margin:-4px 0 12px;font-size:.86rem;color:var(--muted)}

@@ -1,0 +1,706 @@
+{
+  "slug": "family-osaka-namba-2026-12",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "오사카",
+  "citySlug": "osaka-namba",
+  "cityId": 9590,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9590",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "오사카 가족여행 숙소 선택 분석 - 온 가족이 편했던 넓은 숙소",
+  "metaDescription": "오사카 가족여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 57%로 가족여행 기준 1순위는 <b>더 라이즈 오사카 유니버설 베이사이드</b>입니다 (평점 9·리뷰 2,431건·1박 가격 변동). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 17,
+        "pct": 57
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/80483820/0/14d390c6663eba4c00a0cdb2552d53de.jpeg?ce=3",
+  "heroAlt": "오사카 가족여행",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "더 라이즈 오사카 유니버설 베이사이드 (The Rise Osaka Universal Bayside)",
+      "agodaUrl": "https://www.agoda.com/the-rise-osaka-universal-bayside/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/80483820/0/14d390c6663eba4c00a0cdb2552d53de.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 2431,
+      "reviewCountFmt": "2,431건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 4,
+      "refLabel": "아지카와구치역",
+      "star": 3,
+      "propertyId": 80483820,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 304.21,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "오사카 가이유칸 수족관",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,431건. 아지카와구치역 도보 4분, ₩₩ · 가격 변동. 가족 리뷰 비중 100%.",
+      "metaTags": [
+        "📝 리뷰 2,431건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Comfortable stay, good breakfast, dinner and relaxing spa",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "A very clean, spacious, and uniquely high-tech experience.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Will come back again in the future because of the room.",
+          "score": "8.5",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We are family of 5 and had lots of space.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Super clean rooms with everything we need",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "호텔 뉴 한큐 오사카 아넥스 (Hotel new Hankyu Osaka Annex)",
+      "agodaUrl": "https://www.agoda.com/hotel-new-hankyu-osaka-annex/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/69291/0/65a00e05fcec9590903883b9bb4b96fd.jpeg",
+      "score": 8.1,
+      "reviewCount": 9971,
+      "reviewCountFmt": "9,971건",
+      "priceText": "₩₩ · 약 11만원",
+      "walkMin": 2,
+      "refLabel": "우메다역",
+      "star": 3.5,
+      "propertyId": 69291,
+      "priceKRW": 108257,
+      "priceStatus": "조회됨",
+      "distanceM": 182.6,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "쿠로몬 시장",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.1 · 리뷰 9,971건. 우메다역 도보 2분, ₩₩ · 약 11만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 11만원",
+        "📝 리뷰 9,971건",
+        "⭐ 3.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Walking distance to the metro and mall and the bus stops.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The location of the hotel is the most advantageous.",
+          "score": "10",
+          "country": "ไทย",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Excellent location, directly accessible from Kansai Airport.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Great convenient location at Umeda train and subway station.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "A good place to stay in Osaka",
+          "score": "7.2",
+          "country": "Philippines",
+          "date": "2023.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "호텔 레갈리에 오사카 닛폰바시 사우스 (HOTEL LEGALIE Osaka Nipponbashi South)",
+      "agodaUrl": "https://www.agoda.com/hotel-legalie-osaka-nipponbashi-south/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/87177229/0/77af80e5a32b41527c596a77b1e1c2a6.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 472,
+      "reviewCountFmt": "472건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 2,
+      "refLabel": "에비스초역",
+      "star": 3,
+      "propertyId": 87177229,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 192.65,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "아베노 하루카스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 472건. 에비스초역 도보 2분, ₩₩ · 가격 변동. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 472건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Close to Transportation and the washing facility is great!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The room is big so you have space if you have many things.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Love the location as it was quiet part of Osaka.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Room is very clean and spacious.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Honestly, such a great stay for the price!",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "내추럴 핫 스프링 호텔 라이브맥스 프리미엄 우메다 이스트 (Natural Hot Spring Hotel LiVEMAX PREMIUM Umeda EAST)",
+      "agodaUrl": "https://www.agoda.com/hotel-livemax-premium-umeda-east/hotel/default-city-km.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10110226/0/c6ca169bf5a5c659fe4f764f54851b2f.jpg?ce=3",
+      "score": 8.1,
+      "reviewCount": 8253,
+      "reviewCountFmt": "8,253건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "나카자키초역",
+      "star": 3,
+      "propertyId": 10110226,
+      "priceKRW": 37464,
+      "priceStatus": "조회됨",
+      "distanceM": 217.38,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "쿠로몬 시장",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.1 · 리뷰 8,253건. 나카자키초역 도보 3분, ₩ · 약 4만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 8,253건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Clean room in excellent condition with everything you need.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Smooth check in and check out with English-speaking staff.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Loved the Onsen, it has one inside and one outside.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Will consider this hotel again in my next visit!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The hot spring is exceptionally good and relaxing!",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "APA 호텔 앤 리조트 오사카 우메다 에키 타워 (APA Hotel & Resort Osaka Umeda Eki Tower)",
+      "agodaUrl": "https://www.agoda.com/apa-hotel-resort-osaka-umeda-eki-tower/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/33494376/0/9f7c93eb826af8725f917d4c3466ca3f.jpeg",
+      "score": 8.4,
+      "reviewCount": 47663,
+      "reviewCountFmt": "47,663건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": 3,
+      "refLabel": "히가시우메다역",
+      "star": 3,
+      "propertyId": 33494376,
+      "priceKRW": 81838,
+      "priceStatus": "조회됨",
+      "distanceM": 217.47,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "쿠로몬 시장",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.4 · 리뷰 47,663건. 히가시우메다역 도보 3분, ₩₩ · 약 8만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 47,663건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Nice housekeeping, Resonable price with great location",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "All the facilities are new and well-designed for the guests.",
+          "score": "10",
+          "country": "日本",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Love the Environment I will come back to this Hotel again .",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Well organised & helpful staff with the self check in.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "We had a wonderful 2-day, 1-night stay at this hotel.",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "하톤 호텔 니시 우메다 (Hearton Hotel Nishi Umeda)",
+      "agodaUrl": "https://www.agoda.com/hearton-hotel-nishi-umeda/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/161804/0/be7d7cad7806ca0b14e2c00537587402.jpeg?ce=2",
+      "score": 8.3,
+      "reviewCount": 22448,
+      "reviewCountFmt": "22,448건",
+      "priceText": "₩₩ · 약 8만원",
+      "walkMin": 3,
+      "refLabel": "니시우메다역",
+      "star": 3.5,
+      "propertyId": 161804,
+      "priceKRW": 80355,
+      "priceStatus": "조회됨",
+      "distanceM": 258.5,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "쿠로몬 시장",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 22,448건. 니시우메다역 도보 3분, ₩₩ · 약 8만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 22,448건",
+        "⭐ 3.5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It is by far, best value for money hotel in Osaka station",
+          "score": "10",
+          "country": "日本",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "There's a fridge, electric kettle, a safe, a tv in the room.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Few minutes walk from Osaka Station, near shops and malls",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Overall a good hotel at this price and strongly recommended.",
+          "score": "8.4",
+          "country": "India",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Very clean rooms, hotel provides toiletries, tea and coffee.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-07T00:18:23.041Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T00:18:23.041Z",
+    "source": "agoda citySearch",
+    "daysAhead": 70,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "더 라이즈 오사카 유니버설 베이사이드 (The Rise Osaka Universal Bayside): price",
+        "호텔 레갈리에 오사카 닛폰바시 사우스 (HOTEL LEGALIE Osaka Nipponbashi South): price"
+      ]
+    }
+  }
+}

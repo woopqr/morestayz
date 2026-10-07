@@ -1,0 +1,653 @@
+{
+  "slug": "friends-fukuoka-2026-12",
+  "theme": "friends",
+  "audience": "친구여행",
+  "emoji": "🧑‍🤝‍🧑",
+  "city": "후쿠오카",
+  "citySlug": "fukuoka",
+  "cityId": 16527,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16527",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "후쿠오카 친구여행 숙소 실제 비교 - 추억 남기기 좋은 인생 숙소",
+  "metaDescription": "후쿠오카 친구여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 친구 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "친구들과의 여행은 위치와 동선이 만족도를 가릅니다. 번화가·역세권에 가깝고 평이 좋은 가성비 숙소를 골랐습니다.",
+  "viewpoint": "여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "verdict": "친구여행 기준 1순위는 <b>몬탄 하카타</b>입니다 (평점 9.1·리뷰 18,355건·1박 약 4만원). 여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 25,
+        "pct": 83
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/2613173/0/949a44b0917c720fd3a4c3ab8da6ea08.jpeg?ce=2",
+  "heroAlt": "후쿠오카 친구여행",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "몬탄 하카타 (montan HAKATA)",
+      "agodaUrl": "https://www.agoda.com/montan-hakata-hostel/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2613173/0/949a44b0917c720fd3a4c3ab8da6ea08.jpeg?ce=2",
+      "score": 9.1,
+      "reviewCount": 18355,
+      "reviewCountFmt": "18,355건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 4,
+      "refLabel": "히가시히에역",
+      "star": 2,
+      "propertyId": 2613173,
+      "priceKRW": 37115,
+      "priceStatus": "조회됨",
+      "distanceM": 331.6,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 18,355건. 히가시히에역 도보 4분, ₩ · 약 4만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 18,355건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It’s also come with an affordable price for solo traveller.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Its very clean, quiet and very nice common room!",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "If I will go back to Fukuoka, I’d still choose this place.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The staffs are nice and the facilities are well-provided.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "There was even a library and board/card games in the lounge.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "퍼스트 캐빈 하카타 (First Cabin Hakata)",
+      "agodaUrl": "https://www.agoda.com/first-cabin-hakata/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/633546/0/87f0d0e800421998581337db73ac23f0.jpeg?ce=2",
+      "score": 8.8,
+      "reviewCount": 5042,
+      "reviewCountFmt": "5,042건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 1,
+      "refLabel": "나카스카와바타역",
+      "star": 1.5,
+      "propertyId": 633546,
+      "priceKRW": 55869,
+      "priceStatus": "조회됨",
+      "distanceM": 105.16,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 5,042건. 나카스카와바타역 도보 1분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 5,042건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Location was excellent, the subway was in the same building.",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Genuinely surprised at the quality of this accommodation.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Very nice location with donki and subway stations linked",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Everything about this capsule hotel is great.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Its conveniently located in Nakasu Kawabata station.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "더 밀레니얼스 후쿠오카 (The Millennials Fukuoka)",
+      "agodaUrl": "https://www.agoda.com/the-millennials-fukuoka_3/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7616486/0/b439ddda74586c3a21062a4fcab0e3a9.jpeg?ce=2",
+      "score": 8.8,
+      "reviewCount": 8577,
+      "reviewCountFmt": "8,577건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 2,
+      "refLabel": "나카스카와바타역",
+      "star": 2,
+      "propertyId": 7616486,
+      "priceKRW": 51995,
+      "priceStatus": "조회됨",
+      "distanceM": 184.17,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 8,577건. 나카스카와바타역 도보 2분, ₩ · 약 5만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 8,577건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Place is really clean and the pods offer good privacy.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The facilities were top-notch, offering excellent amenities.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Even stored my luggage while I traveled more of kyushu.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Staffs, location, breakfast and everything excellent",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Really nice place, i have a deep sleep from this capsule.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "9h 나인아워즈 나카스카와바타 스테이션 (9h nine hours Nakasukawabata Station)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-nakasukawabata-station/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6947589/0/6b4479ceceb8a3800fd0b931be4d4a14.jpeg?ce=2",
+      "score": 8.6,
+      "reviewCount": 7679,
+      "reviewCountFmt": "7,679건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 1,
+      "refLabel": "나카스카와바타역",
+      "star": 1.5,
+      "propertyId": 6947589,
+      "priceKRW": 27150,
+      "priceStatus": "조회됨",
+      "distanceM": 59.83,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 7,679건. 나카스카와바타역 도보 1분, ₩ · 약 3만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 7,679건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would stay again myself and gladly recommend this place",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Wi-Fi was strong and consistent, ensuring good connectivity.",
+          "score": "10",
+          "country": "China",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Facilities are clean with sufficient amenities are included.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "They even provide slippers and towels for drying the foot.",
+          "score": "9.2",
+          "country": "日本",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Superb location with easy access to both Hakata and Tenjin.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "웰캐빈 텐진 - 남성 전용 (WELLCABIN TENJIN - Male Only)",
+      "agodaUrl": "https://www.agoda.com/wellcabin-tenjin/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37767651/0/242db3b2a3a3de346fed420962110379.jpeg?ce=2",
+      "score": 8.5,
+      "reviewCount": 8664,
+      "reviewCountFmt": "8,664건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "덴진미나미역",
+      "star": 1.5,
+      "propertyId": 37767651,
+      "priceKRW": 38725,
+      "priceStatus": "조회됨",
+      "distanceM": 124.9,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 8,664건. 덴진미나미역 도보 2분, ₩ · 약 4만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 8,664건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I recommend this hotel for tourist who want to stay Tenjin.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "It did not disappoint me and I enjoyed my entire stay on it.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Highly Recommended Place to stay in Fukuoka⭐⭐⭐⭐⭐",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Fantastic location,near exit from Tenjin minami station.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The facilities are amazingly clean and well maintained.",
+          "score": "8.8",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "도요호텔 (TOYOHOTEL)",
+      "agodaUrl": "https://www.agoda.com/toyo-hotel-fukuoka-hakata/hotel/fukuoka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/65782/0/6436b940273fc339fea0327820ed532d.jpeg?ce=2",
+      "score": 8.5,
+      "reviewCount": 15470,
+      "reviewCountFmt": "15,470건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 4,
+      "refLabel": "하카타 버스터미널",
+      "star": 2.5,
+      "propertyId": 65782,
+      "priceKRW": 78851,
+      "priceStatus": "조회됨",
+      "distanceM": 298.07,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "후쿠오카 성터",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 15,470건. 하카타 버스터미널 도보 4분, ₩ · 약 8만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 15,470건",
+        "⭐ 2.5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff were lovely & polite, attentive, and very helpful.",
+          "score": "9.6",
+          "country": "ไทย",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Very nice location, easy connect to other public transport.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The hotel was excellent and made my stay very comfortable.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "All staffs are accommodating to all our requests.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The staff are polite, professional, and friendly.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-07T00:17:51.138Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T00:17:51.138Z",
+    "source": "agoda citySearch",
+    "daysAhead": 70,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

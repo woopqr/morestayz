@@ -1,0 +1,224 @@
+{
+  "type": "special",
+  "slug": "japan-autumn-foliage-2026",
+  "category": "season-info",
+  "categoryLabel": "계절 여행 정보",
+  "emoji": "🍁",
+  "region": "일본 단풍",
+  "country": "일본",
+  "facetCities": [
+    "교토",
+    "도쿄",
+    "오사카",
+    "삿포로",
+    "후쿠오카"
+  ],
+  "heroImg": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Tofukuji-autumn-foliage-2017-Luka-Peternel.jpg/1280px-Tofukuji-autumn-foliage-2017-Luka-Peternel.jpg",
+    "caption": "교토 도후쿠지 단풍",
+    "credit": "Luka Peternel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tofukuji-autumn-foliage-2017-Luka-Peternel.jpg"
+  },
+  "cities": [
+    {
+      "cityId": 1784,
+      "cityNameMatch": "교토|kyoto",
+      "label": "교토"
+    },
+    {
+      "cityId": 5085,
+      "cityNameMatch": "도쿄|tokyo",
+      "label": "도쿄"
+    }
+  ],
+  "luxury": {
+    "minStar": 4,
+    "minScore": 8.6,
+    "minReviews": 1000,
+    "excludeName": "hostel|guest ?house|호스텔|게스트|capsule|캡슐",
+    "pages": 3,
+    "perCity": 8
+  },
+  "relatedMatch": "교토|도쿄|오사카|삿포로|후쿠오카",
+  "agodaUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=1784",
+  "hotelHeading": "🏨 단풍 여행 거점 — 교토·도쿄 호텔 (아고다 4성급 이상·평점순)",
+  "topCtaText": "🏨 교토·도쿄 단풍 시즌 숙소 비교하기 →",
+  "staysHeading": "🏨 도시별 단풍 여행 숙소",
+  "nearbyHeading": "🍁 도시별 대표 단풍 명소",
+  "faqHeading": "❓ 자주 묻는 질문 (2026 일본 단풍 Q&A)",
+  "bottomCtaText": "🏨 늦어진 일본 단풍, 12월 초 숙소 미리 잡기 →",
+  "title": "2026 일본 단풍 시기 — 올해는 늦다: 도쿄 11월 29일·교토 12월 11일, 도시별 절정 예상과 숙소 잡는 법",
+  "metaDescription": "2026 일본 단풍은 평년보다 늦습니다. 도시 표준목 기준 예상: 삿포로 11/7(평년보다 10일 늦음), 도쿄 11/29(은행 11/26), 오사카 12/4, 후쿠오카 12/7, 교토 12/11(6일 늦음). 명소별 차이, 11월 말~12월 초 여행 일정, 교토·도쿄 호텔 비교까지.",
+  "kicker": "계절 여행 정보 · 2026 일본 단풍",
+  "hero": {
+    "eyebrow": "2026 일본 단풍 예상 (9월 초 예측 · 10월 초 갱신 예정)",
+    "headline": "올해 일본 단풍은 늦다\n도쿄 11월 말, 교토 12월 초",
+    "sub": "더운 가을 탓에 단풍이 평년보다 늦어질 전망입니다. 도시별 예상일과 '명소는 언제가 진짜 절정인지', 숙소 잡는 요령까지 정리했습니다."
+  },
+  "keywords": [
+    "2026 일본 단풍",
+    "일본 단풍 시기",
+    "교토 단풍 시기",
+    "도쿄 단풍 시기",
+    "오사카 단풍",
+    "삿포로 단풍",
+    "후쿠오카 단풍",
+    "도후쿠지 단풍",
+    "에이칸도 라이트업",
+    "진구가이엔 은행나무",
+    "일본 단풍 여행",
+    "교토 호텔",
+    "도쿄 호텔"
+  ],
+  "updated": "2026-10-08",
+  "intro": "올해 일본 단풍은 <b>평년보다 늦습니다</b>. 가을 기온이 높을 것으로 보여 9월 초 나온 예측에서 <b>삿포로는 평년보다 열흘</b>, <b>교토는 6일</b> 늦은 절정이 점쳐졌습니다. 도시 표준목 기준으로 <b>도쿄 11월 29일, 교토 12월 11일</b>입니다. 그래서 11월 초에 일본 단풍을 보러 가면 '아직 초록'일 수 있습니다. 이 글은 도시별 예상일, <b>표준목과 유명 명소의 차이</b>, 그리고 <b>11월 말~12월 초</b> 일정을 짤 때 숙소 잡는 요령을 정리했습니다. 예측은 10월 초 갱신될 예정이라 최신 발표도 함께 확인하세요.",
+  "sections": [
+    {
+      "h2": "도시별 단풍 절정 예상 (2026)",
+      "body": "<table><thead><tr><th>지역</th><th>절정 예상</th><th>메모</th></tr></thead><tbody><tr><td>삿포로</td><td>11월 7일</td><td>평년(10/28)보다 약 10일 늦음. 다이세쓰산 등 산간은 9월 중순부터</td></tr><tr><td>아오모리</td><td>11월 13일</td><td>오이라세 계류는 10월 중순~11월 초</td></tr><tr><td>센다이</td><td>11월 25일</td><td></td></tr><tr><td>히로시마</td><td>11월 28일</td><td></td></tr><tr><td><b>도쿄</b></td><td><b>11월 29일</b></td><td>은행나무 11월 26일</td></tr><tr><td><b>오사카</b></td><td>12월 4일</td><td></td></tr><tr><td><b>후쿠오카</b></td><td>12월 7일</td><td></td></tr><tr><td>가고시마</td><td>12월 10일</td><td></td></tr><tr><td><b>교토</b></td><td><b>12월 11일</b></td><td>평년보다 6일 늦음. 은행나무 11월 27일</td></tr></tbody></table><p>※ 9월 초 발표된 예측(10월 초 갱신 예정)이며, 날짜는 각 도시 <b>기상대 표준목</b> 기준입니다(뷰어스 종합).</p>"
+    },
+    {
+      "h2": "표준목 날짜 ≠ 명소 절정 — 교토가 대표적",
+      "img": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Eikando%2C_Kyoto_-_Eikando7376.jpg/1280px-Eikando%2C_Kyoto_-_Eikando7376.jpg",
+        "caption": "교토 에이칸도",
+        "credit": "lumoplank",
+        "license": "CC0",
+        "source": "https://commons.wikimedia.org/wiki/File:Eikando,_Kyoto_-_Eikando7376.jpg"
+      },
+      "body": "위 날짜는 시내 <b>표준목 한 그루</b>가 기준이라, 정원과 산자락의 유명 사찰은 며칠씩 다를 수 있습니다. 교토는 표준목이 12월 11일이지만 <b>도후쿠지·에이칸도</b> 같은 명소는 그보다 앞서 물드는 경우가 많아, <b>11월 하순~12월 초</b>를 넓게 잡는 것이 안전합니다. 에이칸도·도후쿠지는 단풍철 <b>야간 라이트업</b>도 인기라, 낮과 밤 일정을 나눠 짜면 좋습니다."
+    },
+    {
+      "h2": "도쿄 — 은행나무가 먼저, 11월 마지막 주",
+      "img": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Fall_Foliage_of_Gingko_%28Icho%29_at_Jingu_Gaien_Icho_Namiki_Ave._%2831086887982%29.jpg/1280px-Fall_Foliage_of_Gingko_%28Icho%29_at_Jingu_Gaien_Icho_Namiki_Ave._%2831086887982%29.jpg",
+        "caption": "도쿄 진구가이엔 은행나무길",
+        "credit": "nakashi",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fall_Foliage_of_Gingko_(Icho)_at_Jingu_Gaien_Icho_Namiki_Ave._(31086887982).jpg"
+      },
+      "body": "도쿄는 <b>은행나무(11월 26일)</b>가 단풍나무(11월 29일)보다 조금 먼저입니다. <b>메이지진구가이엔 은행나무길</b>, <b>신주쿠교엔</b>, <b>리쿠기엔</b>을 함께 보려면 <b>11월 마지막 주~12월 초</b>가 안정적입니다. 연말 일루미네이션 시즌과 겹쳐 밤 일정도 풍성해지는 시기입니다."
+    },
+    {
+      "h2": "삿포로는 '첫눈 직전' 단풍",
+      "body": "북쪽 <b>삿포로</b>는 시내 절정이 11월 7일로 예상돼 평년보다 열흘 늦습니다. 산간(다이세쓰산 등)은 9월 중순부터 물들고, 시내 단풍이 끝나면 곧 첫눈 시즌이라 <b>11월 초 단풍 → 12월 눈 여행</b>으로 이어집니다. 삿포로 겨울 여행 정보는 <a href=\"/season/winter\">겨울 여행지, 나라별로 고르기</a>에도 정리해 두었습니다."
+    },
+    {
+      "h2": "늦어진 단풍, 숙소는 이렇게",
+      "body": "① 교토·오사카는 <b>11월 하순~12월 첫 주</b>가 수요 피크라 <b>무료 취소 요금으로 먼저 확보</b>하고 10월 초 갱신 예보를 보고 조정하세요. ② 교토 숙소가 비싸면 <b>오사카에 묵고 교토 당일치기</b>(JR·한큐로 30분 안팎)도 방법입니다. ③ 도쿄는 단풍과 <b>연말 일루미네이션</b>이 겹치는 12월 초가 만족도가 높습니다. 아래 교토·도쿄 호텔 목록은 아고다 실데이터로 매일 갱신됩니다."
+    }
+  ],
+  "stays": [
+    {
+      "area": "교토",
+      "name": "가와라마치·교토역",
+      "blurb": "사찰 이동이 편한 시내 중심과 교통 거점.",
+      "cta": "교토 숙소 비교",
+      "url": "https://www.agoda.com/ko-kr/search?cid=1925461&city=1784"
+    },
+    {
+      "area": "오사카",
+      "name": "난바·우메다",
+      "blurb": "교토 당일치기 거점. 숙소 선택지가 넓고 가격이 합리적.",
+      "cta": "오사카 숙소 비교",
+      "url": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9590"
+    },
+    {
+      "area": "도쿄",
+      "name": "신주쿠·아오야마",
+      "blurb": "진구가이엔·신주쿠교엔 단풍과 일루미네이션을 걸어서.",
+      "cta": "도쿄 숙소 비교",
+      "url": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085"
+    }
+  ],
+  "nearby": {
+    "food": [
+      {
+        "name": "도후쿠지",
+        "tag": "교토",
+        "desc": "쓰텐교 다리 아래로 펼쳐지는 단풍 계곡."
+      },
+      {
+        "name": "에이칸도",
+        "tag": "교토",
+        "desc": "'단풍의 에이칸도', 야간 라이트업."
+      },
+      {
+        "name": "아라시야마",
+        "tag": "교토",
+        "desc": "도게쓰교와 산자락 단풍."
+      }
+    ],
+    "cafe": [
+      {
+        "name": "진구가이엔 은행나무길",
+        "tag": "도쿄",
+        "desc": "노란 은행나무 터널."
+      },
+      {
+        "name": "신주쿠교엔",
+        "tag": "도쿄",
+        "desc": "일본·영국·프랑스식 정원의 단풍."
+      },
+      {
+        "name": "리쿠기엔",
+        "tag": "도쿄",
+        "desc": "다이묘 정원과 라이트업."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "2026년 일본 단풍은 언제인가요?",
+      "a": "9월 초 예측 기준 도시 표준목 절정일은 삿포로 11/7, 도쿄 11/29, 오사카 12/4, 후쿠오카 12/7, 교토 12/11입니다. 전반적으로 평년보다 늦습니다."
+    },
+    {
+      "q": "왜 올해는 늦나요?",
+      "a": "가을 기온이 평년보다 높을 것으로 예상돼 단풍이 늦게 물드는 것으로 전망됐습니다. 삿포로는 평년보다 약 10일, 교토는 6일 늦은 예상입니다."
+    },
+    {
+      "q": "교토 단풍은 12월 11일에 가야 하나요?",
+      "a": "그 날짜는 시내 표준목 기준입니다. 도후쿠지·에이칸도 같은 명소는 다를 수 있어 11월 하순~12월 초를 넓게 잡는 것이 안전합니다."
+    },
+    {
+      "q": "도쿄 은행나무는 언제인가요?",
+      "a": "은행나무 11월 26일, 단풍나무 11월 29일 예상입니다. 11월 마지막 주~12월 초가 좋습니다."
+    },
+    {
+      "q": "예측은 바뀌나요?",
+      "a": "10월 초 갱신 예정입니다. 숙소는 무료 취소 요금으로 먼저 잡고 최신 예보를 보고 조정하세요."
+    },
+    {
+      "q": "교토 숙소가 비싸면?",
+      "a": "오사카에 묵고 교토를 당일치기로 다녀오는 방법이 있습니다. 전철로 30분 안팎입니다."
+    }
+  ],
+  "sources": [
+    {
+      "label": "삿포로마저 열흘 늦습니다… 2026 일본 단풍 예상시기는?",
+      "pub": "뷰어스",
+      "date": "2026.09",
+      "url": "https://feed.viewus.co.kr/ai/article/307184/"
+    },
+    {
+      "label": "[2026 도쿄 단풍 명소] 도쿄 단풍 시기 언제일까?",
+      "pub": "트립닷컴",
+      "date": "2026",
+      "url": "https://kr.trip.com/blog/autumn-leaves/"
+    },
+    {
+      "label": "2026 교토·간사이 단풍 가이드: 도후쿠지·에이칸도 야간 라이트업",
+      "pub": "Polaris eSIM 블로그",
+      "date": "2026",
+      "url": "https://polaris-esim.com/ko/blog/2026-kansai-kyoto-autumn-leaves-itinerary-esim/"
+    },
+    {
+      "label": "Best autumn foliage Japan 2026",
+      "pub": "Japan Events Guide",
+      "date": "2026",
+      "url": "https://japaneventsguide.com/en/blog/best-autumn-foliage-japan-2026"
+    }
+  ],
+  "disc": "일부 링크는 제휴 링크이며 예약 시 수수료를 받을 수 있습니다. 단풍 시기는 예측이며 기상에 따라 달라질 수 있습니다. 최신 예보를 함께 확인하세요."
+}

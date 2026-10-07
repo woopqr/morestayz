@@ -1,0 +1,111 @@
+{
+  "cityName": "속초",
+  "count": 8,
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "롯데 리조트 속초 (Lotte Resort Sokcho)",
+      "agodaUrl": "https://www.agoda.com/lotte-resort-sokcho_2/hotel/sokcho-si-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2262061/-1/6642aea8f014669bc539ee407e07d93e.jpg?va=1&ca=7&ce=1",
+      "score": 8.9,
+      "reviewCountFmt": "9,006건",
+      "priceText": "₩₩₩ · 약 47만원",
+      "star": 4,
+      "badge": "",
+      "refLabel": "속초 고속 버스 터미널",
+      "walkMin": 19
+    },
+    {
+      "rank": 2,
+      "name": "소노펠리체  델피노 (Sono Felice Delpino)",
+      "agodaUrl": "https://www.agoda.com/sono-felice-delpino/hotel/sokcho-si-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/27930958/-1/2bab9e6a946635c4d5eae02e514ee37b.jpg?va=1&ce=0",
+      "score": 8.9,
+      "reviewCountFmt": "6,447건",
+      "priceText": "₩₩ · 가격 변동",
+      "star": 4,
+      "badge": "",
+      "refLabel": "속초 시외버스터미널",
+      "walkMin": 107
+    },
+    {
+      "rank": 3,
+      "name": "홈 마리나 속초 (Homm Marina Sokcho)",
+      "agodaUrl": "https://www.agoda.com/homm-marina-sokcho/hotel/sokcho-si-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55701633/-1/c5624487a031d492d9e4d4caa4404f88.jpg?va=1&ce=0",
+      "score": 8.9,
+      "reviewCountFmt": "1,344건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "star": 4,
+      "badge": "",
+      "refLabel": "속초 고속 버스 터미널",
+      "walkMin": 3
+    },
+    {
+      "rank": 4,
+      "name": "켄싱턴호텔 설악(국립공원 도보 5분) (KensingtonHotel Seorak)",
+      "agodaUrl": "https://www.agoda.com/kensington-hotel-seorak/hotel/sokcho-si-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42893/0/c2db8fd72f28f2f5d7277c1783bd44d2.png?va=1&ce=3",
+      "score": 8.8,
+      "reviewCountFmt": "1,594건",
+      "priceText": "₩₩₩ · 약 38만원",
+      "star": 4,
+      "badge": "",
+      "refLabel": "속초 고속 버스 터미널",
+      "walkMin": 112
+    },
+    {
+      "rank": 5,
+      "name": "르네블루 바이 쏠비치 (Renebleu by Sol Beach)",
+      "agodaUrl": "https://www.agoda.com/renebleu-by-walkerhill-h36910137/hotel/sokcho-si-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/76782212/0/9a9fc3375fba4b0dae8e37d90108421c.jpg?va=1&ce=2",
+      "score": 8.8,
+      "reviewCountFmt": "992건",
+      "priceText": "₩₩₩ · 약 35만원",
+      "star": 4,
+      "badge": "",
+      "refLabel": "고성시외터미널",
+      "walkMin": 88
+    },
+    {
+      "rank": 6,
+      "name": "씨크루즈호텔 (SeaCruise Hotel)",
+      "agodaUrl": "https://www.agoda.com/sea-cruise-hotel/hotel/sokcho-si-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9412311/0/6f4ce2f9c7cbae21dc84f49c5450c5cd.png?va=1&ce=0",
+      "score": 8.7,
+      "reviewCountFmt": "30,757건",
+      "priceText": "₩₩ · 약 13만원",
+      "star": 4,
+      "badge": "",
+      "refLabel": "속초 시외버스터미널",
+      "walkMin": 14
+    },
+    {
+      "rank": 7,
+      "name": "속초 마리비스타 호텔 (Sokcho Marivista Hotel)",
+      "agodaUrl": "https://www.agoda.com/h69356721/hotel/gangwon-do-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/69356721/0/ced0eec242709065711baa37559df352.jpg?va=1&ce=2",
+      "score": 8.7,
+      "reviewCountFmt": "5,600건",
+      "priceText": "₩₩ · 약 11만원",
+      "star": 4,
+      "badge": "",
+      "refLabel": "속초 고속 버스 터미널",
+      "walkMin": 5
+    },
+    {
+      "rank": 8,
+      "name": "르컬렉티브 속초해변 (Lecollective SokchoBeach)",
+      "agodaUrl": "https://www.agoda.com/le-collective-sokcho-beach/hotel/sokcho-si-kr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/61794530/0/c132f3d1461609cc4906e426c36822bc.png?va=1&ce=3",
+      "score": 8.7,
+      "reviewCountFmt": "3,183건",
+      "priceText": "₩₩ · 약 10만원",
+      "star": 5,
+      "badge": "",
+      "refLabel": "속초 고속 버스 터미널",
+      "walkMin": 2
+    }
+  ]
+}

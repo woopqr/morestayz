@@ -1,0 +1,607 @@
+{
+  "slug": "solo-tokyo-2026-12",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "도쿄 혼자여행 숙소 선택 분석 - 치안·위치 좋은 1인 가성비 호텔",
+  "metaDescription": "도쿄 혼자여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 100%로 혼자여행 기준 1순위는 <b>글랜시트 아키하바라 컴포트 캡슐 호텔</b>입니다 (평점 8.8·리뷰 7,803건·1박 약 4만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 30,
+        "pct": 100
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/2891306/0/f1d65365c8ef8ed33e2cdd569d9869eb.jpg?va=1&ce=2",
+  "heroAlt": "도쿄 혼자여행",
+  "updated": "2026-10-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "글랜시트 아키하바라 컴포트 캡슐 호텔 (GLANSIT AKIHABARA COMFORT CAPUSULE HOTEL)",
+      "agodaUrl": "https://www.agoda.com/glansit-akihabara-comfort-capusule-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2891306/0/f1d65365c8ef8ed33e2cdd569d9869eb.jpg?va=1&ce=2",
+      "score": 8.8,
+      "reviewCount": 7803,
+      "reviewCountFmt": "7,803건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "스에히로초역",
+      "star": 2,
+      "propertyId": 2891306,
+      "priceKRW": 36997,
+      "priceStatus": "조회됨",
+      "distanceM": 181.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "긴자",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 7,803건. 스에히로초역 도보 2분, ₩ · 약 4만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 7,803건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "꽤 좋은 서비스와 좋은 위치",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2025.06",
+          "translated": true
+        },
+        {
+          "text": "무료 커피, 차, 물이 제공되는 라운지 공간이 있습니다.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": true
+        },
+        {
+          "text": "호텔은 매우 깨끗하고, 직원들도 매우 친절합니다.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.07",
+          "translated": true
+        },
+        {
+          "text": "머물기 위한 사교적인 장소가 아니며, 혼자 조용히 휴식을 취하기에 완벽합니다.",
+          "score": "9.6",
+          "country": "France",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "호텔의 서비스와 편안함에 매우 만족합니다.",
+          "score": "9.2",
+          "country": "Việt Nam",
+          "date": "2025.08",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "안신오야도 도쿄 우먼 긴자 시오도메 (Anshin oyado Tokyo Woman Ginza Shiodome)",
+      "agodaUrl": "https://www.agoda.com/capsule-hotel-anshin-oyado-premier-tokyo-shinbashi-shiodome/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/160/1604631/1604631_16122615510049933903.jpg?va=1&ca=6&ce=1",
+      "score": 8.6,
+      "reviewCount": 8280,
+      "reviewCountFmt": "8,280건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 4,
+      "refLabel": "유리카모메시오도메역",
+      "star": 1.5,
+      "propertyId": 1604631,
+      "priceKRW": 54325,
+      "priceStatus": "조회됨",
+      "distanceM": 316.5,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 8,280건. 유리카모메시오도메역 도보 4분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 8,280건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "온천과 무료 음료는 관대했습니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": true
+        },
+        {
+          "text": "많은 것들이 포함되어 있습니다, 사우나, 온수 수영장, 음료, 아침 식사",
+          "score": "8.8",
+          "country": "Dania",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "이 장소는 훌륭했고 더 오래 예약했으면 좋았을 텐데요.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2023.10",
+          "translated": true
+        },
+        {
+          "text": "위치, 시설, 편의시설, 직원 모두 훌륭합니다.",
+          "score": "9.6",
+          "country": "Germany",
+          "date": "2024.05",
+          "translated": true
+        },
+        {
+          "text": "편안한 침대, 센토, 무료 음식, 무제한 알코올을 갖춘 캡슐",
+          "score": "9.6",
+          "country": "Japan",
+          "date": "2023.07",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "9h 나인아워즈 닌교초 (9h nine hours Ningyocho)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-ningyocho/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34334296/-1/65da2559f8c23e9a4c55ff8740266d13.jpg?va=1&ce=0",
+      "score": 8.6,
+      "reviewCount": 8713,
+      "reviewCountFmt": "8,713건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "닌교초역",
+      "star": 1.5,
+      "propertyId": 34334296,
+      "priceKRW": 30291,
+      "priceStatus": "조회됨",
+      "distanceM": 156.53,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 8,713건. 닌교초역 도보 2분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 8,713건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "시설은 깨끗하고 현대적이며 잘 정돈되어 있습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "욕실은 넓고 편안했으며 흠집 하나 없이 깨끗했습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "9시 9시간 Ningyocho에서의 숙박은 훌륭한 경험이었습니다!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": true
+        },
+        {
+          "text": "장소는 흠집 하나 없이 매우 잘 관리되어 있었습니다.",
+          "score": "9.2",
+          "country": "Portugal",
+          "date": "2025.11",
+          "translated": true
+        },
+        {
+          "text": "개인 여행자에게 이곳은 훌륭한 숙소였습니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "플라트 호스텔 케이큐 하네다 홈 (plat hostel keikyu haneda home)",
+      "agodaUrl": "https://www.agoda.com/plat-hostel-keikyu-haneda-home/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/146/14662307/14662307_20051811320090550076.jpg?va=1&ca=11&ce=1",
+      "score": 8.5,
+      "reviewCount": 7182,
+      "reviewCountFmt": "7,182건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 11,
+      "refLabel": "세이비조역",
+      "star": 1.5,
+      "propertyId": 14662307,
+      "priceKRW": 25683,
+      "priceStatus": "조회됨",
+      "distanceM": 903.02,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "주방",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 7,182건. 세이비조역 도보 11분, ₩ · 약 3만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 7,182건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "매우 아늑하고 깨끗했으며 직원들은 친절하고 협조적이었습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "깨끗한 호스텔, 필요한 편의시설을 갖춘 샤워실, 화장실",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": true
+        },
+        {
+          "text": "직원들이 매우 친절하고 서비스 마인드가 뛰어납니다.",
+          "score": "9.6",
+          "country": "ไทย",
+          "date": "2023.08",
+          "translated": true
+        },
+        {
+          "text": "호스텔 내 리프트는 무거운 짐을 운반하는 데 도움이 됩니다.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": true
+        },
+        {
+          "text": "하네다 근처에서 잠시 머물기에 좋은 숙소입니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "나인아워즈 우먼 신주쿠 (9h nine hours woman Shinjuku)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-woman-shinjuku/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/30673582/-1/0885c76de0fbbe418fdd0b37488dab75.jpg?va=1&ca=29&ce=0",
+      "score": 8.2,
+      "reviewCount": 9668,
+      "reviewCountFmt": "9,668건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 2,
+      "refLabel": "신주쿠역",
+      "star": 2,
+      "propertyId": 30673582,
+      "priceKRW": 51258,
+      "priceStatus": "조회됨",
+      "distanceM": 178.72,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.2 · 리뷰 9,668건. 신주쿠역 도보 2분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 9,668건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "내부 조명은 손잡이로 조절할 수 있는데 정말 놀랍습니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "매일 라운지웨어와 용품이 교체됩니다.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.12",
+          "translated": true
+        },
+        {
+          "text": "위치도 좋고 공용 라운지 공간도 너무 맘에 들어요!",
+          "score": "10",
+          "country": "China",
+          "date": "2025.01",
+          "translated": true
+        },
+        {
+          "text": "라커룸과 샤워실은 항상 깨끗하고 차분합니다.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.02",
+          "translated": true
+        },
+        {
+          "text": "특히 밤에 라운지의 전망은 환상적입니다.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.02",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "9h 나인아워즈 신주쿠-노스 (9h nine hours Shinjuku-North)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-shinjuku-north-h9135946/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/86582573/0/43a762a44b8e3930fd71519192d83ff6.jpg?va=1&ce=3",
+      "score": 8.4,
+      "reviewCount": 781,
+      "reviewCountFmt": "781건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 2,
+      "refLabel": "신오쿠보역",
+      "star": 1,
+      "propertyId": 86582573,
+      "priceKRW": 50329,
+      "priceStatus": "조회됨",
+      "distanceM": 135.15,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "하치코",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.4 · 리뷰 781건. 신오쿠보역 도보 2분, ₩ · 약 5만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 781건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "전체적으로 잘 디자인된 놀라운 수면 보고서가 제공됩니다.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "귀마개, 슬리퍼, 수건 3장, 파자마가 제공됩니다.",
+          "score": "8.8",
+          "country": "Deutschland",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "지금까지 가본 캡슐호텔 중 최고였습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.09",
+          "translated": true
+        },
+        {
+          "text": "주변에는 수많은 상점, 카페, 레스토랑이 있습니다.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2026.07",
+          "translated": true
+        },
+        {
+          "text": "전체적으로 깨끗하고 편리합니다.",
+          "score": "8.4",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.07",
+          "translated": true
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-08T00:41:32.755Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-08T00:41:32.755Z",
+    "source": "agoda citySearch",
+    "daysAhead": 69,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

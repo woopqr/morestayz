@@ -18,7 +18,7 @@
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
 <script defer src="/assets/consent.js?v=099156a9"></script>
-<link rel="stylesheet" href="/assets/css/article.css?v=2a9e6bd8">
+<link rel="stylesheet" href="/assets/css/article.css?v=27b459de">
 <script type="application/ld+json">{{{jsonld}}}</script>
 </head>
 <body>
@@ -36,6 +36,7 @@
     <div class="sp-kws">{{#keywords}}<span class="kw">{{.}}</span>{{/keywords}}</div>
   </header>
   {{#heroCredit}}<p class="sp-credit">{{{heroCredit}}}</p>{{/heroCredit}}
+  {{#hasCoupang}}<p class="cp-disc">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>{{/hasCoupang}}
 
   <p class="lede sp-intro">{{{intro}}}</p>
 
@@ -49,6 +50,19 @@
   </section>
   {{#adAfter}}{{{adInArticle}}}{{/adAfter}}
   {{/sections}}
+
+  {{#hasCoupang}}
+  <section class="sp-sec cp-box" aria-label="쿠팡 파트너스 상품">
+    <h2>{{coupangTitle}}</h2>
+    {{#coupangLead}}<p class="cp-lead">{{coupangLead}}</p>{{/coupangLead}}
+    {{{coupangEmbed}}}
+    <div class="cp-grid">
+      {{#coupangItems}}<a class="cp-item" href="{{url}}" target="_blank" rel="noopener sponsored nofollow">{{#img}}<img src="{{img}}" alt="{{name}}" loading="lazy">{{/img}}<span class="cp-tag">{{tag}}</span><b>{{name}}</b>{{#desc}}<span class="cp-desc">{{desc}}</span>{{/desc}}<span class="cp-go">쿠팡에서 보기 →</span></a>{{/coupangItems}}
+    </div>
+    <p class="cp-note">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
+  </section>
+  {{/hasCoupang}}
+
 
   {{{adInArticle}}}
 

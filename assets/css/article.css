@@ -328,3 +328,20 @@ footer{max-width:1120px;margin:56px auto 0;padding:34px 20px;border-top:1px soli
 
 .frow[hidden]{display:none}
 @media(max-width:640px){.mast .kick-en{display:none}}
+
+/* 쿠팡 파트너스 상품 박스(링크 있을 때만) — 매거진 톤, 아고다 CTA와 구분 */
+.cp-disc{margin:10px 0 0;padding:9px 12px;border-left:3px solid var(--rose);background:var(--chip);font-size:.84rem;font-weight:700;color:var(--text)}
+.cp-box{border-top:1px solid var(--line);padding-top:26px}
+.cp-lead{color:var(--muted);font-size:.92rem;margin:-4px 0 14px}
+.cp-grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}
+.cp-item{display:flex;flex-direction:column;gap:5px;padding:14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text);transition:transform .2s,box-shadow .2s}
+.cp-item:hover{transform:translateY(-2px);box-shadow:0 4px 14px rgba(0,0,0,.07)}
+.cp-item img{width:100%;aspect-ratio:1/1;object-fit:contain;border-radius:8px;background:#fff}
+.cp-tag{font:800 .64rem/1 var(--sans);letter-spacing:.14em;color:var(--rose)}
+.cp-item b{font-family:var(--serif);font-size:.95rem;line-height:1.4}
+.cp-desc{font-size:.82rem;color:var(--muted);line-height:1.5}
+.cp-go{margin-top:auto;font-size:.8rem;font-weight:800;color:var(--accent-d)}
+.cp-note{margin-top:10px;font-size:.74rem;color:var(--muted)}
+.cp-embed{margin:0 0 14px;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.cp-embed iframe{display:block;max-width:100%;border:0}
+.cp-grid:empty{display:none}

@@ -39,6 +39,20 @@ function findClose(tpl, from, name) {
 }
 // ── AdSense 수동 광고 단위(로더는 <head>에 이미 있음 → <ins>+push만 삽입) ──
 // 제휴 CTA 버튼과 붙지 않도록 .adslot 여백·'광고' 라벨로 분리(무효 클릭 정책)
+// 쿠팡 파트너스 위젯(사용자가 파트너스에서 생성한 코드) — 공식 도메인만 허용해 HTML로 조립
+function coupangEmbedHtml(embeds) {
+  return (embeds || []).map((e, i) => {
+    if (e.type === 'iframe' && /^https:\/\/coupa\.ng\/[A-Za-z0-9]+$/.test(e.src || '')) {
+      return `<div class="cp-embed"><iframe src="${e.src}" width="100%" height="${Number(e.height) || 75}" frameborder="0" scrolling="no" referrerpolicy="unsafe-url" loading="lazy" title="쿠팡 상품"></iframe></div>`;
+    }
+    if (e.type === 'carousel' && Number(e.id) && /^AF\d+$/.test(e.trackingCode || '')) {
+      const cfg = JSON.stringify({ id: Number(e.id), template: e.template || 'carousel', trackingCode: e.trackingCode, width: String(e.width || '600'), height: String(e.height || '140'), tsource: '' });
+      return `<div class="cp-embed cp-carousel">${i === 0 || !(embeds.slice(0, i).some(x => x.type === 'carousel')) ? '<script src="https://ads-partners.coupang.com/g.js"></script>' : ''}<script>new PartnersCoupang.G(${cfg});</script></div>`;
+    }
+    return '';
+  }).join('');
+}
+
 const ADS = (() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'data/ads.json'), 'utf8')); } catch (e) { return {}; } })();
 function adInArticleHtml() {
   const a = ADS;
@@ -277,6 +291,12 @@ function buildSpecialContext(data, hotels) {
     heroImgUrl: (data.heroImg && data.heroImg.url) || (hotels[0] && hotels[0].img) || '',
     heroCredit: data.heroImg ? `사진: ${escapeHtml(data.heroImg.caption || '')} · ${escapeHtml(data.heroImg.credit || '')} / <a href="${escapeHtml(data.heroImg.source || '')}" target="_blank" rel="noopener nofollow">${escapeHtml(data.heroImg.license || '')}</a> (Wikimedia Commons)`
       : (hotels[0] && hotels[0].img ? `사진: ${escapeHtml(hotels[0].name)} (아고다)` : ''),
+    // 쿠팡 파트너스 상품 박스: 링크가 있을 때만 노출 + 공정위 지침(첫머리) 대가성 문구
+    coupangItems: ((data.coupang && data.coupang.items) || []).filter(x => x && x.url && /^https:\/\/link\.coupang\.com\//.test(x.url)),
+    coupangEmbed: coupangEmbedHtml(data.coupang && data.coupang.embeds),
+    hasCoupang: !!((((data.coupang && data.coupang.items) || []).some(x => x && x.url && /^https:\/\/link\.coupang\.com\//.test(x.url))) || coupangEmbedHtml(data.coupang && data.coupang.embeds)),
+    coupangTitle: (data.coupang && data.coupang.title) || '🛒 함께 챙기면 좋은 준비물',
+    coupangLead: (data.coupang && data.coupang.lead) || '',
     heroEyebrow: hero.eyebrow || '', heroHeadline: escapeHtml(hero.headline || '').replace(/\n/g, '<br>'), heroSub: hero.sub || '',
     keywords: data.keywords || [],
     intro: data.intro || '',

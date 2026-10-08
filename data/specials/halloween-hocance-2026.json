@@ -1,0 +1,283 @@
+{
+  "type": "special",
+  "slug": "halloween-hocance-2026",
+  "category": "season-info",
+  "categoryLabel": "계절 여행 정보",
+  "emoji": "🎃",
+  "region": "할로윈 호캉스",
+  "country": "한국",
+  "facetCities": [
+    "용인",
+    "서울 잠실",
+    "오사카",
+    "홍콩"
+  ],
+  "heroImg": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Cucurbita_pepo_Halloween_pumpkin_-_Jack_o%27_lantern_graveyard.jpg/1280px-Cucurbita_pepo_Halloween_pumpkin_-_Jack_o%27_lantern_graveyard.jpg",
+    "caption": "할로윈 호박",
+    "credit": "Carly Lesser & Art Drauglis",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_Halloween_pumpkin_-_Jack_o%27_lantern_graveyard.jpg"
+  },
+  "cities": [
+    {
+      "cityId": 9590,
+      "cityNameMatch": "오사카|osaka",
+      "label": "오사카"
+    },
+    {
+      "cityId": 16808,
+      "cityNameMatch": "홍콩|hong ?kong",
+      "label": "홍콩"
+    }
+  ],
+  "luxury": {
+    "minStar": 4,
+    "minScore": 8.5,
+    "minReviews": 1000,
+    "excludeName": "hostel|guest ?house|호스텔|게스트|capsule|캡슐|Four Points by Sheraton Hong Kong, Tung Chung",
+    "pages": 3,
+    "perCity": 6
+  },
+  "relatedMatch": "할로윈|오사카|홍콩",
+  "agodaUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&textToSearch=%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C",
+  "hotelHeading": "🏨 해외 할로윈 여행 거점 — 오사카·홍콩 호텔 (아고다 4성급 이상·평점순)",
+  "topCtaText": "🏨 할로윈 테마파크 근처 숙소 비교하기 →",
+  "staysHeading": "🏨 테마파크별 숙소 거점",
+  "nearbyHeading": "🎃 할로윈 호캉스 체크리스트",
+  "faqHeading": "❓ 자주 묻는 질문 (할로윈 호캉스 Q&A)",
+  "bottomCtaText": "🏨 할로윈 주말 숙소 미리 잡기 →",
+  "coupang": {
+    "title": "🎃 할로윈 호캉스 준비물, 쿠팡에서 찾기",
+    "lead": "검색창에 '할로윈 코스튬', '호박 사탕 바구니', 'LED 랜턴'처럼 입력해 보세요. 아래는 쿠팡 추천 상품입니다.",
+    "items": [],
+    "embeds": [
+      {
+        "type": "iframe",
+        "src": "https://coupa.ng/cp0lGO",
+        "height": 75
+      },
+      {
+        "type": "carousel",
+        "id": 1036962,
+        "template": "carousel",
+        "trackingCode": "AF6220998",
+        "width": "600",
+        "height": "140"
+      }
+    ]
+  },
+  "title": "2026 할로윈 호캉스·숙박 비교 — 에버랜드 블러드시티·롯데월드·USJ·홍콩 오션파크, 기간과 근처 숙소, 그리고 방송 속 할로윈",
+  "metaDescription": "2026 할로윈 테마파크 기간 비교: 에버랜드 9/12~11/22(블러드시티 10주년), 롯데월드 9/19~11/15(이토 준지 컬래버), USJ 할로윈 호러 나이트 9/11~11/8(15주년), 홍콩 오션파크 9/5~11/1, 홍콩 디즈니 9/18~11/1. 연령 제한, 근처 숙소, 방송이 보여 준 할로윈까지.",
+  "kicker": "계절 여행 정보 · 할로윈 호캉스",
+  "hero": {
+    "eyebrow": "2026 할로윈 · 테마파크 & 호캉스 비교",
+    "headline": "테마파크에서 놀고, 호텔에서 쉬고\n2026 할로윈 호캉스 비교",
+    "sub": "에버랜드·롯데월드부터 USJ·홍콩까지. 할로윈 기간, 무서움 강도, 근처 숙소를 한 표로 비교했습니다."
+  },
+  "keywords": [
+    "할로윈 호캉스",
+    "할로윈 숙소",
+    "에버랜드 할로윈 2026",
+    "블러드시티",
+    "롯데월드 할로윈 2026",
+    "이토 준지 롯데월드",
+    "USJ 할로윈 호러 나이트",
+    "유니버설 할로윈",
+    "홍콩 오션파크 할로윈",
+    "홍콩 디즈니 할로윈",
+    "에버랜드 근처 호텔",
+    "할로윈 예능",
+    "런닝맨 할로윈"
+  ],
+  "updated": "2026-10-08",
+  "intro": "할로윈을 <b>가장 확실하게, 그리고 안전하게</b> 즐기는 방법은 테마파크 할로윈 축제와 근처 호텔을 묶는 <b>'할로윈 호캉스'</b>입니다. 올해는 <b>에버랜드 블러드시티가 10주년</b>, <b>롯데월드는 이토 준지 컬래버</b>, <b>USJ 할로윈 호러 나이트는 15주년</b>이라 볼거리가 많습니다. 이 글은 국내외 할로윈 테마파크의 <b>기간·특징·연령 제한·숙소 거점</b>을 한 표로 비교하고, 방송이 보여 준 할로윈도 짚었습니다.",
+  "sections": [
+    {
+      "h2": "한눈에 비교 — 2026 할로윈 테마파크",
+      "body": "<table><thead><tr><th>테마파크</th><th>할로윈 기간</th><th>올해 포인트</th><th>숙소 거점</th></tr></thead><tbody><tr><td><b>에버랜드</b> (용인)</td><td>9월 12일 ~ 11월 22일</td><td>블러드시티 10주년 '블러드시티 제로', 이머시브 호러</td><td>용인 에버랜드 인근</td></tr><tr><td><b>롯데월드</b> (서울 잠실)</td><td>9월 19일 ~ 11월 15일</td><td>'기묘한 세계의 초대', 이토 준지 컬래버(실내 미스터리 파티는 9/12~)</td><td>잠실</td></tr><tr><td><b>USJ</b> (오사카)</td><td>9월 11일 ~ 11월 8일</td><td>할로윈 호러 나이트 15주년, 파크 첫 R-18 어트랙션 '잔상', 18시부터 스트리트 좀비</td><td>오사카(유니버설시티·베이 에어리어)</td></tr><tr><td><b>오션파크</b> (홍콩)</td><td>9월 5일 ~ 11월 1일</td><td>잭슨 왕이 기획한 콘셉트, 120여 명의 유령 캐릭터</td><td>홍콩섬</td></tr><tr><td><b>홍콩 디즈니랜드</b></td><td>9월 18일 ~ 11월 1일</td><td>디즈니 빌런 테마, 대부분 일반 입장권에 포함</td><td>란타우(디즈니 리조트)</td></tr></tbody></table><p>※ 각 테마파크·관광청 발표와 보도 기준입니다. 일부 프로그램은 날짜·시간이 한정되니 방문 전 공식 일정을 확인하세요.</p>"
+    },
+    {
+      "h2": "에버랜드 — 블러드시티 10주년, 밤에 가야 제맛",
+      "body": "에버랜드 할로윈은 <b>9월 12일~11월 22일</b>로 국내 테마파크 중 가장 깁니다. 올해는 대표 호러 존 <b>블러드시티가 10주년</b>을 맞아 '블러드시티 제로'를 주제로 생성형 AI 영상까지 더한 <b>이머시브 호러</b>를 선보입니다. 낮엔 어트랙션, <b>해 질 무렵부터 블러드시티</b>로 동선을 짜는 게 효율적입니다. 근처 숙소로는 차로 3분 거리의 <b>라마다 용인</b>·<b>골든튤립 에버 용인</b> 등이 자주 꼽힙니다(트립닷컴). 밤늦게까지 놀고 바로 쉬려면 에버랜드 인근 1박이 편합니다."
+    },
+    {
+      "h2": "롯데월드 — 비 와도 OK, 실내 할로윈",
+      "body": "롯데월드는 <b>9월 19일~11월 15일</b> '기묘한 세계의 초대'를 주제로, 일본 공포 만화가 <b>이토 준지</b>의 작품 세계(토미에·소이치 등)를 테마파크에 처음 구현합니다. 실내 어드벤처라 <b>날씨와 상관없이</b> 즐길 수 있는 게 강점이고, 잠실역에 바로 붙어 있어 <b>잠실 호텔 1박</b>과 묶기 좋습니다. 할로윈 당일(10/31)이 토요일이라 그 주말엔 특히 붐빌 수 있으니 평일이나 그 전 주말을 추천합니다."
+    },
+    {
+      "h2": "USJ·홍콩 — 할로윈 해외여행",
+      "img": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/HK_Ocean_Park_Halloween_Pumpkin_Sep-2013.JPG/1280px-HK_Ocean_Park_Halloween_Pumpkin_Sep-2013.JPG",
+        "caption": "홍콩 오션파크 할로윈",
+        "credit": "Ladkwodks",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:HK_Ocean_Park_Halloween_Pumpkin_Sep-2013.JPG"
+      },
+      "body": "<b>USJ 할로윈 호러 나이트</b>(9/11~11/8)는 올해 15주년으로, 파크 최초의 <b>R-18 지정</b> 호러 어트랙션 '잔상'이 등장하고 <b>18시부터</b> 역대 가장 많은 좀비가 거리로 나옵니다. <b>5세 이하는 비권장, 12세 이하는 보호자 동의</b>가 필요해 아이 동반이라면 낮 프로그램 위주로 짜세요. 홍콩은 <b>오션파크</b>(9/5~11/1, 잭슨 왕 기획)와 <b>디즈니랜드</b>(9/18~11/1, 빌런 테마)를 같이 묶을 수 있습니다. 아래 호텔 목록에 오사카·홍콩의 평점 좋은 4성급 이상 숙소를 모았습니다."
+    },
+    {
+      "h2": "방송이 보여 준 할로윈",
+      "body": "예능에서 할로윈은 주로 <b>분장 특집</b>으로 등장했습니다. 대표적인 예가 SBS <b>'런닝맨' 2018년 할로윈 분장 레이스</b>입니다. 멤버들과 게스트 안효섭(드라큘라)이 분장을 하고 레이스를 펼친 이 회차(11월 4일)는 <b>평균 7.4%, 최고 8.2%</b>로 10회 만의 최고 시청률을 기록했습니다(한국일보). 분장 자체가 큰 재미를 주는 포인트였죠.<br><br>하지만 <b>2022년 10월 이태원 참사</b> 이후 방송가는 예능을 전면 결방하며 애도했고, 에버랜드·롯데월드도 당시 할로윈 축제를 중단했습니다. 이후 방송에서 할로윈은 <b>대규모 파티보다 분장·소품을 활용한 소소한 코너</b>로 다뤄지는 흐름입니다. 다른 예능의 할로윈 특집은 공개된 시청률 자료를 확인할 수 없어 순위로 비교하지 않았습니다."
+    },
+    {
+      "h2": "안전하게, 그리고 할로윈 호캉스 팁",
+      "body": "<b>2022년 10월 이태원 참사</b> 이후 국내에선 대규모 거리 행사가 크게 줄었고, 할로윈을 즐기는 방식도 <b>캠핑장·테마파크·숙소처럼 인원이 관리되는 공간</b>으로 옮겨 갔습니다. 희생자를 기억하며, 올해도 <b>사람이 몰리는 골목·번화가는 피하고</b> 안전한 곳에서 즐기시길 바랍니다.<br><br>① 할로윈 당일(10/31 토)과 그 전날이 가장 붐빕니다. <b>평일·전 주말</b>을 노리면 대기가 짧습니다. ② 테마파크 <b>분장 입장 규정</b>(얼굴 전체 가리는 마스크·소품 무기 제한 등)을 미리 확인하세요. ③ 밤 프로그램까지 즐길 계획이면 <b>테마파크 근처 1박</b>이 귀가 동선을 크게 줄여 줍니다."
+    }
+  ],
+  "stays": [
+    {
+      "area": "에버랜드",
+      "name": "용인",
+      "blurb": "블러드시티 밤 일정 뒤 바로 쉬기 좋은 인근 호텔.",
+      "cta": "에버랜드 근처 숙소 비교",
+      "url": "https://www.agoda.com/ko-kr/search?cid=1925461&textToSearch=%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C"
+    },
+    {
+      "area": "롯데월드",
+      "name": "서울 잠실",
+      "blurb": "잠실역 연결, 실내 할로윈과 묶는 도심 호캉스.",
+      "cta": "잠실 숙소 비교",
+      "url": "https://www.agoda.com/ko-kr/search?cid=1925461&textToSearch=%EC%9E%A0%EC%8B%A4"
+    },
+    {
+      "area": "USJ",
+      "name": "오사카",
+      "blurb": "유니버설시티·베이 에어리어 또는 난바.",
+      "cta": "오사카 숙소 비교",
+      "url": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9590"
+    },
+    {
+      "area": "오션파크·디즈니",
+      "name": "홍콩",
+      "blurb": "오션파크는 홍콩섬, 디즈니는 란타우.",
+      "cta": "홍콩 숙소 비교",
+      "url": "https://www.agoda.com/ko-kr/search?cid=1925461&city=16808"
+    }
+  ],
+  "nearby": {
+    "food": [
+      {
+        "name": "분장 입장 규정 확인",
+        "tag": "테마파크",
+        "desc": "얼굴 가리는 마스크·소품 제한."
+      },
+      {
+        "name": "연령 제한",
+        "tag": "USJ",
+        "desc": "호러 나이트 5세 이하 비권장."
+      },
+      {
+        "name": "밤 일정 + 근처 1박",
+        "tag": "동선",
+        "desc": "귀가 부담 없이 야간 호러까지."
+      }
+    ],
+    "cafe": [
+      {
+        "name": "평일·전 주말 방문",
+        "tag": "대기",
+        "desc": "10/30~31은 가장 붐빔."
+      },
+      {
+        "name": "실내 대안",
+        "tag": "날씨",
+        "desc": "비 오면 롯데월드 실내 할로윈."
+      },
+      {
+        "name": "밀집 지역 피하기",
+        "tag": "안전",
+        "desc": "번화가 거리 행사 대신 관리되는 공간."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "2026 에버랜드 할로윈은 언제까지인가요?",
+      "a": "9월 12일부터 11월 22일까지입니다. 올해는 블러드시티 10주년으로 '블러드시티 제로'가 운영됩니다."
+    },
+    {
+      "q": "2026 롯데월드 할로윈 기간은?",
+      "a": "메인 축제 '기묘한 세계의 초대'는 9월 19일~11월 15일이고, 실내 미스터리 파티는 9월 12일부터 시작했습니다. 이토 준지 컬래버가 특징입니다."
+    },
+    {
+      "q": "USJ 할로윈 호러 나이트는 아이와 가도 되나요?",
+      "a": "5세 이하는 비권장, 12세 이하는 보호자 동의가 필요합니다. 아이와 간다면 낮 프로그램 위주로 계획하세요."
+    },
+    {
+      "q": "홍콩 할로윈은 어디가 좋나요?",
+      "a": "오션파크(9/5~11/1)와 홍콩 디즈니랜드(9/18~11/1)가 대표적입니다. 디즈니 할로윈은 대부분 일반 입장권에 포함됩니다."
+    },
+    {
+      "q": "방송에서 화제가 된 할로윈 특집은?",
+      "a": "SBS '런닝맨' 2018년 할로윈 분장 레이스(게스트 안효섭)가 평균 7.4%, 최고 8.2%로 10회 만의 최고 시청률을 기록했습니다."
+    },
+    {
+      "q": "할로윈 당일에 가도 될까요?",
+      "a": "10월 31일(토)과 전날은 가장 붐빕니다. 평일이나 전 주말을 권하며, 사람이 몰리는 번화가 행사는 피하세요."
+    }
+  ],
+  "sources": [
+    {
+      "label": "2026 에버랜드 할로윈 총정리: 블러드시티 10주년",
+      "pub": "트립닷컴",
+      "date": "2026",
+      "url": "https://kr.trip.com/blog/everything-about-everland-halloween/"
+    },
+    {
+      "label": "2026 에버랜드 할로윈 축제 기간, 이벤트, 블러드시티",
+      "pub": "KKday 블로그",
+      "date": "2026",
+      "url": "https://www.kkday.com/ko/blog/36333/asia-korea-yongin-everland"
+    },
+    {
+      "label": "2026 롯데월드 할로윈 — 이토 준지 컬렉션",
+      "pub": "트립닷컴",
+      "date": "2026",
+      "url": "https://kr.trip.com/blog/lotte-world-junji-ito-collection/"
+    },
+    {
+      "label": "2026 롯데월드 할로윈 축제 시즌 기간, 퍼레이드 정보",
+      "pub": "KKday 블로그",
+      "date": "2026",
+      "url": "https://www.kkday.com/ko/blog/36311/asia-korea-seoul-lotteworld"
+    },
+    {
+      "label": "ハロウィーン・ホラー・ナイト 2026",
+      "pub": "유니버설 스튜디오 재팬(공식)",
+      "date": "2026",
+      "url": "https://www.usj.co.jp/web/ja/jp/events/halloween-extreme-autumn-2026/halloween-horror-nights"
+    },
+    {
+      "label": "USJ2026年秋のハロウィーン・ホラー・ナイトは9月11日開幕 15周年",
+      "pub": "MICE TIMES",
+      "date": "2026",
+      "url": "https://micetimes.jp/usj2026-autumn/"
+    },
+    {
+      "label": "Ocean Park Halloween Fest 2026",
+      "pub": "홍콩관광청(Discover Hong Kong)",
+      "date": "2026",
+      "url": "https://www.discoverhongkong.com/eng/events/event.id88942.ocean-park-halloween-fest-2026.html"
+    },
+    {
+      "label": "Hong Kong Disneyland Halloween Time 2026",
+      "pub": "TDR Explorer",
+      "date": "2026",
+      "url": "https://tdrexplorer.com/hong-kong-disneyland-halloween-2026/"
+    },
+    {
+      "label": "'런닝맨' 핼러윈 분장, 빅재미 주며 시청률 하드캐리! 10회 만에 '최고' 기록",
+      "pub": "한국일보",
+      "date": "2018.11.05",
+      "url": "https://www.hankookilbo.com/news/article/201811051110313560"
+    },
+    {
+      "label": "이태원 참사로 '런닝맨'·'1박2일'·'복면가왕' 등 결방 결정",
+      "pub": "이투데이",
+      "date": "2022.10.30",
+      "url": "https://www.etoday.co.kr/news/view/2187216"
+    }
+  ],
+  "disc": "일부 링크는 제휴 링크이며 예약·구매 시 수수료를 받을 수 있습니다. 테마파크 일정은 공식 발표·보도 기준이며 변경될 수 있습니다."
+}

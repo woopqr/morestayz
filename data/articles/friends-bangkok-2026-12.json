@@ -1,0 +1,701 @@
+{
+  "slug": "friends-bangkok-2026-12",
+  "theme": "friends",
+  "audience": "친구여행",
+  "emoji": "🧑‍🤝‍🧑",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "방콕 친구여행 숙소 실제 비교 - 추억 남기기 좋은 인생 숙소",
+  "metaDescription": "방콕 친구여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 친구 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "친구들과의 여행은 위치와 동선이 만족도를 가릅니다. 번화가·역세권에 가깝고 평이 좋은 가성비 숙소를 골랐습니다.",
+  "viewpoint": "여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "verdict": "친구여행 기준 1순위는 <b>푸드호텔</b>입니다 (평점 9.2·리뷰 1,704건·1박 약 5만원). 여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 12,
+        "pct": 40
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/12192945/-1/c7fc9fd31ee94962e46d67f6a9b1867f.jpg?ca=13&ce=1",
+  "heroAlt": "방콕 친구여행",
+  "updated": "2026-10-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "푸드호텔 (FOODOTEL)",
+      "agodaUrl": "https://www.agoda.com/foodotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/12192945/-1/c7fc9fd31ee94962e46d67f6a9b1867f.jpg?ca=13&ce=1",
+      "score": 9.2,
+      "reviewCount": 1704,
+      "reviewCountFmt": "1,704건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 1,
+      "refLabel": "짜른나콘역",
+      "star": 3,
+      "propertyId": 12192945,
+      "priceKRW": 49890,
+      "priceStatus": "조회됨",
+      "distanceM": 99.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "아시아티크 - 더 리버프론트",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.2 · 리뷰 1,704건. 짜른나콘역 도보 1분, ₩ · 약 5만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 1,704건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I chose this predominantly for the location and no regrets.",
+          "score": "7.2",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Mattress probably best one I have stayed in ever in thailand",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The shower was really big with good pressure and hot water.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect and just 2 minutes away from the mall.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "I will definitely stay at this hotel next time to BKK.",
+          "score": "10",
+          "country": "台灣",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "티니디 트렌디 방콕 카오산 (Tinidee Trendy Bangkok Khaosan)",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-bangkok-khaosan-viengtai_4/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/46936093/-1/8f90e003ffe5c2b834ccdccc276fae55.jpg?ce=0",
+      "score": 9.1,
+      "reviewCount": 11364,
+      "reviewCountFmt": "11,364건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 19,
+      "refLabel": "Wang Burapha",
+      "star": 4,
+      "propertyId": 46936093,
+      "priceKRW": 74422,
+      "priceStatus": "조회됨",
+      "distanceM": 1488.14,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "왓 뜨라이밋",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 11,364건. Wang Burapha 도보 19분, ₩ · 약 7만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 11,364건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We love it, when will be in Bangkok again will come again",
+          "score": "10",
+          "country": "Belgium",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "We travelled with 3 kids and this hotel was perfect for us.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Despite being on the lively Khaosan Road, it was very quiet.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Great pool, staff very friendly, totally worth staying here.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The kids loved it and want to stay there on our return trip",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "오리올 레지던스 (Oriole Residence)",
+      "agodaUrl": "https://www.agoda.com/oriole-residence/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34244664/-1/eccca6061e7ed706d5a76a47c5b69087.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 9854,
+      "reviewCountFmt": "9,854건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 68,
+      "refLabel": "수완나품역",
+      "star": 4,
+      "propertyId": 34244664,
+      "priceKRW": 49611,
+      "priceStatus": "조회됨",
+      "distanceM": 5450.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 9,854건. 수완나품역 도보 68분, ₩ · 약 5만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 9,854건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This one is a precious gem I found in Bangkok!",
+          "score": "10",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The rooms are really clean and well appointed.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We've stayed here twice in a month and thoroughly recommend.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Awesome, really good acommodation for really good price.",
+          "score": "10",
+          "country": "Česká republika",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "This was my best airport hotel experience in Bangkok.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "파악 호텔 수완나품 (PAAK Hotel Suvarnabhumi)",
+      "agodaUrl": "https://www.agoda.com/paak-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/77648547/0/46eae5b1d930d107c0f93418c6c16157.png?ce=3",
+      "score": 9,
+      "reviewCount": 3269,
+      "reviewCountFmt": "3,269건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 20,
+      "refLabel": "랏끄라방역",
+      "star": 4,
+      "propertyId": 77648547,
+      "priceKRW": 60746,
+      "priceStatus": "조회됨",
+      "distanceM": 1612.27,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 3,269건. 랏끄라방역 도보 20분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,269건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would highly recommend this hotel to anyone on a layover.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Perfect for overnite stay for an early morning flight!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Very big spacious room with lots of space for our backpacks!",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Rooms for immaculate and accurate to the pictures online.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed the pool, the rooms, and the restaurant.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "스페이스 스테이션 호스텔 (Space Station Hostel)",
+      "agodaUrl": "https://www.agoda.com/space-station-hostel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48092218/-1/4069feea25b77c8e03510374e1860275.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 2653,
+      "reviewCountFmt": "2,653건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 2,
+      "refLabel": "돈므앙역",
+      "star": 2,
+      "propertyId": 48092218,
+      "priceKRW": 14982,
+      "priceStatus": "조회됨",
+      "distanceM": 136.09,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 2,653건. 돈므앙역 도보 2분, ₩ · 약 1만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 2,653건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Their warm hospitality made my experience unforgettable.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "And the staff was incredibly warm, friendly, and helpful.",
+          "score": "10",
+          "country": "France",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Best hostel I've stayed at and I stayed in many.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room was very well laid out with lockers in the room.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The great capsules, with privacy and everything you need...",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "12 더 레지던스 호텔 (12 The Residence Hotel)",
+      "agodaUrl": "https://www.agoda.com/12-the-residence-hotel-apartment/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32901818/-1/013ea3e91874c92ded78a8657f50ce1f.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 24941,
+      "reviewCountFmt": "24,941건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 10,
+      "refLabel": "돈므앙 기차역",
+      "star": 3,
+      "propertyId": 32901818,
+      "priceKRW": 34982,
+      "priceStatus": "조회됨",
+      "distanceM": 799.68,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 24,941건. 돈므앙 기차역 도보 10분, ₩ · 약 3만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 24,941건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I got a double room which was huge and very comfortable bed.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "There's a fridge, microwave and even stove in the room.",
+          "score": "10",
+          "country": "Вьетнам",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The breakfast is quite good and has plenty of choices.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Rooms are clean, we'll designed, each with small balcony.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Clean property with top-notch facilities and friendly staff.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-09T00:56:01.951Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-09T00:56:01.951Z",
+    "source": "agoda citySearch",
+    "daysAhead": 68,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

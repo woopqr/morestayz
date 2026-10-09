@@ -1,0 +1,663 @@
+{
+  "slug": "couple-bangkok-2026-12",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "방콕 연인여행 숙소 선택 분석 - 다시 설레게 만드는 가성비 숙소",
+  "metaDescription": "방콕 연인여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 83%로 연인여행 기준 1순위는 <b>수완나품 빌 에어포트 호텔</b>입니다 (평점 8.4·리뷰 22,590건·1박 약 5만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 25,
+        "pct": 83
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/1269836/-1/96d8db89fb519d21501bb1385108da3e.jpg?va=1&ca=28&ce=0",
+  "heroAlt": "방콕 연인여행",
+  "updated": "2026-10-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "수완나품 빌 에어포트 호텔 (Suvarnabhumi Ville Airport Hotel)",
+      "agodaUrl": "https://www.agoda.com/suvarnabhumi-ville-airport-hotel_2/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1269836/-1/96d8db89fb519d21501bb1385108da3e.jpg?va=1&ca=28&ce=0",
+      "score": 8.4,
+      "reviewCount": 22590,
+      "reviewCountFmt": "22,590건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 24,
+      "refLabel": "랏끄라방역",
+      "star": 4,
+      "propertyId": 1269836,
+      "priceKRW": 48140,
+      "priceStatus": "조회됨",
+      "distanceM": 1887.22,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.4 · 리뷰 22,590건. 랏끄라방역 도보 24분, ₩ · 약 5만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 22,590건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Will take this hotel for every next endings of holidays.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The pool is as good as any pool in a hotel worldwide.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Restaurants, Cafe, Swimming pool, gym, and massage.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Lastly, the room that we stayed in was big and bed was soft.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The restaurants serve nice food and are reasonably priced.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "람부뜨리 빌리지 호텔 (Rambuttri Village Hotel)",
+      "agodaUrl": "https://www.agoda.com/rambuttri-village-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/148/148694/148694_17040314110052098018.jpg?va=1&ca=6&ce=1",
+      "score": 8,
+      "reviewCount": 35940,
+      "reviewCountFmt": "35,940건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 22,
+      "refLabel": "Wang Burapha",
+      "star": 3,
+      "propertyId": 148694,
+      "priceKRW": 31358,
+      "priceStatus": "조회됨",
+      "distanceM": 1721.38,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "왓 뜨라이밋",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8 · 리뷰 35,940건. Wang Burapha 도보 22분, ₩ · 약 3만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 35,940건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "On the top of the building is pool that is kept very clean!",
+          "score": "8.4",
+          "country": "Korea Południowa",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Very polite and well appreciated after the flight.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "So close to crazy khaosan road and yet very peaceful alley.",
+          "score": "7.6",
+          "country": "India",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Would recommend the breakfast, lots to choose from.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "The staff is incredibly friendly and always ready to help.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "아사이 방콕 사톤 (ASAI Bangkok Sathorn)",
+      "agodaUrl": "https://www.agoda.com/asai-bangkok-sathorn/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37737062/-1/27cf63754815f12f7c5c9a93bffe00b5.jpg?va=1&ce=0",
+      "score": 9.1,
+      "reviewCount": 6342,
+      "reviewCountFmt": "6,342건",
+      "priceText": "₩₩ · 약 10만원",
+      "walkMin": 1,
+      "refLabel": "세인트루이스역",
+      "star": 4,
+      "propertyId": 37737062,
+      "priceKRW": 104489,
+      "priceStatus": "조회됨",
+      "distanceM": 85.32,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "대중교통 이용 편리",
+        "아시아티크 - 더 리버프론트",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 6,342건. 세인트루이스역 도보 1분, ₩₩ · 약 10만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 10만원",
+        "📝 리뷰 6,342건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great hotel and very good location (about 100m to the BTS)",
+          "score": "7.6",
+          "country": "Singapore",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "ASAI is a really great choice for those staying in Bangkok.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Room was neat and tidy, and staff are friendly and helpful.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The place is well maintained, and the room is very clean.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Perfect hotel for a couple of nights to explore Bangkok",
+          "score": "10",
+          "country": "Nouvelle-Calédonie",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "머큐어 방콕 마카산 (Mercure Bangkok Makkasan)",
+      "agodaUrl": "https://www.agoda.com/mercure-bangkok-makkasan/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/21611805/0/d2c25f32329ca637d90812d2bd43ac60.jpeg?va=1&ce=2",
+      "score": 8.5,
+      "reviewCount": 5062,
+      "reviewCountFmt": "5,062건",
+      "priceText": "₩₩ · 약 9만원",
+      "walkMin": 5,
+      "refLabel": "마까산역",
+      "star": 4,
+      "propertyId": 1620147,
+      "priceKRW": 93923,
+      "priceStatus": "조회됨",
+      "distanceM": 421.93,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "룸피니 파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 5,062건. 마까산역 도보 5분, ₩₩ · 약 9만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 9만원",
+        "📝 리뷰 5,062건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 8.8
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff and the services provided are exceeds the price offer",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Overall the room is clean and service staffs are friendly",
+          "score": "7.6",
+          "country": "Malaysia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "And the staffs were super friendly and supportive.",
+          "score": "9.6",
+          "country": "Việt Nam",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The hotel, facilities, staff and f&b are well above average.",
+          "score": "8.8",
+          "country": "Malaysia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Overall, worth the stay and value for money if booked early.",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "티니디 트렌디 방콕 카오산 (Tinidee Trendy Bangkok Khaosan)",
+      "agodaUrl": "https://www.agoda.com/ibis-styles-bangkok-khaosan-viengtai_4/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/46936093/-1/8f90e003ffe5c2b834ccdccc276fae55.jpg?va=1&ce=0",
+      "score": 9.1,
+      "reviewCount": 11364,
+      "reviewCountFmt": "11,364건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 19,
+      "refLabel": "Wang Burapha",
+      "star": 4,
+      "propertyId": 46936093,
+      "priceKRW": 74422,
+      "priceStatus": "조회됨",
+      "distanceM": 1488.14,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "왓 뜨라이밋",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 11,364건. Wang Burapha 도보 19분, ₩ · 약 7만원. 연인 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 11,364건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We love it, when will be in Bangkok again will come again",
+          "score": "10",
+          "country": "Belgium",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "We travelled with 3 kids and this hotel was perfect for us.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Despite being on the lively Khaosan Road, it was very quiet.",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Great pool, staff very friendly, totally worth staying here.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The kids loved it and want to stay there on our return trip",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "더 살릴 호텔 리버사이드 방콕 (The Salil Hotel Riverside Bangkok)",
+      "agodaUrl": "https://www.agoda.com/the-salil-hotel-riverside/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/33984807/-1/12dd853fcdce3ac41ea616a3a8e5d547.jpg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 12286,
+      "reviewCountFmt": "12,286건",
+      "priceText": "₩₩ · 약 19만원",
+      "walkMin": 17,
+      "refLabel": "사판탁신역",
+      "star": 5,
+      "propertyId": 33984807,
+      "priceKRW": 191566,
+      "priceStatus": "조회됨",
+      "distanceM": 1377.3,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "아시아티크 - 더 리버프론트",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 12,286건. 사판탁신역 도보 17분, ₩₩ · 약 19만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 19만원",
+        "📝 리뷰 12,286건",
+        "⭐ 5성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The bathroom is stacked with everything you will ever need.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "There is nothing I can fault the hotel on!",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The interior design is quirky and fun in a good way.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The room was clean, comfortable, and thoughtfully designed.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "We will surely be back again for our next visit in Bangkok.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-09T00:55:00.601Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-09T00:55:00.601Z",
+    "source": "agoda citySearch",
+    "daysAhead": 68,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

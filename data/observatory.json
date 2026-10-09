@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 3,
+  "cursor": 4,
   "observations": [
     {
       "city": "발리",
@@ -3131,6 +3131,156 @@
           "priceKRW": 51988,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/levantin-boracay-resort/hotel/boracay-island-ph.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "부산",
+      "citySlug": "busan",
+      "cityId": 17172,
+      "observedAt": "2026-10-09T00:56:02.682Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "20615204",
+          "name": "라라비안코 비즈니스 호텔 (Lala Vianco Business Hotel)",
+          "priceKRW": 24240,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/lala-vianco-hotel-h17185049/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "35420065",
+          "name": "부산 커넥트 오션 호텔 (Busan CONNECT Ocean Hotel)",
+          "priceKRW": 50889,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h35420065/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "4576021",
+          "name": "토요코 인 부산역 1 (Toyoko Inn Busan Station 1)",
+          "priceKRW": 80465,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/toyoko-inn-busan-station-1_8/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "734770",
+          "name": "부산 호텔 에어포트 (Airport Hotel Busan)",
+          "priceKRW": 91416,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/airport-hotel-busan/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "42958",
+          "name": "롯데 호텔 부산 (Lotte Hotel Busan)",
+          "priceKRW": 236648,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/lotte-hotel-busan/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "2962286",
+          "name": "광안리 호텔1 (Gwanganli Hotel 1)",
+          "priceKRW": 61470,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/gwanganli-hotel-1_2/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "6543659",
+          "name": "에어스카이 호텔 (Airsky Hotel)",
+          "priceKRW": 109253,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/airsky-hotel/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "63063347",
+          "name": "엘모멘토 사상 레지던스 (Elmomento Sasang  Residence)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/elmomento-sasang/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "4592179",
+          "name": "토요코 인 부산 해운대 2 (Toyoko Inn Busan Haeundae 2)",
+          "priceKRW": 72891,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/toyoko-inn-busan-haeundae-2_6/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "59456426",
+          "name": "엘모멘토 송도 레지던스 (Elmomento Songdo Residence)",
+          "priceKRW": 101526,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/elmomento-songdo-residencs/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "87556285",
+          "name": "무금 광안리 (여성 전용 도미토리) (MOOGM Gwangalli - Female-only Dormitory )",
+          "priceKRW": 34762,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/moogm-gwangalli/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "65460",
+          "name": "파라다이스 호텔 부산 (Paradise Hotel Busan)",
+          "priceKRW": 332948,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/paradise-hotel-busan/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "87898095",
+          "name": "굿데이큐브 서면 캡슐호텔 (Goodday CUBE Seomyeon Capsule Hotel )",
+          "priceKRW": 43879,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h87898095/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "53856159",
+          "name": "젬스테이 서면 (Gemstay Seomyeon)",
+          "priceKRW": 90845,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/gemstay/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "35296754",
+          "name": "호텔 티티 구포 (Hotel tt Gupo)",
+          "priceKRW": 29173,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h35296754/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "76074551",
+          "name": "노마드 리브 호스텔 (Nomad Live Hostel)",
+          "priceKRW": 23759,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nomad-live-hostel/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "1617837",
+          "name": "솔라리아 니시테츠 호텔 부산 (Solaria Nishitetsu Hotel Busan)",
+          "priceKRW": 123085,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/solaria-nishitetsu-hotel-busan/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "56391618",
+          "name": "마리쏠 바이 해운대비치 (Marysol by Haeundae Beach)",
+          "priceKRW": 133655,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/marysol-by-haeundaebeach/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "67918629",
+          "name": "쏘타스위트 부산 서면 (Sota suite busan seomyeon)",
+          "priceKRW": 104840,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/h67325587/hotel/busan-kr.html?cid=1925461"
+        },
+        {
+          "key": "59154095",
+          "name": "해운대 아리랑아일랜드 (Haeundae Arirang Island)",
+          "priceKRW": 15837,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/haeundae-arirang-island-guesthouse/hotel/busan-kr.html?cid=1925461"
         }
       ]
     }

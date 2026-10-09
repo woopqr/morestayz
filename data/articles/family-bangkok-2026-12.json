@@ -1,0 +1,707 @@
+{
+  "slug": "family-bangkok-2026-12",
+  "theme": "family",
+  "audience": "가족여행",
+  "emoji": "👨‍👩‍👧",
+  "city": "방콕",
+  "citySlug": "bangkok",
+  "cityId": 9395,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=9395",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "방콕 가족여행 숙소 선택 분석 - 짐 많은 가족여행에 똑똑한 선택",
+  "metaDescription": "방콕 가족여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 가족 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "가족여행은 한 명만 불편해도 분위기가 가라앉습니다. 가족 투숙객 비중이 높고 청결·편의 평이 좋은, 가성비까지 챙긴 숙소를 골랐습니다.",
+  "viewpoint": "가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 가족 리뷰 비중은 평균 50%로 가족여행 기준 1순위는 <b>골든 포이어 수완나품 에어포트 호텔</b>입니다 (평점 8.3·리뷰 13,681건·1박 약 4만원). 가족 단위에 중요한 객실 크기·조식·청결·교통 접근성을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 15,
+        "pct": 50
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4605244/0/f424e8ad59a802a776802484a89184f8.jpeg?va=1&ce=2",
+  "heroAlt": "방콕 가족여행",
+  "updated": "2026-10-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "골든 포이어 수완나품 에어포트 호텔 (Golden Foyer Suvarnabhumi Airport Hotel)",
+      "agodaUrl": "https://www.agoda.com/golden-foyer-suvarnabhumi-airport-hotel_3/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4605244/0/f424e8ad59a802a776802484a89184f8.jpeg?va=1&ce=2",
+      "score": 8.3,
+      "reviewCount": 13681,
+      "reviewCountFmt": "13,681건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 19,
+      "refLabel": "Hua Takhe",
+      "star": 4,
+      "propertyId": 4605244,
+      "priceKRW": 41564,
+      "priceStatus": "조회됨",
+      "distanceM": 1557.1,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "사우나",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 13,681건. Hua Takhe 도보 19분, ₩ · 약 4만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 13,681건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Close to the airport and the market out the front is good.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "I have stayed here 3 or 4 times and will stay here again.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Simple and had all the amenities and things that you need.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "We asked for a baby cot and it was without extra charge.",
+          "score": "9.6",
+          "country": "Eesti",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room was actually so much bigger than we expected.",
+          "score": "8.8",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "힐튼 수쿰빗 방콕 (Hilton Sukhumvit Bangkok)",
+      "agodaUrl": "https://www.agoda.com/hilton-sukhumvit-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/464813/0/ba675b8338b29c6d1a3aaed6d6d1c7fb.jpg?va=1&ce=3",
+      "score": 8.7,
+      "reviewCount": 4055,
+      "reviewCountFmt": "4,055건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 3,
+      "refLabel": "프롬퐁역",
+      "star": 5,
+      "propertyId": 464813,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 219.96,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "룸피니 파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 4,055건. 프롬퐁역 도보 3분, ₩₩ · 가격 변동. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 4,055건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Location wise very near to BTS station and shopping mall",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel is just a short walk from Phrom Phong station.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Excellent location, hotel well maintained with cleaned room!",
+          "score": "7.2",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "We truly appreciate their proactive and attentive service.",
+          "score": "10",
+          "country": "中國香港",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Room is clean, bed is comfortable and the staffs are nice.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "이스틴 그랜드 호텔 파야타이 (Eastin Grand Hotel Phayathai)",
+      "agodaUrl": "https://www.agoda.com/eastin-grand-hotel-phayathai/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/38898108/0/bd3707b044f07c72b0fff08064756c95.jpeg?va=1&ce=2",
+      "score": 9.4,
+      "reviewCount": 31275,
+      "reviewCountFmt": "31,275건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "walkMin": 1,
+      "refLabel": "파야타이역",
+      "star": 5,
+      "propertyId": 38898108,
+      "priceKRW": 230699,
+      "priceStatus": "조회됨",
+      "distanceM": 30.35,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "룸피니 파크",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.4 · 리뷰 31,275건. 파야타이역 도보 1분, ₩₩₩ · 약 23만원. 가족 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 31,275건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The location is perfect with bts right in front of the door.",
+          "score": "8.4",
+          "country": "Deutschland",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Top tier hotel in terms of location, facilities and service.",
+          "score": "8",
+          "country": "Singapore",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The staff at Eastin Grand Hotel Phayathai were exceptional.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "We booked an executive suite, which was very new and clean.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "We highly recommend this hotel to anyone visiting Bangkok.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "그랜드 BS 에어포트 호텔 수완나품 (Grand BS Airport Hotel Suvarnabhumi)",
+      "agodaUrl": "https://www.agoda.com/grand-bs-airport-hotel-suvarnabhumi/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32841636/0/9205d77e94ca90f62b23c0b2d8a52e89.jpeg?va=1&ce=2",
+      "score": 8.1,
+      "reviewCount": 14906,
+      "reviewCountFmt": "14,906건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 16,
+      "refLabel": "랏끄라방역",
+      "star": 3,
+      "propertyId": 32841636,
+      "priceKRW": 52681,
+      "priceStatus": "조회됨",
+      "distanceM": 1309.7,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.1 · 리뷰 14,906건. 랏끄라방역 도보 16분, ₩ · 약 5만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 14,906건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I recommend this hotel when you depart early in the morning.",
+          "score": "10",
+          "country": "대한민국",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Clean, convenient, good service, definitely come back again.",
+          "score": "10",
+          "country": "สหราชอาณาจักร",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "The outdoor pool is big and wide with an adjacent jacuzzi.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Facilities like room and pool were perfect for family.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel itself is immaculate, the room tiny, but perfect.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "돈 무앙 호텔 (Don Muang Hotel)",
+      "agodaUrl": "https://www.agoda.com/don-muang-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1129368/0/27a3b9bc2d42a0bd0d118be356724f7a.jpeg?va=1&ce=2",
+      "score": 8.1,
+      "reviewCount": 10166,
+      "reviewCountFmt": "10,166건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 9,
+      "refLabel": "돈므앙 기차역",
+      "star": 3,
+      "propertyId": 1129368,
+      "priceKRW": 26824,
+      "priceStatus": "조회됨",
+      "distanceM": 729.68,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.1 · 리뷰 10,166건. 돈므앙 기차역 도보 9분, ₩ · 약 3만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 10,166건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Perfect for early flights out of Don Muang Airport.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Overall… we would definitely stay at this hotel again.",
+          "score": "8.8",
+          "country": "Deutschland",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "I Don't find anything wrong with this hotel,perfect.",
+          "score": "10",
+          "country": "Bangladesh",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Their rooms were clean, beds comfortable & breakfast decent.",
+          "score": "8",
+          "country": "India",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Perfect for a over night stay if flying out next morning.",
+          "score": "8",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "센터 포인트 플러스 호텔 실롬 (Centre Point Plus Hotel Silom)",
+      "agodaUrl": "https://www.agoda.com/centre-point-silom-river-view-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/48490/0/5f32c21c7799db08e3d39c92df786271.jpeg?va=1&ce=2",
+      "score": 8.7,
+      "reviewCount": 26981,
+      "reviewCountFmt": "26,981건",
+      "priceText": "₩₩ · 약 13만원",
+      "walkMin": 2,
+      "refLabel": "사판탁신역",
+      "star": 4,
+      "propertyId": 48490,
+      "priceKRW": 125406,
+      "priceStatus": "조회됨",
+      "distanceM": 135.27,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "아시아티크 - 더 리버프론트",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 26,981건. 사판탁신역 도보 2분, ₩₩ · 약 13만원. 가족 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 13만원",
+        "📝 리뷰 26,981건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "All the rooms are beautifully appointed and comfortable",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The tops was very convenient because our room had a kitchen.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Congratulations to the hotel for their recent renovations.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The interior is very clean and rooms are well maintained.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "One of the best things about this hotel is its location.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-09T00:55:15.669Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-09T00:55:15.669Z",
+    "source": "agoda citySearch",
+    "daysAhead": 68,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "힐튼 수쿰빗 방콕 (Hilton Sukhumvit Bangkok): price"
+      ]
+    }
+  }
+}

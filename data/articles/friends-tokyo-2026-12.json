@@ -1,0 +1,631 @@
+{
+  "slug": "friends-tokyo-2026-12",
+  "theme": "friends",
+  "audience": "친구여행",
+  "emoji": "🧑‍🤝‍🧑",
+  "city": "도쿄",
+  "citySlug": "tokyo",
+  "cityId": 5085,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=5085",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "도쿄 친구여행 숙소 실제 비교 - 다 같이 묵기 좋은 넓은 호텔",
+  "metaDescription": "도쿄 친구여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 친구 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "친구들과의 여행은 위치와 동선이 만족도를 가릅니다. 번화가·역세권에 가깝고 평이 좋은 가성비 숙소를 골랐습니다.",
+  "viewpoint": "여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "verdict": "친구여행 기준 1순위는 <b>안신 오야도 도쿄 맨 신주쿠</b>입니다 (평점 8.9·리뷰 5,741건·1박 약 4만원). 여럿이 함께하는 동선·번화가 접근성·객실 활용도를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 28,
+        "pct": 93
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/762741/0/3ac0b7e82dfb46f15bdcda6ee0ce8558.jpg?ce=3",
+  "heroAlt": "도쿄 친구여행",
+  "updated": "2026-10-09",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "안신 오야도 도쿄 맨 신주쿠 (Anshin Oyado Tokyo Man Shinjuku)",
+      "agodaUrl": "https://www.agoda.com/capsule-hotel-anshin-oyado-premier-tokyo-shinjuku-station/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/762741/0/3ac0b7e82dfb46f15bdcda6ee0ce8558.jpg?ce=3",
+      "score": 8.9,
+      "reviewCount": 5741,
+      "reviewCountFmt": "5,741건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "신주쿠역",
+      "star": 1.5,
+      "propertyId": 762741,
+      "priceKRW": 43937,
+      "priceStatus": "조회됨",
+      "distanceM": 213.97,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "사우나",
+        "대중교통 이용 편리",
+        "하치코",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 5,741건. 신주쿠역 도보 3분, ₩ · 약 4만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 5,741건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "These thoughtful extras really made the stay feel special.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "I would definately stay there again if I am back here.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Excellent location right on the metro and surrounding shops,",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "And I was very surprised when I saw such a great service.",
+          "score": "10",
+          "country": "Израиль",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "And the capsule itself was pretty comfy in my opinion.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "글랜시트 아키하바라 컴포트 캡슐 호텔 (GLANSIT AKIHABARA COMFORT CAPUSULE HOTEL)",
+      "agodaUrl": "https://www.agoda.com/glansit-akihabara-comfort-capusule-hotel/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2891306/0/f1d65365c8ef8ed33e2cdd569d9869eb.jpg?ce=2",
+      "score": 8.8,
+      "reviewCount": 7813,
+      "reviewCountFmt": "7,813건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 2,
+      "refLabel": "스에히로초역",
+      "star": 2,
+      "propertyId": 2891306,
+      "priceKRW": 35628,
+      "priceStatus": "조회됨",
+      "distanceM": 181.26,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "긴자",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 7,813건. 스에히로초역 도보 2분, ₩ · 약 4만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 7,813건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Pretty nice service and great location",
+          "score": "9.6",
+          "country": "대한민국",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "They have a lounge area with free coffee, tea, and water.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel is very clean, and the staff is very accomodating.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Not a social place to stay, perfect to rest alone in peace.",
+          "score": "9.6",
+          "country": "France",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "I feel very satisfied with service and comfort in hotel.",
+          "score": "9.2",
+          "country": "Việt Nam",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "9h 나인아워즈 닌교초 (9h nine hours Ningyocho)",
+      "agodaUrl": "https://www.agoda.com/nine-hours-ningyocho/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34334296/-1/65da2559f8c23e9a4c55ff8740266d13.jpg?ce=0",
+      "score": 8.6,
+      "reviewCount": 8716,
+      "reviewCountFmt": "8,716건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 2,
+      "refLabel": "닌교초역",
+      "star": 1.5,
+      "propertyId": 34334296,
+      "priceKRW": 30440,
+      "priceStatus": "조회됨",
+      "distanceM": 156.53,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 8,716건. 닌교초역 도보 2분, ₩ · 약 3만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 8,716건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The bathroom was spacious, comfortable, and spotless.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The facilities are clean, modern, and well-organized.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "My stay at 9h nine hours Ningyocho was a great experience!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The place was spotless and very well maintained.",
+          "score": "9.2",
+          "country": "Portugal",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Staff was super helpful and friendly with all my queries.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "그리드 도쿄 우에노 호텔앤호스텔 (Grids Tokyo Ueno Hotel&Hostel)",
+      "agodaUrl": "https://www.agoda.com/grids-tokyo-ueno-hotel-hostel_2/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7093893/0/d0ebc74ac09baaf9ad7b0bc9e854f7b7.jpg?ce=2",
+      "score": 8.6,
+      "reviewCount": 3753,
+      "reviewCountFmt": "3,753건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 3,
+      "refLabel": "우에노역",
+      "star": 2,
+      "propertyId": 7093893,
+      "priceKRW": 44724,
+      "priceStatus": "조회됨",
+      "distanceM": 209.67,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "대중교통 이용 편리",
+        "긴자",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 3,753건. 우에노역 도보 3분, ₩ · 약 4만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 3,753건",
+        "⭐ 2성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I'm so willing to visit here again when I come back to Tokyo",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Everything I could need and more, kept immaculately clean.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Extremely convenient location as Ueno is awesome!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Next time I visit Japan, I will definitely stay here again.",
+          "score": "7.6",
+          "country": "ไทย",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The hotel has everything a traveler (solo or family) needs.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "플라트 호스텔 케이큐 하네다 홈 (plat hostel keikyu haneda home)",
+      "agodaUrl": "https://www.agoda.com/plat-hostel-keikyu-haneda-home/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/146/14662307/14662307_20051811320090550076.jpg?ca=11&ce=1",
+      "score": 8.5,
+      "reviewCount": 7189,
+      "reviewCountFmt": "7,189건",
+      "priceText": "₩ · 약 3만원",
+      "walkMin": 11,
+      "refLabel": "세이비조역",
+      "star": 1.5,
+      "propertyId": 14662307,
+      "priceKRW": 25808,
+      "priceStatus": "조회됨",
+      "distanceM": 903.02,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "주방",
+        "대중교통 이용 편리",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 7,189건. 세이비조역 도보 11분, ₩ · 약 3만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 3만원",
+        "📝 리뷰 7,189건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was very cozy, clean and staff were friendly and helpful.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Clean hostel, shower room & toilet with necessary amenities",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The staff are very kind and a great service mind.",
+          "score": "9.6",
+          "country": "ไทย",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Lift available within hostel is helpful for heavy luggage.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Excellent accommodation for a quick layover near Haneda.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "퍼스트 캐빈 아카사카 (First Cabin Akasaka)",
+      "agodaUrl": "https://www.agoda.com/first-cabin-akasaka/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/116/1162051/1162051_16062118050043907103.jpg?ca=6&ce=1",
+      "score": 8.5,
+      "reviewCount": 3029,
+      "reviewCountFmt": "3,029건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 1,
+      "refLabel": "아카사카역",
+      "star": 1.5,
+      "propertyId": 1162051,
+      "priceKRW": 60967,
+      "priceStatus": "조회됨",
+      "distanceM": 110.81,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "대중교통 이용 편리",
+        "도쿄 타워",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.5 · 리뷰 3,029건. 아카사카역 도보 1분, ₩ · 약 6만원. 친구 리뷰 비중 0%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 3,029건",
+        "⭐ 1.5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "So far the best cabin hotel i have ever experienced.",
+          "score": "10",
+          "country": "中国",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Friendly staffs, nice cafe, onsen hot pool at basement.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The place is very clean and the staff very helpful.",
+          "score": "8.8",
+          "country": "Canada",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "And onsen was awesome after a day exploring the sites.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "What I love about this stay - the location!",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-09T00:54:45.805Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-09T00:54:45.805Z",
+    "source": "agoda citySearch",
+    "daysAhead": 68,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

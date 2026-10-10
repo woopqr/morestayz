@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 4,
+  "cursor": 5,
   "observations": [
     {
       "city": "발리",
@@ -3281,6 +3281,142 @@
           "priceKRW": 15837,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/haeundae-arirang-island-guesthouse/hotel/busan-kr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "세부",
+      "citySlug": "cebu",
+      "cityId": 4001,
+      "observedAt": "2026-10-10T00:26:07.641Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "4859796",
+          "name": "애플턴 부티크 호텔 세부 (Appleton Boutique Hotel Cebu)",
+          "priceKRW": 35119,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/appleton-boutique-hotel-cebu/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "289459",
+          "name": "퀘스트 호텔 앤 컨퍼런스 센터 세부 (Quest Hotel and Conference Center Cebu)",
+          "priceKRW": 59514,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/quest-hotel-and-conference-center-cebu_5/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "28138586",
+          "name": "베드 앤 프렌드 호스텔 (BEDS and FRIENDS Hostel)",
+          "priceKRW": 23780,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/beds-friends-hostel-mactan-with-pool-and-bar/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "1806035",
+          "name": "페스카도레스 스위트 모알보알 (Pescadores Suites Moalboal)",
+          "priceKRW": 23737,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/pescadores-seaview-suites-moalboal/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "25127238",
+          "name": "일 소뇨 리조트 (Il Sogno Resort)",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/il-sogno-resort/hotel/moalboal-ph.html?cid=1925461"
+        },
+        {
+          "key": "164680",
+          "name": "제이파크 아일랜드 리조트 앤 워터파크 막탄, 세부 (Jpark Island Resort and Waterpark Mactan, Cebu)",
+          "priceKRW": 241233,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jpark-island-resort-and-waterpark/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "63063491",
+          "name": "더 패드 코리빙 (The Pad Co-Living)",
+          "priceKRW": 19259,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-pad-co-living/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "12462797",
+          "name": "세다 센트럴 블록 세부 시티 (Seda Central Bloc Cebu City)",
+          "priceKRW": 88818,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/seda-central-bloc-cebu/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "1265222",
+          "name": "C스위트 앳 8 뉴타운 막탄 세부 (CSuites at 8 Newtown Mactan Cebu)",
+          "priceKRW": 47024,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/csuites-at-8-newtown-mactan-cebu/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "4913538",
+          "name": "원 센트럴 호텔 (One Central Hotel)",
+          "priceKRW": 43528,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/one-central-hotel/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "31450478",
+          "name": "홉 인 호텔 세부 시티 (Hop Inn Hotel Cebu City)",
+          "priceKRW": 39562,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hop-inn-hotel-cebu-city/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "81610678",
+          "name": "맥시모 하우스 세부 (Maximo House Cebu)",
+          "priceKRW": 22825,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-maximilian-hotel-cebu/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "2816781",
+          "name": "마요 호텔 (Maayo Hotel)",
+          "priceKRW": 72182,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/maayo-hotel_3/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "33812958",
+          "name": "트래블비 에어포트 인 (Travelbee Airport Inn)",
+          "priceKRW": 45159,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/travelbee-airport-inn/hotel/lapu-lapu-city-ph.html?cid=1925461"
+        },
+        {
+          "key": "56179989",
+          "name": "오트래블 호스텔 막탄 에어포트 근처 5분 (Otravel Hostel 5 minutes from Mactan Airport)",
+          "priceKRW": 21085,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/otravel-hostel-5-minutes-from-mactan-airport/hotel/cubacub-ph.html?cid=1925461"
+        },
+        {
+          "key": "38591368",
+          "name": "퍼블릭 하우스 호스텔 (Public House Hostel)",
+          "priceKRW": 13253,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/public-house-hostel/hotel/lapu-lapu-city-ph.html?cid=1925461"
+        },
+        {
+          "key": "63117990",
+          "name": "발라이 발라이 캡슐 호텔 세부 (Balai Balai Capsule Hotel Cebu)",
+          "priceKRW": 10843,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/balai-balai-capsule-hotel-cebu/hotel/cebu-ph.html?cid=1925461"
+        },
+        {
+          "key": "295133",
+          "name": "레드 플래닛 세부 (Red Planet Cebu)",
+          "priceKRW": 37170,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/red-planet-cebu/hotel/cebu-ph.html?cid=1925461"
         }
       ]
     }

@@ -6,7 +6,55 @@
     <description>다가오는 계절·연휴에 맞춰 아고다 실제 리뷰 데이터를 분석해 연인·가족·혼행 여행자별로 어울리는 가성비 숙소를 미리 큐레이션합니다.</description>
     <language>ko</language>
     <atom:link href="https://morestayz.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 09 Oct 2026 00:56:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:26:40 GMT</lastBuildDate>
+    <item>
+      <title>세부 연인여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
+      <link>https://morestayz.com/articles/couple-cebu-2026-12</link>
+      <guid isPermaLink="true">https://morestayz.com/articles/couple-cebu-2026-12</guid>
+      <description>세부 연인여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
+      <category>연인여행</category>
+      <pubDate>Fri, 09 Oct 2026 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>타이베이 연인여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
+      <link>https://morestayz.com/articles/couple-taipei-2026-12</link>
+      <guid isPermaLink="true">https://morestayz.com/articles/couple-taipei-2026-12</guid>
+      <description>타이베이 연인여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
+      <category>연인여행</category>
+      <pubDate>Fri, 09 Oct 2026 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>세부 가족여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
+      <link>https://morestayz.com/articles/family-cebu-2026-12</link>
+      <guid isPermaLink="true">https://morestayz.com/articles/family-cebu-2026-12</guid>
+      <description>세부 가족여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
+      <category>가족여행</category>
+      <pubDate>Fri, 09 Oct 2026 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>세부 친구여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
+      <link>https://morestayz.com/articles/friends-cebu-2026-12</link>
+      <guid isPermaLink="true">https://morestayz.com/articles/friends-cebu-2026-12</guid>
+      <description>세부 친구여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
+      <category>친구여행</category>
+      <pubDate>Fri, 09 Oct 2026 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>세부 아이와함께 호캉스 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
+      <link>https://morestayz.com/articles/kids-cebu-2026-12</link>
+      <guid isPermaLink="true">https://morestayz.com/articles/kids-cebu-2026-12</guid>
+      <description>세부 아이와함께 호캉스 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
+      <category>아이와함께 호캉스</category>
+      <pubDate>Fri, 09 Oct 2026 21:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>세부 혼자여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
+      <link>https://morestayz.com/articles/solo-cebu-2026-12</link>
+      <guid isPermaLink="true">https://morestayz.com/articles/solo-cebu-2026-12</guid>
+      <description>세부 혼자여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
+      <category>혼자여행</category>
+      <pubDate>Fri, 09 Oct 2026 21:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>방콕 연인여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
       <link>https://morestayz.com/articles/couple-bangkok-2026-12</link>
@@ -197,54 +245,6 @@
       <guid isPermaLink="true">https://morestayz.com/articles/jensen-huang-taipei-food-map</guid>
       <description>10월 6일 첫 방송 '상남자의 여행법 in 대만'(추성훈·김종국·지코)이 찾은 '젠슨 황 단골' 족발집. 엔비디아 CEO 젠슨 황이 GTC 타이베이 무대 배경에 올린 식당 5곳과 대만 언론이 정리한 단골 맛집(푸바왕 족발·리위안 탕바오·화냥샤오관·지자좡·닝샤 야시장)을 위치·대표 메뉴와 함께 정리했습니다.</description>
       <category>방송·셀럽 여행</category>
-      <pubDate>Mon, 05 Oct 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>'전현무계획4' 맛집 여행 지도 — 대전 콩국수부터 밀양 돼지국밥까지, 회차별 지역·메뉴 총정리 (7~10월)</title>
-      <link>https://morestayz.com/articles/jeonhyunmoo-plan4-food-trip-map</link>
-      <guid isPermaLink="true">https://morestayz.com/articles/jeonhyunmoo-plan4-food-trip-map</guid>
-      <description>MBN '전현무계획4'(전현무·곽튜브)가 다녀간 지역과 메뉴를 회차별로 정리했습니다. 대전·사천·인천·의정부·양주·포항·영덕·완주·전주·의령·창녕·밀양까지, 게스트와 대표 메뉴, 보도로 확인된 식당 정보, 맛집 여행 1박 숙소 거점까지 한 번에.</description>
-      <category>방송·셀럽 여행</category>
-      <pubDate>Mon, 05 Oct 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>후쿠오카 연인여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
-      <link>https://morestayz.com/articles/couple-fukuoka-2026-12</link>
-      <guid isPermaLink="true">https://morestayz.com/articles/couple-fukuoka-2026-12</guid>
-      <description>후쿠오카 연인여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
-      <category>연인여행</category>
-      <pubDate>Mon, 05 Oct 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>삿포로 연인여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
-      <link>https://morestayz.com/articles/couple-sapporo-2026-12</link>
-      <guid isPermaLink="true">https://morestayz.com/articles/couple-sapporo-2026-12</guid>
-      <description>삿포로 연인여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
-      <category>연인여행</category>
-      <pubDate>Mon, 05 Oct 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>후쿠오카 가족여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
-      <link>https://morestayz.com/articles/family-fukuoka-2026-12</link>
-      <guid isPermaLink="true">https://morestayz.com/articles/family-fukuoka-2026-12</guid>
-      <description>후쿠오카 가족여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
-      <category>가족여행</category>
-      <pubDate>Mon, 05 Oct 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>삿포로 가족여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
-      <link>https://morestayz.com/articles/family-sapporo-2026-12</link>
-      <guid isPermaLink="true">https://morestayz.com/articles/family-sapporo-2026-12</guid>
-      <description>삿포로 가족여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
-      <category>가족여행</category>
-      <pubDate>Mon, 05 Oct 2026 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>삿포로 친구여행 숙소 실제 비교 2026년 12월 | 평점·가격·위치 분석</title>
-      <link>https://morestayz.com/articles/friends-sapporo-2026-12</link>
-      <guid isPermaLink="true">https://morestayz.com/articles/friends-sapporo-2026-12</guid>
-      <description>삿포로 친구여행 숙소 6곳을 2026년 12월 기준 평점·리뷰 수·가격·교통거리로 비교했습니다. 데이터 출처, 검색 조건과 유형 표본 수를 함께 공개합니다.</description>
-      <category>친구여행</category>
       <pubDate>Mon, 05 Oct 2026 21:00:00 GMT</pubDate>
     </item>
   </channel>

@@ -1,0 +1,649 @@
+{
+  "slug": "couple-cebu-2026-12",
+  "theme": "couple",
+  "audience": "연인여행",
+  "emoji": "💑",
+  "city": "세부",
+  "citySlug": "cebu",
+  "cityId": 4001,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4001",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "세부 연인여행 숙소 선택 분석 - 둘만의 시간을 빛내줄 숙소",
+  "metaDescription": "세부 연인여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 연인 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "기념일이든 그냥 떠나는 여행이든, 연인 여행은 '어디서 묵느냐'가 분위기의 절반을 정합니다. 실제 커플 투숙객 리뷰가 많고 평이 좋은 숙소를 데이터로 추렸습니다.",
+  "viewpoint": "둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 연인 리뷰 비중은 평균 87%로 연인여행 기준 1순위는 <b>맥시모 하우스 세부</b>입니다 (평점 8.8·리뷰 469건·1박 약 2만원). 둘만의 동선과 분위기, 야경·뷰·프라이버시를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 26,
+        "pct": 87
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/81610678/0/a90e94bacf77fd64b45e5d5a2507d4e3.jpeg?va=1&ce=3",
+  "heroAlt": "세부 연인여행",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "맥시모 하우스 세부 (Maximo House Cebu)",
+      "agodaUrl": "https://www.agoda.com/the-maximilian-hotel-cebu/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/81610678/0/a90e94bacf77fd64b45e5d5a2507d4e3.jpeg?va=1&ce=3",
+      "score": 8.8,
+      "reviewCount": 469,
+      "reviewCountFmt": "469건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 22,
+      "refLabel": "세부 남부 버스터미널",
+      "star": 2,
+      "propertyId": 81610678,
+      "priceKRW": 22839,
+      "priceStatus": "조회됨",
+      "distanceM": 1760.79,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "SM 시사이드 시티 세부",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.8 · 리뷰 469건. 세부 남부 버스터미널 도보 22분, ₩ · 약 2만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 469건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "That small gesture meant a lot, especially after traveling.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "It made us feel genuinely welcomed and taken care of.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The place was clean, comfortable and aesthetically pleasing.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Definitely one of the best hotel stays we’ve had in Cebu! ❤️",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Overall, we had a great stay and would definitely come back.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "세다 센트럴 블록 세부 시티 (Seda Central Bloc Cebu City)",
+      "agodaUrl": "https://www.agoda.com/seda-central-bloc-cebu/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/12462797/0/80223148e07890670877c8207706cb14.jpeg?va=1&ce=2",
+      "score": 9.1,
+      "reviewCount": 11088,
+      "reviewCountFmt": "11,088건",
+      "priceText": "₩₩ · 약 12만원",
+      "walkMin": 30,
+      "refLabel": "세부 북부 버스터미널",
+      "star": 4,
+      "propertyId": 12462797,
+      "priceKRW": 115539,
+      "priceStatus": "조회됨",
+      "distanceM": 2382.97,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "포트 샌 페드로",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.1 · 리뷰 11,088건. 세부 북부 버스터미널 도보 30분, ₩₩ · 약 12만원. 연인 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 12만원",
+        "📝 리뷰 11,088건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staffs are all accommodating and attentive.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "We recommend seda if you’re looking for a place to stay.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Overall it was such a good experience to us.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The room was elegant, spacious, and impeccably tidy.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The hotel is superb and the staff are well trained.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "마요 호텔 (Maayo Hotel)",
+      "agodaUrl": "https://www.agoda.com/maayo-hotel_3/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2816781/0/50d1b2d94527bf405ccba7e0c3174668.jpeg?va=1&ce=2",
+      "score": 9,
+      "reviewCount": 5915,
+      "reviewCountFmt": "5,915건",
+      "priceText": "₩ · 약 7만원",
+      "walkMin": 26,
+      "refLabel": "J Mall Terminal Bus Stop",
+      "star": 4,
+      "propertyId": 2816781,
+      "priceKRW": 71022,
+      "priceStatus": "조회됨",
+      "distanceM": 2064.43,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "마르셀로 B. 퍼맨 브리지",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9 · 리뷰 5,915건. J Mall Terminal Bus Stop 도보 26분, ₩ · 약 7만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 7만원",
+        "📝 리뷰 5,915건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooms are very clean and the service is beyond ordinary.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Everything was convenient and made our stay more enjoyable.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "This is the only hotel that gives you real value for money!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Overall, it was a great experience staying at Maayo Hotel.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The room was not only spacious but also impeccably clean.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "일 소뇨 리조트 (Il Sogno Resort)",
+      "agodaUrl": "https://www.agoda.com/il-sogno-resort/hotel/moalboal-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/25127238/0/59be8f36bce1d6e9e48a7434ccbc465a.jpg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 1099,
+      "reviewCountFmt": "1,099건",
+      "priceText": "₩ · 약 8만원",
+      "walkMin": 21,
+      "refLabel": "화이트 비치",
+      "star": 3,
+      "propertyId": 25127238,
+      "priceKRW": 79935,
+      "priceStatus": "조회됨",
+      "distanceM": 1669.66,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "주방"
+      ],
+      "blurb": "평점 9 · 리뷰 1,099건. 화이트 비치 도보 21분, ₩ · 약 8만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 8만원",
+        "📝 리뷰 1,099건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Whenever I asked for something, I just kept getting a \"Yes\".",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The owner, his wife and the staff took the best care of us!",
+          "score": "10",
+          "country": "Italy",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The room including the bathroom was huge and very clean.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Staff were so lovely and everything was spotless clean.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "I couldn't get my son out of the water all day.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "원 센트럴 호텔 (One Central Hotel)",
+      "agodaUrl": "https://www.agoda.com/one-central-hotel/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4913538/0/3ecd112158efb5466344cb3180743cfb.jpeg?va=1&ce=2",
+      "score": 8.7,
+      "reviewCount": 10325,
+      "reviewCountFmt": "10,325건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 4,
+      "refLabel": "세부 남부 버스터미널",
+      "star": 4,
+      "propertyId": 4913538,
+      "priceKRW": 43528,
+      "priceStatus": "조회됨",
+      "distanceM": 281.69,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "대중교통 이용 편리",
+        "SM 시사이드 시티 세부",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 10,325건. 세부 남부 버스터미널 도보 4분, ₩ · 약 4만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 10,325건",
+        "⭐ 4성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The facilities were top-notch with lovely pool.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "As always, this hotel never failed to impress me.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The location is accessible to your where abouts.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Amenities: The hotel offers a range of fantastic amenities.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "I’ll definitely be returning the next time I’m in the area.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "C스위트 앳 8 뉴타운 막탄 세부 (CSuites at 8 Newtown Mactan Cebu)",
+      "agodaUrl": "https://www.agoda.com/csuites-at-8-newtown-mactan-cebu/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1265222/0/0702c199e6b6ad77e4e263b6f8faca75.jpeg?va=1&ce=2",
+      "score": 8.2,
+      "reviewCount": 3442,
+      "reviewCountFmt": "3,442건",
+      "priceText": "₩ · 약 5만원",
+      "walkMin": 50,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 2,
+      "propertyId": 1265222,
+      "priceKRW": 46915,
+      "priceStatus": "조회됨",
+      "distanceM": 3980.13,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.2 · 리뷰 3,442건. GT Express Terminal Bus Stop H Mall 도보 50분, ₩ · 약 5만원. 연인 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 5만원",
+        "📝 리뷰 3,442건",
+        "⭐ 2성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The location is perfect, the scenery and the room is clean.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Rooms were spacious and clean, ensuring a restful sleep.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "We will come back for sure and stay in this nice suite.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The room was very clean and comfortable to stay in.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "My recent stay at 8 Newtown Blvd was absolutely wonderful!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-10T00:24:47.404Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T00:24:47.404Z",
+    "source": "agoda citySearch",
+    "daysAhead": 67,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

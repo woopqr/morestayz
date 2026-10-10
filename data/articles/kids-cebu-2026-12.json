@@ -1,0 +1,691 @@
+{
+  "slug": "kids-cebu-2026-12",
+  "theme": "kids",
+  "audience": "아이와함께 호캉스",
+  "emoji": "🧒",
+  "city": "세부",
+  "citySlug": "cebu",
+  "cityId": 4001,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4001",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "세부 아이동반 숙소 실제 비교 - 크리스마스 분위기 즐기는 가족 호텔",
+  "metaDescription": "세부 아이와함께 호캉스, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 아이와함께 호캉스 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "연말 아이와 함께하는 여행은 '따뜻한 객실과 크리스마스 분위기'가 만족을 좌우합니다. 가족·키즈 투숙객 평이 좋은 숙소를 실제 리뷰 데이터로 골랐습니다.",
+  "viewpoint": "아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 아이와함께 호캉스 리뷰 비중은 평균 60%로 아이와함께 호캉스 기준 1순위는 <b>웨이 쉑 호스텔</b>입니다 (평점 8.6·리뷰 922건·1박 약 1만원). 아이 동반에 중요한 수영장·키즈시설·객실 크기·청결을 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 18,
+        "pct": 60
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 7,
+        "pct": 23
+      },
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/748/7488772/7488772_19062615110076827615.jpg?va=1&ca=9&ce=1",
+  "heroAlt": "세부 아이와함께 호캉스",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "웨이 쉑 호스텔 (Way Shack Hostel)",
+      "agodaUrl": "https://www.agoda.com/way-shack-hostel/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/748/7488772/7488772_19062615110076827615.jpg?va=1&ca=9&ce=1",
+      "score": 8.6,
+      "reviewCount": 922,
+      "reviewCountFmt": "922건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 43,
+      "refLabel": "Sumilon Island Sand Bar Beach",
+      "star": 3,
+      "propertyId": 7488772,
+      "priceKRW": 8344,
+      "priceStatus": "조회됨",
+      "distanceM": 3471.31,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 922건. Sumilon Island Sand Bar Beach 도보 43분, ₩ · 약 1만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 922건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Excellent location, clean room, friendly and helpful staff.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Unmatched hospitality and perfect location for Whale Sharks!",
+          "score": "9.2",
+          "country": "China",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Restaurant next to the Hostel serves delicious food.",
+          "score": "10",
+          "country": "Österreich",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Owner organized us whole whale shark watching tour.",
+          "score": "10",
+          "country": "Россия",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "While we was diving he took care of our belongins.",
+          "score": "10",
+          "country": "Россия",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "블루 튤립 - 4분 거리 막탄 에어포트 근처 (Blue Tulip - 4mins from Mactan Airport)",
+      "agodaUrl": "https://www.agoda.com/blue-tulip-4mins-from-mactan-airport/hotel/cubacub-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59007597/0/aa43b43c0ddcea50ab6264d77a37d674.jpg?va=1&ce=0",
+      "score": 8.3,
+      "reviewCount": 160,
+      "reviewCountFmt": "160건",
+      "priceText": "₩ · 약 6만원",
+      "walkMin": 32,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 4,
+      "propertyId": 59007597,
+      "priceKRW": 60931,
+      "priceStatus": "조회됨",
+      "distanceM": 2529.78,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "주방",
+        "마르셀로 B. 퍼맨 브리지",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.3 · 리뷰 160건. GT Express Terminal Bus Stop H Mall 도보 32분, ₩ · 약 6만원. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 6만원",
+        "📝 리뷰 160건",
+        "⭐ 4성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Complete amenities and enjoyable location accessible to all.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "This is the perfect hotel for a Cebu getaway and staycation.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "We've booked the suite spa and really enjoyed our stay.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Our room is spacious and has a kitchen for guests to cook.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "This place is really exceptional and worth the money.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "제이파크 아일랜드 리조트 앤 워터파크 막탄, 세부 (Jpark Island Resort and Waterpark Mactan, Cebu)",
+      "agodaUrl": "https://www.agoda.com/jpark-island-resort-and-waterpark/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/164680/-1/ec4fe725c948c3adc0351a096a703094.jpg?va=1&ca=7&ce=1",
+      "score": 8.6,
+      "reviewCount": 10532,
+      "reviewCountFmt": "10,532건",
+      "priceText": "₩₩₩ · 약 23만원",
+      "walkMin": 36,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 5,
+      "propertyId": 164680,
+      "priceKRW": 231346,
+      "priceStatus": "조회됨",
+      "distanceM": 2896.93,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 10,532건. GT Express Terminal Bus Stop H Mall 도보 36분, ₩₩₩ · 약 23만원. 아이와함께 호캉스 리뷰 비중 80%.",
+      "metaTags": [
+        "💰 약 23만원",
+        "📝 리뷰 10,532건",
+        "⭐ 5성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I booked a deluxe room for us and we were given a huge room.",
+          "score": "7.6",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Excellent Stay, staff, food, waterpark.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Amazing stay. I ‘ll be back and bring my family next time.💕",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Giant well maintained water park with attractions for all.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Have fun and enjoy all the amenities JPark could offer.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "페스카도레스 스위트 모알보알 (Pescadores Suites Moalboal)",
+      "agodaUrl": "https://www.agoda.com/pescadores-seaview-suites-moalboal/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1806035/-1/1ae088b297e477245434a07e05ea39e9.jpg?va=1&ca=14&ce=1",
+      "score": 8.7,
+      "reviewCount": 5800,
+      "reviewCountFmt": "5,800건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 31,
+      "refLabel": "화이트 비치",
+      "star": 3,
+      "propertyId": 1806035,
+      "priceKRW": 22917,
+      "priceStatus": "조회됨",
+      "distanceM": 2478.96,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.7 · 리뷰 5,800건. 화이트 비치 도보 31분, ₩ · 약 2만원. 아이와함께 호캉스 리뷰 비중 40%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 5,800건",
+        "⭐ 3성급",
+        "👥 연인·커플 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "연인·커플",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Excellent location, very pleasant staff and great room",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "One of the highlights of our stay was the dining experience.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Would totally stay here again when we come back in Moalboal.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "My family and I loved our stay and we plan to return again.",
+          "score": "10",
+          "country": "الصين",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "From the facilities to the food, everything was top-notch.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "트리쉐이드 리조트 앤 스파 모알보알 (Treeshade Resort & Spa Moalboal )",
+      "agodaUrl": "https://www.agoda.com/sole-mio-resort-moalboal/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42154378/0/ab37d2728805eaafa3f9f0d96d6c0ea0.png?va=1&ce=3",
+      "score": 8.6,
+      "reviewCount": 1003,
+      "reviewCountFmt": "1,003건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 20,
+      "refLabel": "화이트 비치",
+      "star": null,
+      "propertyId": 42154378,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 1582.12,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "체육관/피트니스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 1,003건. 화이트 비치 도보 20분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 1,003건",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Beautiful resort in Moalbol! Would’ve loved to stay longer",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "New & Clean rooms.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Near the beach.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "They also have a small pool for babies and toddlers!",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "They have massage services on site with a nice pool as well.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "클럽 세레나 리조트 (Club Serena Resort)",
+      "agodaUrl": "https://www.agoda.com/club-serena-resort/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/546391/0/d7bb454d96737f457989f50201c7b133.jpeg?va=1&ce=0",
+      "score": 8.1,
+      "reviewCount": 313,
+      "reviewCountFmt": "313건",
+      "priceText": "₩₩ · 가격 변동",
+      "walkMin": 14,
+      "refLabel": "화이트 비치",
+      "star": 3,
+      "propertyId": 546391,
+      "priceKRW": null,
+      "priceStatus": "조회 시점 가격 확인 불가",
+      "distanceM": 1141.07,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.1 · 리뷰 313건. 화이트 비치 도보 14분, ₩₩ · 가격 변동. 아이와함께 호캉스 리뷰 비중 60%.",
+      "metaTags": [
+        "📝 리뷰 313건",
+        "⭐ 3성급",
+        "👥 가족 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "가족",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff was outstanding from check-in to checkout.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Very friendly and helpful staff made our stay just perfect.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The room was very nice. Well decorated, spacious and clean",
+          "score": "7.6",
+          "country": "Canada",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "It also has the best staff were you can ask your concerns.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Everything you would expect from a top of the line resort,",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "price"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "unavailable",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-10T00:25:19.520Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T00:25:19.520Z",
+    "source": "agoda citySearch",
+    "daysAhead": 67,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "트리쉐이드 리조트 앤 스파 모알보알 (Treeshade Resort & Spa Moalboal ): price",
+        "클럽 세레나 리조트 (Club Serena Resort): price"
+      ]
+    }
+  }
+}

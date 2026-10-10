@@ -1,0 +1,660 @@
+{
+  "slug": "solo-cebu-2026-12",
+  "theme": "solo",
+  "audience": "혼자여행",
+  "emoji": "🧳",
+  "city": "세부",
+  "citySlug": "cebu",
+  "cityId": 4001,
+  "cityUrl": "https://www.agoda.com/ko-kr/search?cid=1925461&city=4001",
+  "season": "연말·크리스마스",
+  "seasonNote": "연말 분위기 명소 근처 숙소는 미리 잡는 편이 좋습니다.",
+  "travelMonthLabel": "2026년 12월",
+  "title": "세부 혼자여행 숙소 선택 분석 - 치안·위치 좋은 1인 가성비 호텔",
+  "metaDescription": "세부 혼자여행, 2026년 12월을 앞두고 아고다 실제 리뷰 데이터로 고른 혼자 선호 가성비 숙소 6곳. 여행자 유형 분포·평점까지 비교.",
+  "intro": "혼자 떠나는 여행은 '안전하고 편한 베이스'가 전부입니다. 1인 여행자 리뷰가 좋은 역세권·가성비 숙소를 데이터로 정리했습니다.",
+  "viewpoint": "혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "verdict": "이 숙소들의 혼자 리뷰 비중은 평균 80%로 혼자여행 기준 1순위는 <b>퍼블릭 하우스 호스텔</b>입니다 (평점 9.3·리뷰 471건·1박 약 1만원). 혼행에 중요한 치안·위치·조용함·체크인 편의를 우선으로 봤습니다.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "solo",
+        "label": "혼행",
+        "count": 24,
+        "pct": 80
+      },
+      {
+        "key": "group",
+        "label": "그룹·단체",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "couple",
+        "label": "연인·커플",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "출장·비즈니스",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "family",
+        "label": "가족",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/38591368/0/06d39e6e7afaa735be519139f598595a.jpeg?ce=3",
+  "heroAlt": "세부 혼자여행",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "퍼블릭 하우스 호스텔 (Public House Hostel)",
+      "agodaUrl": "https://www.agoda.com/public-house-hostel/hotel/lapu-lapu-city-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/38591368/0/06d39e6e7afaa735be519139f598595a.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 471,
+      "reviewCountFmt": "471건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 33,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 5,
+      "propertyId": 38591368,
+      "priceKRW": 12795,
+      "priceStatus": "조회됨",
+      "distanceM": 2615.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "마르셀로 B. 퍼맨 브리지",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 9.3 · 리뷰 471건. GT Express Terminal Bus Stop H Mall 도보 33분, ₩ · 약 1만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 471건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The place primary function is massage and spa wellness.",
+          "score": "9.6",
+          "country": "Sverige",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Their staff are super nice, both in person and online.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The showers are spacious, and i mean really spacious.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "All in all, it is highly recommended and also fair in price.",
+          "score": "8.8",
+          "country": "Deutschland",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "And both the common area and the rooms are very comfortable,",
+          "score": "10",
+          "country": "Argentina",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "오트래블 호스텔 막탄 에어포트 근처 5분 (Otravel Hostel 5 minutes from Mactan Airport)",
+      "agodaUrl": "https://www.agoda.com/otravel-hostel-5-minutes-from-mactan-airport/hotel/cubacub-ph.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/554382817.jpg?k=be8c4d24e1febffca8a1ae2a9a563072026f092bca98889fa33031bc140116df&o=",
+      "score": 9.1,
+      "reviewCount": 228,
+      "reviewCountFmt": "228건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 31,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 5,
+      "propertyId": 56179989,
+      "priceKRW": 21085,
+      "priceStatus": "조회됨",
+      "distanceM": 2512.35,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "마르셀로 B. 퍼맨 브리지"
+      ],
+      "blurb": "평점 9.1 · 리뷰 228건. GT Express Terminal Bus Stop H Mall 도보 31분, ₩ · 약 2만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 228건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The place location, staff and its affordability is topnotch.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Wifi is also very good so good for those who needs to work.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Comfortable beds, friendly staff, and clean surroundings.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The best hostel I’ve tried as a solo traveler",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Each bed is provided with towel, pillow, and blanket.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "발라이 발라이 캡슐 호텔 세부 (Balai Balai Capsule Hotel Cebu)",
+      "agodaUrl": "https://www.agoda.com/balai-balai-capsule-hotel-cebu/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63117990/0/5585cb867e104d5b8917bf73339dc080.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 229,
+      "reviewCountFmt": "229건",
+      "priceText": "₩ · 약 1만원",
+      "walkMin": 17,
+      "refLabel": "세부 남부 버스터미널",
+      "star": 5,
+      "propertyId": 63117990,
+      "priceKRW": 11025,
+      "priceStatus": "조회됨",
+      "distanceM": 1371.91,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "무료 Wi-Fi (모든 객실)",
+        "SM 시사이드 시티 세부"
+      ],
+      "blurb": "평점 8.9 · 리뷰 229건. 세부 남부 버스터미널 도보 17분, ₩ · 약 1만원. 혼자 리뷰 비중 100%.",
+      "metaTags": [
+        "💰 약 1만원",
+        "📝 리뷰 229건",
+        "⭐ 5성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Balai Balai has been one of the best hostels I’ve been to.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "There’s enough shower stalls and water closets for everyone.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Nice and affordable hostel at the heart of Cebu.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Will definitely book again on my next trip!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "The room is very comfy, and the bed is just perfect.",
+          "score": "10",
+          "country": "Spain",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "더 패드 코리빙 (The Pad Co-Living)",
+      "agodaUrl": "https://www.agoda.com/the-pad-co-living/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/63063491/0/c8e82bd36eaca5013b1c83d5325abfea.jpeg?ce=2",
+      "score": 8.9,
+      "reviewCount": 2078,
+      "reviewCountFmt": "2,078건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 25,
+      "refLabel": "세부 북부 버스터미널",
+      "star": 3,
+      "propertyId": 63063491,
+      "priceKRW": 24095,
+      "priceStatus": "조회됨",
+      "distanceM": 2038.54,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "포트 샌 페드로",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.9 · 리뷰 2,078건. 세부 북부 버스터미널 도보 25분, ₩ · 약 2만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 2,078건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "business",
+            "label": "출장·비즈니스",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "There's also 2 coffee shops nearby and best matcha in cebu.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "I'll definitely stay here again the next time I visit Cebu",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The location was great, convenient and easy to access.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "One of the best things about Padco is its accessibility.",
+          "score": "8",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Overall, its a wonderfull stay and staffs are accommodating.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "베드 앤 프렌드 호스텔 (BEDS and FRIENDS Hostel)",
+      "agodaUrl": "https://www.agoda.com/beds-friends-hostel-mactan-with-pool-and-bar/hotel/cebu-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28138586/0/e13cabf227a01ffd9ae5778352e3fcf3.jpeg",
+      "score": 8.6,
+      "reviewCount": 2222,
+      "reviewCountFmt": "2,222건",
+      "priceText": "₩ · 약 2만원",
+      "walkMin": 28,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 3,
+      "propertyId": 28138586,
+      "priceKRW": 23795,
+      "priceStatus": "조회됨",
+      "distanceM": 2249.23,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "수영장",
+        "무료 Wi-Fi (모든 객실)",
+        "일일 청소 서비스",
+        "마르셀로 B. 퍼맨 브리지",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 2,222건. GT Express Terminal Bus Stop H Mall 도보 28분, ₩ · 약 2만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 2만원",
+        "📝 리뷰 2,222건",
+        "⭐ 3성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "group",
+            "label": "그룹·단체",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, it was a great stay and I will definitely go back.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Exceptional stay + free shuttle service to airport!",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Their was a free shuttle going to airport as well.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "I was not expecting the size and cleanliness of the rooms.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The place is clean and has everything you need.",
+          "score": "8.4",
+          "country": "United Kingdom",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "트래블비 에어포트 인 (Travelbee Airport Inn)",
+      "agodaUrl": "https://www.agoda.com/travelbee-airport-inn/hotel/lapu-lapu-city-ph.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/33812958/0/e50e7f200928850a9c4bb745c9d02d5b.jpeg?ce=2",
+      "score": 8.6,
+      "reviewCount": 4582,
+      "reviewCountFmt": "4,582건",
+      "priceText": "₩ · 약 4만원",
+      "walkMin": 37,
+      "refLabel": "GT Express Terminal Bus Stop H Mall",
+      "star": 1,
+      "propertyId": 33812958,
+      "priceKRW": 42591,
+      "priceStatus": "조회됨",
+      "distanceM": 2926.38,
+      "locationStatus": "조회됨",
+      "facilities": [
+        "공항 이동 교통편 서비스",
+        "무료 Wi-Fi (모든 객실)",
+        "마르셀로 B. 퍼맨 브리지",
+        "Wi-Fi (무료)",
+        "개폐식 창문",
+        "발코니/테라스",
+        "책상",
+        "전용 수영장"
+      ],
+      "blurb": "평점 8.6 · 리뷰 4,582건. GT Express Terminal Bus Stop H Mall 도보 37분, ₩ · 약 4만원. 혼자 리뷰 비중 60%.",
+      "metaTags": [
+        "💰 약 4만원",
+        "📝 리뷰 4,582건",
+        "⭐ 1성급",
+        "👥 혼행 선호"
+      ],
+      "travelerTypes": {
+        "topLabel": "혼행",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "연인·커플",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "가족",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "혼행",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.1
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Not the superficial cared for but from the heart cared for.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The minute you walk thru their front door you are cared for.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "They also allowed 1 hour late check out to fix your things.",
+          "score": "8.8",
+          "country": "Philippines",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Cozy place to stay with and really appreciate the services.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Even if i go solo, i always feel safe and taken cared of.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch 검색 응답",
+    "fetchedAt": "2026-10-10T00:25:35.475Z",
+    "searchCondition": "성인 1명·객실 1개·1박·KRW·2026년 12월 중순 기준",
+    "sampleNotice": "여행자 유형 비중은 전체 리뷰가 아니라 검색 응답에 포함된 리뷰 스니펫 표본을 집계한 값입니다."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T00:25:35.475Z",
+    "source": "agoda citySearch",
+    "daysAhead": 67,
+    "targetMonth": "2026-12",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
